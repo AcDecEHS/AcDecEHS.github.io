@@ -1,0 +1,273 @@
+[
+    {
+        "question": "Which invention sparked the Age of Discovery?",
+        "a": "the magnetic compass",
+        "b": "the galley",
+        "c": "the astrolabe",
+        "d": "the full-rigged ship",
+        "e": "the lateen sail",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Who created the world’s first mass-produced book?",
+        "a": "Nung Shu",
+        "b": "Johannes Gutenberg",
+        "c": "Wang Chen",
+        "d": "John Cabot",
+        "e": "Albrecht Dürer",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Melencolia I served as the artist’s commentary on the",
+        "a": "enlightenment achieved through religious worship",
+        "b": "absolute power of the monarchy",
+        "c": "bittersweet nature of the artistic spirit",
+        "d": "hopelessness felt by the working classes",
+        "e": "growing corruption he saw in the Catholic Church",
+        "correct_answer": "c"
+    },
+    {
+        "question": "The principles of geometry served as the basis for the development of",
+        "a": "stipple engraving",
+        "b": "tenebrism",
+        "c": "hierarchic scale",
+        "d": "plein-air painting",
+        "e": "linear perspective",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following religious figures did Fra Filippo Lippi depict in The Annunciation?",
+        "a": "Michael",
+        "b": "Samson",
+        "c": "Abraham",
+        "d": "Gabriel",
+        "e": "David",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which country’s architecture likely inspired Brunelleschi’s use of dual shells in the dome of the Florentine Duomo?",
+        "a": "Persia",
+        "b": "the Netherlands",
+        "c": "Greece",
+        "d": "Byzantium",
+        "e": "Spain",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which artistic movement arose as a result of the advent of oil painting?",
+        "a": "the Romantic movement",
+        "b": "the Protestant Reformation",
+        "c": "the Baroque movement",
+        "d": "the Rococo movement",
+        "e": "the Renaissance",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Artemisia Gentileschi most often depicted women as",
+        "a": "gentle and delicate",
+        "b": "divine and beautiful",
+        "c": "intelligent and poised",
+        "d": "fierce and heroic",
+        "e": "gloomy and mournful",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following technologies was NOT necessary for producing cristallo?",
+        "a": "flux",
+        "b": "former",
+        "c": "stabilizer",
+        "d": "decolorizer",
+        "e": "crucible",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which new development enabled the invention of cristallo glass?",
+        "a": "patronage from the Catholic Church",
+        "b": "trade alliances between diverse cultures",
+        "c": "funding from the aristocracy",
+        "d": "the study of glassmaking techniques from antiquity",
+        "e": "technological innovations in the production of pigments",
+        "correct_answer": "e"
+    },
+    {
+        "question": "The two figures depicted on the Behaim Beaker are BOTH",
+        "a": "deities",
+        "b": "rulers",
+        "c": "martyrs",
+        "d": "archangels",
+        "e": "saints",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The kingdom of Benin exported all of the following goods EXCEPT",
+        "a": "cloth",
+        "b": "ivory",
+        "c": "enslaved persons",
+        "d": "brass",
+        "e": "pepper",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What PRIMARY purpose did the Benin bronze plaques serve?",
+        "a": "honoring the gods",
+        "b": "respecting the animal kingdom",
+        "c": "recounting religious parables",
+        "d": "showcasing the kingdom’s military prowess",
+        "e": "glorifying the oba",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Where is the Benin Plaque with Oba located today?",
+        "a": "Italy",
+        "b": "Ghana",
+        "c": "Nigeria",
+        "d": "Britain",
+        "e": "Portugal",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following innovations was created FIRST?",
+        "a": "cristallo glass",
+        "b": "relief impressions",
+        "c": "the canvas",
+        "d": "the full-rigged ship",
+        "e": "the printing press",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Before the eighteenth century, artists primarily used ultramarine to depict",
+        "a": "the sky",
+        "b": "Christ’s eyes",
+        "c": "Mary’s clothing",
+        "d": "royal seals",
+        "e": "the ocean",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Prussian blue was discovered by accident when trying to make a shade of",
+        "a": "black",
+        "b": "red",
+        "c": "purple",
+        "d": "green",
+        "e": "yellow",
+        "correct_answer": "c"
+    },
+    {
+        "question": "“Prussian blue” is the common name for the compound",
+        "a": "iron ferrocyanide",
+        "b": "potash",
+        "c": "alkali",
+        "d": "iron sulfate",
+        "e": "potassium ferrocyanide",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Antoine Watteau uses Prussian blue in The Italian Comedians to color the musician’s",
+        "a": "cap",
+        "b": "eyes",
+        "c": "socks",
+        "d": "shoes",
+        "e": "lute",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which medium did Jean-Baptise Perronneau use for his portraits?",
+        "a": "fresco",
+        "b": "pastels",
+        "c": "watercolor",
+        "d": "oil paints",
+        "e": "ink",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Anna Atkins used Prussian blue to make",
+        "a": "plant cyanotypes",
+        "b": "embroidered gowns",
+        "c": "glazed ceramics",
+        "d": "still-life paintings",
+        "e": "landscape photography",
+        "correct_answer": "a"
+    },
+    {
+        "question": "“Rococo” is derived from the French word meaning",
+        "a": "garden",
+        "b": "royal",
+        "c": "cloud",
+        "d": "rich",
+        "e": "pebble",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which element of Vigée-Lebrun’s self portrait does NOT contain Prussian blue?",
+        "a": "the sky",
+        "b": "the palette",
+        "c": "the brushes",
+        "d": "her hat",
+        "e": "her dress",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Vigée-Lebrun’s self portrait copies the pose of a painting by",
+        "a": "Michaelangelo",
+        "b": "Titian",
+        "c": "Rubens",
+        "d": "Rembrandt",
+        "e": "Caravaggio",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How does Vigée-Lebrun express a sense of agency in her self portrait?",
+        "a": "She wears wealthy clothes.",
+        "b": "She reaches out of the painting.",
+        "c": "She has signed her palette.",
+        "d": "She stares out at the viewer.",
+        "e": "She stands with her other works.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which monarch did Vigée-Lebrun frequently paint?",
+        "a": "Louis XIV",
+        "b": "Marie-Antoinette",
+        "c": "Napoleon",
+        "d": "Henry VIII",
+        "e": "Catherine the Great",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Who discovered Prussian blue?",
+        "a": "Jacob Diesbach",
+        "b": "Anna Atkins",
+        "c": "Antoine Watteau",
+        "d": "Jean-Baptise Perronneau",
+        "e": "Johann Konrad Dippel",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following options does NOT express a way in which Prussian blue improved on previous pigments?",
+        "a": "It was less expensive.",
+        "b": "It was non-toxic.",
+        "c": "It was readily available.",
+        "d": "It was more long-lasting.",
+        "e": "It was more stable.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What challenge did Vigée-Lebrun NOT face in her career?",
+        "a": "She was forced into a bad marriage.",
+        "b": "She was rejected from the Royal Academy.",
+        "c": "Her father died when she was young.",
+        "d": "The government confiscated her materials.",
+        "e": "She was unable to make money from her art.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "How was Prussian blue different from most pigments before it?",
+        "a": "It was produced synthetically.",
+        "b": "It dried quickly.",
+        "c": "It could bind to different materials.",
+        "d": "It could be mixed at home.",
+        "e": "It was sold in paint tubes.",
+        "correct_answer": "a"
+    }
+]
+

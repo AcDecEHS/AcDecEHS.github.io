@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quiz</title>
+<style>
+    .quiz-container {
+        max-width: 600px;
+        margin: auto;
+    }
+    .question {
+        margin-bottom: 20px;
+    }
+</style>
+</head>
+<body>
+
+<div class="quiz-container">
+    <div class="question" id="question"></div>
+    <div id="options"></div>
+    <button onclick="checkAnswer()">Submit Answer</button>
+    <p id="result"></p>
+</div>
+
+<script>
+// Sample JSON data for questions
+const questions = [
+    {
+      "question": "What technological advancement in China allowed for the production of porcelain?",
+      "a": "processing the clay to remove impurities",
+      "b": "firing clay in extremely hot kilns",
+      "c": "manufacturing new pigments for a white color",
+      "d": "introducing new minerals to the clay",
+      "e": "mixing clay with crushed glass",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Which material would Romans typically use for the exterior facing of buildings?",
+      "a": "marble",
+      "b": "wood",
+      "c": "limestone",
+      "d": "bricks",
+      "e": "concrete",
+      "correct_answer": "a"
+    },
+    {
+      "question": "How did Rome contribute to the historical use of concrete?",
+      "a": "Romans spread its use throughout the empire.",
+      "b": "Romans recreated older structures with it.",
+      "c": "Romans invented it.",
+      "d": "Romans traded concrete mixtures with other nations.",
+      "e": "Romans established a single formula for it.",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Under which emperor did the Roman Empire reach its peak size to span three continents?",
+      "a": "Hadrian",
+      "b": "Augustus",
+      "c": "Trajan",
+      "d": "Titus",
+      "e": "Septimus Severus",
+      "correct_answer": "c"
+    },
+    {
+      "question": "What ingredient is unique to the ancient Roman mixture for concrete?",
+      "a": "lime",
+      "b": "water",
+      "c": "mortar",
+      "d": "stone pieces",
+      "e": "pozzolana",
+      "correct_answer": "e"
+    },
+    {
+      "question": "After mixing the concrete, Romans",
+      "a": "spread it across holes in stone structures",
+      "b": "colored it with minerals",
+      "c": "set it in water to harden",
+      "d": "poured it over a brick base",
+      "e": "shaped it in a wooden frame",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Ashlar masonry creates structures out of",
+      "a": "large stones",
+      "b": "concrete",
+      "c": "clay bricks",
+      "d": "timber",
+      "e": "stucco",
+      "correct_answer": "a"
+    },
+    {
+      "question": "At the beginning of the Roman Empire, Romans PRIMARILY used concrete to",
+      "a": "seal foundations of structures",
+      "b": "fill gaps in walls",
+      "c": "construct curved arches and domes",
+      "d": "make waterproof containers",
+      "e": "lay stones for the road",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Why is concrete particularly useful in an area prone to earthquakes?",
+      "a": "It can expand to fill new spaces.",
+      "b": "It freezes the structure in place.",
+      "c": "It allows layers to move with the quake.",
+      "d": "It shifts the structure’s weight further into the ground.",
+      "e": "It creates a stable foundation.",
+      "correct_answer": "e"
+    },
+    {
+      "question": "What was NOT an advantage of working with concrete?",
+      "a": "It could be made at the construction site.",
+      "b": "It could create a variety of shapes.",
+      "c": "It created strong bonds between materials.",
+      "d": "It was less expensive than other materials.",
+      "e": "It required little training to use.",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Why were concrete vaults brighter than stone vaults?",
+      "a": "Concrete vaults could have windows throughout.",
+      "b": "Concrete was thinner and let sunlight through.",
+      "c": "Concrete vaults had wider openings on either end.",
+      "d": "Concrete was more fire resistant and could have more lamps.",
+      "e": "Concrete reflected more light.",
+      "correct_answer": "e"
+    },
+    {
+      "question": "What is the ancient Roman term for concrete?",
+      "a": "opus caementicium",
+      "b": "opus incertum",
+      "c": "opus quadratum",
+      "d": "opus spicatum",
+      "e": "opus mixtum",
+      "correct_answer": "a"
+    },
+    {
+      "question": "What type of structure did both Titus and Septimius Severus build as a monument of triumph?",
+      "a": "roads",
+      "b": "statues",
+      "c": "columns",
+      "d": "arches",
+      "e": "temples",
+      "correct_answer": "d"
+    },
+    {
+      "question": "What is the primary purpose of revetment?",
+      "a": "to protect the interior structure from impacts",
+      "b": "to stabilize a structure",
+      "c": "to decorate a structure",
+      "d": "to allow light into the structure",
+      "e": "to prevent fires in the structure",
+      "correct_answer": "b"
+    },
+    {
+      "question": "What is NOT a way the Romans influenced the history of architecture?",
+      "a": "They combined techniques to make new structures.",
+      "b": "They popularized materials such as concrete.",
+      "c": "They spread Roman political propaganda using architecture.",
+      "d": "They invented new forms such as arches and domes.",
+      "e": "They created durable structures that stood for a long time.",
+      "correct_answer": "c"
+    },
+    {
+      "question": "The Pantheon was NOT intended to worship",
+      "a": "Apollo",
+      "b": "Saturn",
+      "c": "Mars",
+      "d": "Mercury",
+      "e": "Jupiter",
+      "correct_answer": "e"
+    },
+    {
+      "question": "The word \"Pantheon\" is derived from the Greek term for",
+      "a": "“all gods”",
+      "b": "“temple of heaven”",
+      "c": "“blessing of gods”",
+      "d": "“palace of gods”",
+      "e": "“heavenly tribute”",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Which of the following Roman emperors ordered the construction of the Pantheon?",
+      "a": "Augustus",
+      "b": "Nero",
+      "c": "Hadrian",
+      "d": "Diocletian",
+      "e": "Caesar",
+      "correct_answer": "c"
+    },
+    {
+      "question": "In the early seventh century, the Pantheon became a",
+      "a": "church",
+      "b": "museum",
+      "c": "mosque",
+      "d": "trade center",
+      "e": "city hall",
+      "correct_answer": "a"
+    },
+    {
+      "question": "The structure of the Pantheon is the result of increased confidence in",
+      "a": "concrete",
+      "b": "columns",
+      "c": "glass",
+      "d": "marble",
+      "e": "arches",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Which of the following materials went into the mixture for the bottommost foundation of the Pantheon?",
+      "a": "basalt",
+      "b": "brick",
+      "c": "pumice",
+      "d": "granite",
+      "e": "tufa",
+      "correct_answer": "e"
+    },
+    {
+      "question": "Which of the following materials fills the concrete at the very top of the Pantheon‘s dome?",
+      "a": "granite",
+      "b": "travertine stone",
+      "c": "tufa",
+      "d": "gravel",
+      "e": "pumice",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Which of the following terms refers to the circular opening at the very top of the Pantheon’s dome?",
+      "a": "oculus",
+      "b": "vide",
+      "c": "specula",
+      "d": "coffer",
+      "e": "visio",
+      "correct_answer": "a"
+    },
+    {
+      "question": "In most ways, the front of the Pantheon is BEST described as",
+      "a": "awe-inspiring",
+      "b": "forbidding",
+      "c": "unoriginal",
+      "d": "towering",
+      "e": "small",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Visitors to the Pantheon first walk through an entryway BEST described as",
+      "a": "open and regal",
+      "b": "narrow and colonnaded",
+      "c": "empty and vast",
+      "d": "crowded and dark",
+      "e": "colorful and bright",
+      "correct_answer": "b"
+    },
+    {
+      "question": "For the Romans, the illuminated circle at the top of the dome represented the eye of",
+      "a": "Jupiter",
+      "b": "Neptune",
+      "c": "Minerva",
+      "d": "Juno",
+      "e": "Mars",
+      "correct_answer": "c"
+    },
+    {
+      "question": "In which of the following areas of the Pantheon are the seven large niches?",
+      "a": "rotunda",
+      "b": "portico",
+      "c": "dome",
+      "d": "doorway",
+      "e": "collonade",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Each of the seven niches in the Pantheon once represented a different",
+      "a": "emperor",
+      "b": "deity",
+      "c": "continent",
+      "d": "ideal",
+      "e": "military leader",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Which of the following shapes decorates the floor of the Pantheon?",
+      "a": "circles",
+      "b": "stars",
+      "c": "rectangles",
+      "d": "rhombuses",
+      "e": "triangles",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Which of the following types of columns is used to support the triangular and rounded pediments in the Pantheon?",
+      "a": "Tuscan",
+      "b": "Composite",
+      "c": "Ionic",
+      "d": "Doric",
+      "e": "Corinthian",
+      "correct_answer": "e"
+    },
+    {
+      "question": "Which organ did Egyptians leave inside the body during mummification?",
+      "a": "the lungs",
+      "b": "the liver",
+      "c": "the brain",
+      "d": "the heart",
+      "e": "the stomach",
+      "correct_answer": "c"
+    },
+    {
+      "question": "What material did Egyptians use for Fayum portraits?",
+      "a": "linen",
+      "b": "plaster",
+      "c": "papyrus",
+      "d": "wood",
+      "e": "canvas",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Which factor caused Egyptian artwork to become more naturalistic?",
+      "a": "Roman colonization",
+      "b": "changes in religious practices",
+      "c": "trade with Greece",
+      "d": "access to new materials",
+      "e": "scientific advancements",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Where is the Mummy with an Inserted Panel Portrait of a Youth today?",
+      "a": "the British Museum, London",
+      "b": "the Metropolitan Museum of Art, New York",
+      "c": "the Museum of Fine Arts, Boston",
+      "d": "the Egyptian Museum, Cairo",
+      "e": "the Neues Museum, Berlin",
+      "correct_answer": "b"
+    },
+    {
+      "question": "What substance does encaustic paint use as a binder?",
+      "a": "egg whites",
+      "b": "wax",
+      "c": "water",
+      "d": "gum",
+      "e": "oil",
+      "correct_answer": "b"
+    },
+    {
+      "question": "What was NOT a function of Fayum portraits?",
+      "a": "to mark the burial site for visitors",
+      "b": "to house the soul in the afterlife",
+      "c": "to serve as a memorial to loved ones",
+      "d": "to identify the deceased to the gods",
+      "e": "to be a surrogate if the body was not preserved",
+      "correct_answer": "c"
+    },
+    {
+      "question": "What document does art historian John Berger cite as contemporary to the Fayum portraits?",
+      "a": "The Odyssey",
+      "b": "Gospels of the New Testament",
+      "c": "the Vedas",
+      "d": "The Epic of Gilgamesh",
+      "e": "Egyptian Book of the Dead",
+      "correct_answer": "e"
+    },
+    {
+      "question": "What was the purpose of natron in mummification?",
+      "a": "to keep away pests",
+      "b": "to bind the linen",
+      "c": "to dissolve the fat",
+      "d": "to fill gaps and hollows",
+      "e": "to improve the smell",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Which detail on the Portrait of a Youth signifies the subject’s coming of age?",
+      "a": "gilded crown",
+      "b": "thin mustache",
+      "c": "long eyelashes",
+      "d": "glittering eyes",
+      "e": "white clothing",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Which person was NOT a common subject of Fayum portraits?",
+      "a": "a pharaoh",
+      "b": "a soldier",
+      "c": "a merchant",
+      "d": "a teacher",
+      "e": "a priest",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Why was mummification important to the Egyptians?",
+      "a": "They did not want to spiritually pollute the earth.",
+      "b": "They wanted to preserve the memory of the deceased for the living.",
+      "c": "They needed to prevent the spread of disease from decaying bodies.",
+      "d": "They believed material life continued for the deceased.",
+      "e": "They could not bury bodies because of the Nile’s flooding.",
+      "correct_answer": "d"
+    },
+    {
+      "question": "How long did mummification take?",
+      "a": "72 days",
+      "b": "53 days",
+      "c": "365 days",
+      "d": "90 days",
+      "e": "30 days",
+      "correct_answer": "b"
+    },
+    {
+      "question": "The Egyptians referred to the land of the dead as the Kingdom of",
+      "a": "Anubis",
+      "b": "Osiris",
+      "c": "Horus",
+      "d": "Serapis",
+      "e": "Isis",
+      "correct_answer": "b"
+    },
+    {
+      "question": "The subjects and design of Fayum portraits emphasize Egypt’s",
+      "a": "prosperous economy",
+      "b": "multicultural nature",
+      "c": "scientific knowledge",
+      "d": "religious piety",
+      "e": "strict tradition",
+      "correct_answer": "d"
+    },
+    {
+      "question": "The majority of ancient Egyptian art that is preserved relates to the culture’s",
+      "a": "trade and economy",
+      "b": "scholarly work",
+      "c": "military",
+      "d": "agriculture",
+      "e": "funerary practices",
+      "correct_answer": "e"
+    }
+  ]
+
+let currentQuestion = 0;
+const questionElement = document.getElementById('question');
+const optionsElement = document.getElementById('options');
+const resultElement = document.getElementById('result');
+
+function loadQuestion() {
+    const question = questions[currentQuestion];
+    questionElement.textContent = question.question;
+
+    optionsElement.innerHTML = '';
+
+    for (let option in question) {
+        if (option !== 'question' && option !== 'correct_answer') {
+            const label = document.createElement('label');
+            label.innerHTML = `<input type="radio" name="answer" value="${option}"> ${question[option]} <br>`;
+            optionsElement.appendChild(label);
+        }
+    }
+}
+
+function checkAnswer() {
+    const selectedOption = document.querySelector('input[name="answer"]:checked');
+    if (!selectedOption) {
+        resultElement.textContent = 'Please select an answer.';
+        return;
+    }
+
+    const userAnswer = selectedOption.value;
+    const correctAnswer = questions[currentQuestion].correct_answer;
+
+    if (userAnswer === correctAnswer) {
+        resultElement.textContent = 'Correct!';
+    } else {
+        resultElement.textContent = 'Wrong! The correct answer is ' + questions[currentQuestion][correctAnswer];
+    }
+
+    currentQuestion++;
+    if (currentQuestion < questions.length) {
+        loadQuestion();
+    } else {
+        resultElement.textContent += ' End of Quiz.';
+    }
+}
+
+// Load the first question when the page loads
+loadQuestion();
+</script>
+
+</body>
+</html>
+

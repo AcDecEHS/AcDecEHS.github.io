@@ -1,0 +1,300 @@
+[
+  {
+    "question": "The Romans used all of the following materials to make concrete EXCEPT",
+    "a": "sand",
+    "b": "lime mortar",
+    "c": "broken stone",
+    "d": "clay",
+    "e": "water",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Roman architects made remarkably durable concrete by adding",
+    "a": "olivine sand",
+    "b": "pozzolana sand",
+    "c": "arkose sand",
+    "d": "silica sand",
+    "e": "garnet sand",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Using concrete, the Romans were able to invent",
+    "a": "domes",
+    "b": "flying buttresses",
+    "c": "gable roofs",
+    "d": "pointed arches",
+    "e": "rib vaults",
+    "correct_answer": "a"
+  },
+  {
+    "question": "The dome and oculus of the Pantheon, with their perfectly round shapes, represented",
+    "a": "stability",
+    "b": "power",
+    "c": "life",
+    "d": "eternity",
+    "e": "democracy",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following Roman emperors favored the Pantheon as their favorite place to hold court?",
+    "a": "Caesar",
+    "b": "Nero",
+    "c": "Diocletian",
+    "d": "Hadrian",
+    "e": "Augustus",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following steps of embalming came FIRST?",
+    "a": "removing internal organs",
+    "b": "embalming the organs",
+    "c": "wrapping the body in linen",
+    "d": "washing the dead body",
+    "e": "dehydrating the dead body",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following organs remained in an Egyptian embalmed corpse?",
+    "a": "liver",
+    "b": "heart",
+    "c": "stomach",
+    "d": "lungs",
+    "e": "brain",
+    "correct_answer": "b"
+  },
+  {
+    "question": "“Fayum portraits” blend Egyptian funerary tradition with the naturalism of the",
+    "a": "Byzantines",
+    "b": "Ottomans",
+    "c": "Germans",
+    "d": "Chinese",
+    "e": "Romans",
+    "correct_answer": "e"
+  },
+  {
+    "question": "”Fayum portraits” are painted in",
+    "a": "oil",
+    "b": "ink",
+    "c": "fresco",
+    "d": "tempera",
+    "e": "encaustic",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which cathedral features the first flying buttresses in history?",
+    "a": "Châlons Cathedral",
+    "b": "Chartres Cathedral",
+    "c": "Cologne Cathedral",
+    "d": "the Cathedral of Notre-Dame",
+    "e": "St. Vitus Cathedral",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Abbot Suger referred to stained glass’s colored light as",
+    "a": "lux nova",
+    "b": "lux pia",
+    "c": "lux coloratum",
+    "d": "lux caelestes",
+    "e": "lux verax",
+    "correct_answer": "a"
+  },
+  {
+    "question": "The rose windows of the Chartres Cathedral depict",
+    "a": "prayer and meditation",
+    "b": "stories from the Bible",
+    "c": "prominent angels",
+    "d": "famous saints of the Middle Ages",
+    "e": "Heaven and the Afterlife",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The PRIMARY theme of the south rose window at Chartres Cathedral is",
+    "a": "unwavering faith in the divine",
+    "b": "glorification of Jesus Christ",
+    "c": "thankfulness for gods blessings",
+    "d": "praising the beauty of heaven",
+    "e": "fear of God's almighty power",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Chinese imported cobalt for blue-and-white porcelain from",
+    "a": "Iraq",
+    "b": "Afghanistan",
+    "c": "Egypt",
+    "d": "Iran",
+    "e": "Saudi Arabia",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following clays produces the purest white porcelain?",
+    "a": "bentonite",
+    "b": "silicone",
+    "c": "rhassoul",
+    "d": "chamotte",
+    "e": "kaolin",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following locations dominated porcelain production for hundreds of years?",
+    "a": "Jinan",
+    "b": "Wuhan",
+    "c": "Jingdezhen",
+    "d": "Nanjing",
+    "e": "Hangzhou",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following Chinese courts received Jar with Dragon?",
+    "a": "Song",
+    "b": "Tang",
+    "c": "Qin",
+    "d": "Han",
+    "e": "Ming",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The patterns and decorations of Jar with Dragon reflect the influence of",
+    "a": "folk religions",
+    "b": "Daoism",
+    "c": "Buddhism",
+    "d": "Hinduism",
+    "e": "Confucianism",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The compass first appeared in",
+    "a": "China",
+    "b": "India",
+    "c": "Greece",
+    "d": "Egypt",
+    "e": "Persia",
+    "correct_answer": "a"
+  },
+  {
+    "question": "How many masts does a full-rigged ship have?",
+    "a": "three",
+    "b": "two",
+    "c": "four",
+    "d": "five",
+    "e": "six",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Egyptian and Syrian raw material markets were vital for Venetian",
+    "a": "jewelry",
+    "b": "trimeres",
+    "c": "glass",
+    "d": "ceramics",
+    "e": "textiles",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following stones did Europeans import from Afghanistan to use in their artwork?",
+    "a": "amber",
+    "b": "lapis lazuli",
+    "c": "ruby",
+    "d": "emerald",
+    "e": "sapphire",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The first known printers were the",
+    "a": "Persians",
+    "b": "Sumerians",
+    "c": "Babylonians",
+    "d": "Egyptians",
+    "e": "Assyrians",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Why did moveable type not initially succeed in China?",
+    "a": "The moveable type inputs were too rare to be practical.",
+    "b": "The Chinese public was largely uninterested in mass-produced books.",
+    "c": "The movable type printmakers in China faced heavy competition from foreign markets.",
+    "d": "The emperor outlawed moveable type to protect scholarly scribes from competition.",
+    "e": "The materials involved in moveable type prints were not durable or effective.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Wang Chen’s most famous text focused on",
+    "a": "agriculture",
+    "b": "medicine",
+    "c": "philosophy",
+    "d": "commerce",
+    "e": "architecture",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Johannes Gutenberg developed his printing press in the city of",
+    "a": "Augsburg",
+    "b": "Frankfurt",
+    "c": "Mainz",
+    "d": "Salzburg",
+    "e": "Munich",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following statements describes one way in which Wang Chen aided the growth of moveable type?",
+    "a": "He replaced wood as the primary medium for moveable type prints.",
+    "b": "He used bright colors to demonstrate printmaking’s creative potential.",
+    "c": "He traveled throughout China promoting moveable type and selling woodblocks.",
+    "d": "He made the process of typesetting more efficient.",
+    "e": "He persuaded the imperial family to patronize printmaking endeavors.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Approximately how many Gutenberg printing presses existed in Europe by 1500?",
+    "a": "500",
+    "b": "750",
+    "c": "1,000",
+    "d": "400",
+    "e": "250",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The type pieces used in Gutenberg’s press were made of",
+    "a": "wood",
+    "b": "clay",
+    "c": "lead",
+    "d": "tin",
+    "e": "stone",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following artistic movements expanded considerably following the Gutenberg press’s invention?",
+    "a": "Gothic",
+    "b": "Baroque",
+    "c": "Renaissance",
+    "d": "Romanticism",
+    "e": "Rococo",
+    "correct_answer": "c"
+  },
+  {
+    "question": "The oldest form of printing is",
+    "a": "engraving",
+    "b": "etching",
+    "c": "woodcutting",
+    "d": "intaglio",
+    "e": "lithography",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who created the Samson Rending the Lion print?",
+    "a": "Joseph Beuys",
+    "b": "Albrecht Durer",
+    "c": "Hans Holbein the Younger",
+    "d": "Johann Reuchlin",
+    "e": "Matthias Grunewald",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements about the Buxheim St. Christopher print is NOT true?",
+    "a": "The print is named after the town of its production.",
+    "b": "The print employs realistic scale and perspective.",
+    "c": "The print makes use of hatching.",
+    "d": "The print depicts the figure of Christ.",
+    "e": "The print is a woodcut.",
+    "correct_answer": "d"
+  }
+]
+

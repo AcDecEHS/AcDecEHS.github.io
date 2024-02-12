@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Someone painting en plein air is working",
+    "a": "in front of a mirror",
+    "b": "near the ocean",
+    "c": "outside",
+    "d": "up high",
+    "e": "with other artists",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What vessel held paints before metal tubes?",
+    "a": "glass jars",
+    "b": "goat’s skulls",
+    "c": "cotton bags",
+    "d": "pig’s bladders",
+    "e": "cow’s stomachs",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What was NOT an advantage of metal tubes for storing paint?",
+    "a": "They could be resealed.",
+    "b": "They could be refilled.",
+    "c": "They did not leak.",
+    "d": "They were easy to carry.",
+    "e": "They preserved the paint.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "A painting with impasto effect has",
+    "a": "multimedia pieces",
+    "b": "simplified shapes",
+    "c": "many colors",
+    "d": "multiple perspectives",
+    "e": "thick paint",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Jackson Pollock used paint made out of",
+    "a": "oil",
+    "b": "wax",
+    "c": "minerals",
+    "d": "plastic",
+    "e": "plants",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How many new chemical elements were discovered between 1789 and 1840?",
+    "a": "33",
+    "b": "118",
+    "c": "29",
+    "d": "17",
+    "e": "9",
+    "correct_answer": "c"
+  },
+  {
+    "question": "To which of the following changes did paint tubes NOT lead?",
+    "a": "Artists used stiffer brushes.",
+    "b": "Artists painted in thicker layers.",
+    "c": "Artists used folding easels.",
+    "d": "Artists painted outside more often.",
+    "e": "Artists painted finer details.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How many times did Monet paint the Argenteuil Bridge in 1874?",
+    "a": "3",
+    "b": "11",
+    "c": "5",
+    "d": "24",
+    "e": "7",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The Argenteuil Bridge crosses over the",
+    "a": "Danube",
+    "b": "Tiber",
+    "c": "Thames",
+    "d": "Rhine",
+    "e": "Seine",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Monet uses clear outlines and straight brush strokes in The Bridge at Argenteuil to depict the",
+    "a": "bridge",
+    "b": "sky",
+    "c": "trees",
+    "d": "water",
+    "e": "boats",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which color is complementary to orange?",
+    "a": "green",
+    "b": "red",
+    "c": "blue",
+    "d": "purple",
+    "e": "red",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In what way did the Industrial Revolution NOT affect paints?",
+    "a": "Painters could more easily mix paint themselves.",
+    "b": "Quality paint was widely sold.",
+    "c": "New chemicals were used to create pigments",
+    "d": "Steam-powered mills ground pigments.",
+    "e": "A wider range of colors were available.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The theory of complementary colors in the nineteenth century was based mainly on the work of a",
+    "a": "chemist",
+    "b": "painter",
+    "c": "doctor",
+    "d": "philosopher",
+    "e": "historian",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which metal did the first paint tubes use?",
+    "a": "tin",
+    "b": "aluminum",
+    "c": "iron",
+    "d": "steel",
+    "e": "copper",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Why did Monet often paint several canvases of the same scene?",
+    "a": "to have multiple options to choose from",
+    "b": "to sell multiple copies",
+    "c": "to show different points of view",
+    "d": "to capture shifting light",
+    "e": "to use different abstract colors",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Artists were limited to naturally occurring pigments until the beginning of",
+    "a": "Enlightenment",
+    "b": "Renaissance",
+    "c": "Scientific Revolution",
+    "d": "Bronze Age",
+    "e": "Dark Ages",
+    "correct_answer": "b"
+  },
+  {
+    "question": "From which of the following materials did artists NOT derive pigments before the development of chemistry?",
+    "a": "oxides",
+    "b": "plants",
+    "c": "minerals",
+    "d": "animal hides",
+    "e": "semi-precious stones",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which city was the first synthetic pigment discovered?",
+    "a": "Paris",
+    "b": "Moscow",
+    "c": "London",
+    "d": "Berlin",
+    "e": "Rome",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following blue shades was the first synthetic pigment?",
+    "a": "sky blue",
+    "b": "Prussian blue",
+    "c": "bleu de France",
+    "d": "royal blue",
+    "e": "cobalt blue",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Why did painters originally limit their use of blue in paintings?",
+    "a": "Most blue pigments were not effective at sticking to the canvas.",
+    "b": "Existing blue pigments were lackluster in color.",
+    "c": "The materials used in blue pigments were dangerous to humans.",
+    "d": "Blue pigments were highly expensive.",
+    "e": "The use of blue pigment had adverse environmental effects.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Antoine Watteau used the first synthetic pigment to evoke a sense of",
+    "a": "motion",
+    "b": "drama",
+    "c": "abstraction",
+    "d": "despair",
+    "e": "romanticism",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following options describes a primary drawback of the first synthetic pigment?",
+    "a": "It was light-sensitive and prone to fading.",
+    "b": "It was easily smudged, even after long drying periods.",
+    "c": "The pigment was very dull, making it unideal for artwork.",
+    "d": "It was often in danger of cracking if left for too long.",
+    "e": "The pigment could not be easily blended or mixed.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What was the purpose of Self Portrait in a Straw Hat?",
+    "a": "to provide social commentary",
+    "b": "to showcase the artist’s successful career",
+    "c": "to sell during the artist’s period of financial destitution",
+    "d": "to serve as the artist’s experiment with color",
+    "e": "to fulfill a commission issued by a fellow",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of these artistic institutions rejected Marie-Louise-Elisabeth Vigée-Lebrun on the basis of her gender?",
+    "a": "the Royal Academy",
+    "b": "the School of Fine Arts",
+    "c": "the Academy of Design",
+    "d": "the Imperial Academy of Arts",
+    "e": "Düsseldorf Art Academy",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following paintings MOST directly inspired the pose featured in Self Portrait in a Straw Hat?",
+    "a": "The Lacemaker, Nicolaes Maes",
+    "b": "The Singing Butler, Jack Vettriano",
+    "c": "Portrait of Susanna Lunden, Peter Paul Rubens",
+    "d": "Portrait of a Young Woman, Amedeo Modigliani",
+    "e": "The Dream, Henri Rousseau",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Vigée-Lebrun used the first synthetic pigment in Self Portrait in a Straw Hat to evoke a sense of",
+    "a": "vibrant jollity",
+    "b": "solemn resignation",
+    "c": "fiery passion",
+    "d": "calm authority",
+    "e": "friendly contentment",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following terms refers to the Impressionist practice of painting outside?",
+    "a": "aire libre",
+    "b": "a céu aberto",
+    "c": "plein l'oeil",
+    "d": "freilichtmalerei",
+    "e": "en plein air",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Impressionists artists often painted outside so that they could",
+    "a": "free themselves from the population-dense environment of the city",
+    "b": "receive feedback from passerby as they viewed the painting",
+    "c": "test the durability of their paints under natural conditions",
+    "d": "capture the small changes in natural light over time",
+    "e": "be calmed by fresh air while they painted",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who invented the collapsible metal tube?",
+    "a": "Eugene Sandow",
+    "b": "William B. Purvis",
+    "c": "John Goffe Rand",
+    "d": "Robert H. Pines",
+    "e": "Michael Joseph Owens",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which technique did squeezable metal paint tubes MOST enable?",
+    "a": "tenebroso",
+    "b": "chiaroscuro",
+    "c": "impasto",
+    "d": "sfumato",
+    "e": "grisaille",
+    "correct_answer": "c"
+  }
+]
+

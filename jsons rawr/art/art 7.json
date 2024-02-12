@@ -1,0 +1,273 @@
+[
+  {
+    "question": "The oldest manmade material is",
+    "a": "concrete",
+    "b": "paper",
+    "c": "bronze",
+    "d": "glass",
+    "e": "steel",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who invented cristallo glass?",
+    "a": "Eugenio Barsanti",
+    "b": "Francesco Cirio",
+    "c": "Giovanni Branca",
+    "d": "Angelo Barovier",
+    "e": "Ignazio Porro",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The novel process that allowed for the creation of cristallo glass is known as",
+    "a": "encrusting",
+    "b": "alkalization",
+    "c": "lixiviation",
+    "d": "ribbing",
+    "e": "tempering",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which aspect of cristallo glass turned it into a status symbol?",
+    "a": "texture",
+    "b": "luster",
+    "c": "thickness",
+    "d": "malleability",
+    "e": "transparency",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Late medieval Venetian glass manufacturing took place on the island of",
+    "a": "Poveglia",
+    "b": "Cantieri",
+    "c": "Torcello",
+    "d": "Murano",
+    "e": "Trezze",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Why did late medieval Venetian glass manufacturing only occur on one island?",
+    "a": "The Venetian government limited production to one island.",
+    "b": "Only one island had sufficient protection from sea raiders.",
+    "c": "Only one island possessed a harbor large enough to export the glass.",
+    "d": "The leading Venetian glassmaking family eliminated competitors on other islands.",
+    "e": "Only one island had the necessary infrastructure.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following ingredients was NOT key in the cristallo glass making process?",
+    "a": "the binder",
+    "b": "the stabilizer",
+    "c": "the flux",
+    "d": "the decolorizer",
+    "e": "the former",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Silica is derived from the mineral",
+    "a": "gypsum",
+    "b": "quartz",
+    "c": "zircon",
+    "d": "calcite",
+    "e": "manganite",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The role of the flux in the cristallo glass-making process was to",
+    "a": "bind pieces of newly solidified glass together",
+    "b": "reduce the necessary heat for making glass",
+    "c": "make the glass more durable through chemical bonding",
+    "d": "neutralize toxic gases produced from the molten glass",
+    "e": "stabilize the chemical reaction resulting from melting sand",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following materials did the Venetians use as the flux in the cristallo glass making process?",
+    "a": "plant ash",
+    "b": "manganese dioxide",
+    "c": "lime",
+    "d": "silica",
+    "e": "alumina",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following saints is depicted on the Behaim Beaker?",
+    "a": "St. Mark",
+    "b": "St. George",
+    "c": "St. Catherine",
+    "d": "St. Elizabeth",
+    "e": "St. Andrew",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Behaim Beaker was MOST likely produced for a",
+    "a": "baptism",
+    "b": "pilgrimage",
+    "c": "coronation",
+    "d": "wedding",
+    "e": "funeral",
+    "correct_answer": "a"
+  },
+  {
+    "question": "The Behaim family was from",
+    "a": "Venice",
+    "b": "Salzburg",
+    "c": "Florence",
+    "d": "Padua",
+    "e": "Nuremberg",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How is the influence of disegno visible in the Behaim Beaker?",
+    "a": "The beaker has an organic shape.",
+    "b": "The beaker is devoid of any decorative flourishes.",
+    "c": "The beaker has geometric patterns as decorations.",
+    "d": "The beaker is ornately decorated across its surface.",
+    "e": "The beaker is highly symmetrical.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Many early modern Europeans believed that rock crystal was highly effective in",
+    "a": "enhancing martial ability",
+    "b": "summoning archangels",
+    "c": "promoting cognitive development",
+    "d": "making rain fall",
+    "e": "detecting poison",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which institution has NOT made plans to repatriate the Benin bronzes in their collection?",
+    "a": "University of Aberdeen",
+    "b": "the Smithsonian Institute",
+    "c": "the German government",
+    "d": "the British Museum",
+    "e": "University of Oxford",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Oba is the Yoruba and Bini word for",
+    "a": "king",
+    "b": "soul",
+    "c": "friend",
+    "d": "god",
+    "e": "father",
+    "correct_answer": "a"
+  },
+  {
+    "question": "The Kingdom of Benin occupied the land of modern-day",
+    "a": "Nigeria",
+    "b": "Libya",
+    "c": "Benin",
+    "d": "Congo",
+    "e": "Ghana",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Metal work in Benin expanded under trade with",
+    "a": "America",
+    "b": "Portugal",
+    "c": "China",
+    "d": "Spain",
+    "e": "France",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The lost-wax casting of Benin MOST closely resembles art made in ancient",
+    "a": "Egypt",
+    "b": "China",
+    "c": "Greece",
+    "d": "Americas",
+    "e": "Mesopotamia",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which big cat is depicted in the Benin Plaque with Oba?",
+    "a": "lion",
+    "b": "cheetah",
+    "c": "tiger",
+    "d": "panther",
+    "e": "a leopard",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Where were the Benin plaques likely displayed in the palace?",
+    "a": "at the foot of the throne",
+    "b": "in front of windows",
+    "c": "on supportive columns",
+    "d": "above the entryway",
+    "e": "on the ceiling",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which part of the Benin Plaque with Oba is sculpted in low relief?",
+    "a": "the leaves",
+    "b": "the animals",
+    "c": "the crown",
+    "d": "the fish",
+    "e": "the oba",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Why was the loss of the Benin bronzes particularly devastating to the people of Benin?",
+    "a": "The tablets were the only historical records of the kingdom.",
+    "b": "The people used the tablets in daily ceremonies.",
+    "c": "Benin had lost the artistic knowledge to recreate the tablets.",
+    "d": "The tablets comprised most of the material wealth of the kingdom.",
+    "e": "The people believed the tablets held the souls of ancestors.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How is wax used in lost-wax casting?",
+    "a": "to help hot metal flow more smoothly",
+    "b": "to create layers between the metal",
+    "c": "to form a glaze on the sculpture",
+    "d": "to add texture and depth",
+    "e": "to form a hollow in the mold",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Manillas did NOT function as",
+    "a": "foreign trade goods",
+    "b": "religious objects",
+    "c": "material for metalworking",
+    "d": "a bracelet",
+    "e": "a currency around West Africa",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The mudfish in the Benin Plaque with Oba symbolizes the oba’s ability to",
+    "a": "provide for the people of his kingdom",
+    "b": "continue living spiritually after death",
+    "c": "rule over both the land and the sea",
+    "d": "move between divine and earthly worlds",
+    "e": "conquer the natural world",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which part of the oba’s body in the Benin Plaque with Oba is disproportionately large?",
+    "a": "his chest",
+    "b": "his head",
+    "c": "his eyes",
+    "d": "his hands",
+    "e": "his feet",
+    "correct_answer": "c"
+  },
+  {
+    "question": "An oba projection is the oba’s",
+    "a": "crown",
+    "b": "ancestor",
+    "c": "soul",
+    "d": "face",
+    "e": "shadow",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Approximately how thick are the Benin bronze plaques?",
+    "a": "10 inches",
+    "b": "5 inches",
+    "c": "7 inches",
+    "d": "1 inch",
+    "e": "2 inches",
+    "correct_answer": "d"
+  }
+]
+

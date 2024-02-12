@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Which of the following inventors designed the mechanical television system?",
+    "a": "Paul Gottlieb Nipkow",
+    "b": "Charles Francis Jenkins",
+    "c": "John Baird",
+    "d": "Philo Taylor Farnsworth",
+    "e": "Boris Rosing",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In the late 1990s, Americans used television sets daily for an average of",
+    "a": "8 hours",
+    "b": "6 hours",
+    "c": "4 hours",
+    "d": "7 hours",
+    "e": "5 hours",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following wars had the greatest impact on the development of television?",
+    "a": "Gulf War",
+    "b": "World War Two",
+    "c": "Korean War",
+    "d": "World War One",
+    "e": "Vietnam War",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following technologies had the greatest impact on television design and usability in the late 1940s?",
+    "a": "radar",
+    "b": "camera",
+    "c": "radio",
+    "d": "automobile",
+    "e": "telephone",
+    "correct_answer": "c"
+  },
+  {
+    "question": "After 1945, the center of the art world shifted from Paris to",
+    "a": "Milan",
+    "b": "London",
+    "c": "Moscow",
+    "d": "New York",
+    "e": "Berlin",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following art styles featured gestural brushstrokes and the impression of spontaneity?",
+    "a": "Abstract Expressionism",
+    "b": "performance art",
+    "c": "junk art",
+    "d": "Impressionism",
+    "e": "realism",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following art styles became America’s first major art movement?",
+    "a": "performance art",
+    "b": "Impressionism",
+    "c": "Art Nouveau",
+    "d": "Abstract Expressionism",
+    "e": "junk art",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Nam June Paik is commonly known as the father of",
+    "a": "performance art",
+    "b": "electronic art",
+    "c": "electronic sculpture",
+    "d": "video art",
+    "e": "television",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following art groups used new technology similarly to Nam June Paik?",
+    "a": "avant-garde",
+    "b": "Postmodernists",
+    "c": "Impressionists",
+    "d": "Minimalists",
+    "e": "Fauves",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following television models does Nam June Paik’s Magnet TV use?",
+    "a": "Conrac CRT",
+    "b": "Sony TV8-301",
+    "c": "Doric RNS RTW",
+    "d": "Sony 5 5-303W",
+    "e": "Perdio Portarama",
+    "correct_answer": "b"
+  },
+  {
+    "question": "How could viewers originally interact with Nam June Paik’s Magnet TV?",
+    "a": "They could change the television's screen.",
+    "b": "They could move the magnet.",
+    "c": "They could manipulate the television's settings",
+    "d": "They could move the antennae.",
+    "e": "They could change the channel.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "By making Magnet TV interactive, Nam June Paik incorporated aspects of",
+    "a": "Art Nouveau",
+    "b": "junk art",
+    "c": "performance art",
+    "d": "Impressionism",
+    "e": "Realism",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Nam June Paik’s Magnet TV is MOST similar to the work of",
+    "a": "Jackson Pollock",
+    "b": "Dan Flavin",
+    "c": "John Singer Sargent",
+    "d": "Frank Stella",
+    "e": "Alfred Sisley",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The magnet in Nam June Paik’s Magnet TV blocks the",
+    "a": "capacitors",
+    "b": "IR sensor",
+    "c": "circuit board",
+    "d": "cathode rays",
+    "e": "display",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How did artists in anti-art movements, such as Nam June Paik, change the art world?",
+    "a": "They made art more racially inclusive.",
+    "b": "They brought politics to the focus of artists.",
+    "c": "They questioned traditional art techniques.",
+    "d": "They investigated the social conditions of society.",
+    "e": "They encouraged the return of older art styles.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which United States president signed the Interstate Highway Act?",
+    "a": "Franklin D. Roosevelt",
+    "b": "John F. Kennedy",
+    "c": "Dwight Eisenhower",
+    "d": "Richard Nixon",
+    "e": "Gerald Ford",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What percentage of American households owned a car in 1980?",
+    "a": "51.5%",
+    "b": "87.2%",
+    "c": "62.1%",
+    "d": "93.8%",
+    "e": "70.4%",
+    "correct_answer": "b"
+  },
+  {
+    "question": "To which art movement did John Chamberlain belong?",
+    "a": "Brutalism",
+    "b": "Impressionism",
+    "c": "Abstract Expressionism",
+    "d": "Dada",
+    "e": "Postmodernism",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What was NOT an effect of the rise of the automobile industry?",
+    "a": "improved networks between states",
+    "b": "increased concern about children playing outside",
+    "c": "growth of hotels and restaurants",
+    "d": "development of suburbs around cities",
+    "e": "production changes of rubber",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How does Velvet White differ from Chamberlain's other works?",
+    "a": "It is more twisted.",
+    "b": "It is in many separate parts.",
+    "c": "It is less colorful.",
+    "d": "It is large in size.",
+    "e": "It uses a more modern car.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Chamberlain’s assemblage art style is also called",
+    "a": "Junk Art",
+    "b": "Recycled Art",
+    "c": "Scrap Art",
+    "d": "Found Art",
+    "e": "Reclaimed Art",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Art historians have MOST often seen Chamberlain’s work as a commentary on",
+    "a": "the American dream",
+    "b": "freedom",
+    "c": "environmental destruction",
+    "d": "consumer culture",
+    "e": "war",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The white color of Velvet White is meant to provoke a sense of",
+    "a": "reflection",
+    "b": "confusion",
+    "c": "excitement",
+    "d": "familiarity",
+    "e": "peace",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In which artwork did Chamberlain first use car parts?",
+    "a": "Velvet White",
+    "b": "Shortstop",
+    "c": "American Tableau",
+    "d": "White Painting",
+    "e": "Dolores James",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Where did Chamberlain find his first car to use in artwork?",
+    "a": "in a garage",
+    "b": "on the street",
+    "c": "in the ditch",
+    "d": "at a friend’s house",
+    "e": "in a junkyard",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The colors Chamberlain’s Dolores Jones are MOST similar to the works of",
+    "a": "Robert Rauschenberg",
+    "b": "Willem de Kooning",
+    "c": "Franz Kline",
+    "d": "Jackson Pollock",
+    "e": "Marcel Duchamp",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What did Chamberlain do first to the car he used for Shortstop?",
+    "a": "pulled out the steering wheel",
+    "b": "drove over the fenders",
+    "c": "shot out the windows",
+    "d": "crashed it into another car",
+    "e": "dented the hood with a crowbar",
+    "correct_answer": "b"
+  },
+  {
+    "question": "When did Chamberlain create Velvet White?",
+    "a": "1956",
+    "b": "1962",
+    "c": "1999",
+    "d": "1957",
+    "e": "1951",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Chamberlain’s Velvet White is MOST similar to works of",
+    "a": "Edvard Munch",
+    "b": "Pablo Picasso",
+    "c": "Robert Rauschenberg",
+    "d": "Salvador Dali",
+    "e": "Lee Krasner",
+    "correct_answer": "c"
+  },
+  {
+    "question": "How many miles of highways did the Interstate Highway Act create?",
+    "a": "110,000",
+    "b": "41,000",
+    "c": "26,000",
+    "d": "19,000",
+    "e": "68,000",
+    "correct_answer": "a"
+  }
+]
+

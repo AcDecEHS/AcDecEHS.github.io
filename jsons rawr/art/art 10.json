@@ -1,0 +1,273 @@
+[
+    {
+        "question": "What material did Nicéphore Niépce initially use for his experiments?",
+        "a": "celluloid film",
+        "b": "glass plates",
+        "c": "metal sheets",
+        "d": "daguerreotype plates",
+        "e": "light-sensitive paper",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which chemical solution did Niépce use for his initial experimentation?",
+        "a": "zinc sulfate",
+        "b": "silver chloride",
+        "c": "lithium chloride",
+        "d": "magnesium chloride",
+        "e": "silver iodide",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Niépce thought the image from his initial experiment was too",
+        "a": "clear",
+        "b": "big",
+        "c": "indistinct",
+        "d": "small",
+        "e": "vibrant",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which term refers to the reversal of tones in the image?",
+        "a": "reversogram",
+        "b": "chromatic inversion",
+        "c": "positivization",
+        "d": "image reversal",
+        "e": "negative",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What motivated Niépce to attempt to copy engravings using sunlight?",
+        "a": "a request from a friend",
+        "b": "competition with other inventors",
+        "c": "curiosity about sunlight properties",
+        "d": "a desire to improve engraving techniques",
+        "e": "growing demand for affordable pictures",
+        "correct_answer": "d"
+    },
+    {
+        "question": "In an attempt to copy engravings using sunlight, Niépce coated the pewter plate with",
+        "a": "bitumen of Judea",
+        "b": "platinum solution",
+        "c": "gum arabic",
+        "d": "silver nitrate",
+        "e": "acrylic varnish",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What happened to the areas beneath the dark parts of the engraving after exposure to light?",
+        "a": "They disappeared completely.",
+        "b": "They dissolved in acid.",
+        "c": "They hardened.",
+        "d": "They became softer.",
+        "e": "They disappeared completely.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How did Niépce remove the loosened areas of the pewter plate?",
+        "a": "blowing with compressed air",
+        "b": "treating it with acetic acid",
+        "c": "scrubbing with a sponge",
+        "d": "rinsing it with lavender oil",
+        "e": "soaking it in water",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How did Niépce enhance the contrasts in the plate-printed image?",
+        "a": "exposing the plate to iodine fumes",
+        "b": "adjusting the camera obscura settings",
+        "c": "applying oil paint",
+        "d": "printing the image on high-quality paper",
+        "e": "using specialized lenses",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How long did Niépce's plate remain exposed in the portable camera obscura?",
+        "a": "10 hours",
+        "b": "5 hours",
+        "c": "8 hours",
+        "d": "3 hours",
+        "e": "1 hour",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What is the significance of the View from the Window at Le Gras photograph?",
+        "a": "It was lost for many years and recently rediscovered.",
+        "b": "It is the world's oldest surviving permanent photograph.",
+        "c": "It represents a breakthrough in early photography.",
+        "d": "It is the first color photograph.",
+        "e": "It is a famous portrait of Niépce.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What is the name given to a photograph produced without a separate negative?",
+        "a": "monochromatic negative",
+        "b": "direct positive",
+        "c": "inverted image",
+        "d": "reversograph",
+        "e": "indistinctogram",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What is the title of Niépce's surviving permanent photograph?",
+        "a": "Barn Rooftop",
+        "b": "Hazy Obscurity",
+        "c": "Landscape Reflections",
+        "d": "Window at Le Gras",
+        "e": "Pigeon House View",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What does the photograph taken by Niépce depict?",
+        "a": "a group of people",
+        "b": "a field of flowers",
+        "c": "a city skyline",
+        "d": "Niépce's residence",
+        "e": "a mountain range",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What appears to be shining on the roof and ends of the buildings in Niépce's surviving permanent photograph?",
+        "a": "sunlight",
+        "b": "starlight",
+        "c": "firelight",
+        "d": "lamplight",
+        "e": "moonlight",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following inventors collaborated with Louis Daguerre to create the daguerreotype?",
+        "a": "Humphry Davy",
+        "b": "Thomas Wedgewood",
+        "c": "Nicèphore Nièpce",
+        "d": "Antione Hèrcules Romuald Florence",
+        "e": "Samuel Morse",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following types of images does not become visible to the naked eye until further treatment?",
+        "a": "inert image",
+        "b": "latent image",
+        "c": "dormant image",
+        "d": "hidden image",
+        "e": "inactive image",
+        "correct_answer": "b"
+    },
+    {
+        "question": "To make a daguerreotype, a copper sheet is plated with",
+        "a": "zinc",
+        "b": "mercury",
+        "c": "iron",
+        "d": "gold",
+        "e": "silver",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Louis Daguerre imagined the daguerreotype would become a tool for",
+        "a": "the wealthy",
+        "b": "artists",
+        "c": "businesses",
+        "d": "the middle class",
+        "e": "land developers",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following inventors brought the daguerreotype to the United States?",
+        "a": "Nicèphore Nièpce",
+        "b": "Samuel Morse",
+        "c": "Antione Hèrcules Romuald Florence",
+        "d": "Thomas Wedgewood",
+        "e": "Humphry Davy",
+        "correct_answer": "b"
+    },
+    {
+        "question": "How did daguerreotypes compare to later photographic processes?",
+        "a": "They could be taken in less time.",
+        "b": "Their tones and shades were more accurate.",
+        "c": "They were more portable.",
+        "d": "They were better able to capture motion.",
+        "e": "They could take photos from longer distances.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following details does NOT appear in the daguerreotype of Frederick Douglass?",
+        "a": "the \"thinker\" pose",
+        "b": "a cravat",
+        "c": "a stiff high collar",
+        "d": "a black coat",
+        "e": "bunched eyebrows",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Frederick Douglass praised the daguerreotype for its",
+        "a": "beauty",
+        "b": "ease of use",
+        "c": "speed",
+        "d": "objectivity",
+        "e": "suggestiveness",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Frederick Douglass felt that white artists of the nineteenth century tended to",
+        "a": "exaggerate qualities they associated with African Americans",
+        "b": "portray African Americans as childlike",
+        "c": "charge unfair prices to African Americans",
+        "d": "use leftover supplies for African American portraits",
+        "e": "inaccurately shade African American skin tones",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following Americans sat for the MOST photographs during the nineteenth century?",
+        "a": "Frederick Douglass",
+        "b": "George Custer",
+        "c": "Sojourner Truth",
+        "d": "Ulysses S. Grant",
+        "e": "Abraham Lincoln",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Portraits of Frederick Douglass are BEST described as",
+        "a": "cryptic and thought-provoking",
+        "b": "religious and ornate",
+        "c": "humble and melancholy",
+        "d": "plain and serious",
+        "e": "hopeful and furnished",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Through his photographs, Frederick Douglass presented himself as a(n)",
+        "a": "activist",
+        "b": "business leader",
+        "c": "intellectual",
+        "d": "author",
+        "e": "politician",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following photographers photographed enslaved African Americans for Louis Agassiz?",
+        "a": "Matthew Brady",
+        "b": "William Henry Jackson",
+        "c": "J.T. Zealy",
+        "d": "Robert Adamson",
+        "e": "Henry Peach Robinson",
+        "correct_answer": "c"
+    },
+    {
+        "question": "The theory of polygenesis helped justify",
+        "a": "slavery",
+        "b": "xenophobia",
+        "c": "animal abuse",
+        "d": "eugenics",
+        "e": "wealth disparity",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The wet-plate photograph differed from the daguerreotype because it could",
+        "a": "produce a wider range of shades",
+        "b": "produce colored images",
+        "c": "make multiple copies of an image",
+        "d": "produce images quicker",
+        "e": "take pictures in any setting",
+        "correct_answer": "c"
+    }
+]
+

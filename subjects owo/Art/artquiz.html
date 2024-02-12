@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quiz</title>
+</head>
+<body>
+
+<div class="quiz-container">
+    <label for="quiz-select">Choose a Quiz:</label>
+    <select id="quiz-select" onchange="loadQuiz()">
+        <option value="">Select a Quiz</option>
+        <option value="../../jsons rawr/art/art 1.json">Quiz 1</option>
+        <option value="../../jsons rawr/art/art 2.json">Quiz 2</option>
+        <option value="../../jsons rawr/art/art 3.json">Quiz 3</option>
+        <option value="../../jsons rawr/art/art 4.json">Quiz 4</option>
+        <option value="../../jsons rawr/art/art 5.json">Quiz 5</option>
+        <option value="../../jsons rawr/art/art 6.json">Quiz 6</option>
+        <option value="../../jsons rawr/art/art 7.json">Quiz 7</option>
+        <option value="../../jsons rawr/art/art 8.json">Quiz 8</option>
+        <option value="../../jsons rawr/art/art 9.json">Quiz 9</option>
+        <option value="../../jsons rawr/art/art 10.json">Quiz 10</option>
+        <option value="../../jsons rawr/art/art 11.json">Quiz 11</option>
+        <option value="../../jsons rawr/art/art 12.json">Quiz 12</option>
+        <option value="../../jsons rawr/art/art 13.json">Quiz 13</option>
+        <option value="../../jsons rawr/art/art 14.json">Quiz 14</option>
+        <!-- Add more options for other quizzes -->
+    </select>
+    <div class="question" id="question"></div>
+    <div id="options"></div>
+    <button onclick="checkAnswer()">Submit Answer</button>
+    <p id="result"></p>
+    <p id="score"></p>
+</div>
+
+<script>
+let questions;
+let currentQuestion = 0;
+let correctAnswers = 0;
+const questionElement = document.getElementById('question');
+const optionsElement = document.getElementById('options');
+const resultElement = document.getElementById('result');
+const scoreElement = document.getElementById('score');
+
+function loadQuiz() {
+    const select = document.getElementById('quiz-select');
+    const selectedQuiz = select.options[select.selectedIndex].value;
+
+    if (!selectedQuiz) return;
+
+    fetch(selectedQuiz)
+        .then(response => response.json())
+        .then(data => {
+            questions = data;
+            currentQuestion = 0;
+            correctAnswers = 0;
+            loadQuestion();
+        })
+        .catch(error => {
+            console.error('Error loading quiz:', error);
+        });
+}
+
+function loadQuestion() {
+    const question = questions[currentQuestion];
+    questionElement.textContent = question.question;
+
+    optionsElement.innerHTML = '';
+
+    for (let option in question) {
+        if (option !== 'question' && option !== 'correct_answer') {
+            const label = document.createElement('label');
+            label.innerHTML = `<input type="radio" name="answer" value="${option}"> ${question[option]} <br>`;
+            optionsElement.appendChild(label);
+        }
+    }
+}
+
+function checkAnswer() {
+    const selectedOption = document.querySelector('input[name="answer"]:checked');
+    if (!selectedOption) {
+        resultElement.textContent = 'Please select an answer.';
+        return;
+    }
+
+    const userAnswer = selectedOption.value;
+    const correctAnswer = questions[currentQuestion].correct_answer;
+
+    if (userAnswer === correctAnswer) {
+        resultElement.textContent = 'Correct!';
+        correctAnswers++;
+    } else {
+        resultElement.textContent = 'Wrong! The correct answer is ' + questions[currentQuestion][correctAnswer];
+    }
+
+    currentQuestion++;
+    if (currentQuestion < questions.length) {
+        loadQuestion();
+    } else {
+        resultElement.textContent += ' End of Quiz.';
+        scoreElement.textContent = `You got ${correctAnswers} out of ${questions.length} questions correct.`;
+    }
+}
+</script>
+
+</body>
+</html>
+

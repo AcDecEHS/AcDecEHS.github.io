@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Filippo Brunelleschi’s dome is in",
+    "a": "Florence",
+    "b": "Rome",
+    "c": "Pavia",
+    "d": "Venice",
+    "e": "Naples",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following subjects was the focus of De Pictura?",
+    "a": "vaulted arches",
+    "b": "chiaroscuro",
+    "c": "relief sculpture",
+    "d": "engraving",
+    "e": "linear perspective",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Leon Battista Alberti’s original attitude toward the intellectual achievements of his contemporaries could BEST be described as",
+    "a": "hopeful",
+    "b": "arrogant",
+    "c": "puzzled",
+    "d": "pessimistic",
+    "e": "indifferent",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Why was the site of Brunelleschi’s dome unfinished for an extended period of time?",
+    "a": "Previous architects could not adequately construct the cathedral.",
+    "b": "Planners could not agree on a specific design for the cathedral.",
+    "c": "The citizens protested the hazardous conditions construction workers faced.",
+    "d": "Plague prevented any concerted construction effort from taking place.",
+    "e": "The city ran out of funding for the cathedral’s construction.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following architectural styles did NOT influence Brunelleschi’s rendering of buildings?",
+    "a": "Persian",
+    "b": "Roman",
+    "c": "Gothic",
+    "d": "Hiberno-Saxon",
+    "e": "Byzantine",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following architectural styles MOST frequently made use of double-shelled domes?",
+    "a": "Gothic",
+    "b": "Byzantine",
+    "c": "Persian",
+    "d": "Roman",
+    "e": "Hiberno-Saxon",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Brunelleschi’s dome is made of",
+    "a": "marble",
+    "b": "bricks",
+    "c": "concrete",
+    "d": "wood",
+    "e": "sandstone",
+    "correct_answer": "b"
+  },
+  {
+    "question": "How many of the supporting vertical ribs on Brunelleschi’s dome can be seen from the cathedral’s exterior?",
+    "a": "eight",
+    "b": "six",
+    "c": "ten",
+    "d": "two",
+    "e": "four",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The binding agent in medieval tempera paint was",
+    "a": "wax",
+    "b": "egg yolk",
+    "c": "honey",
+    "d": "lime",
+    "e": "natural gum",
+    "correct_answer": "b"
+  },
+  {
+    "question": "One disadvantage of medieval tempera paint was that it",
+    "a": "was very expensive to produce",
+    "b": "would chip easily",
+    "c": "deteriorated rapidly in open air",
+    "d": "took too long to dry",
+    "e": "was difficult to blend tones",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following artists was among the pioneers of using oil paint for panel pictures?",
+    "a": "Matthias Grunewald",
+    "b": "Albert Durer",
+    "c": "Hans Holbein the Younger",
+    "d": "Titian Vecellio",
+    "e": "Jan van Eyck",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Who painted the Merode Altarpiece?",
+    "a": "Frans Pourbus",
+    "b": "Robert Campin",
+    "c": "David Teniers",
+    "d": "Melchior Broederlam",
+    "e": "Caspar Hoecke",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Gesso is a",
+    "a": "paint solvent",
+    "b": "paint binder",
+    "c": "canvas frame",
+    "d": "paint pigment",
+    "e": "canvas fabric",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Why did canvas become popular in Venice before the rest of Europe?",
+    "a": "The Venetian climate was very humid.",
+    "b": "Venetian patrons could reuse canvas in ship sails.",
+    "c": "Venetian carvers had trouble supplying wooden panels.",
+    "d": "Venetian merchants exclusively patronized canvas painters.",
+    "e": "Venetian merchants were extremely wealthy.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following statements does NOT describe an advantage of canvas for early modern painters?",
+    "a": "Canvas was easier to transport than its alternatives.",
+    "b": "Canvas had a smoother surface than its alternatives.",
+    "c": "Canvas was more durable than its alternatives.",
+    "d": "Canvas was easier to produce than its alternatives.",
+    "e": "Canvas was cheaper than its alternatives.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following cities became the center of the European art world during the Baroque era?",
+    "a": "Venice",
+    "b": "London",
+    "c": "Florence",
+    "d": "Rome",
+    "e": "Paris",
+    "correct_answer": "d"
+  },
+  {
+    "question": "By the seventeenth century, the primary medium of painting became",
+    "a": "encaustic",
+    "b": "fresco",
+    "c": "oil",
+    "d": "tempera",
+    "e": "watercolor",
+    "correct_answer": "c"
+  },
+  {
+    "question": "The term \"Baroque\" comes from the Portuguese word for a",
+    "a": "diamond",
+    "b": "shell",
+    "c": "ring",
+    "d": "necklace",
+    "e": "pearl",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Art critics of the seventeenth century coined the term \"Baroque\" to describe the",
+    "a": "religious connotations of the style",
+    "b": "lack of diversity in the artworks of the period",
+    "c": "appeal of the style to the royal and noble classes",
+    "d": "drama and turbulence of the style",
+    "e": "elegance and luxury of the style",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Artemisia Gentileschi received artistic training from her",
+    "a": "mother",
+    "b": "brother",
+    "c": "father",
+    "d": "uncle",
+    "e": "neighbor",
+    "correct_answer": "c"
+  },
+  {
+    "question": "After a patron hired another painter to replace her, Artemisia Gentileschi wrote in a letter,",
+    "a": "\"life is cruel\"",
+    "b": "\"people have cheated me\"",
+    "c": "\"I wish I were a man\"",
+    "d": "\"my heart is broken\"",
+    "e": "\"men are worms\"",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Artemisia Gentileschi's work did NOT commonly feature",
+    "a": "lush fabrics",
+    "b": "the natural world",
+    "c": "blood and violence",
+    "d": "emotional imagery",
+    "e": "dramatic scenes",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Artemisia Gentileschi became BEST known for painting",
+    "a": "royalty",
+    "b": "self-portraits",
+    "c": "women of strength",
+    "d": "the Twelve Apostles",
+    "e": "landscapes",
+    "correct_answer": "c"
+  },
+  {
+    "question": "How did Judith save the city of Bethulia in the Old Testament?",
+    "a": "She inspired the Bethulian soldiers before the battle.",
+    "b": "She served as a spy and stole the Assyrian army's plans.",
+    "c": "She tricked the Assyrian general and killed him in his sleep.",
+    "d": "She joined the army dressed as a man and killed the Assyrian general in battle.",
+    "e": "She married the Assyrian general to prevent war.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Patrons of the Baroque era delighted in",
+    "a": "reflective scenes",
+    "b": "playful and lighthearted scenes",
+    "c": "erotic and violent scenes",
+    "d": "calm and serene scenes",
+    "e": "religious scenes",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Artemisia Gentileschi's Judith and Her Maidservant focuses on",
+    "a": "the preparation for the event",
+    "b": "the event itself",
+    "c": "the setting of the event",
+    "d": "the moment before the event",
+    "e": "the moment after the event",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In Judith and Her Maidservant, Judith's right hand is",
+    "a": "over her heart",
+    "b": "pointing",
+    "c": "covering her face",
+    "d": "holding her maid's hand",
+    "e": "holding a sword",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In Judith and Her Maidservant, the maidservant is",
+    "a": "holding Judith's hand",
+    "b": "praying to God",
+    "c": "fleeing the scene",
+    "d": "shoving Holofernes's head into a sack",
+    "e": "gasping from shock",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following terms refers to the use of contrasting light and dark in a painting's palette?",
+    "a": "impasto",
+    "b": "revetment",
+    "c": "grisaille",
+    "d": "tenebrism",
+    "e": "sgraffito",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Artemisia Gentileschi's childhood teacher went to jail for",
+    "a": "robbery",
+    "b": "assault",
+    "c": "rape",
+    "d": "attempted murder",
+    "e": "kidnapping",
+    "correct_answer": "c"
+  }
+]
+

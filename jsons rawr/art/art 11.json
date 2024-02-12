@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Which of the following organizations funded Abbott's project documenting New York City?",
+    "a": "National Endowment for the Arts",
+    "b": "American Institute for Conservation",
+    "c": "United States Government",
+    "d": "Works Progress Administration",
+    "e": "Federal Art Project",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which of the following books were Abbott's New York City photographs published?",
+    "a": "The City and Its People",
+    "b": "Changing New York",
+    "c": "Manhattan Transitions",
+    "d": "Urban Metropolis",
+    "e": "The Industrial City",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What artistic technique did Abbott use in her photograph of Penn Station's interior?",
+    "a": "macro photography",
+    "b": "worm's-eye-view perspective",
+    "c": "panoramic photography",
+    "d": "wide-angle shot",
+    "e": "bird's eye view",
+    "correct_answer": "d"
+  },
+  {
+    "question": "With which architectural style is Pennsylvania Station associated?",
+    "a": "Brutalism",
+    "b": "Gothic Revival",
+    "c": "Art Deco",
+    "d": "Beaux-Arts",
+    "e": "Deconstructivism",
+    "correct_answer": "d"
+  },
+  {
+    "question": "For which of the following qualities is Penn Station known?",
+    "a": "functionality",
+    "b": "endurance",
+    "c": "modernism",
+    "d": "vibrancy",
+    "e": "magnificence",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How many acres of city space did Pennsylvania Station occupy?",
+    "a": "twelve",
+    "b": "ten",
+    "c": "six",
+    "d": "four",
+    "e": "eight",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who designed Pennsylvania Station?",
+    "a": "McKim, Mead, and White",
+    "b": "Philip Johnson",
+    "c": "I.M. Pei",
+    "d": "Berenice Abbott",
+    "e": "Frank Lloyd Wright",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Why PRIMARILY was Penn Station demolished?",
+    "a": "There was a reduction in municipal funding.",
+    "b": "It suffered structural damage.",
+    "c": "Commuter demand fell.",
+    "d": "Residents demanded more alternative transportation.",
+    "e": "The Queens Botanical Garden was slated to replace it.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What directly resulted from the controversy surrounding Penn Station's demolition?",
+    "a": "financial investment in transportation infrastructure",
+    "b": "rebranding of Penn Station as a modern symbol of progress",
+    "c": "the creation of a new train station",
+    "d": "the architectural preservation movement",
+    "e": "increased commuter demand",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What organization was created in response to Penn Station's demolition?",
+    "a": "New York City Landmarks Preservation Commission",
+    "b": "American Institute for Conservation",
+    "c": "New York Art Society",
+    "d": "United States Historical Society",
+    "e": "Federal Arts Preservation Commission",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the main focus of Berenice Abbott's photographs?",
+    "a": "natural landscapes and scenic beauty",
+    "b": "immigration and diversity",
+    "c": "industrial progress and modern design",
+    "d": "political movements and activism",
+    "e": "historic and cultural landmarks",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the significance of Abbott's photographs of Penn Station?",
+    "a": "They serve as a visual archive of the demolished structure.",
+    "b": "They preserve the development of modern architecture.",
+    "c": "They capture the beauty of classical architecture.",
+    "d": "They depict the bustling station’s atmosphere in the 20th century.",
+    "e": "They document the rise of urbanization in New York City.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "How did Abbott’s work fulfill her ambition?",
+    "a": "by emphasizing urban diversity",
+    "b": "by preserving historical landmarks",
+    "c": "by capturing the spirit of industrial progress",
+    "d": "by highlighting the artistic possibilities of the medium",
+    "e": "by conveying history through",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What MOST inspired Berenice Abbott's work as a photographer in New York City?",
+    "a": "the local culture and traditions",
+    "b": "its rapid transformation",
+    "c": "the historic landmarks",
+    "d": "the natural landscapes",
+    "e": "the diversity of the population",
+    "correct_answer": "b"
+  },
+  {
+    "question": "During which time period did Abbott independently work on documenting New York City without public funding?",
+    "a": "The Great Recession",
+    "b": "World War 2",
+    "c": "The Great Depression",
+    "d": "Gulf War",
+    "e": "World War 1",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What was the earliest iteration of the camera obscura?",
+    "a": "a portable magnifying lens",
+    "b": "a chemical mixture that produced permanent images",
+    "c": "a darkened room with a tiny opening",
+    "d": "a mechanism that reversed light and dark tones",
+    "e": "a device that used sunlight to create images",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What materials did Florence use to create an early photograph?",
+    "a": "sodium chloride and iodine fumes",
+    "b": "bitumen of Judea and iodine fumes",
+    "c": "light-sensitive paper and chemicals",
+    "d": "pewter plate and light-sensitive paper",
+    "e": "sunlight and treated paper",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who developed a technique for using sunlight and light-sensitive paper to make copies of written documents?",
+    "a": "Louis Daguerre",
+    "b": "Thomas Wedgewood",
+    "c": "Nicéphore Niépce",
+    "d": "Antoine Hércules Romuald Florence",
+    "e": "Frederick Douglass",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the significance of Niépce's View from the Window at Le Gras?",
+    "a": "It is the world's oldest surviving permanent photograph.",
+    "b": "It is the earliest photograph taken at night.",
+    "c": "It was the only photograph ever to be taken at Le Gras.",
+    "d": "It is the only photograph taken by Niépce.",
+    "e": "It is the earliest photograph containing a human.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Who further developed Nicéphore Niépce's work to create the commercially successful photograph?",
+    "a": "Frederick Douglass",
+    "b": "Louis Daguerre",
+    "c": "Nicéphore Niépce",
+    "d": "Antoine Hércules Romuald Florence",
+    "e": "Humphry Davy",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What process was used to create the daguerreotype?",
+    "a": "treating the plate with mercury fumes and sodium chloride",
+    "b": "using sunlight to create copies of engravings",
+    "c": "coating a pewter plate with bitumen of Judea",
+    "d": "exposing treated paper in a camera obscura",
+    "e": "exposing a polished silver-plated copper sheet to iodine fumes",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which government published the instructions for recreating the 'daguerrotype'?",
+    "a": "Spanish",
+    "b": "French",
+    "c": "Italian",
+    "d": "German",
+    "e": "British",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What did the daguerreotype offer to Victorian-era society?",
+    "a": "documentation of industrial progress",
+    "b": "preservation of historical landmarks",
+    "c": "objectivity in capturing a sitter's 'character'",
+    "d": "democratization of portraiture",
+    "e": "pristine geometries in symmetrical paintings",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Why did Frederick Douglass prefer photography over painted portraits?",
+    "a": "Photography was considered a higher art form.",
+    "b": "Photography allowed for longer sittings.",
+    "c": "Photography provided greater detail and clarity.",
+    "d": "Photography captured reality impartially.",
+    "e": "Photography was more readily available.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The Zealy-Agassiz zoological study produced images of",
+    "a": "natural beauty",
+    "b": "modern architecture",
+    "c": "industrial landscapes",
+    "d": "diverse people",
+    "e": "historic artifacts",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What did the daguerreotype contribute to the pseudoscientific field of polygenesis?",
+    "a": "creation of clone-like replicas",
+    "b": "documentation of industrial progress",
+    "c": "affordable and quick portraits",
+    "d": "control over criminals and immigrants",
+    "e": "support for the belief in racial superiority",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What replaced the daguerreotype in the 1860s?",
+    "a": "the negative-positive procedure",
+    "b": "light-writing experiments",
+    "c": "the wet-plate process",
+    "d": "camera obscura",
+    "e": "palladium printing",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What art movement celebrated the new American landscape in symmetrical, aestheticized paintings and photographs?",
+    "a": "Precisionism",
+    "b": "Abstract Expressionism",
+    "c": "Surrealism",
+    "d": "Cubism",
+    "e": "Impressionism",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Who worked on the documentation of a rapidly industrializing New York City during the Precisionist movement?",
+    "a": "Thomas Wedgewood",
+    "b": "Humphry Davy",
+    "c": "Nicéphore Niépce",
+    "d": "Louis Daguerre",
+    "e": "Berenice Abbott",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What was used to mute and soften the light in the photograph of Penn Station?",
+    "a": "long exposure time",
+    "b": "pewter plate",
+    "c": "bitumen of Judea",
+    "d": "light-sensitive paper",
+    "e": "iodine fumes",
+    "correct_answer": "c"
+  }
+]
+

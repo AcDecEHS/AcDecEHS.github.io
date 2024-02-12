@@ -1,0 +1,273 @@
+[
+    {
+        "question": "Americans did NOT value silhouettes for their",
+        "a": "simplicity",
+        "b": "suggestiveness",
+        "c": "price",
+        "d": "speed",
+        "e": "accuracy",
+        "correct_answer": "c"
+    },
+    {
+        "question": "In whose museum did Moses Williams work?",
+        "a": "Winslow Homer",
+        "b": "Charles Wilson Peale",
+        "c": "John Singer Sargent",
+        "d": "John SIngleton Copley",
+        "e": "John Smibert",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Silhouettes resonated with the republican value of",
+        "a": "modesty",
+        "b": "hard work",
+        "c": "generosity",
+        "d": "ornament",
+        "e": "freedom",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Eadweard Muybridge’s work led to the creation of",
+        "a": "landscape photography",
+        "b": "instantaneous photography",
+        "c": "scientific photography",
+        "d": "aerial photography",
+        "e": "digital photography",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following men hired Eadweard Muybridge to study horse locomotion?",
+        "a": "Ezra Cornell",
+        "b": "Leland Stanford",
+        "c": "Robert Baylor",
+        "d": "John Harvard",
+        "e": "Cornelius Vanderbilt",
+        "correct_answer": "b"
+    },
+    {
+        "question": "To capture The Horse in Motion, Eadweard Muybridge used",
+        "a": "fifteen cameras",
+        "b": "fourteen cameras",
+        "c": "eleven cameras",
+        "d": "twelve cameras",
+        "e": "thirteen cameras",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following machines enhanced the lectures of Eadweard Muybridge?",
+        "a": "pantograph",
+        "b": "zoopraxiscope",
+        "c": "oscillograph",
+        "d": "daguerreotype",
+        "e": "physiognotrace",
+        "correct_answer": "b"
+    },
+    {
+        "question": "In the early twentieth century, avant-garde artists used",
+        "a": "photography to show the true realities of the world",
+        "b": "watercolors to paint outdoors with greater ease",
+        "c": "film to capture the spirit of modern life",
+        "d": "interactive sculptures to engage with their audience",
+        "e": "oil on canvas to create strikingly realistic images",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following art styles became the MOST dominant right after the Second World War?",
+        "a": "Minimalism",
+        "b": "Abstract Expressionism",
+        "c": "Photorealism",
+        "d": "Neo-Dada",
+        "e": "Pop art",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Nam June Paik’s Magnet TV displays",
+        "a": "abstract geometric patterns",
+        "b": "scenes from Paik’s past",
+        "c": "local television broadcasts",
+        "d": "the inside of a TV",
+        "e": "broad swaths of color",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Nam June Paik's Magnet TV incorporates elements of",
+        "a": "Postmodernism",
+        "b": "performance art",
+        "c": "Impressionism",
+        "d": "Art Nouveau",
+        "e": "Naturalism",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How did Nam June Paik primarily impact the art world?",
+        "a": "He questioned traditional art techniques.",
+        "b": "He made art more racially inclusive.",
+        "c": "He helped the United States emerge as the world leader in art production.",
+        "d": "His works led more artists to interrogate society.",
+        "e": "He brought horses to the focus of artists.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What did the Interstate Highway Act of 1956 do?",
+        "a": "It gave states cooperative authority over interstate highways.",
+        "b": "It reasserted federal control over interstate highways.",
+        "c": "It connected major cities with new highways.",
+        "d": "It rebuilt run-down highways.",
+        "e": "It introduced the toll tag on highways.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following themes does NOT appear in John Chamberlain's Velvet White?",
+        "a": "a critique of toxic car pollution",
+        "b": "a critique of fatal car crashes",
+        "c": "the car culture’s cycle of production and disposal",
+        "d": "an unbridled spirit of adventure",
+        "e": "the freedom cars bring",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The white color of John Chamberlain's Velvet White alludes to a work by",
+        "a": "Jackson Pollock",
+        "b": "Willem de Kooning",
+        "c": "Lee Krasner",
+        "d": "Robert Rauschenberg",
+        "e": "Franz Kline",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following artworks was created FIRST?",
+        "a": "Mummy with Inserted Panel Portrait of a Youth",
+        "b": "The Pantheon",
+        "c": "Jar with Dragon",
+        "d": "Benin Plaque with Oba",
+        "e": "Chartres Cathedral South Rose Window",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Berenice Abbott photographed Penn Station, Interior a year before",
+        "a": "the metal paint tube was invented",
+        "b": "World War II began",
+        "c": "the Ford Model T was first produced",
+        "d": "World War I ended",
+        "e": "Television was first shown to the public",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following events occurred before the common era (BCE)?",
+        "a": "the construction of the Pantheon",
+        "b": "the use of the magnetic compass in Europe",
+        "c": "the first production of porcelain",
+        "d": "the publication of Nung Shu",
+        "e": "the invention of the camera obscura",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Jar with Dragon was created around the same time as",
+        "a": "the construction of Notre Dame",
+        "b": "the discovery of Prussian blue",
+        "c": "Vasco de Gama sailing around Africa",
+        "d": "the Mongols conquering Asia",
+        "e": "the invention of the full-rigged ship",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following events occurred before the American Civil War?",
+        "a": "the zoopraxiscope was invented",
+        "b": "the British destroyed Benin City",
+        "c": "Muybridge creates A Horse is Motion",
+        "d": "the daguerreotype was used for imaging",
+        "e": "Monet painted The Bridge at Argenteuil",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following pairs of events occurred in the same century?",
+        "a": "Christopher’s Columbus’s arrival in America and the sacking of Rome by Charles V",
+        "b": "the construction of Notre Dame and the creation of the Mongol empire",
+        "c": "the discovery of Prussian blue and the opening of Charles Willson Peale’s museum",
+        "d": "the first use of Roman concrete and the invention of the magnetic compass",
+        "e": "the invention of the zoopraxiscope and World War I",
+        "correct_answer": "b"
+    },
+    {
+        "question": "In what year is the Edo Museum of West African Art expected to be complete?",
+        "a": "2028",
+        "b": "2025",
+        "c": "2024",
+        "d": "2030",
+        "e": "2033",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How many years after the first production of the Ford Model T in Michigan was the Interstate Highway Act passed?",
+        "a": "33",
+        "b": "48",
+        "c": "27",
+        "d": "19",
+        "e": "65",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Albrecht Dürer engraved Melencolia I before",
+        "a": "Fra Filippo Lippi painted The Annunciation",
+        "b": "Christopher Columbus reached America",
+        "c": "The Holy Roman Empire sacked Rome",
+        "d": "Cristallo glass was invented.",
+        "e": "Filippo Brunelleschi created the Duomo",
+        "correct_answer": "c"
+    },
+    {
+        "question": "The metal paint tube was invented in the same century that",
+        "a": "Penn Station was completed in New York",
+        "b": "Prussian blue was invented",
+        "c": "Vigée-Lebrun painted Self Portrait in a Straw Hat",
+        "d": "the British sacked Benin",
+        "e": "Charles Willson Peale opened his museum",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Johannes Gutenberg invented the printing press in the same decade that",
+        "a": "Filippo Brunelleschi invented linear perspective",
+        "b": "Chinese potters refined blue-and-white porcelain",
+        "c": "the Benin Plaque with Oba was created",
+        "d": "the Age of Enlightenment began",
+        "e": "the Atlantic slave trade began",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following events occurred during the Age of Enlightenment?",
+        "a": "the first railroads in the US were built",
+        "b": "the American Civil War ended",
+        "c": "the metal paint tube was patented",
+        "d": "Gentileschi painted Judith and her Maidservant",
+        "e": "the physiognotrace was invented",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What year was the Pantheon completed?",
+        "a": "128",
+        "b": "144",
+        "c": "194",
+        "d": "136",
+        "e": "180",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following artworks was created last?",
+        "a": "Raphaelle Peale’s silhouette of Moses Williams",
+        "b": "the daguerreotype of Fredrick Douglass",
+        "c": "Nicéphore Niépce’s View from the Window at Le Gras",
+        "d": "Vigée-Lebrun’s Self Portrait in a Straw Hat",
+        "e": "Monet’s The Bridge at Argenteuil",
+        "correct_answer": "b"
+    },
+    {
+        "question": "How many years did Fra Filippo Lippi work on The Annunciation?",
+        "a": "3",
+        "b": "2",
+        "c": "8",
+        "d": "5",
+        "e": "10",
+        "correct_answer": "d"
+    }
+]
+

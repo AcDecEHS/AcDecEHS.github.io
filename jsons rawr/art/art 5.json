@@ -1,0 +1,282 @@
+[
+    {
+        "question": "With which of the following art mediums did Albrecht Dürer work?",
+        "a": "furnishings and décor",
+        "b": "plaster and canvas",
+        "c": "woodcuts and engravings",
+        "d": "glasswork and tableware",
+        "e": "granite and ceramics",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How did Albrecht Dürer achieve financial success and renown for his artwork?",
+        "a": "by receiving recognition from Pope Leo X",
+        "b": "by collaborating with other Renaissance artists",
+        "c": "by accepting commissions",
+        "d": "by marketing his artwork",
+        "e": "by hiding his artwork to increase its value",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following art techniques involves engraving small dots?",
+        "a": "stipple engraving",
+        "b": "tenebrism",
+        "c": "etching",
+        "d": "hatch marks",
+        "e": "linear engraving",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which form in Melencolia I is considered to BEST represent Dürer himself?",
+        "a": "the winged female figure",
+        "b": "the resting dog",
+        "c": "the light in the horizon",
+        "d": "the bat-like creature",
+        "e": "the winged infant",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Dürer’s Melencolia I is BEST interpreted as a statement about the relationship between",
+        "a": "divine Enlightenment and melancholy spirituality",
+        "b": "femininity and the vilification of masculinity",
+        "c": "rationalization and realization of divinity",
+        "d": "technological advancements and secularization",
+        "e": "the artistic spirit and melancholic humor",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Renaissance-era medicine believed that a melancholic state and creative genius was associated with",
+        "a": "excessive black bile",
+        "b": "insufficient phlegm",
+        "c": "insufficient blood",
+        "d": "insufficient yellow bile",
+        "e": "excessive yellow bile",
+        "correct_answer": "a"
+    },
+    {
+        "question": "To protect his finances and artwork, Albrecht Dürer",
+        "a": "filed the first artistic copyright lawsuit",
+        "b": "established an exclusive association of investors",
+        "c": "invested in other Renaissance artists",
+        "d": "accepted commissions from international art dealers",
+        "e": "wrote the first insurance policy for his art",
+        "correct_answer": "e"
+    },
+    {
+        "question": "In Dürer’s Melencolia I, the influence of Italian art is MOST evident in",
+        "a": "the physical volume of the objects",
+        "b": "the stipple engraving of the foreground",
+        "c": "the angelic archetype of the feminine figure",
+        "d": "the dimensions of the weighing scales",
+        "e": "the texture of the block of stone",
+        "correct_answer": "d"
+    },
+    {
+        "question": "The winged woman in Dürer’s Melencolia I can BEST be described as engaged in",
+        "a": "artistic inspiration",
+        "b": "purposeful transformation",
+        "c": "unproductive introspection",
+        "d": "emotional contemplation",
+        "e": "creative renunciation",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following elements in Dürer’s Melencolia I represents practical knowledge?",
+        "a": "the winged woman holding the compass",
+        "b": "the geometrical tools scattered in the foreground",
+        "c": "the bright light shining on the horizon",
+        "d": "the winged infant writing on the slate",
+        "e": "the winged bat holding the banner",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The light in the horizon of Dürer’s Melencolia I represents",
+        "a": "anticipation for the return of a prophet",
+        "b": "the great legacy of past Renaissance artists",
+        "c": "divine inspiration to create celestial artwork",
+        "d": "the hope of overcoming depressive melancholy",
+        "e": "medicinal advancements for curing black bile",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following art techniques does NOT contribute to the visual dynamism of Albrecht Dürer’s Melencolia I?",
+        "a": "lines of various widths",
+        "b": "hatch marks",
+        "c": "strong light contrast",
+        "d": "hierarchic scale",
+        "e": "stipple engraving",
+        "correct_answer": "e"
+    },
+    {
+        "question": "When was Albrecht Dürer’s Melencolia I completed?",
+        "a": "during the abstract expressionist movement",
+        "b": "before the print of Buxheim St. Christopher",
+        "c": "before the invention of the magnetic compass",
+        "d": "before the Renaissance era",
+        "e": "after the development of the moveable print",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the seven liberal arts of artistic creation do the tools in the foreground of Albrecht Dürer’s Melencolia I represent?",
+        "a": "astronomy",
+        "b": "rhetoric",
+        "c": "music",
+        "d": "geometry",
+        "e": "logic",
+        "correct_answer": "d"
+    },
+    {
+        "question": "In his artwork, Dürer MOST frequently explored",
+        "a": "the artist as the creator",
+        "b": "modernity, culture, and secularization",
+        "c": "the physical, spiritual, and intellectual realms",
+        "d": "self-awareness",
+        "e": "the natural world and mathematics",
+        "correct_answer": "e"
+    },
+    {
+        "question": "The advent of linear perspective primarily allowed artists to",
+        "a": "create the illusion of a three-dimensional image",
+        "b": "artistic perspective",
+        "c": "express the relative importance of figures",
+        "d": "convey space on two-dimensional surfaces",
+        "e": "create atmospheric effects",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Artists from which of these ancient civilizations first figured out how to create the appearance of space in images?",
+        "a": "Egyptians",
+        "b": "Greeks",
+        "c": "Chinese",
+        "d": "Japanese",
+        "e": "Mayans",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of these Italian artists invented linear perspective?",
+        "a": "Simone Martini",
+        "b": "Pietro Lorenzetti",
+        "c": "Filippo Brunelleschi",
+        "d": "Giotto",
+        "e": "Duccio",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of these artistic elements does linear perspective NOT use?",
+        "a": "vertical lines",
+        "b": "vanishing point",
+        "c": "structural grid",
+        "d": "horizon line",
+        "e": "diagonal lines",
+        "correct_answer": "e"
+    },
+    {
+        "question": "In linear perspective, orthogonals are",
+        "a": "perpendicular lines",
+        "b": "vertical lines",
+        "c": "parallel lines",
+        "d": "horizontal lines",
+        "e": "diagonal lines",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Artists use linear perspective to determine an object’s",
+        "a": "orientation",
+        "b": "position",
+        "c": "color",
+        "d": "size",
+        "e": "shape",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following artists created the work Holy Trinity?",
+        "a": "Filippo Brunelleschi",
+        "b": "Giotto",
+        "c": "Donatello",
+        "d": "Masaccio",
+        "e": "Leonardo da Vinci",
+        "correct_answer": "d"
+    },
+    {
+        "question": "A work of art in which the most important figures are largest in size is using",
+        "a": "hierarchic scale",
+        "b": "relative perspective",
+        "c": "one-point perspective",
+        "d": "classic scale",
+        "e": "stratified scale",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What cultural changes contributed to the adoption of linear perspective?",
+        "a": "romanticism",
+        "b": "modernization",
+        "c": "secularization",
+        "d": "realism",
+        "e": "neoclassicism",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Linear perspective enabled each of the following methods of precise representation EXCEPT",
+        "a": "diagrams",
+        "b": "charts",
+        "c": "photos",
+        "d": "maps",
+        "e": "graphs",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which wealthy Florentine family commissioned Fra Filippo Lippi’s The Annunciation?",
+        "a": "Alberti",
+        "b": "Salviati",
+        "c": "Albizzi",
+        "d": "Pazzi",
+        "e": "Medici",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Fra Filippo Lippi’s The Annunciation was painted on a semi-circular wood panel, a shape also called a",
+        "a": "tympanum",
+        "b": "fan",
+        "c": "lunette",
+        "d": "tempera",
+        "e": "pediment",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which religious figure is the main subject of Fra Filippo Lippi’s The Annuncation?",
+        "a": "Virgin Mary",
+        "b": "God",
+        "c": "archangel Gabriel",
+        "d": "Christ",
+        "e": "Holy Ghost",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Fra Filippo Lippi created art during which time period?",
+        "a": "Trecento",
+        "b": "Seicento",
+        "c": "Cinquecento",
+        "d": "Duecento",
+        "e": "Quattrocento",
+        "correct_answer": "e"
+    },
+    {
+        "question": "As an orphaned teen living in a monastery, Fra Filippo Lippi was exposed to and influenced by the artist",
+        "a": "Michelangelo",
+        "b": "Masaccio",
+        "c": "Donatello",
+        "d": "Brunelleschi",
+        "e": "Masolino",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Fra Filippo Lippi’s The Annunciation contains all of these Christian symbols EXCEPT",
+        "a": "golden haloes",
+        "b": "a white dove",
+        "c": "the archangel Gabriel",
+        "d": "Christ",
+        "e": "the hand of God",
+        "correct_answer": "e"
+    }
+]
+

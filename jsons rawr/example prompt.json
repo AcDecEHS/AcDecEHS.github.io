@@ -1,0 +1,8 @@
+Can you make a json file with questions I paste in that's structured like this?
+      "question": "Question",
+      "a": "answer",
+      "b": "answer",
+      "c": "answer",
+      "d": "answer",
+      "e": "answer",
+      "correct_answer": "a b c d or e"
