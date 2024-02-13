@@ -24,7 +24,7 @@
     "c": "They did not leak.",
     "d": "They were easy to carry.",
     "e": "They preserved the paint.",
-    "correct_answer": "e"
+    "correct_answer": "b"
   },
   {
     "question": "A painting with impasto effect has",
@@ -96,7 +96,7 @@
     "c": "blue",
     "d": "purple",
     "e": "red",
-    "correct_answer": "a"
+    "correct_answer": "c"
   },
   {
     "question": "In what way did the Industrial Revolution NOT affect paints?",
@@ -105,7 +105,7 @@
     "c": "New chemicals were used to create pigments",
     "d": "Steam-powered mills ground pigments.",
     "e": "A wider range of colors were available.",
-    "correct_answer": "b"
+    "correct_answer": "a"
   },
   {
     "question": "The theory of complementary colors in the nineteenth century was based mainly on the work of a",
@@ -141,7 +141,7 @@
     "c": "Scientific Revolution",
     "d": "Bronze Age",
     "e": "Dark Ages",
-    "correct_answer": "b"
+    "correct_answer": "a"
   },
   {
     "question": "From which of the following materials did artists NOT derive pigments before the development of chemistry?",
@@ -159,7 +159,7 @@
     "c": "London",
     "d": "Berlin",
     "e": "Rome",
-    "correct_answer": "b"
+    "correct_answer": "d"
   },
   {
     "question": "Which of the following blue shades was the first synthetic pigment?",
@@ -177,7 +177,7 @@
     "c": "The materials used in blue pigments were dangerous to humans.",
     "d": "Blue pigments were highly expensive.",
     "e": "The use of blue pigment had adverse environmental effects.",
-    "correct_answer": "b"
+    "correct_answer": "d"
   },
   {
     "question": "Antoine Watteau used the first synthetic pigment to evoke a sense of",
@@ -204,7 +204,7 @@
     "c": "to sell during the artist’s period of financial destitution",
     "d": "to serve as the artist’s experiment with color",
     "e": "to fulfill a commission issued by a fellow",
-    "correct_answer": "e"
+    "correct_answer": "b"
   },
   {
     "question": "Which of these artistic institutions rejected Marie-Louise-Elisabeth Vigée-Lebrun on the basis of her gender?",
@@ -231,7 +231,7 @@
     "c": "fiery passion",
     "d": "calm authority",
     "e": "friendly contentment",
-    "correct_answer": "e"
+    "correct_answer": "d"
   },
   {
     "question": "Which of the following terms refers to the Impressionist practice of painting outside?",

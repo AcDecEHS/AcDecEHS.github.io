@@ -6,7 +6,7 @@
     "c": "United States Government",
     "d": "Works Progress Administration",
     "e": "Federal Art Project",
-    "correct_answer": "d"
+    "correct_answer": "e"
   },
   {
     "question": "In which of the following books were Abbott's New York City photographs published?",
@@ -24,7 +24,7 @@
     "c": "panoramic photography",
     "d": "wide-angle shot",
     "e": "bird's eye view",
-    "correct_answer": "d"
+    "correct_answer": "b"
   },
   {
     "question": "With which architectural style is Pennsylvania Station associated?",
@@ -51,7 +51,7 @@
     "c": "six",
     "d": "four",
     "e": "eight",
-    "correct_answer": "c"
+    "correct_answer": "e"
   },
   {
     "question": "Who designed Pennsylvania Station?",
@@ -69,7 +69,7 @@
     "c": "Commuter demand fell.",
     "d": "Residents demanded more alternative transportation.",
     "e": "The Queens Botanical Garden was slated to replace it.",
-    "correct_answer": "a"
+    "correct_answer": "c"
   },
   {
     "question": "What directly resulted from the controversy surrounding Penn Station's demolition?",
@@ -114,7 +114,7 @@
     "c": "by capturing the spirit of industrial progress",
     "d": "by highlighting the artistic possibilities of the medium",
     "e": "by conveying history through",
-    "correct_answer": "c"
+    "correct_answer": "e"
   },
   {
     "question": "What MOST inspired Berenice Abbott's work as a photographer in New York City?",
@@ -150,7 +150,7 @@
     "c": "light-sensitive paper and chemicals",
     "d": "pewter plate and light-sensitive paper",
     "e": "sunlight and treated paper",
-    "correct_answer": "b"
+    "correct_answer": "c"
   },
   {
     "question": "Who developed a technique for using sunlight and light-sensitive paper to make copies of written documents?",
@@ -267,7 +267,7 @@
     "c": "bitumen of Judea",
     "d": "light-sensitive paper",
     "e": "iodine fumes",
-    "correct_answer": "c"
+    "correct_answer": "a"
   }
 ]
 

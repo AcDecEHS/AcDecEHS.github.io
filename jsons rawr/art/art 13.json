@@ -6,7 +6,7 @@
     "c": "John Baird",
     "d": "Philo Taylor Farnsworth",
     "e": "Boris Rosing",
-    "correct_answer": "a"
+    "correct_answer": "c"
   },
   {
     "question": "In the late 1990s, Americans used television sets daily for an average of",
@@ -33,7 +33,7 @@
     "c": "radio",
     "d": "automobile",
     "e": "telephone",
-    "correct_answer": "c"
+    "correct_answer": "a"
   },
   {
     "question": "After 1945, the center of the art world shifted from Paris to",
@@ -69,7 +69,7 @@
     "c": "electronic sculpture",
     "d": "video art",
     "e": "television",
-    "correct_answer": "b"
+    "correct_answer": "d"
   },
   {
     "question": "Which of the following art groups used new technology similarly to Nam June Paik?",
@@ -78,7 +78,7 @@
     "c": "Impressionists",
     "d": "Minimalists",
     "e": "Fauves",
-    "correct_answer": "b"
+    "correct_answer": "a"
   },
   {
     "question": "Which of the following television models does Nam June Paik’s Magnet TV use?",
@@ -87,7 +87,7 @@
     "c": "Doric RNS RTW",
     "d": "Sony 5 5-303W",
     "e": "Perdio Portarama",
-    "correct_answer": "b"
+    "correct_answer": "a"
   },
   {
     "question": "How could viewers originally interact with Nam June Paik’s Magnet TV?",
@@ -114,7 +114,7 @@
     "c": "John Singer Sargent",
     "d": "Frank Stella",
     "e": "Alfred Sisley",
-    "correct_answer": "b"
+    "correct_answer": "a"
   },
   {
     "question": "The magnet in Nam June Paik’s Magnet TV blocks the",
@@ -132,7 +132,7 @@
     "c": "They questioned traditional art techniques.",
     "d": "They investigated the social conditions of society.",
     "e": "They encouraged the return of older art styles.",
-    "correct_answer": "c"
+    "correct_answer": "d"
   },
   {
     "question": "Which United States president signed the Interstate Highway Act?",
@@ -168,7 +168,7 @@
     "c": "growth of hotels and restaurants",
     "d": "development of suburbs around cities",
     "e": "production changes of rubber",
-    "correct_answer": "e"
+    "correct_answer": "b"
   },
   {
     "question": "How does Velvet White differ from Chamberlain's other works?",
@@ -204,7 +204,7 @@
     "c": "excitement",
     "d": "familiarity",
     "e": "peace",
-    "correct_answer": "e"
+    "correct_answer": "a"
   },
   {
     "question": "In which artwork did Chamberlain first use car parts?",
@@ -222,7 +222,7 @@
     "c": "in the ditch",
     "d": "at a friend’s house",
     "e": "in a junkyard",
-    "correct_answer": "e"
+    "correct_answer": "d"
   },
   {
     "question": "The colors Chamberlain’s Dolores Jones are MOST similar to the works of",
@@ -231,7 +231,7 @@
     "c": "Franz Kline",
     "d": "Jackson Pollock",
     "e": "Marcel Duchamp",
-    "correct_answer": "d"
+    "correct_answer": "b"
   },
   {
     "question": "What did Chamberlain do first to the car he used for Shortstop?",
@@ -249,7 +249,7 @@
     "c": "1999",
     "d": "1957",
     "e": "1951",
-    "correct_answer": "d"
+    "correct_answer": "b"
   },
   {
     "question": "Chamberlain’s Velvet White is MOST similar to works of",
@@ -267,7 +267,7 @@
     "c": "26,000",
     "d": "19,000",
     "e": "68,000",
-    "correct_answer": "a"
+    "correct_answer": "b"
   }
 ]
 

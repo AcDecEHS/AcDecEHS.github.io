@@ -42,7 +42,7 @@
     "c": "Newport",
     "d": "New York City",
     "e": "Charleston",
-    "correct_answer": "d"
+    "correct_answer": "a"
   },
   {
     "question": "Charles Wilson Peale’s museum included all of the following items EXCEPT",
@@ -60,7 +60,7 @@
     "c": "Thomas Edison",
     "d": "James Naismith",
     "e": "Eli Whitney",
-    "correct_answer": "e"
+    "correct_answer": "a"
   },
   {
     "question": "Which of the following machines traces the outline of a sitter’s silhouette in a physiognotrace?",
@@ -87,7 +87,7 @@
     "c": "fox-like ears",
     "d": "hard shift eyes",
     "e": "low foreheads",
-    "correct_answer": "d"
+    "correct_answer": "c"
   },
   {
     "question": "To which group of people did silhouettes especially appeal?",
@@ -114,7 +114,7 @@
     "c": "hard work",
     "d": "modesty",
     "e": "freedom",
-    "correct_answer": "a"
+    "correct_answer": "d"
   },
   {
     "question": "Silhouettes laid the groundwork for the success of",
@@ -132,7 +132,7 @@
     "c": "the Library Company of Philadelphia",
     "d": "the Library of Congress",
     "e": "the Barnes Foundation",
-    "correct_answer": "d"
+    "correct_answer": "c"
   },
   {
     "question": "Which of the following technologies did NOT have a significant effect on the nineteenth century?",
@@ -150,7 +150,7 @@
     "c": "Abstractionism",
     "d": "Naturalism",
     "e": "Realism",
-    "correct_answer": "e"
+    "correct_answer": "a"
   },
   {
     "question": "In his photographic experiments, Eadweard Muybridge used technological advancements in",
@@ -195,7 +195,7 @@
     "c": "the University of Pennsylvania",
     "d": "Harvard University",
     "e": "the University of California, Los Angeles",
-    "correct_answer": "e"
+    "correct_answer": "c"
   },
   {
     "question": "Which of the following scenes would NOT have appeared in Eadweard Muybridge's Animal Locomotion?",
@@ -204,7 +204,7 @@
     "c": "a dog trotting",
     "d": "a man boxing",
     "e": "a woman making a bed",
-    "correct_answer": "e"
+    "correct_answer": "a"
   },
   {
     "question": "Eadweard Muybridge produced Animal Locomotion alongside the painter",
@@ -222,7 +222,7 @@
     "c": "speed",
     "d": "time",
     "e": "technology",
-    "correct_answer": "e"
+    "correct_answer": "d"
   },
   {
     "question": "Critics of Eadweard Muybridge's The Horse In Motion claimed that it was",
@@ -231,7 +231,7 @@
     "c": "incorrect",
     "d": "too short",
     "e": "inconclusive",
-    "correct_answer": "e"
+    "correct_answer": "a"
   },
   {
     "question": "Muybridge used his zoopraxiscope primarily to",

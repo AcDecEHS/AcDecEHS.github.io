@@ -6,7 +6,7 @@
         "c": "metal sheets",
         "d": "daguerreotype plates",
         "e": "light-sensitive paper",
-        "correct_answer": "b"
+        "correct_answer": "e"
     },
     {
         "question": "Which chemical solution did Niépce use for his initial experimentation?",
@@ -15,7 +15,7 @@
         "c": "lithium chloride",
         "d": "magnesium chloride",
         "e": "silver iodide",
-        "correct_answer": "a"
+        "correct_answer": "b"
     },
     {
         "question": "Niépce thought the image from his initial experiment was too",
@@ -42,7 +42,7 @@
         "c": "curiosity about sunlight properties",
         "d": "a desire to improve engraving techniques",
         "e": "growing demand for affordable pictures",
-        "correct_answer": "d"
+        "correct_answer": "e"
     },
     {
         "question": "In an attempt to copy engravings using sunlight, Niépce coated the pewter plate with",
@@ -69,7 +69,7 @@
         "c": "scrubbing with a sponge",
         "d": "rinsing it with lavender oil",
         "e": "soaking it in water",
-        "correct_answer": "c"
+        "correct_answer": "d"
     },
     {
         "question": "How did Niépce enhance the contrasts in the plate-printed image?",
@@ -87,7 +87,7 @@
         "c": "8 hours",
         "d": "3 hours",
         "e": "1 hour",
-        "correct_answer": "e"
+        "correct_answer": "c"
     },
     {
         "question": "What is the significance of the View from the Window at Le Gras photograph?",
@@ -186,7 +186,7 @@
         "c": "They were more portable.",
         "d": "They were better able to capture motion.",
         "e": "They could take photos from longer distances.",
-        "correct_answer": "c"
+        "correct_answer": "b"
     },
     {
         "question": "Which of the following details does NOT appear in the daguerreotype of Frederick Douglass?",
@@ -222,7 +222,7 @@
         "c": "Sojourner Truth",
         "d": "Ulysses S. Grant",
         "e": "Abraham Lincoln",
-        "correct_answer": "e"
+        "correct_answer": "a"
     },
     {
         "question": "Portraits of Frederick Douglass are BEST described as",

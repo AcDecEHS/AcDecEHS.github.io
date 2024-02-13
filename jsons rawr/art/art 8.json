@@ -15,7 +15,7 @@
         "c": "Wang Chen",
         "d": "John Cabot",
         "e": "Albrecht Dürer",
-        "correct_answer": "b"
+        "correct_answer": "c"
     },
     {
         "question": "Melencolia I served as the artist’s commentary on the",
@@ -51,7 +51,7 @@
         "c": "Greece",
         "d": "Byzantium",
         "e": "Spain",
-        "correct_answer": "d"
+        "correct_answer": "a"
     },
     {
         "question": "Which artistic movement arose as a result of the advent of oil painting?",
@@ -78,7 +78,7 @@
         "c": "stabilizer",
         "d": "decolorizer",
         "e": "crucible",
-        "correct_answer": "a"
+        "correct_answer": "e"
     },
     {
         "question": "Which new development enabled the invention of cristallo glass?",
@@ -87,7 +87,7 @@
         "c": "funding from the aristocracy",
         "d": "the study of glassmaking techniques from antiquity",
         "e": "technological innovations in the production of pigments",
-        "correct_answer": "e"
+        "correct_answer": "b"
     },
     {
         "question": "The two figures depicted on the Behaim Beaker are BOTH",
@@ -96,7 +96,7 @@
         "c": "martyrs",
         "d": "archangels",
         "e": "saints",
-        "correct_answer": "a"
+        "correct_answer": "e"
     },
     {
         "question": "The kingdom of Benin exported all of the following goods EXCEPT",
@@ -105,7 +105,7 @@
         "c": "enslaved persons",
         "d": "brass",
         "e": "pepper",
-        "correct_answer": "c"
+        "correct_answer": "d"
     },
     {
         "question": "What PRIMARY purpose did the Benin bronze plaques serve?",
@@ -123,7 +123,7 @@
         "c": "Nigeria",
         "d": "Britain",
         "e": "Portugal",
-        "correct_answer": "c"
+        "correct_answer": "d"
     },
     {
         "question": "Which of the following innovations was created FIRST?",
@@ -132,7 +132,7 @@
         "c": "the canvas",
         "d": "the full-rigged ship",
         "e": "the printing press",
-        "correct_answer": "d"
+        "correct_answer": "b"
     },
     {
         "question": "Before the eighteenth century, artists primarily used ultramarine to depict",
@@ -150,7 +150,7 @@
         "c": "purple",
         "d": "green",
         "e": "yellow",
-        "correct_answer": "c"
+        "correct_answer": "b"
     },
     {
         "question": "“Prussian blue” is the common name for the compound",
@@ -168,7 +168,7 @@
         "c": "socks",
         "d": "shoes",
         "e": "lute",
-        "correct_answer": "b"
+        "correct_answer": "c"
     },
     {
         "question": "Which medium did Jean-Baptise Perronneau use for his portraits?",
@@ -204,7 +204,7 @@
         "c": "the brushes",
         "d": "her hat",
         "e": "her dress",
-        "correct_answer": "d"
+        "correct_answer": "e"
     },
     {
         "question": "Vigée-Lebrun’s self portrait copies the pose of a painting by",
@@ -249,7 +249,7 @@
         "c": "It was readily available.",
         "d": "It was more long-lasting.",
         "e": "It was more stable.",
-        "correct_answer": "c"
+        "correct_answer": "d"
     },
     {
         "question": "What challenge did Vigée-Lebrun NOT face in her career?",

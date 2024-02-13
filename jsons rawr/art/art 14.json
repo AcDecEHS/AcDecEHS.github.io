@@ -6,7 +6,7 @@
         "c": "price",
         "d": "speed",
         "e": "accuracy",
-        "correct_answer": "c"
+        "correct_answer": "b"
     },
     {
         "question": "In whose museum did Moses Williams work?",
@@ -24,7 +24,7 @@
         "c": "generosity",
         "d": "ornament",
         "e": "freedom",
-        "correct_answer": "e"
+        "correct_answer": "a"
     },
     {
         "question": "Eadweard Muybridge’s work led to the creation of",
@@ -87,7 +87,7 @@
         "c": "local television broadcasts",
         "d": "the inside of a TV",
         "e": "broad swaths of color",
-        "correct_answer": "b"
+        "correct_answer": "a"
     },
     {
         "question": "Nam June Paik's Magnet TV incorporates elements of",
@@ -96,7 +96,7 @@
         "c": "Impressionism",
         "d": "Art Nouveau",
         "e": "Naturalism",
-        "correct_answer": "a"
+        "correct_answer": "b"
     },
     {
         "question": "How did Nam June Paik primarily impact the art world?",
@@ -105,7 +105,7 @@
         "c": "He helped the United States emerge as the world leader in art production.",
         "d": "His works led more artists to interrogate society.",
         "e": "He brought horses to the focus of artists.",
-        "correct_answer": "a"
+        "correct_answer": "d"
     },
     {
         "question": "What did the Interstate Highway Act of 1956 do?",
@@ -123,7 +123,7 @@
         "c": "the car culture’s cycle of production and disposal",
         "d": "an unbridled spirit of adventure",
         "e": "the freedom cars bring",
-        "correct_answer": "b"
+        "correct_answer": "a"
     },
     {
         "question": "The white color of John Chamberlain's Velvet White alludes to a work by",
@@ -141,7 +141,7 @@
         "c": "Jar with Dragon",
         "d": "Benin Plaque with Oba",
         "e": "Chartres Cathedral South Rose Window",
-        "correct_answer": "d"
+        "correct_answer": "a"
     },
     {
         "question": "Berenice Abbott photographed Penn Station, Interior a year before",
@@ -150,7 +150,7 @@
         "c": "the Ford Model T was first produced",
         "d": "World War I ended",
         "e": "Television was first shown to the public",
-        "correct_answer": "c"
+        "correct_answer": "b"
     },
     {
         "question": "Which of the following events occurred before the common era (BCE)?",
@@ -159,7 +159,7 @@
         "c": "the first production of porcelain",
         "d": "the publication of Nung Shu",
         "e": "the invention of the camera obscura",
-        "correct_answer": "a"
+        "correct_answer": "e"
     },
     {
         "question": "Jar with Dragon was created around the same time as",
@@ -168,7 +168,7 @@
         "c": "Vasco de Gama sailing around Africa",
         "d": "the Mongols conquering Asia",
         "e": "the invention of the full-rigged ship",
-        "correct_answer": "d"
+        "correct_answer": "e"
     },
     {
         "question": "Which of the following events occurred before the American Civil War?",
@@ -177,7 +177,7 @@
         "c": "Muybridge creates A Horse is Motion",
         "d": "the daguerreotype was used for imaging",
         "e": "Monet painted The Bridge at Argenteuil",
-        "correct_answer": "c"
+        "correct_answer": "d"
     },
     {
         "question": "Which of the following pairs of events occurred in the same century?",
@@ -186,7 +186,7 @@
         "c": "the discovery of Prussian blue and the opening of Charles Willson Peale’s museum",
         "d": "the first use of Roman concrete and the invention of the magnetic compass",
         "e": "the invention of the zoopraxiscope and World War I",
-        "correct_answer": "b"
+        "correct_answer": "c"
     },
     {
         "question": "In what year is the Edo Museum of West African Art expected to be complete?",
@@ -195,7 +195,7 @@
         "c": "2024",
         "d": "2030",
         "e": "2033",
-        "correct_answer": "d"
+        "correct_answer": "b"
     },
     {
         "question": "How many years after the first production of the Ford Model T in Michigan was the Interstate Highway Act passed?",
@@ -222,7 +222,7 @@
         "c": "Vigée-Lebrun painted Self Portrait in a Straw Hat",
         "d": "the British sacked Benin",
         "e": "Charles Willson Peale opened his museum",
-        "correct_answer": "c"
+        "correct_answer": "d"
     },
     {
         "question": "Johannes Gutenberg invented the printing press in the same decade that",
@@ -231,7 +231,7 @@
         "c": "the Benin Plaque with Oba was created",
         "d": "the Age of Enlightenment began",
         "e": "the Atlantic slave trade began",
-        "correct_answer": "d"
+        "correct_answer": "e"
     },
     {
         "question": "Which of the following events occurred during the Age of Enlightenment?",
@@ -240,7 +240,7 @@
         "c": "the metal paint tube was patented",
         "d": "Gentileschi painted Judith and her Maidservant",
         "e": "the physiognotrace was invented",
-        "correct_answer": "c"
+        "correct_answer": "e"
     },
     {
         "question": "What year was the Pantheon completed?",
@@ -249,7 +249,7 @@
         "c": "194",
         "d": "136",
         "e": "180",
-        "correct_answer": "d"
+        "correct_answer": "a"
     },
     {
         "question": "Which of the following artworks was created last?",
@@ -258,7 +258,7 @@
         "c": "Nicéphore Niépce’s View from the Window at Le Gras",
         "d": "Vigée-Lebrun’s Self Portrait in a Straw Hat",
         "e": "Monet’s The Bridge at Argenteuil",
-        "correct_answer": "b"
+        "correct_answer": "e"
     },
     {
         "question": "How many years did Fra Filippo Lippi work on The Annunciation?",
@@ -267,7 +267,7 @@
         "c": "8",
         "d": "5",
         "e": "10",
-        "correct_answer": "d"
+        "correct_answer": "a"
     }
 ]
 
