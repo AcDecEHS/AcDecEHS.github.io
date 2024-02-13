@@ -24,7 +24,7 @@
     "c": "puzzled",
     "d": "pessimistic",
     "e": "indifferent",
-    "correct_answer": "c"
+    "correct_answer": "d"
   },
   {
     "question": "Why was the site of Brunelleschi’s dome unfinished for an extended period of time?",
@@ -33,7 +33,7 @@
     "c": "The citizens protested the hazardous conditions construction workers faced.",
     "d": "Plague prevented any concerted construction effort from taking place.",
     "e": "The city ran out of funding for the cathedral’s construction.",
-    "correct_answer": "d"
+    "correct_answer": "a"
   },
   {
     "question": "Which of the following architectural styles did NOT influence Brunelleschi’s rendering of buildings?",
@@ -51,7 +51,7 @@
     "c": "Persian",
     "d": "Roman",
     "e": "Hiberno-Saxon",
-    "correct_answer": "b"
+    "correct_answer": "c"
   },
   {
     "question": "Brunelleschi’s dome is made of",
@@ -69,7 +69,7 @@
     "c": "ten",
     "d": "two",
     "e": "four",
-    "correct_answer": "e"
+    "correct_answer": "a"
   },
   {
     "question": "The binding agent in medieval tempera paint was",
@@ -87,7 +87,7 @@
     "c": "deteriorated rapidly in open air",
     "d": "took too long to dry",
     "e": "was difficult to blend tones",
-    "correct_answer": "b"
+    "correct_answer": "e"
   },
   {
     "question": "Which of the following artists was among the pioneers of using oil paint for panel pictures?",
@@ -123,7 +123,7 @@
     "c": "Venetian carvers had trouble supplying wooden panels.",
     "d": "Venetian merchants exclusively patronized canvas painters.",
     "e": "Venetian merchants were extremely wealthy.",
-    "correct_answer": "c"
+    "correct_answer": "a"
   },
   {
     "question": "Which of the following statements does NOT describe an advantage of canvas for early modern painters?",
@@ -132,7 +132,7 @@
     "c": "Canvas was more durable than its alternatives.",
     "d": "Canvas was easier to produce than its alternatives.",
     "e": "Canvas was cheaper than its alternatives.",
-    "correct_answer": "b"
+    "correct_answer": "d"
   },
   {
     "question": "Which of the following cities became the center of the European art world during the Baroque era?",
@@ -141,7 +141,7 @@
     "c": "Florence",
     "d": "Rome",
     "e": "Paris",
-    "correct_answer": "d"
+    "correct_answer": "c"
   },
   {
     "question": "By the seventeenth century, the primary medium of painting became",
@@ -159,7 +159,7 @@
     "c": "ring",
     "d": "necklace",
     "e": "pearl",
-    "correct_answer": "b"
+    "correct_answer": "e"
   },
   {
     "question": "Art critics of the seventeenth century coined the term \"Baroque\" to describe the",
@@ -195,7 +195,7 @@
     "c": "blood and violence",
     "d": "emotional imagery",
     "e": "dramatic scenes",
-    "correct_answer": "a"
+    "correct_answer": "b"
   },
   {
     "question": "Artemisia Gentileschi became BEST known for painting",
@@ -231,7 +231,7 @@
     "c": "the setting of the event",
     "d": "the moment before the event",
     "e": "the moment after the event",
-    "correct_answer": "d"
+    "correct_answer": "e"
   },
   {
     "question": "In Judith and Her Maidservant, Judith's right hand is",

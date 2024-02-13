@@ -15,7 +15,7 @@
         "c": "by accepting commissions",
         "d": "by marketing his artwork",
         "e": "by hiding his artwork to increase its value",
-        "correct_answer": "c"
+        "correct_answer": "d"
     },
     {
         "question": "Which of the following art techniques involves engraving small dots?",
@@ -33,7 +33,7 @@
         "c": "the light in the horizon",
         "d": "the bat-like creature",
         "e": "the winged infant",
-        "correct_answer": "b"
+        "correct_answer": "a"
     },
     {
         "question": "Dürer’s Melencolia I is BEST interpreted as a statement about the relationship between",
@@ -42,7 +42,7 @@
         "c": "rationalization and realization of divinity",
         "d": "technological advancements and secularization",
         "e": "the artistic spirit and melancholic humor",
-        "correct_answer": "a"
+        "correct_answer": "e"
     },
     {
         "question": "Renaissance-era medicine believed that a melancholic state and creative genius was associated with",
@@ -60,7 +60,7 @@
         "c": "invested in other Renaissance artists",
         "d": "accepted commissions from international art dealers",
         "e": "wrote the first insurance policy for his art",
-        "correct_answer": "e"
+        "correct_answer": "a"
     },
     {
         "question": "In Dürer’s Melencolia I, the influence of Italian art is MOST evident in",
@@ -69,7 +69,7 @@
         "c": "the angelic archetype of the feminine figure",
         "d": "the dimensions of the weighing scales",
         "e": "the texture of the block of stone",
-        "correct_answer": "d"
+        "correct_answer": "a"
     },
     {
         "question": "The winged woman in Dürer’s Melencolia I can BEST be described as engaged in",
@@ -78,7 +78,7 @@
         "c": "unproductive introspection",
         "d": "emotional contemplation",
         "e": "creative renunciation",
-        "correct_answer": "b"
+        "correct_answer": "c"
     },
     {
         "question": "Which of the following elements in Dürer’s Melencolia I represents practical knowledge?",
@@ -87,7 +87,7 @@
         "c": "the bright light shining on the horizon",
         "d": "the winged infant writing on the slate",
         "e": "the winged bat holding the banner",
-        "correct_answer": "b"
+        "correct_answer": "d"
     },
     {
         "question": "The light in the horizon of Dürer’s Melencolia I represents",
@@ -105,7 +105,7 @@
         "c": "strong light contrast",
         "d": "hierarchic scale",
         "e": "stipple engraving",
-        "correct_answer": "e"
+        "correct_answer": "d"
     },
     {
         "question": "When was Albrecht Dürer’s Melencolia I completed?",
@@ -132,7 +132,7 @@
         "c": "the physical, spiritual, and intellectual realms",
         "d": "self-awareness",
         "e": "the natural world and mathematics",
-        "correct_answer": "e"
+        "correct_answer": "b"
     },
     {
         "question": "The advent of linear perspective primarily allowed artists to",
@@ -168,7 +168,7 @@
         "c": "structural grid",
         "d": "horizon line",
         "e": "diagonal lines",
-        "correct_answer": "e"
+        "correct_answer": "a"
     },
     {
         "question": "In linear perspective, orthogonals are",
@@ -177,7 +177,7 @@
         "c": "parallel lines",
         "d": "horizontal lines",
         "e": "diagonal lines",
-        "correct_answer": "c"
+        "correct_answer": "e"
     },
     {
         "question": "Artists use linear perspective to determine an object’s",
@@ -276,7 +276,7 @@
         "c": "the archangel Gabriel",
         "d": "Christ",
         "e": "the hand of God",
-        "correct_answer": "e"
+        "correct_answer": "d"
     }
 ]
 

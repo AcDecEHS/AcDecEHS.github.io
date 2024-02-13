@@ -6,7 +6,7 @@
     "c": "bronze",
     "d": "glass",
     "e": "steel",
-    "correct_answer": "d"
+    "correct_answer": "c"
   },
   {
     "question": "Who invented cristallo glass?",
@@ -24,7 +24,7 @@
     "c": "lixiviation",
     "d": "ribbing",
     "e": "tempering",
-    "correct_answer": "b"
+    "correct_answer": "c"
   },
   {
     "question": "Which aspect of cristallo glass turned it into a status symbol?",
@@ -51,7 +51,7 @@
     "c": "Only one island possessed a harbor large enough to export the glass.",
     "d": "The leading Venetian glassmaking family eliminated competitors on other islands.",
     "e": "Only one island had the necessary infrastructure.",
-    "correct_answer": "b"
+    "correct_answer": "a"
   },
   {
     "question": "Which of the following ingredients was NOT key in the cristallo glass making process?",
@@ -78,7 +78,7 @@
     "c": "make the glass more durable through chemical bonding",
     "d": "neutralize toxic gases produced from the molten glass",
     "e": "stabilize the chemical reaction resulting from melting sand",
-    "correct_answer": "e"
+    "correct_answer": "b"
   },
   {
     "question": "Which of the following materials did the Venetians use as the flux in the cristallo glass making process?",
@@ -96,7 +96,7 @@
     "c": "St. Catherine",
     "d": "St. Elizabeth",
     "e": "St. Andrew",
-    "correct_answer": "b"
+    "correct_answer": "c"
   },
   {
     "question": "The Behaim Beaker was MOST likely produced for a",
@@ -105,7 +105,7 @@
     "c": "coronation",
     "d": "wedding",
     "e": "funeral",
-    "correct_answer": "a"
+    "correct_answer": "d"
   },
   {
     "question": "The Behaim family was from",
@@ -123,7 +123,7 @@
     "c": "The beaker has geometric patterns as decorations.",
     "d": "The beaker is ornately decorated across its surface.",
     "e": "The beaker is highly symmetrical.",
-    "correct_answer": "c"
+    "correct_answer": "d"
   },
   {
     "question": "Many early modern Europeans believed that rock crystal was highly effective in",
@@ -141,7 +141,7 @@
     "c": "the German government",
     "d": "the British Museum",
     "e": "University of Oxford",
-    "correct_answer": "b"
+    "correct_answer": "d"
   },
   {
     "question": "Oba is the Yoruba and Bini word for",
@@ -177,7 +177,7 @@
     "c": "Greece",
     "d": "Americas",
     "e": "Mesopotamia",
-    "correct_answer": "a"
+    "correct_answer": "c"
   },
   {
     "question": "Which big cat is depicted in the Benin Plaque with Oba?",
@@ -195,7 +195,7 @@
     "c": "on supportive columns",
     "d": "above the entryway",
     "e": "on the ceiling",
-    "correct_answer": "d"
+    "correct_answer": "c"
   },
   {
     "question": "Which part of the Benin Plaque with Oba is sculpted in low relief?",
@@ -204,7 +204,7 @@
     "c": "the crown",
     "d": "the fish",
     "e": "the oba",
-    "correct_answer": "d"
+    "correct_answer": "a"
   },
   {
     "question": "Why was the loss of the Benin bronzes particularly devastating to the people of Benin?",
@@ -213,7 +213,7 @@
     "c": "Benin had lost the artistic knowledge to recreate the tablets.",
     "d": "The tablets comprised most of the material wealth of the kingdom.",
     "e": "The people believed the tablets held the souls of ancestors.",
-    "correct_answer": "d"
+    "correct_answer": "a"
   },
   {
     "question": "How is wax used in lost-wax casting?",
@@ -240,7 +240,7 @@
     "c": "rule over both the land and the sea",
     "d": "move between divine and earthly worlds",
     "e": "conquer the natural world",
-    "correct_answer": "c"
+    "correct_answer": "d"
   },
   {
     "question": "Which part of the oba’s body in the Benin Plaque with Oba is disproportionately large?",
@@ -249,7 +249,7 @@
     "c": "his eyes",
     "d": "his hands",
     "e": "his feet",
-    "correct_answer": "c"
+    "correct_answer": "b"
   },
   {
     "question": "An oba projection is the oba’s",
@@ -258,7 +258,7 @@
     "c": "soul",
     "d": "face",
     "e": "shadow",
-    "correct_answer": "e"
+    "correct_answer": "a"
   },
   {
     "question": "Approximately how thick are the Benin bronze plaques?",
@@ -267,7 +267,7 @@
     "c": "7 inches",
     "d": "1 inch",
     "e": "2 inches",
-    "correct_answer": "d"
+    "correct_answer": "e"
   }
 ]
 
