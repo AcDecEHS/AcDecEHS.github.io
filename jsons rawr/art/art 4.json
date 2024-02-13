@@ -78,7 +78,7 @@
     "c": "fresco",
     "d": "tempera",
     "e": "encaustic",
-    "correct_answer": "a"
+    "correct_answer": "e"
   },
   {
     "question": "Which cathedral features the first flying buttresses in history?",
@@ -87,7 +87,7 @@
     "c": "Cologne Cathedral",
     "d": "the Cathedral of Notre-Dame",
     "e": "St. Vitus Cathedral",
-    "correct_answer": "b"
+    "correct_answer": "d"
   },
   {
     "question": "Abbot Suger referred to stained glass’s colored light as",
@@ -123,7 +123,7 @@
     "c": "Egypt",
     "d": "Iran",
     "e": "Saudi Arabia",
-    "correct_answer": "b"
+    "correct_answer": "d"
   },
   {
     "question": "Which of the following clays produces the purest white porcelain?",
@@ -159,6 +159,24 @@
     "c": "Buddhism",
     "d": "Hinduism",
     "e": "Confucianism",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following countries overtook China’s global dominance in the porcelain trade?",
+    "a": "France",
+    "b": "the United States",
+    "c": "Japan",
+    "d": "the Ottoman Empire",
+    "e": "Britain",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following events came FIRST?",
+    "a": "the creation of Jar with Dragon",
+    "b": "the construction of the Pantheon",
+    "c": "the creation of dragon kilns",
+    "d": "the coining of the term “lux nova”",
+    "e": "the embalming of Mummy with an Inserted Panel Portrait of a Youth",
     "correct_answer": "e"
   },
   {
@@ -177,7 +195,7 @@
     "c": "four",
     "d": "five",
     "e": "six",
-    "correct_answer": "c"
+    "correct_answer": "a"
   },
   {
     "question": "Egyptian and Syrian raw material markets were vital for Venetian",
@@ -204,7 +222,7 @@
     "c": "Babylonians",
     "d": "Egyptians",
     "e": "Assyrians",
-    "correct_answer": "d"
+    "correct_answer": "b"
   },
   {
     "question": "Why did moveable type not initially succeed in China?",
@@ -213,7 +231,7 @@
     "c": "The movable type printmakers in China faced heavy competition from foreign markets.",
     "d": "The emperor outlawed moveable type to protect scholarly scribes from competition.",
     "e": "The materials involved in moveable type prints were not durable or effective.",
-    "correct_answer": "a"
+    "correct_answer": "e"
   },
   {
     "question": "Wang Chen’s most famous text focused on",
@@ -222,7 +240,7 @@
     "c": "philosophy",
     "d": "commerce",
     "e": "architecture",
-    "correct_answer": "d"
+    "correct_answer": "a"
   },
   {
     "question": "Johannes Gutenberg developed his printing press in the city of",
@@ -249,7 +267,7 @@
     "c": "1,000",
     "d": "400",
     "e": "250",
-    "correct_answer": "b"
+    "correct_answer": "c"
   },
   {
     "question": "The type pieces used in Gutenberg’s press were made of",
@@ -294,7 +312,7 @@
     "c": "The print makes use of hatching.",
     "d": "The print depicts the figure of Christ.",
     "e": "The print is a woodcut.",
-    "correct_answer": "d"
+    "correct_answer": "b"
   }
 ]
 
