@@ -11,23 +11,36 @@ html {
 a {
     color: #496be6;
 }
-body {
-    padding-inline: 16px;
-    background-color: #eff1f5;
-    max-width: 60%;
-    border-radius: 16px;
-    margin: auto;
-}
 p {
     font-size: larger;
 }
+body {
+    max-width: 1000px;
+    padding-inline: 16px;
+    background-color: #eff1f5;
+    border-radius: 16px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    min-height: 400px;
+}
+.sidebar {
+    flex-grow: 1;
+}
+.content {
+    padding: 15px;
+    margin: 5px 0 5px 0;
+    flex-grow: 3;
+    flex-wrap: wrap;
+}
+form {
+    padding-top: 16px;
+}
 iframe {
-    background-color: #e6e9ef;
-    border-color: #e6e9ef;
-    border-radius: 14px;
-    width: 99%;
-    min-height: 500px;
+    border-width: 0px;
+    width: auto;
     margin-bottom: 14px;
+    min-height: 400px;
 }
 .quiz-container {
     max-width: auto;
