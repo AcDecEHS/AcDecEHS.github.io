@@ -33,9 +33,6 @@ body {
     margin: 5px 0 5px 0;
     flex-wrap: wrap;
 }
-form {
-    padding-top: 16px;
-}
 iframe {
     border-width: 0px;
     width: auto;
@@ -48,4 +45,20 @@ iframe {
 }
 .question {
     margin-bottom: auto;
+}
+/* for mobile >~< */
+@media (max-width: 800px) {
+    body {
+        flex-wrap: wrap-reverse;
+        padding-inline: 4px;
+    }
+    .sidebar {
+        background-color: #e6e9ef;
+        margin: auto;
+        min-width: 100%;
+        padding-inline: 12px;
+    }
+    iframe {
+        min-height: 350px;
+    }
 }
