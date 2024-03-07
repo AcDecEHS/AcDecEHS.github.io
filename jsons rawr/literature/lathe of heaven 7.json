@@ -6,7 +6,7 @@
         "c": "“Are we truly free?”",
         "d": "“Do you exist?”",
         "e": "“What is the color of the wind?”",
-        "correct_answer": "b"
+        "correct_answer": "d"
     },
     {
         "question": "What song plays as an Alien walks George Orr up to his apartment in Chapter 11?",
@@ -15,7 +15,7 @@
         "c": "“It is Well With My Soul”",
         "d": "“How Great Thou Art”",
         "e": "“Rock of Ages”",
-        "correct_answer": "c"
+        "correct_answer": "e"
     },
     {
         "question": "Which line from Shakespeare does an Alien quote to George Orr in Chapter 11?",
@@ -24,7 +24,7 @@
         "c": "“Sleep that knits up the ravell’d sleave of care”",
         "d": "“Our little life is rounded with a sleep”",
         "e": "“Nature’s soft nurse, how have I frighted thee”",
-        "correct_answer": "a"
+        "correct_answer": "c"
     },
     {
         "question": "What does Orr dream in Chapter 11?",
@@ -33,7 +33,7 @@
         "c": "sea turtles swimming in the ocean",
         "d": "Alien spaceships falling out of the sky",
         "e": "visiting his cabin in Oregon",
-        "correct_answer": "d"
+        "correct_answer": "c"
     },
     {
         "question": "Who is living in a mental institution in Chapter 11?",
@@ -42,7 +42,7 @@
         "c": "President Merdle",
         "d": "George Orr",
         "e": "Dr. Haber",
-        "correct_answer": "d"
+        "correct_answer": "e"
     },
     {
         "question": "In Chapter 11, what is the sudden shift of reality called?",
@@ -51,7 +51,7 @@
         "c": "The Gap",
         "d": "The Difference",
         "e": "The Incident",
-        "correct_answer": "b"
+        "correct_answer": "a"
     },
     {
         "question": "What is the name of the shop where George Orr works in Chapter 11?",
@@ -60,7 +60,7 @@
         "c": "Reclaimed Treasures",
         "d": "Record Exchange",
         "e": "Second Time Around",
-        "correct_answer": "e"
+        "correct_answer": "a"
     },
     {
         "question": "Who is Orr’s employer in Chapter 11?",
@@ -69,7 +69,7 @@
         "c": "Heather Lelache",
         "d": "E’nememen Asfah",
         "e": "himself",
-        "correct_answer": "a"
+        "correct_answer": "d"
     },
     {
         "question": "What item does Heather Lelache pick up in Orr’s place of work, when she visits in Chapter 11?",
@@ -78,7 +78,7 @@
         "c": "a washcloth",
         "d": "an egg whisk",
         "e": "a pencil",
-        "correct_answer": "c"
+        "correct_answer": "d"
     },
     {
         "question": "In Chapter 11, George Orr describes his previous wife as",
@@ -96,7 +96,7 @@
         "c": "love",
         "d": "tangibles",
         "e": "dreams",
-        "correct_answer": "e"
+        "correct_answer": "d"
     },
     {
         "question": "The Aldebaranians are",
@@ -105,7 +105,7 @@
         "c": "“possessed of robust technical expertise”",
         "d": "“versatile and agile”",
         "e": "“adaptable and quick studies”",
-        "correct_answer": "d"
+        "correct_answer": "b"
     },
     {
         "question": "What is Heather Andrews’s job in Chapter 11?",
@@ -123,7 +123,7 @@
         "c": "What can be seen, cannot be unseen.",
         "d": "You know nothing.",
         "e": "I am not I.",
-        "correct_answer": "a"
+        "correct_answer": "b"
     },
     {
         "question": "What type of appendage does the Alien have, when George Orr shakes hands at the end?",
@@ -132,7 +132,7 @@
         "c": "a big green flipper",
         "d": "a damp wet hand",
         "e": "a long smooth tentacle",
-        "correct_answer": "e"
+        "correct_answer": "c"
     }
 ]
 

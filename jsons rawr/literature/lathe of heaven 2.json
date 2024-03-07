@@ -6,7 +6,7 @@
         "c": "\"WEATHER FORECAST FOR THE WEEK\"",
         "d": "\"CELEBRITY COUPLE BREAKS UP\"",
         "e": "\"BIG A-l STRIKE NEAR AFGHAN BORDER\"",
-        "correct_answer": "a"
+        "correct_answer": "e"
     },
     {
         "question": "In Chapter 3, why does George Orr say he stays in Portland?",
@@ -33,7 +33,7 @@
         "c": "an alien invasion",
         "d": "a large avalanche",
         "e": "Dr. Haber attacking him",
-        "correct_answer": "a"
+        "correct_answer": "b"
     },
     {
         "question": "In Chapter 3, Haber recommends that Orr should",
@@ -96,7 +96,7 @@
         "c": "frightened and furious",
         "d": "content and fulfilled",
         "e": "confused and disoriented",
-        "correct_answer": "a"
+        "correct_answer": "b"
     },
     {
         "question": "In Chapter 3, what was the effective part of Orr’s final dream?",
@@ -114,7 +114,7 @@
         "c": "The city government lacked the resources to concrete over it.",
         "d": "It was protected by strict environmental regulations.",
         "e": "It was important to the local wildlife.",
-        "correct_answer": "d"
+        "correct_answer": "a"
     },
     {
         "question": "In Chapter 3, what has puzzled Orr regarding dreams?",
@@ -123,7 +123,7 @@
         "c": "what the purpose of dreams is",
         "d": "Whether other animals dream",
         "e": "why some dreams are more vivid than others",
-        "correct_answer": "c"
+        "correct_answer": "a"
     },
     {
         "question": "In Chapter 3, where does Orr live?",
@@ -150,7 +150,7 @@
         "c": "as an ambitious lawyer",
         "d": "as a mentor",
         "e": "as a friendly coworker",
-        "correct_answer": "a"
+        "correct_answer": "b"
     },
     {
         "question": "In Chapter 4, how does Miss Lelache see George Orr?",
@@ -168,7 +168,7 @@
         "c": "privacy",
         "d": "social",
         "e": "economic",
-        "correct_answer": "b"
+        "correct_answer": "c"
     },
     {
         "question": "In The Lathe of Heaven, Miss Lelache is a(n)",
@@ -186,7 +186,7 @@
         "c": "confident and optimistic",
         "d": "uncertain and confused",
         "e": "desperate and resigned",
-        "correct_answer": "c"
+        "correct_answer": "e"
     },
     {
         "question": "In Chapter 4, what does George Orr think about Dr. Haber’s motives?",
@@ -231,7 +231,7 @@
         "c": "yellow snake",
         "d": "green elephant",
         "e": "pink poodle",
-        "correct_answer": "d"
+        "correct_answer": "e"
     },
     {
         "question": "In Chapter 4, Miss Lelache agrees to observe a session with Dr. Haber in order to",
@@ -258,7 +258,7 @@
         "c": "destroying the machine",
         "d": "accusing Dr. Haber of misconduct",
         "e": "asking Dr. Haber for his cooperation",
-        "correct_answer": "e"
+        "correct_answer": "a"
     },
     {
         "question": "In Chapter 4, how does George Orr describe the purpose of the Augmentor?",
@@ -267,7 +267,7 @@
         "c": "to analyze dreams",
         "d": "to induce hypnosis",
         "e": "to change reality",
-        "correct_answer": "e"
+        "correct_answer": "a"
     }
 ]
 

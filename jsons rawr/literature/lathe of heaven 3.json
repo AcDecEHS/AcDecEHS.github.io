@@ -6,7 +6,7 @@
         "c": "a city skyline",
         "d": "a desert landscape",
         "e": "a primeval forest",
-        "correct_answer": "a"
+        "correct_answer": "c"
     },
     {
         "question": "In Chapter Five, what Dr. Haber regards his work with?",
@@ -15,7 +15,7 @@
         "c": "indifference",
         "d": "satisfaction",
         "e": "resentment",
-        "correct_answer": "b"
+        "correct_answer": "d"
     },
     {
         "question": "In Chapter Five, why does Haber say that he keeps one patient of his own?",
@@ -33,7 +33,7 @@
         "c": "the extent of one's influence over other people",
         "d": "the expression of individual will",
         "e": "the practice of organized religion",
-        "correct_answer": "c"
+        "correct_answer": "b"
     },
     {
         "question": "What kind of animals did Haber use in his early experiments?",
@@ -42,7 +42,7 @@
         "c": "rats",
         "d": "dogs",
         "e": "cats",
-        "correct_answer": "c"
+        "correct_answer": "e"
     },
     {
         "question": "In Chapter Five, how does Dr. Haber say that the Augmentor saves time?",
@@ -51,7 +51,7 @@
         "c": "by reinforcing the subject's own typical d-state activity",
         "d": "by inducing alpha waves in the brain",
         "e": "by conditioning patients to dream safely",
-        "correct_answer": "b"
+        "correct_answer": "c"
     },
     {
         "question": "In Chapter Five, what metaphor does Orr to describe his feeling of being crowded and squeezed?",
@@ -78,7 +78,7 @@
         "c": "creative or artistic brain activity",
         "d": "a malfunction of the Augmentor",
         "e": "the onset of rapid eye movement (REM) sleep",
-        "correct_answer": "e"
+        "correct_answer": "c"
     },
     {
         "question": "In Chapter Five, how does Miss Lelache react to seeing the effects of George’s dream at the Oregon Oneirological institute?",
@@ -87,7 +87,7 @@
         "c": "with excitement and interest",
         "d": "with awe and wonder",
         "e": "with greed and eagerness",
-        "correct_answer": "c"
+        "correct_answer": "a"
     },
     {
         "question": "What is Haber's opinion on the state of Oregon after Orr’s effective dream in Chapter Five?",
@@ -105,7 +105,7 @@
         "c": "if she is drunk",
         "d": "if she is in love with Orr",
         "e": "if she is having a crazy spell",
-        "correct_answer": "b"
+        "correct_answer": "e"
     },
     {
         "question": "In Chapter Five, what is the subject of Orr’s dream about overpopulation?",
@@ -114,7 +114,7 @@
         "c": "an earthquake",
         "d": "a flood",
         "e": "a war",
-        "correct_answer": "d"
+        "correct_answer": "b"
     },
     {
         "question": "What is a feature of the new, no longer overpopulated world that Orr dreams into existence in Chapter 5?",
@@ -141,7 +141,7 @@
         "c": "patsy",
         "d": "seeker",
         "e": "tool",
-        "correct_answer": "c"
+        "correct_answer": "e"
     },
     {
         "question": "In Chapter 6, George thinks that his dreams could be useful if they",
@@ -150,7 +150,7 @@
         "c": "improve his life",
         "d": "aid scientific research",
         "e": "make him rich and famous",
-        "correct_answer": "a"
+        "correct_answer": "d"
     },
     {
         "question": "Who telephones George Orr in Chapter 6?",
@@ -159,7 +159,7 @@
         "c": "Dr. Haber",
         "d": "Heather Lelache",
         "e": "Orr’s mother",
-        "correct_answer": "c"
+        "correct_answer": "d"
     },
     {
         "question": "How does Miss Lelache feel about the Augmentor in Chapter 6?",
@@ -168,7 +168,7 @@
         "c": "skeptical",
         "d": "curious",
         "e": "fearful",
-        "correct_answer": "e"
+        "correct_answer": "c"
     },
     {
         "question": "What does Orr realize about his job when talking to Heather Lelache?",
@@ -177,7 +177,7 @@
         "c": "He works for Bradford Industries downtown.",
         "d": "He is unemployed.",
         "e": "He works for the Bonneville-Umatilla water projects.",
-        "correct_answer": "b"
+        "correct_answer": "c"
     },
     {
         "question": "What does Orr see in the living room of his new apartment in depopulated Portland?",
@@ -186,7 +186,7 @@
         "c": "a velvet sofa",
         "d": "a Persian carpet",
         "e": "a grand piano",
-        "correct_answer": "e"
+        "correct_answer": "a"
     },
     {
         "question": "What is the purpose of the phenothiazines that Haber gives George Orr in Chapter 6?",
@@ -195,7 +195,7 @@
         "c": "to treat a nervous tremor",
         "d": "to prevent him from dreaming altogether",
         "e": "to weaken the intensity of his dreams",
-        "correct_answer": "d"
+        "correct_answer": "e"
     },
     {
         "question": "In Chapter 6, what is the current situation in Saudi Arabia and Iraq?",
@@ -231,7 +231,7 @@
         "c": "space travel",
         "d": "wealth and fame",
         "e": "climate rejuvenation",
-        "correct_answer": "a"
+        "correct_answer": "b"
     },
     {
         "question": "Which new word does George Orr find himself using after one of his dreams in Chapter 6?",
@@ -249,7 +249,7 @@
         "c": "to cause him pain",
         "d": "to suppress his dreams",
         "e": "to induce hypnosis",
-        "correct_answer": "d"
+        "correct_answer": "e"
     },
     {
         "question": "In Chapter 6, Dr. Haber says that the unconscious mind is a",
@@ -258,7 +258,7 @@
         "c": "wellspring of heath",
         "d": "source of creativity and imagination",
         "e": "black pit of nightmares",
-        "correct_answer": "d"
+        "correct_answer": "c"
     },
     {
         "question": "When Orr worries about his lack of control over his dreams in Chapter 6, Haber says that he is",
@@ -267,7 +267,7 @@
         "c": "full of groundless fears",
         "d": "already gaining more control",
         "e": "working toward freedom",
-        "correct_answer": "d"
+        "correct_answer": "e"
     }
 ]
 
