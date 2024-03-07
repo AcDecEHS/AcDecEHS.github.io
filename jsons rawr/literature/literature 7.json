@@ -1,0 +1,273 @@
+[
+    {
+        "question": "The length of the Ring of Fire is closest to",
+        "a": "30,000 miles",
+        "b": "25,000 miles",
+        "c": "15,000 miles",
+        "d": "10,000 miles",
+        "e": "20,000 miles",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The Ring of Fire traces the borders of all the following tectonic plates EXCEPT",
+        "a": "Caribbean",
+        "b": "Cocos",
+        "c": "Juan de Fuca",
+        "d": "Indian-Australian",
+        "e": "Nazca",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The Ring of Fire contains seventy-five percent of the Earth’s",
+        "a": "whirlpools",
+        "b": "volcanoes",
+        "c": "earthquakes",
+        "d": "hurricanes",
+        "e": "islands",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Portland, Oregon sits upon the banks of the",
+        "a": "McKenzie River",
+        "b": "Willamette River",
+        "c": "Snake River",
+        "d": "Rogue River",
+        "e": "Columbia River",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Ursula K. Le Guin’s The Lathe of Heaven opens with a comparison of the image of a drifting jellyfish to the",
+        "a": "interconnectedness of the planet",
+        "b": "endless flow of time",
+        "c": "infinite expanse of the universe",
+        "d": "unconscious mind of a dreamer",
+        "e": "insignificance of humanity",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following animals appears MOST similar to the aliens George Orr dreams up in Ursula K. Le Guin’s The Lathe of Heaven?",
+        "a": "horse",
+        "b": "turtle",
+        "c": "bird",
+        "d": "jellyfish",
+        "e": "cat",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The last line of Ursula K. Le Guin’s The Lathe of Heaven includes a comparison to a(n)",
+        "a": "lake",
+        "b": "aquarium",
+        "c": "observation tower",
+        "d": "forest",
+        "e": "river",
+        "correct_answer": "b"
+    },
+    {
+        "question": "In Ursula K. Le Guin's The Lathe of Heaven, pollution has caused",
+        "a": "acid rain to fall all over Europe",
+        "b": "snow to no longer cover mountaintops",
+        "c": "Antarctica to become too cold for life to exist",
+        "d": "droughts all over the world",
+        "e": "a fog to cover most of the United States",
+        "correct_answer": "b"
+    },
+    {
+        "question": "In Ursula K. Le Guin’s The Lathe of Heaven, which of the following animals features in George Orr’s first effective dream in Dr.Haber's office?",
+        "a": "bird",
+        "b": "turtle",
+        "c": "cat",
+        "d": "jellyfish",
+        "e": "horse",
+        "correct_answer": "e"
+    },
+    {
+        "question": "In Ursula K. Le Guin's The Lathe of Heaven, Dr.Haber refers to George Orr’s view of dreams as",
+        "a": "\"ideals\"",
+        "b": "\"Hinduism\"",
+        "c": "\"fantasy\"",
+        "d": "\"imagination\"",
+        "e": "\"mysticism\"",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Throughout Ursula K. Le Guin’s The Lathe of Heaven, George Orr always works as a(n)",
+        "a": "draftsman",
+        "b": "real estate agent",
+        "c": "salesman",
+        "d": "electrician",
+        "e": "engineer",
+        "correct_answer": "a"
+    },
+    {
+        "question": "In Ursula K. Le Guin's The Lathe of Heaven, Orr’s apartment is always on",
+        "a": "Custom Avenue",
+        "b": "Congress Street",
+        "c": "King Street",
+        "d": "Corbett Avenue",
+        "e": "Kenton Street",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following mountains erupts during Dr.Haber’s nightmare in Ursula K. Le Guin’s The Lathe of Heaven?",
+        "a": "Mount Scott",
+        "b": "Mount Hood",
+        "c": "Mount Sylvania",
+        "d": "Mount Tabor",
+        "e": "Mount St. Helen",
+        "correct_answer": "b"
+    },
+    {
+        "question": "In Ursula K. Le Guin’s The Lathe of Heaven, the waxing and waning rainfall across realities reflect the phrase “self is",
+        "a": "eternity\"",
+        "b": "universe”",
+        "c": "life\"",
+        "d": "dream\"",
+        "e": "infinity\"",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The Lathe of Heaven MOST encourages a feeling of",
+        "a": "curiosity",
+        "b": "passion",
+        "c": "equanimity",
+        "d": "bliss",
+        "e": "confidence",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following mythical texts does NOT feature dreams as messages from the gods or visions of the future?",
+        "a": "The Quran",
+        "b": "The Norse sagas",
+        "c": "The Bible",
+        "d": "The Epic of Gilgamesh",
+        "e": "The Kalevala",
+        "correct_answer": "e"
+    },
+    {
+        "question": "While researching for The Lathe of Heaven, Ursula K. Le Guin consulted the famous psychologist Dr.",
+        "a": "Hans Berger",
+        "b": "William Haber",
+        "c": "William Dement",
+        "d": "Sigmund Freud",
+        "e": "Carl Jung",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Dreaming occurs during which stage of sleep in humans?",
+        "a": "slow-wave sleep",
+        "b": "rapid eye movement",
+        "c": "deep sleep",
+        "d": "sleep paralysis",
+        "e": "hypnagogia",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which field of study was invented by Influential Austrian neurologist and psychologist Sigmund Freud to investigate the human psyche?",
+        "a": "hypnosis",
+        "b": "psychotherapy",
+        "c": "psychoanalysis",
+        "d": "neuropathy",
+        "e": "social psychology",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of Freud’s books do many dream researchers consider to be his most significant?",
+        "a": "The Ego and the Id",
+        "b": "The Interpretation of Dreams",
+        "c": "Essays on the Theory of Sexuality",
+        "d": "Psychoanalysis of the Unconscious Mind",
+        "e": "Memories, Dreams, Reflections",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Freud argued that the parts of a dream that the sleeper remembers when waking up",
+        "a": "strongly influence how the sleeper will think and act the following day.",
+        "b": "are symbolic of repressed desires or feelings that the sleeper cannot express directly.",
+        "c": "represent deep fears and insecurities that often stem from childhood trauma.",
+        "d": "are less important than the parts that are quickly forgotten when waking.",
+        "e": "cannot truly be understood by anyone except the dreamer themselves.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "One of Freud’s rivals, who had a competing theory of the psyche, was the Swiss psychologist Dr.",
+        "a": "William Dement",
+        "b": "Hans Berger",
+        "c": "Carl Jung",
+        "d": "William Haber",
+        "e": "Ian Oswald",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Both Sigmund Freud and Carl Jung were interested in how sexuality leads to the creation of",
+        "a": "prejudices",
+        "b": "dreams",
+        "c": "fetishes",
+        "d": "phobias",
+        "e": "neuroses",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Carl Jung described his methodology as",
+        "a": "psychoanalysis",
+        "b": "objective analysis",
+        "c": "true psychology",
+        "d": "analytical psychology",
+        "e": "experiential psychology",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What aspect of the psyche did Carl Jung contrast a person’s “true self” with?",
+        "a": "shadow",
+        "b": "mask",
+        "c": "dream self",
+        "d": "ideal self",
+        "e": "self-perception",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What does Dr. Haber have Orr do while on the classic therapy sofa?",
+        "a": "eat his meals",
+        "b": "undergo psychoanalysis",
+        "c": "go through painful medical tests",
+        "d": "be hypnotized",
+        "e": "sleep (and dream)",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which technique did Dr. Hans Berger invent in the early 1920s?",
+        "a": "lucid dreaming",
+        "b": "electroshock therapy",
+        "c": "conditioning",
+        "d": "electroencephalography",
+        "e": "trepanation",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Dr. Ian Oswald investigated how the activities of the conscious brain affect which component of a brain wave graph?",
+        "a": "alpha rhythm",
+        "b": "frequency",
+        "c": "theta waves",
+        "d": "amplitude",
+        "e": "action potential",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of these fields of biology was among the ones Dr. Ernest Hartmann incorporated into his sleep research?",
+        "a": "entomology",
+        "b": "evolutionary biology",
+        "c": "histology",
+        "d": "sociology",
+        "e": "endocrinology",
+        "correct_answer": "e"
+    },
+    {
+        "question": "The world begins to melt away after Haber gains the ability of e-dreaming because Haber",
+        "a": "is determined to rule the world",
+        "b": "never dreams while he sleeps",
+        "c": "cannot create anything",
+        "d": "wants to destroy the world",
+        "e": "has no substance",
+        "correct_answer": "e"
+    }
+]
+

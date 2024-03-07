@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Ambrose Bierce studied at the",
+    "a": "Valley Forge Military Academy",
+    "b": "United States Military Academy",
+    "c": "Virginia Military Institute",
+    "d": "Kentucky Military Institute",
+    "e": "Georgia Military College",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Ambrose Bierce took part in the Battle of",
+    "a": "Stones River",
+    "b": "Cedar Creek",
+    "c": "Gettysburg",
+    "d": "Antietam",
+    "e": "Shiloh",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Ambrose Bierce wrote his first works in",
+    "a": "Chicago",
+    "b": "New York",
+    "c": "San Francisco",
+    "d": "Charleston",
+    "e": "Boston",
+    "correct_answer": "c"
+  },
+  {
+    "question": "While in England, Ambrose Bierce earned the nickname",
+    "a": "\"Benevolent Bierce\"",
+    "b": "\"Blunt Bierce\"",
+    "c": "\"Bitter Bierce\"",
+    "d": "\"Brilliant Bierce\"",
+    "e": "\"Bold Bierce\"",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following works did Ambrose Bierce publish LAST?",
+    "a": "The Fiend's Delight",
+    "b": "Shapes of Clay",
+    "c": "Black Beetles in Amber",
+    "d": "Cobwebs from an Empty Skull",
+    "e": "Nuggets and Dust Panned Out in California",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Why did Ambrose Bierce leave England?",
+    "a": "He separated from his wife.",
+    "b": "He wanted to travel the world and continue writing.",
+    "c": "A newspaper offered him a job in the United States.",
+    "d": "He wanted to join a literary club in California.",
+    "e": "The English weather worsened his health.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following authors became good friends with Ambrose Bierce?",
+    "a": "Jack London",
+    "b": "Herman Melville",
+    "c": "Henry James",
+    "d": "Upton Sinclair",
+    "e": "Mark Twain",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following works became Ambrose Bierce's most acclaimed?",
+    "a": "The Fiend's Delight",
+    "b": "Black Beetles in Amber",
+    "c": "\"An Occurrence at Owl Creek Bridge\"",
+    "d": "The Devil's Dictionary",
+    "e": "Shapes of Clay",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Ambrose Bierce disappeared while covering the",
+    "a": "Russo-Japanese War",
+    "b": "First World War",
+    "c": "Spanish American War",
+    "d": "Mexican Civil War",
+    "e": "Argentine Revolution",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Ambrose Bierce's \"Moxon's Master\" opens with the question,",
+    "a": "\"Can a machine be evil?\"",
+    "b": "\"Do you really believe that a machine thinks?\"",
+    "c": "\"What is a machine?\"",
+    "d": "\"Is it possible to build a living machine?\"",
+    "e": "\"What is the limit of technology?\"",
+    "correct_answer": "b"
+  },
+  {
+    "question": "At the beginning of Ambrose Bierce's \"Moxon's Master,\" Moxon appears",
+    "a": "saddened by something",
+    "b": "to be confused by the narrator's question",
+    "c": "excited about his latest invention",
+    "d": "preoccupied by something",
+    "e": "visibly irritated at the narrator",
+    "correct_answer": "d"
+  },
+  {
+    "question": "According to the narrator of \"Moxon's Master,\" Moxon suffers from",
+    "a": "anemia",
+    "b": "depression",
+    "c": "arthritis",
+    "d": "insomnia",
+    "e": "dementia",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In \"Moxon's Master,\" Moxon uses all of the following examples to support his viewpoint EXCEPT",
+    "a": "lightning",
+    "b": "geese",
+    "c": "crystals",
+    "d": "vines",
+    "e": "snowflakes",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In “Moxon’s Master,” Moxon and the narrator hear a loud thump from the",
+    "a": "machine shop",
+    "b": "basement",
+    "c": "living room",
+    "d": "attic",
+    "e": "doorway",
+    "correct_answer": "a"
+  },
+  {
+    "question": "The narrator of “Moxon’s Master” teases Moxon for the",
+    "a": "cuts on his cheek",
+    "b": "disarray of his clothes",
+    "c": "mess of his apartment",
+    "d": "trembling of his arm",
+    "e": "wrinkles on his neck",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Ambrose Bierce's \"Moxon's Master,\" whose definition of “life” does Moxon use to support his argument?",
+    "a": "Herbert Spencer’s",
+    "b": "Friedrich Nietzsche’s",
+    "c": "John Stuart Mill’s",
+    "d": "Charles Darwin’s",
+    "e": "Jean-Jacques Rousseau’s",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Ambrose Bierce’s “Moxon’s Master,” which of the following animals does Moxon use to explain why definitions cannot explain causes?",
+    "a": "deer",
+    "b": "fish",
+    "c": "worm",
+    "d": "rabbit",
+    "e": "duck",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In Ambrose Bierce's \"Moxon's Master,\" Moxon says his cuts come a(n)",
+    "a": "machine",
+    "b": "servant",
+    "c": "animal",
+    "d": "tool",
+    "e": "woman",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Ambrose Bierce's \"Moxon's Master,\" Moxon tells the narrator \"Consciousness is the creature of",
+    "a": "Rhythm\"",
+    "b": "Passion\"",
+    "c": "Energy\"",
+    "d": "Life\"",
+    "e": "Love\"",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Ambrose BIerce’s “Moxon’s Master,” why does the narrator return to Moxon’s house after leaving?",
+    "a": "He becomes concerned for the woman in the machine shop.",
+    "b": "He forgot his coat in Moxon's house.",
+    "c": "He is caught in a big thunderstorm.",
+    "d": "He wants to learn more from Moxon.",
+    "e": "He hears a loud noise from the house.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In Ambrose Bierce's \"Moxon's Master,\" the narrator compares his inspiration to that of",
+    "a": "Thomas",
+    "b": "Matthew",
+    "c": "John",
+    "d": "Saul",
+    "e": "Simon",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In Ambrose Bierce's \"Moxon's Master,\" the narrator watches Moxon play",
+    "a": "senet",
+    "b": "mancala",
+    "c": "checkers",
+    "d": "chess",
+    "e": "backgammon",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Moxon's machine in Ambrose Bierce's \"Moxon's Master\" appears MOST similar to a(n)",
+    "a": "hippo",
+    "b": "bird",
+    "c": "wolf",
+    "d": "turtle",
+    "e": "gorilla",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following body parts on Moxon's machine appears disproportionately long to the narrator?",
+    "a": "hand",
+    "b": "head",
+    "c": "neck",
+    "d": "leg",
+    "e": "torso",
+    "correct_answer": "a"
+  },
+  {
+    "question": "While killing its creator, Moxon’s machine in Ambrose Bierce’s \"Moxon's Master\" does NOT appear to be",
+    "a": "angry",
+    "b": "calm",
+    "c": "contemplative",
+    "d": "satisfied",
+    "e": "relieved",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following causes does Haley attribute to the fire in Ambrose Bierce's \"Moxon's Master\"?",
+    "a": "an oil spill",
+    "b": "lightning striking the house",
+    "c": "a stove left on",
+    "d": "a fallen candle",
+    "e": "a spark from the furnace",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following characters is MOST similar to Moxon?",
+    "a": "Jules Verne's Captain Nemo",
+    "b": "Stephen King's Randall Flagg",
+    "c": "Mary Shelley's Dr. Frankenstein",
+    "d": "Roger Zelazny's Render",
+    "e": "Ursula K. Le Guin's George Orr",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following Nathaniel Hawthorne characters is a scientist with a servant?",
+    "a": "Aylmer",
+    "b": "Ethan Brand",
+    "c": "Hester Prynne",
+    "d": "Heidegger",
+    "e": "Mr. Gathergold",
+    "correct_answer": "a"
+  },
+  {
+    "question": "The end of Ambrose Bierce's \"Moxon's Master\" suggests that",
+    "a": "Haley may have stolen Moxon's machine",
+    "b": "Moxon may have made more machines",
+    "c": "Moxon's machine might have tried to kill the narrator too",
+    "d": "Haley might have started the fire",
+    "e": "Moxon could still be alive",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In Ambrose Bierce's \"Moxon's Master,\" Moxon is ultimately punished for his lack of",
+    "a": "empathy",
+    "b": "calmness",
+    "c": "respect",
+    "d": "foresight",
+    "e": "leadership",
+    "correct_answer": "d"
+  }
+]
+

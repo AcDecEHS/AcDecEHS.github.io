@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Alfred Kroeber spent his career teaching at",
+    "a": "Princeton",
+    "b": "Harvard",
+    "c": "Columbia",
+    "d": "Stanford",
+    "e": "the University of California, Berkeley",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Ishi is the Yahi word for",
+    "a": "\"one\"",
+    "b": "\"love\"",
+    "c": "\"man\"",
+    "d": "\"human\"",
+    "e": "\"alone\"",
+    "correct_answer": "c"
+  },
+  {
+    "question": "After Alfred Kroeber took custody of Ishi, he sent Ishi to",
+    "a": "tour the country and speak",
+    "b": "live with a nearby Indian tribe",
+    "c": "conduct research at a lab",
+    "d": "perform at his museum",
+    "e": "learn American culture",
+    "correct_answer": "d"
+  },
+  {
+    "question": "After retiring from teaching, Alfred Kroeber",
+    "a": "reconsidered his time with Ishi",
+    "b": "gave lectures on the Yahi tribe",
+    "c": "wrote biographies on Ishi",
+    "d": "tried to restore the Yahi homeland",
+    "e": "published his research on the Yahi tribe",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following architects designed Semper Virens?",
+    "a": "Bernard Maybeck",
+    "b": "Greg Castillo",
+    "c": "Sabrina Richards",
+    "d": "David K. Burton",
+    "e": "Frederick Law Olmstead",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following properties became the setting for the novel Always Coming Home?",
+    "a": "a Victorian home in Northwest Portland",
+    "b": "a ranch in Napa Valley",
+    "c": "an apartment in Massachusetts",
+    "d": "a home in the Berkeley hills",
+    "e": "a beach cottage in Oregon",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Ursula K. Le Guin modeled Shvek, the Anarresti physicist in the novel The Dispossessed, after",
+    "a": "James B. Conant",
+    "b": "Enrico Fermi",
+    "c": "J. Robert Oppenheimer",
+    "d": "Ernest O. Lawrence",
+    "e": "Crawford Greenewalt",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Ursula K. Le Guin attended high school with fellow science fiction author",
+    "a": "J.G. Ballard",
+    "b": "Roger Zelazny",
+    "c": "Frank Herbert",
+    "d": "Kurt Vonnegut",
+    "e": "Philip K. Dick",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Ursula K. Le Guin met her husband while studying in",
+    "a": "Germany",
+    "b": "Spain",
+    "c": "Italy",
+    "d": "Britain",
+    "e": "France",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The Le Guins often explored the martial art of",
+    "a": "taekwondo",
+    "b": "tai chi",
+    "c": "jiu-jitsu",
+    "d": "aikido",
+    "e": "judo",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Ursula K. Le Guin struggled early on as a writer when editors",
+    "a": "wanted her to be more conservative",
+    "b": "didn't believe she had talent",
+    "c": "delayed her publications",
+    "d": "could not market her books",
+    "e": "considered her narratives too outlandish",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Ursula K. Le Guin wrote all of the following novels in her early career EXCEPT",
+    "a": "Rocannon's World",
+    "b": "City of Illusions",
+    "c": "Lavinia",
+    "d": "Planet of Exile",
+    "e": "A Wizard of Earthsea",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Ursula K. Le Guin's The Left Hand of Darkness speculates about",
+    "a": "race",
+    "b": "human rights",
+    "c": "gender",
+    "d": "freedom",
+    "e": "sexuality",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following novels by Ursula K. Le Guin became a Newberry Honor?",
+    "a": "Always Coming Home",
+    "b": "The Farthest Shore",
+    "c": "The Dispossessed",
+    "d": "The Tombs of Atuan",
+    "e": "The Lathe of Heaven",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Ursula K. Le Guin spent much of her last years",
+    "a": "riding horses",
+    "b": "meeting with a novel group",
+    "c": "traveling Europe",
+    "d": "gardening",
+    "e": "blogging",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following events did NOT influence Ursula K. Le Guin’s career?",
+    "a": "the Holocaust",
+    "b": "World War Two",
+    "c": "World War I",
+    "d": "the Vietnam War",
+    "e": "the fall of the Soviet Union",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following actions inspired Ursula K. Le Guin’s The Left Hand of Darkness?",
+    "a": "pulling an ice sledge",
+    "b": "climbing the steps of a temple",
+    "c": "watching a storm through a window",
+    "d": "shaping a pot from clay",
+    "e": "skipping stones on a pond",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Ursula K. Le Guin's The Left Hand of Darkness PRIMARILY reflects the ideas of",
+    "a": "the Civil Rights movement",
+    "b": "the anti-Vietnam War movement",
+    "c": "First Wave Feminism",
+    "d": "environmentalism",
+    "e": "Second Wave Feminism",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following novels gives voice to an originally mute female character?",
+    "a": "Lavinia",
+    "b": "The Tombs of Atuan",
+    "c": "Tehanu",
+    "d": "The Other Wind",
+    "e": "The Farthest Shore",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following authors published under the pseudonym James Tiptree, Jr.?",
+    "a": "Kate Wilhelm",
+    "b": "Alice Sheldon",
+    "c": "Eileen Gunn",
+    "d": "Melissa Scott",
+    "e": "Elizabeth Lynn",
+    "correct_answer": "b"
+  },
+  {
+    "question": "All of the following authors joined the field of science fiction during the Second American Women’s Movement EXCEPT",
+    "a": "Vonda N. McIntyre",
+    "b": "Joanna Russ",
+    "c": "Marge Piercy",
+    "d": "Lauren Beukes",
+    "e": "Margaret Atwood",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Ursula K. Le Guin’s The Word for World is Forest depicts the devastation wrought by the use of",
+    "a": "Napalm",
+    "b": "Agent Orange",
+    "c": "fighter aircraft",
+    "d": "atomic weapons",
+    "e": "Machine Guns",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following novels addresses past and ongoing human rights violations?",
+    "a": "Always Coming Home",
+    "b": "The Dispossessed",
+    "c": "Rocannon’s World",
+    "d": "The Telling",
+    "e": "The Word for World is Forest",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Ursula K. Le Guin’s The Dispossessed provides a meditation on the",
+    "a": "Civil Rights movement",
+    "b": "bombing of Hiroshima and Nagasaki",
+    "c": "Energy crisis",
+    "d": "Cold War",
+    "e": "AIDs crisis",
+    "correct_answer": "d"
+  },
+  {
+    "question": "According to Ursula K. Le Guin, which of the following Taoist ideas influenced The Lathe of Heaven?",
+    "a": "“integrity”",
+    "b": "“harmony”",
+    "c": "“compassion”",
+    "d": "“vitality”",
+    "e": "“patience”",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Ursula K. Le Guin’s The Lathe of Heaven presents commentary on all of the following issues EXCEPT",
+    "a": "shrinking natural resources",
+    "b": "climate change",
+    "c": "gender inequality",
+    "d": "overpopulation",
+    "e": "pollution",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Kwashiorkor results from a lack of",
+    "a": "ions",
+    "b": "fat",
+    "c": "white blood cells",
+    "d": "protein",
+    "e": "glycogen",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Doctors in The Lathe of Heaven disguise cases of kwashiorkor as",
+    "a": "typhus",
+    "b": "tuberculosis",
+    "c": "scurvy",
+    "d": "cholera",
+    "e": "influenza",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following fictional societies appears in Ursula K. Le Guin’s Always Coming Home?",
+    "a": "the Hainish",
+    "b": "the Shing",
+    "c": "the Gethenians",
+    "d": "the Ekumen",
+    "e": "the Kesh",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following issues appears MOST in Ursula K. Le Guin’s Always Coming Home?",
+    "a": "gender inequality",
+    "b": "shrinking natural resources",
+    "c": "terrorism",
+    "d": "world hunger",
+    "e": "global warming",
+    "correct_answer": "b"
+  }
+]
+

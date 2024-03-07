@@ -1,0 +1,318 @@
+[
+  {
+    "question": "Which member of Octavia Butler's family died while she was a child?",
+    "a": "mother",
+    "b": "brother",
+    "c": "sister",
+    "d": "grandmother",
+    "e": "father",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What condition initially made school difficult for Octavia Butler?",
+    "a": "autism",
+    "b": "seizures",
+    "c": "deafness",
+    "d": "ADHD",
+    "e": "dyslexia",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What historical event does Butler recall writing about as a high schooler?",
+    "a": "JFK’s assassination",
+    "b": "MLK’s assassination",
+    "c": "the Cuban missile crisis",
+    "d": "9/11",
+    "e": "fall of the Berlin wall",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Before her first novel, many of Octavia Butler’s short stories",
+    "a": "were plagiarized by another author",
+    "b": "focused on her childhood and early life",
+    "c": "were published in her high school’s newspaper",
+    "d": "were rejected by publishers",
+    "e": "featured a recurring set of characters",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What was Octavia Butler’s first novel?",
+    "a": "Patternist",
+    "b": "Wild Seed",
+    "c": "Childfinder",
+    "d": "Patternmaster",
+    "e": "Kindred",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of Octavia Butler's early novels is frequently taught in high school and college courses?",
+    "a": "Patternmaster",
+    "b": "Kindred",
+    "c": "Survivor",
+    "d": "Hyperion",
+    "e": "Children of Time",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following awards or grants did Octavia Butler NOT earn for her writing?",
+    "a": "Nebula award",
+    "b": "National Book award",
+    "c": "MacArthur Genius grant",
+    "d": "Langston Hughes medal",
+    "e": "Hugo award",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What term does the opening paragraph in “Childfinder” use for telepathy?",
+    "a": "ESP",
+    "b": "mind-expansion",
+    "c": "mind-power",
+    "d": "psionic ability",
+    "e": "psychokinesis",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What framing device is used at the beginning and end of “Childfinder?",
+    "a": "a top-secret government document",
+    "b": "a file from the organization’s records",
+    "c": "an entry in a diary",
+    "d": "a prediction of the future",
+    "e": "a historical footnote",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What does the framing paragraph at the beginning of “Childfinder“ say the telepaths could have done?",
+    "a": "conquered the world",
+    "b": "formed a utopian society",
+    "c": "drawn attention from other telepathic civilizations",
+    "d": "destroyed the world",
+    "e": "gradually replaced non-telepaths",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Why does the protagonist of 'Childfinder' move to a new house?",
+    "a": "She detected a powerful telepath in the area.",
+    "b": "She is trying to avoid the organization.",
+    "c": "She is on the run from the government.",
+    "d": "Someone in the area has been contacting her telepathically.",
+    "e": "Her old house was destroyed.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What does the protagonist of “Childfinder” do with her powers before moving into a new house?",
+    "a": "disguise herself",
+    "b": "kill off all the pests inside",
+    "c": "kill the organization spy that was planted there",
+    "d": "get a lower rent from the landlord",
+    "e": "scout for other telepaths",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What has Valerie been using her telepathy for before meeting “Childfinder’s” protagonist?",
+    "a": "winning competitions",
+    "b": "cheating in school",
+    "c": "assassination",
+    "d": "tormenting animals",
+    "e": "shoplifting",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How old is the “Childfinder” protagonist's neighbor?",
+    "a": "20 years old",
+    "b": "16 years old",
+    "c": "5 years old",
+    "d": "impossible to tell",
+    "e": "10 years old",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What does the protagonist of “Childfinder” notice about Valerie when she shows up in the morning?",
+    "a": "she is younger than expected",
+    "b": "she is filthy",
+    "c": "she is already using telepathy",
+    "d": "she looks just like her mother",
+    "e": "she is injured",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Valerie tells the protagonist of “Childfinder” that the book was damaged",
+    "a": "when she was attacked on the way over",
+    "b": "when she tripped and dropped it",
+    "c": "because her mom tried to grab it away from her",
+    "d": "when her brother played with it",
+    "e": "because she threw it at her best friend",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Why does “Childfinder’s” protagonist act upset with Valerie?",
+    "a": "to throw Valerie off guard so she can read her mind",
+    "b": "she wants to see how Valerie will react",
+    "c": "she is genuinely mad about the book’s damage",
+    "d": "she thinks Valerie will be suspicious if she doesn’t",
+    "e": "she needs to put on a show to distract the other telepaths",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What historical figure is the book Valerie delivered about?",
+    "a": "Harriet Tubman",
+    "b": "Charles Darwin",
+    "c": "Albert Einstein",
+    "d": "Martin Luther King Jr.",
+    "e": "John F. Kennedy",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What does “Childfinder’s” protagonist do to Valerie during their conversation about the book?",
+    "a": "cleans her clothes and washes her hair",
+    "b": "reads her mind",
+    "c": "shields her from other telepaths",
+    "d": "unlocks the full potential of her psionic ability",
+    "e": "put her in the book’s setting",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Who does Valerie call a “long-haired motherfucker”?",
+    "a": "one of their other neighbors",
+    "b": "one of the characters in the book",
+    "c": "the protagonist",
+    "d": "the leader of the organization",
+    "e": "her brother",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In “Childfinder,” what does Valerie ask Barbara about the characters in the book she read?",
+    "a": "how Barbara knew them",
+    "b": "why they were so afraid to go free",
+    "c": "if the same thing could happen to her",
+    "d": "if they were real people",
+    "e": "whether any of them were still alive",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What does Eve do to Valerie that Barbara does not like?",
+    "a": "puts a hand on her shoulder",
+    "b": "speaks to her like a child",
+    "c": "tries to recruit her",
+    "d": "threatens her",
+    "e": "tries to read her mind",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What does Eve accuse Barbara of doing?",
+    "a": "forming her own opposing organization",
+    "b": "misleading vulnerable children",
+    "c": "betraying them to the normal humans",
+    "d": "attacking other telepathic children",
+    "e": "stealing from the organization",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In “Childfinder”, the members of the organization think that they are",
+    "a": "destined by a prophecy to rule all other humans",
+    "b": "hated and feared by normal humans",
+    "c": "too complex for a normal human to understand",
+    "d": "the secret masters of the world",
+    "e": "mankind’s next evolutionary step",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What did Barbara do to the two white children she had discovered were pre-childfinders?",
+    "a": "recruit them",
+    "b": "give them to the organization",
+    "c": "cripple their minds",
+    "d": "make them earn her trust",
+    "e": "kill them",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What does Eve use her telepathy to try and do to Barbara in “Childfinder”?",
+    "a": "show her how much better the world would be if she joined",
+    "b": "grab information from her thoughts",
+    "c": "shut off her telepathic powers permanently",
+    "d": "lie and hide her true intentions",
+    "e": "force her to accept the organization’s 'invitation'",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Whom did Eve bring on her visit to Barbara in “Childfinder”?",
+    "a": "the rest of the organization’s leadership",
+    "b": "trained telepathic fighters",
+    "c": "the first child Barbara ever found for them",
+    "d": "a hostage taken from Barbara’s group",
+    "e": "her own group of telepathic children",
+    "correct_answer": "b"
+  },
+  {
+    "question": "When one of the men screamed and fell in “Childfinder”, Barbara realized",
+    "a": "she had been rescued by one of her own telepaths",
+    "b": "they had to finish quickly or else they would be discovered",
+    "c": "there was a third faction of telepaths present",
+    "d": "she had been unconsciously using her own telepathy to attack",
+    "e": "they were being fired at from the rooftops",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What compliment from a visiting student gave Jordan a swell head in “Childfinder”?",
+    "a": "he should apply to join their university",
+    "b": "he looked like he was from an African tribe",
+    "c": "he looked well dressed and respectable",
+    "d": "he was the strongest telepath they’d ever seen",
+    "e": "he would be a very wealthy man one day",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What does Barbara do to her children after they try to save her in “Childfinder”?",
+    "a": "shut off their telepathic powers",
+    "b": "promise to return the favor one day",
+    "c": "unlock their full potential",
+    "d": "shame them telepathically",
+    "e": "give them all the knowledge she has about the organization",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In “Childfinder”, what does Barbara tell her telepaths to do before she gives herself over to the organization?",
+    "a": "run and call for help",
+    "b": "use their powers to avenge her",
+    "c": "stick together and stay hidden",
+    "d": "remember how much love she has for them",
+    "e": "tell the world the truth about telepaths",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What does Jessie Mae fear will happen to Barbara “Childfinder”?",
+    "a": "she is going to rejoin the organization",
+    "b": "she will let the organization kill her",
+    "c": "the organization will read her mind",
+    "d": "she will give their locations away",
+    "e": "she will never see them again",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What does Barbara do to herself before the organization can read her mind?",
+    "a": "hides a secret weapon in her own thoughts",
+    "b": "commits suicide",
+    "c": "renders herself brain dead",
+    "d": "makes herself forget how to find pre-telepaths",
+    "e": "removes all of her telepathic powers",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The narration at the end of “Childfinder” mentions that legends claim the telepaths",
+    "a": "formed a society with true equality",
+    "b": "never overcame their racism",
+    "c": "were wiped out by a mysterious explosion",
+    "d": "were constantly fighting among themselves",
+    "e": "were afflicted by a disease",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What does the framing device at the end of “Childfinder” confidently state about the downfall of the psionic civilization?",
+    "a": "They never achieved their full potential.",
+    "b": "They were wiped out by a more powerful race of telepaths.",
+    "c": "They were wiped out by external forces.",
+    "d": "They are still hiding among us today.",
+    "e": "They were wiped out by internal conflict.",
+    "correct_answer": "c"
+  }
+]
+

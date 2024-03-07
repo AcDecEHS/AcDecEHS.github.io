@@ -1,0 +1,273 @@
+[
+  {
+    "question": "The plot of 2001: A Space Odyssey concerns a(n)",
+    "a": "alien invasion on the moon",
+    "b": "mission to create a human civilization on Mars",
+    "c": "computer going rogue in outer space",
+    "d": "intergalactic space war",
+    "e": "rescue mission on the moon",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who wrote the book on which 2001: A Space Odyssey is based?",
+    "a": "J.G. Ballard",
+    "b": "Frank Herbert",
+    "c": "Robert A. Heinlein",
+    "d": "Clifford D. Simak",
+    "e": "Arthur C. Clarke",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The spaceship in 2001: A Space Odyssey is called",
+    "a": "Exploration",
+    "b": "Discovery",
+    "c": "Apollo",
+    "d": "Triton",
+    "e": "Argo",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following astronauts is cut adrift in space in 2001: A Space Odyssey?",
+    "a": "Frank Poole",
+    "b": "Ralph Halvorson",
+    "c": "Dave Bowman",
+    "d": "Andrei Smyslov",
+    "e": "Heywood R. Floyd",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following Ursula K. Le Guin novels explores the same fear as 2001: A Space Odyssey?",
+    "a": "The Left Hand",
+    "b": "The Dispossessed",
+    "c": "The Wizard of Earthsea",
+    "d": "The Lathe of Heaven",
+    "e": "Tehanu",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following item(s) would NOT be considered technology?",
+    "a": "rollerballs",
+    "b": "ballpoints",
+    "c": "raspberry pie",
+    "d": "a basket",
+    "e": "quill and fountain pen",
+    "correct_answer": "c"
+  },
+  {
+    "question": "In Greek mythology, the Titan Prometheus gives humans",
+    "a": "rivers",
+    "b": "tools",
+    "c": "wind",
+    "d": "light",
+    "e": "fire",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In Greek mythology, how does Zeus punish Prometheus?",
+    "a": "He gives Prometheus a never-ending, evergrowing hunger.",
+    "b": "He jails Prometheus in the underworld.",
+    "c": "He chains Prometheus to a mountain and let an eagle eat his liver.",
+    "d": "He binds Prometheus to a burning wheel for eternity.",
+    "e": "He condemns Prometheus to hold the weight of the sky for eternity.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "The actions of Prometheus in Greek mythology are most similar to those of",
+    "a": "Genly Ai in The Left Hand of Darkness",
+    "b": "Dr. Frankenstein in Frankenstein",
+    "c": "Dr. Avrana Kern in Children of Time",
+    "d": "Case in Neuromancer",
+    "e": "Paul Atredies in Dune",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In which of the following American periods were the most patents issued?",
+    "a": "the Civil War",
+    "b": "the Era of Good Feelings",
+    "c": "the Second Great Awakening",
+    "d": "the New Nation",
+    "e": "the American Revolution",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Richard Jordan Gatling worked as a(n)",
+    "a": "engineer",
+    "b": "physician",
+    "c": "musician",
+    "d": "general",
+    "e": "scientist",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following wars featured the first Gatling gun?",
+    "a": "Korean War",
+    "b": "World War Two",
+    "c": "World War One",
+    "d": "Vietnam War",
+    "e": "American Civil War",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Pierre and Marie Curie discovered",
+    "a": "francium",
+    "b": "curium",
+    "c": "polonium",
+    "d": "radon",
+    "e": "uranium",
+    "correct_answer": "c"
+  },
+  {
+    "question": "The work of Marie Curie led to the creation of",
+    "a": "x-rays",
+    "b": "carbon dating",
+    "c": "ultrasound imaging",
+    "d": "nuclear weapons",
+    "e": "MRIs",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Marie Curie’s radiation poisoning shut down her",
+    "a": "kidneys",
+    "b": "bone marrow",
+    "c": "liver",
+    "d": "pituitary gland",
+    "e": "pancreas",
+    "correct_answer": "b"
+  },
+  {
+    "question": "George Orr’s name is a reference to the author of",
+    "a": "The Call of the Wild",
+    "b": "The Scarlet Letter",
+    "c": "Fahrenheit 451",
+    "d": "1984",
+    "e": "The Catcher in the Rye",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In The Lathe of Heaven, why did the government send George Orr to Dr. Haber’s office?",
+    "a": "His boss noticed he was extremely drowsy.",
+    "b": "His landlord noticed he was sleepwalking.",
+    "c": "His physician diagnosed him with insomnia.",
+    "d": "He requested to see an expert about his dreams.",
+    "e": "He was taking too many dream suppressants.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In The Lathe of Heaven, Dr. Haber also refers to the Augmentor as the",
+    "a": "Dream Maker",
+    "b": "Sleep Optimizer",
+    "c": "Dream Machine",
+    "d": "Dream Analyzer",
+    "e": "Sleep Enhancer",
+    "correct_answer": "c"
+  },
+  {
+    "question": "In The Lathe of Heaven, Dr. Haber’s first use of the Augmentor reveals",
+    "a": "the potential source of George’s gift",
+    "b": "the complexity of George’s brainwaves",
+    "c": "George’s D-state patterns",
+    "d": "George’s s-state patterns",
+    "e": "the extent of George’s sleep deprivation",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In The Lathe of Heaven, Dr. Haber initially reacts to George’s gift with",
+    "a": "awe",
+    "b": "anger",
+    "c": "fear",
+    "d": "disbelief",
+    "e": "joy",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following details does NOT change throughout The Lathe of Heaven?",
+    "a": "the United States president",
+    "b": "Haber’s title",
+    "c": "Haber’s office",
+    "d": "Haber’s appearance",
+    "e": "the landscape",
+    "correct_answer": "a"
+  },
+  {
+    "question": "As time progresses in The Lathe of Heaven, Dr. Haber becomes progressively more",
+    "a": "wealthy",
+    "b": "humble",
+    "c": "compassionate",
+    "d": "violent",
+    "e": "fearful",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In The Lathe of Heaven, the Aldebaranians appear MOST similar to a",
+    "a": "duck",
+    "b": "moose",
+    "c": "sea turtle",
+    "d": "dog",
+    "e": "cat",
+    "correct_answer": "c"
+  },
+  {
+    "question": "In The Lathe of Heaven, George Orr dreams of the aliens in response to Dr. Haber’s demand for",
+    "a": "world peace",
+    "b": "a perfect race",
+    "c": "civilization on the moon",
+    "d": "an army",
+    "e": "better technology",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In The Lathe of Heaven, how does George try to escape from Dr. Haber?",
+    "a": "contacting HEW",
+    "b": "calling a lawyer",
+    "c": "sheltering with a friend",
+    "d": "running to California",
+    "e": "overdosing on drugs",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In The Lathe of Heaven, Heather Lelache witnesses George’s dream of",
+    "a": "the death of 6 billion people",
+    "b": "John F. Kennedy",
+    "c": "aliens landing on the moon",
+    "d": "the racehorse",
+    "e": "Mount Hood",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In The Lathe of Heaven, which trait does Dr. Haber believe makes him better suited to use George’s gift?",
+    "a": "rationality",
+    "b": "intelligence",
+    "c": "calmness",
+    "d": "strength",
+    "e": "experience",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In The Lathe of Heaven, George Orr compares Dr. Haber to a(n)",
+    "a": "tomato",
+    "b": "banana",
+    "c": "onion",
+    "d": "broccoli",
+    "e": "potato",
+    "correct_answer": "c"
+  },
+  {
+    "question": "In The Lathe of Heaven, why is Dr. Haber unable to properly use Orr’s gift?",
+    "a": "He is empty inside.",
+    "b": "He is too greedy.",
+    "c": "He doesn’t understand how to use it.",
+    "d": "The Augmentor malfunctions.",
+    "e": "He mishypnotizes himself.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In The Lathe of Heaven, the end of the world is compared to melting",
+    "a": "chocolate",
+    "b": "butter",
+    "c": "Jell-O",
+    "d": "snow",
+    "e": "ice cream",
+    "correct_answer": "e"
+  }
+]
+

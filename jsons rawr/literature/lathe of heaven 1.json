@@ -1,0 +1,138 @@
+[
+  {
+    "question": "To whom is the epigraph to Chapter 1 attributed?",
+    "a": "Confucius",
+    "b": "Mencius",
+    "c": "Laozi",
+    "d": "Chuang Tse",
+    "e": "Sun Tzu",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which creature opens Chapter 1?",
+    "a": "cockroach",
+    "b": "horse",
+    "c": "dog",
+    "d": "octopus",
+    "e": "jellyfish",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What causes the main character’s illness at the beginning of Chapter 1?",
+    "a": "a cancerous plague",
+    "b": "radiation sickness",
+    "c": "poor nutrition",
+    "d": "excessive alcohol",
+    "e": "influenza",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What type of flower does the main character see?",
+    "a": "rose",
+    "b": "dandelion",
+    "c": "forsythia",
+    "d": "cowslip",
+    "e": "peony",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What does the medic say has caused the main character’s illness?",
+    "a": "bad food",
+    "b": "repressed anger",
+    "c": "too much dreaming",
+    "d": "a drug overdose",
+    "e": "radiation poisoning",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What type of treatment does the medic recommend for the main character in Chapter 1?",
+    "a": "Behavioral Therapy",
+    "b": "Surgical Treatment",
+    "c": "Voluntary Therapeutic",
+    "d": "Radiation Therapy",
+    "e": "Medication Therapy",
+    "correct_answer": "c"
+  },
+  {
+    "question": "In Chapter 1, we learn that the main character’s name is",
+    "a": "Henry",
+    "b": "Phil",
+    "c": "Haber",
+    "d": "George",
+    "e": "Sam",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What does Mannie do for the main character in Chapter 1?",
+    "a": "soothes him to sleep",
+    "b": "covers for his drug use",
+    "c": "helps him undress",
+    "d": "makes him a meal",
+    "e": "calls an ambulance",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is Mannie’s occupation?",
+    "a": "medic",
+    "b": "elevator guard",
+    "c": "plumber",
+    "d": "janitor",
+    "e": "sleep doctor",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What illness does the medic say is afflicting children?",
+    "a": "scurvy",
+    "b": "kwashiorkor",
+    "c": "polio",
+    "d": "cancer",
+    "e": "diphtheria",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In Chapter 1, the main character is taking barbiturates and",
+    "a": "Concerta",
+    "b": "Focalin",
+    "c": "Dexedrine",
+    "d": "Adderall",
+    "e": "Desoxyn",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What nutrient does the medic say that many children are lacking, in Chapter 1?",
+    "a": "calcium",
+    "b": "vitamin A",
+    "c": "magnesium",
+    "d": "iron",
+    "e": "protein",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What nutrient does the medic give many children?",
+    "a": "vitamin C",
+    "b": "iodine",
+    "c": "folate",
+    "d": "potassium",
+    "e": "protein",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What question does Mannie ask at the end of Chapter 1?",
+    "a": "“What’s that noise?”",
+    "b": "“Wouldn’t you like to know?”",
+    "c": "“What’d you do with my Pharm Card?”",
+    "d": "“Ain’t it great to be alive?”",
+    "e": "“Who took my shoes?”",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The tone of Chapter 1 can BEST be described as",
+    "a": "contemplative",
+    "b": "nostalgic",
+    "c": "hopeful",
+    "d": "bleak",
+    "e": "wistful",
+    "correct_answer": "d"
+  }
+]
+

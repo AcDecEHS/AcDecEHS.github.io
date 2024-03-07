@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Mary Shelley's Frankenstein is often classified as a work of",
+    "a": "fantasy",
+    "b": "thriller",
+    "c": "detective fiction",
+    "d": "Romantic fiction",
+    "e": "dystopian fiction",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following novels became known as the first postapocalyptic novel?",
+    "a": "The Stand",
+    "b": "Alas, Babylon",
+    "c": "One Second After",
+    "d": "The Road",
+    "e": "The Last Man",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following texts does John Crowley consider to be the first science fiction novel?",
+    "a": "Somnium",
+    "b": "The Blazing World",
+    "c": "The Chemical Wedding",
+    "d": "New Atlantic",
+    "e": "Round the Moon",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following critics used Greek and Roman texts to dispute Frankenstein's foundational role in science fiction?",
+    "a": "Damon Knight",
+    "b": "Brian Stableford",
+    "c": "Adam Roberts",
+    "d": "Brian Aldiss",
+    "e": "Francesca Saggini",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Why is John Cleeve Symmes’ Symzonia generally considered fantasy rather than science fiction?",
+    "a": "It relies on disproven geocentrism.",
+    "b": "Its plot revolves around the pseudo-science of hypnosis.",
+    "c": "It requires the reader to believe that the earth is hollow.",
+    "d": "Its characters follow the debunked theory of phlogiston.",
+    "e": "It relies on alchemy rather than actual science.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following Edgar Allen Poe short stories deals with humankind's relationship with science and technology?",
+    "a": "“The Unparalleled Adventure of One Hans Pfaall”",
+    "b": "“The Gold Bug”",
+    "c": "“The Black Cat”",
+    "d": "“A Tale of the Ragged Mountains”",
+    "e": "“The Man of the Crowd”",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following short stories ends with the line “Ah, humanity!”?",
+    "a": "Leo Tolstoy’s “The Raid”",
+    "b": "Nathaniel Hawthorne’s “The Birthmark”",
+    "c": "James Fenimore Cooper’s “The Lake Gun”",
+    "d": "Charles Dicken’s “The Long Voyage”",
+    "e": "Herman Melville’s “Bartleby the Scrivener”",
+    "correct_answer": "e"
+  },
+  {
+    "question": "During which of the following decades did science fiction emerge?",
+    "a": "1890s",
+    "b": "1900s",
+    "c": "1910s",
+    "d": "1930s",
+    "e": "1920s",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How did pulp magazines primarily help lead to the emergence and popularity of the science fiction genre?",
+    "a": "They were the first literary form to feature comic strips.",
+    "b": "They were cheap and widely distributed.",
+    "c": "They were the first mass-produced literary form printed in color.",
+    "d": "They were printed alongside superhero stories.",
+    "e": "They educated audiences on new technologies.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following periods became known as the Golden Age of Scientific Fiction?",
+    "a": "1924 to the early 1930s",
+    "b": "1941 to the early 1950s",
+    "c": "1938 to the late 1940s",
+    "d": "1912 to the late 1920s",
+    "e": "1900 to the early 1910s",
+    "correct_answer": "c"
+  },
+  {
+    "question": "All of the following authors became known as the Old Guard of the Golden Age EXCEPT",
+    "a": "Richard Wright",
+    "b": "Robert Heinlein",
+    "c": "Isaac Asimov",
+    "d": "Alfred Bester",
+    "e": "John Campbell",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Pulp magazines such as Wonder Stories were LEAST likely to focus on",
+    "a": "male heroes",
+    "b": "character development",
+    "c": "technological breakthroughs",
+    "d": "space adventures",
+    "e": "scientific methodology",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following radio programs featured science fiction stories?",
+    "a": "GI Jive",
+    "b": "Adventure Parade",
+    "c": "Buck Rodgers",
+    "d": "the Great Gildersleeve",
+    "e": "Captain Flagg and Sargeant Quirt",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following magazines remains in print today?",
+    "a": "Strange Tales",
+    "b": "Captain Future",
+    "c": "Science Wonder Stories",
+    "d": "Asimov’s Magazine",
+    "e": "Worlds Beyond",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following television shows did NOT feature science fiction elements?",
+    "a": "My Favorite Martian",
+    "b": "Star Trek",
+    "c": "Voyage to the Bottom of the Sea",
+    "d": "My Mother the Car",
+    "e": "The Time Tunnel",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following American vice presidents participated in the Kitchen Debate?",
+    "a": "Gerald Ford",
+    "b": "Lyndon B. Johnson",
+    "c": "George H. W. Bush",
+    "d": "Richard Nixon",
+    "e": "Walter Mondale",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The Kitchen Debate took place at the",
+    "a": "American National Exhibition",
+    "b": "Century of Progress International Exhibition",
+    "c": "Soviet National Exhibition",
+    "d": "World's Columbian Exposition",
+    "e": "1984 World's Fair",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following artists would NOT be considered a part of the New Wave?",
+    "a": "Samuel Delaney",
+    "b": "Michael Moorcock",
+    "c": "Harlan Ellison",
+    "d": "Ursula K. Le Guin",
+    "e": "Eileen Gunn",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How did New Wave artists PRIMARILY influence science fiction?",
+    "a": "They added political subtexts to their novels.",
+    "b": "They incorporated fantastical aspects into the genre.",
+    "c": "They added ambiguity and irony to the genre.",
+    "d": "They worked in non-prose poetry.",
+    "e": "They introduced the steampunk subgenre.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following writers came directly after the New Wave?",
+    "a": "James Tiptree, Jr.",
+    "b": "Kate Wilhelm",
+    "c": "Ed Bryant",
+    "d": "Roger Zelazny",
+    "e": "Joanna Russ",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Cyberpunk novels often depict a(n)",
+    "a": "intergalactic war with other-worldly lifeforms",
+    "b": "fight between artificial intelligence and humanity",
+    "c": "battle between superpower nations",
+    "d": "clash against oppressive high-tech corporations",
+    "e": "utopian society with high standards of living thanks to technology",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following novels pioneered the cyberpunk subgenre?",
+    "a": "Hardwired",
+    "b": "Mirrorshades",
+    "c": "Virtual Light",
+    "d": "Eclipse",
+    "e": "Neuromancer",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following authors created the label 'steampunk'?",
+    "a": "Bruce Sterling",
+    "b": "Cory Doctorow",
+    "c": "Keven Jeter",
+    "d": "Pat Cadigan",
+    "e": "Rudy Rucker",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following periods MOST influenced the steampunk subgenre?",
+    "a": "the American Civil War era",
+    "b": "the Renaissance",
+    "c": "the Rococo period",
+    "d": "the Roaring Twenties",
+    "e": "the Edwardian period",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following authors introduced questions of gender to science fiction in The Female Man?",
+    "a": "Joanna Russ",
+    "b": "Neal Stephenson",
+    "c": "Vonda N. McIntyre",
+    "d": "Elizabeth Lynn",
+    "e": "Alice Sheldon",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In the United States, women of color expanding the science fiction genre are following in the footsteps of",
+    "a": "Pat Cadigan",
+    "b": "Melissa Scott",
+    "c": "Vonda N. McIntyre",
+    "d": "Octavia E. Butler",
+    "e": "Eileen Gunn",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The solarpunk genre is BEST described as",
+    "a": "horrific",
+    "b": "dystopian",
+    "c": "optimistic",
+    "d": "postapocalyptic",
+    "e": "action-packed",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Texts such as Cherie Dimaline's The Marrow Thieves offer a new perspective on",
+    "a": "discrimination",
+    "b": "political systems",
+    "c": "gender roles",
+    "d": "poverty",
+    "e": "technology",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Author Theodore Sturgeon compared the emergence of science fiction to a(n)",
+    "a": "bird wing",
+    "b": "tree branch",
+    "c": "watch hand",
+    "d": "car tire",
+    "e": "suitcase handle",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following authors received the 2014 National Book Foundation Medal for Distinguished Contribution to American Letters?",
+    "a": "Octavia E. Butler",
+    "b": "Ursula K. Le Guin",
+    "c": "Tomi Adeyami",
+    "d": "Joanna Russ",
+    "e": "William Gibson",
+    "correct_answer": "b"
+  }
+]
+

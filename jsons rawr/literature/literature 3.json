@@ -1,0 +1,273 @@
+[
+    {
+        "question": "In what year was the classic science fiction novel Twenty Thousand Leagues Under the Sea published?",
+        "a": "1920",
+        "b": "1870",
+        "c": "1896",
+        "d": "1872",
+        "e": "1867",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What was the name of the submarine in Twenty Thousand Leagues Under the Sea?",
+        "a": "Mariner",
+        "b": "Nautilus",
+        "c": "Aronnax",
+        "d": "Nemo",
+        "e": "Plongeur",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which French novelist wrote Twenty Thousand Leagues Under the Sea?",
+        "a": "Pierre Versins",
+        "b": "Edouard Riou",
+        "c": "Alphonse de Neuville",
+        "d": "Jules Verne",
+        "e": "Pierre-Jules Hetzel",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Who wrote the 1896 novel The Time Machine?",
+        "a": "Charles Dickens",
+        "b": "Daniel Defoe",
+        "c": "Mary Shelley",
+        "d": "H.G. Wells",
+        "e": "Joseph Conrad",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which 1920 play introduced the word “robot” to the English language?",
+        "a": "War of the Worlds",
+        "b": "Metropolis",
+        "c": "War with the Newts",
+        "d": "R.U.R.",
+        "e": "The Mechanical Man",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which 1927 science fiction film featured one of the earliest depictions of a robot?",
+        "a": "The Mechanical Man",
+        "b": "20,000 Leagues Under the Sea",
+        "c": "Frankenstein",
+        "d": "Metropolis",
+        "e": "The Man From Beyond",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What type of issues concerning robotics and artificial intelligence are raised by literary works that feature the trope of the infernal machine?",
+        "a": "financial",
+        "b": "ethical",
+        "c": "moral",
+        "d": "existential",
+        "e": "political",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What was the title of C.L. Moore’s 1944 novella about a woman whose brain is implanted into a robot?",
+        "a": "The Invisible Woman",
+        "b": "No Woman Born",
+        "c": "Heir Apparent",
+        "d": "Born Again Woman",
+        "e": "The Lady and the Monster",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What was the name of the first novel in Isaac Asimov’s robot series, which was published in 1950?",
+        "a": "Robot Wars",
+        "b": "Bladerunner",
+        "c": "Galactic Empire",
+        "d": "I, Robot",
+        "e": "Little Lost Robot",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Who wrote a short story in 1939 that inspired Isaac Asimov’s 1950 novel of the same name?",
+        "a": "Eando Binder",
+        "b": "Otto Binder",
+        "c": "Earl Binder",
+        "d": "Stan Lee",
+        "e": "Susan Calvin",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What is the name of the rules that Isaac Asimov created for the behavior of robots?",
+        "a": "The Robot’s Code",
+        "b": "The Robot’s Rules",
+        "c": "Laws of Robot Ethics",
+        "d": "Three Laws of Robotics",
+        "e": "Three Rules of Robotics",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What is the first rule in Isaac Asimov’s code of conduct for robots?",
+        "a": "A robot must obey orders given it by human beings.",
+        "b": "A robot may not injure a human being or, through inaction, allow a human being to come to harm.",
+        "c": "A robot must protect its own existence as long as such protection does not cause harm to a human being.",
+        "d": "A robot may not take any action that is not requested of it by a human being.",
+        "e": "A robot may not take orders from another robot.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What science fiction novel inspired the 1982 film Bladerunner?",
+        "a": "Bladerunner",
+        "b": "Robot Wars",
+        "c": "Robot Races",
+        "d": "The Android Chronicles",
+        "e": "Do Androids Dream of Electric Sheep?",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Who wrote the science fiction novel that became the inspiration for the 1982 movie Bladerunner?",
+        "a": "Theodore Sturgeon",
+        "b": "Philip K. Dick",
+        "c": "Ridley Scott",
+        "d": "Isaac Asimov",
+        "e": "Rick Deckard",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which popular android character from the television series Star Trek frequently questioned the meaning of its existence?",
+        "a": "Data",
+        "b": "Picard",
+        "c": "Juliana Tainer",
+        "d": "Noonien Soong",
+        "e": "Spock",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The Lathe of Heaven explores the complex interplay between",
+        "a": "politics and economics",
+        "b": "technology and humanity",
+        "c": "history and civilization",
+        "d": "language and communication",
+        "e": "art and culture",
+        "correct_answer": "b"
+    },
+    {
+        "question": "From which religion does the Yin-Yang symbol originate?",
+        "a": "Hinduism",
+        "b": "Confucianism",
+        "c": "Shintoism",
+        "d": "Buddhism",
+        "e": "Taoism",
+        "correct_answer": "e"
+    },
+    {
+        "question": "As specifically emphasized in the Lathe of Heaven, the Yin and Yang symbolizes the",
+        "a": "existence of differing moral compasses",
+        "b": "coexistence of ethnic groups",
+        "c": "strict and steady state of the universe",
+        "d": "unity of good and evil",
+        "e": "contrast between elements of nature",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What does Le Guin’s novel suggest humanity should prioritize?",
+        "a": "pursuing individual desires and aspirations",
+        "b": "advancing personal interests and ambitions",
+        "c": "engaging in meaningful relationships with others",
+        "d": "taking proactive steps for societal progress",
+        "e": "making significant societal contributions",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Le Guin critiques the West on their emphasis on",
+        "a": "agriculture",
+        "b": "military",
+        "c": "healthcare",
+        "d": "technology",
+        "e": "education",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How is the importance of balance represented in The Lathe of Heaven?",
+        "a": "through the significance of gardening tools",
+        "b": "through the symbolism of shoes",
+        "c": "through the portrayal of kitchen wares",
+        "d": "through the exploration of bathroom fixtures",
+        "e": "through the depiction of outerwear",
+        "correct_answer": "c"
+    },
+    {
+        "question": "In the Lathe of Heaven George Orr’s relationship with Heather Lelache can BEST be described as",
+        "a": "professional",
+        "b": "romantic",
+        "c": "mentoring",
+        "d": "tepid",
+        "e": "antagonistic",
+        "correct_answer": "b"
+    },
+    {
+        "question": "In the Lathe of Heaven, what is Heather Lelache’s profession?",
+        "a": "accountant",
+        "b": "technician",
+        "c": "doctor",
+        "d": "architect",
+        "e": "lawyer",
+        "correct_answer": "e"
+    },
+    {
+        "question": "In The Lathe of Heaven, which dream results in the disappearance of Heather Lelache?",
+        "a": "the dream of an alien invasion and space war",
+        "b": "the dream of the elimination of racism",
+        "c": "the dream of a devastating global plague",
+        "d": "the dream of Aunt Ethel dying in a car crash",
+        "e": "the dream of making the aliens friendly",
+        "correct_answer": "b"
+    },
+    {
+        "question": "In the Lathe of Heaven, where does George Orr encounter Heather Lelache after she has disappeared?",
+        "a": "a utility store",
+        "b": "a library",
+        "c": "a kitchen shop",
+        "d": "a coffee shop",
+        "e": "Mr. Haber’s office",
+        "correct_answer": "c"
+    },
+    {
+        "question": "In the Lathe of Heaven, who runs the kitchen shop where George Orr works?",
+        "a": "Dr. Haber",
+        "b": "Mannie Ahrens",
+        "c": "E’nememen Asfah",
+        "d": "Penny Crouch",
+        "e": "Tiua'k Ennbe Ennbe",
+        "correct_answer": "c"
+    },
+    {
+        "question": "In The Lathe of Heaven, what is Heather Lelache's racial background in the altered reality?",
+        "a": "Native American",
+        "b": "Middle Eastern",
+        "c": "Hispanic",
+        "d": "Asian",
+        "e": "biracial",
+        "correct_answer": "e"
+    },
+    {
+        "question": "In the Lathe of Heaven, about which tool does Lelache ask George Orr?",
+        "a": "a cast-iron pan",
+        "b": "a pot",
+        "c": "an egg whisk",
+        "d": "a cutlery set",
+        "e": "a metal spatula",
+        "correct_answer": "c"
+    },
+    {
+        "question": "In the Lathe of Heaven, what does Lelache remark to George Orr, referring to a kitchen item?",
+        "a": "“good steadiness”",
+        "b": "“good symmetry”",
+        "c": "“good harmony”",
+        "d": "“good stability”",
+        "e": "“good balance”",
+        "correct_answer": "e"
+    },
+    {
+        "question": "In the Lathe of Heaven, according to Lelache, which country makes good culinary tools?",
+        "a": "France",
+        "b": "America",
+        "c": "Britain",
+        "d": "Germany",
+        "e": "Switzerland",
+        "correct_answer": "a"
+    }
+]
+
