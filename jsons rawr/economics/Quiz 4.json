@@ -1,0 +1,273 @@
+[
+  {
+    "question": "What value does the height of the supply curve of a good represent?",
+    "a": "the price which the buyers of the good are willing to pay",
+    "b": "the total quantity supplied in the market",
+    "c": "the price at which producers of the good will sell",
+    "d": "the total surplus in the market",
+    "e": "the producer surplus in the market",
+    "correct_answer": "c"
+  },
+  {
+    "question": "The market price of silver is lower than equilibrium price. How does market price shift?",
+    "a": "It increases in response to supply.",
+    "b": "It does not change.",
+    "c": "It decreases in response to demand.",
+    "d": "It increases in response to demand.",
+    "e": "It decreases in response to supply.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following functions do competitive markets NOT serve?",
+    "a": "allocating limited goods to consumers",
+    "b": "ensuring everyone is treated equally",
+    "c": "maximizing benefits from trade",
+    "d": "transmitting information via prices",
+    "e": "achieving equilibrium in markets",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Four producers are willing to supply at a price of $40, $50, $60, and $70 respectively. If the market price is now $80, what is the producer surplus per unit?",
+    "a": "$70",
+    "b": "$40",
+    "c": "$80",
+    "d": "$50",
+    "e": "$100",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What condition describes a market with maximized total surplus?",
+    "a": "Pareto efficiency",
+    "b": "positive externality",
+    "c": "productive efficiency",
+    "d": "diminishing marginal returns",
+    "e": "equal surplus for all actors",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What factor drives market price down if it exceeds equilibrium price?",
+    "a": "price ceilings",
+    "b": "excess supply",
+    "c": "excess demand",
+    "d": "deadweight loss",
+    "e": "diminishing marginal returns",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Where is consumer surplus on a supply-demand diagram?",
+    "a": "below the equilibrium price and below the supply curve",
+    "b": "above the equilibrium price and below the supply curve",
+    "c": "above the equilibrium price and below the demand curve",
+    "d": "below the equilibrium price and above the supply curve",
+    "e": "below the equilibrium price and above the demand curve",
+    "correct_answer": "c"
+  },
+  {
+    "question": "How is consumers’ willingness to pay shown on a supply/demand chart?",
+    "a": "height of the demand curve",
+    "b": "area above the equilibrium point",
+    "c": "area under the supply curve",
+    "d": "axis value of the demand curve",
+    "e": "slope of the supply curve",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What area describes producer surplus on a supply-demand diagram?",
+    "a": "below the equilibrium price and above the supply curve",
+    "b": "below the equilibrium price and below the supply curve",
+    "c": "below the equilibrium price and above the demand curve",
+    "d": "above the equilibrium price and below the supply curve",
+    "e": "above the equilibrium price and below the demand curve",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which of the following situations does producer surplus exist?",
+    "a": "The producer sells at a price lower than opportunity cost.",
+    "b": "The producer earns an economic profit.",
+    "c": "The producer earns an accounting profit.",
+    "d": "The producer is the marginal supplier at equilibrium price.",
+    "e": "The producer sells at a price equal to opportunity cost.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following answer choices BEST describes a marginal seller?",
+    "a": "indifferent to selling or not selling a good",
+    "b": "is the first to supply the good",
+    "c": "supplies the largest quantity of the good",
+    "d": "cannot enter the market due to high barriers to entry",
+    "e": "has an extremely high producer surplus",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following actors values maximizing total welfare MOST?",
+    "a": "federal government",
+    "b": "normative economist",
+    "c": "monopoly",
+    "d": "business firm",
+    "e": "social planner",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following markets would be MOST likely to gravitate towards equilibrium?",
+    "a": "pharmaceuticals",
+    "b": "potato chips",
+    "c": "EV cars",
+    "d": "rideshare apps",
+    "e": "smartphones",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What value corresponds to the area above market price and below the curve?",
+    "a": "producer surplus",
+    "b": "total surplus",
+    "c": "deadweight loss",
+    "d": "consumer surplus",
+    "e": "equilibrium",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How are goods distributed in a competitive market?",
+    "a": "They are sold by producers with equal access to all resources.",
+    "b": "People who desire the good the most purchase it.",
+    "c": "Some are sold and consumed while some enter inventory.",
+    "d": "They are shared equally among all market members.",
+    "e": "They are purchased by the wealthiest consumers.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What change produces a higher equilibrium price and quantity?",
+    "a": "Demand increases.",
+    "b": "Demand and supply decrease.",
+    "c": "Supply decreases.",
+    "d": "Supply increases.",
+    "e": "Demand decreases.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How much did milk production increase as a result of BGH?",
+    "a": "10–15%",
+    "b": "20–25%",
+    "c": "25–30%",
+    "d": "5–10%",
+    "e": "15–20%",
+    "correct_answer": "b"
+  },
+  {
+    "question": "A rightward shift of the supply curve results in",
+    "a": "higher consumer surplus",
+    "b": "higher producer surplus",
+    "c": "lower producer surplus",
+    "d": "lower consumer surplus",
+    "e": "no change in surplus",
+    "correct_answer": "b"
+  },
+  {
+    "question": "When a downtown area undergoes gentrification, local housing prices increase. What term refers to this welfare effect that is not priced into the market for a good?",
+    "a": "externalities",
+    "b": "nuances",
+    "c": "marginalities",
+    "d": "equilibrium shifters",
+    "e": "diminishing returns",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Input prices for gasoline decrease. How will this impact the equilibrium in the market for gasoline?",
+    "a": "shift only to the right",
+    "b": "shift down and to the right",
+    "c": "shift in an unknown direction",
+    "d": "shift up and to the left",
+    "e": "remain the same",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is the “domino effect” of BGH adoption in farms?",
+    "a": "Organic farms have greater demand than BGH farms.",
+    "b": "Advancing farm technologies are only made to suit BGH farms.",
+    "c": "Many families boycott farms that use BGH due to health concerns.",
+    "d": "Farmers must use BGH to stay competitive with farms who can now produce more.",
+    "e": "BGH shortens cow lifespans, leading to an increased demand for cows.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following results does NOT occur if demand increases?",
+    "a": "The demand curve shifts to the left.",
+    "b": "Equilibrium price increases.",
+    "c": "Total surplus increases.",
+    "d": "Equilibrium quantity increases.",
+    "e": "Consumer surplus increases.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Mexico, foods deemed to contain excess sugar, calories, or saturated fat must be labeled with black rectangular warning labels. What is the intended impact of this policy?",
+    "a": "negative externality",
+    "b": "decrease in supply",
+    "c": "normative economics",
+    "d": "increase in price",
+    "e": "decrease in demand",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following answer choices MUST occur if demand increases?",
+    "a": "decrease in equilibrium surplus",
+    "b": "increase in consumer surplus",
+    "c": "decrease in surplus supplied",
+    "d": "decrease in total surplus",
+    "e": "increase in producer surplus",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following goods have been labeled with warning labels by public policy makers in the United States?",
+    "a": "gasoline",
+    "b": "bleach",
+    "c": "beer",
+    "d": "cigarettes",
+    "e": "energy drinks",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How is total surplus affected by a rightward shift in the demand curve?",
+    "a": "The effect is ambiguous.",
+    "b": "It increases.",
+    "c": "It decreases.",
+    "d": "It does not change.",
+    "e": "It increases, then decreases.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What shift MUST result in a lower equilibrium price?",
+    "a": "Demand increases.",
+    "b": "Supply decreases and demand increases.",
+    "c": "Supply and demand increase.",
+    "d": "Demand decreases.",
+    "e": "Supply decreases.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following answer choices explains a downside to the widespread adoption of BGH?",
+    "a": "It could harm producers with high fixed costs.",
+    "b": "It reduces total market supply.",
+    "c": "It reduces total surplus via deadweight loss.",
+    "d": "It makes consumers worse off.",
+    "e": "It is very expensive to administer.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "How would the equilibrium point in the pork market shift in response to a decrease in the price of beef?",
+    "a": "to the right only",
+    "b": "down only",
+    "c": "up and to the left",
+    "d": "down and to the left",
+    "e": "up and to the right",
+    "correct_answer": "e"
+  },
+  {
+    "question": "If the supply curve shifts upward and the demand curve shifts leftward, which of the following answer choices MUST be produced?",
+    "a": "higher quantity",
+    "b": "higher price",
+    "c": "goods oversupply",
+    "d": "lower price",
+    "e": "lower quantity",
+    "correct_answer": "e"
+  }
+]
+

@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Which of the following issues is LEAST relevant to macroeconomics?",
+    "a": "international oil cartels",
+    "b": "growth of national economies",
+    "c": "long-run supply of steel",
+    "d": "seasonal unemployment rate",
+    "e": "short-run consumer goods inflation",
+    "correct_answer": "c"
+  },
+  {
+    "question": "During which of the following periods did United States output decrease?",
+    "a": "World War II",
+    "b": "Cold War",
+    "c": "World War I",
+    "d": "the Great Depression",
+    "e": "Roaring Twenties",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How have population and output in the United States changed in the past century?",
+    "a": "Output has kept pace with population.",
+    "b": "Output has stagnated with population growth.",
+    "c": "Population has impeded output.",
+    "d": "Population has grown much faster than output.",
+    "e": "Output has grown much faster than population.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What literal meaning does ‘per capita’ have?",
+    "a": "‘per financial year’",
+    "b": "‘per legally recognized person’",
+    "c": "‘per capital good’",
+    "d": "‘per head’",
+    "e": "‘per taxable dollar’",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Average labor productivity equals an economy’s total output divided by its",
+    "a": "number of working years per capita",
+    "b": "number of employed workers",
+    "c": "number of working-age residents",
+    "d": "number of man-hours worked",
+    "e": "number of employed and unemployed workers",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What output per capita did the United States produce in 2008?",
+    "a": "$37,000",
+    "b": "$96,000",
+    "c": "$12,000",
+    "d": "$59,000",
+    "e": "$43,000",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In which of the following periods did real output per worker decline MOST?",
+    "a": "during the 1970s oil crisis",
+    "b": "throughout the Great Depression",
+    "c": "mid-World War I",
+    "d": "in the Roaring Twenties",
+    "e": "after World War II",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following countries had the HIGHEST GDP per capita in 2007?",
+    "a": "India",
+    "b": "Mexico",
+    "c": "South Korea",
+    "d": "China",
+    "e": "Russia",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following countries had the LARGEST GDP in 2007?",
+    "a": "China",
+    "b": "Mexico",
+    "c": "South Korea",
+    "d": "India",
+    "e": "Russia",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What phenomena constitute the business cycle?",
+    "a": "deflation and inflation",
+    "b": "consumption and capital",
+    "c": "employment and unemployment",
+    "d": "expansion and recession",
+    "e": "profits and expenditures",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following countries had the LONGEST life expectancy in 2007?",
+    "a": "Japan",
+    "b": "South Korea",
+    "c": "France",
+    "d": "USA",
+    "e": "Germany",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Who is considered unemployed?",
+    "a": "a person who is taking vacation time",
+    "b": "a person who is no longer looking for work",
+    "c": "any person without a job",
+    "d": "a person without a job who would like to work",
+    "e": "a person who is not in the labor force",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following statements is TRUE of unemployment?",
+    "a": "It never reaches zero.",
+    "b": "It has been rising since the 1920s.",
+    "c": "It rises during expansions.",
+    "d": "It declines alongside output.",
+    "e": "It depends on microeconomic forces.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following values is MOST impacted by inflation?",
+    "a": "real output",
+    "b": "purchasing power",
+    "c": "inequality",
+    "d": "government revenue",
+    "e": "total surplus",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following answer choices describes a trade surplus?",
+    "a": "A country exports and imports equal amounts.",
+    "b": "A country has low import duties.",
+    "c": "A country exports more than in the previous year.",
+    "d": "A country exports more than the global average.",
+    "e": "A country exports more than it imports .",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which notable economist studied national output during the Great Depression?",
+    "a": "John Maynard Keynes",
+    "b": "Walter Heller",
+    "c": "Simon Kuznets",
+    "d": "Friedrich Hayek",
+    "e": "Arthur Okun",
+    "correct_answer": "c"
+  },
+  {
+    "question": "How do economists account for capital goods in GDP?",
+    "a": "GDP includes capital goods in the year of consumption.",
+    "b": "They include capital goods under nominal GDP only.",
+    "c": "Capital goods are valued according to their contribution to final goods.",
+    "d": "Capital goods are part of GDP for the year in which they were produced.",
+    "e": "Capital goods are included in GNP but not GDP.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following goods is a consumer durable?",
+    "a": "legal services",
+    "b": "a t-shirt",
+    "c": "a college degree",
+    "d": "an electric scooter",
+    "e": "a loaf of bread",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following exchanges would United States GDP NOT count?",
+    "a": "Hertz sells fifty used automobiles.",
+    "b": "Japan Steel sells steel to a Toyota plant.",
+    "c": "A baker sells sourdough loaves at a farmer’s market.",
+    "d": "Maryland imports $500 million of masks.",
+    "e": "A salesman receives a commission from selling an old mansion.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What agency calculates the United States Consumer Price Index?",
+    "a": "Bureau of Labor Statistics",
+    "b": "Federal Reserve",
+    "c": "Food and Drug Administration",
+    "d": "National Bureau of Economic Research",
+    "e": "World Bank",
+    "correct_answer": "a"
+  },
+  {
+    "question": "How does the Consumer Price Index influence the economy?",
+    "a": "The CPI guides government intervention.",
+    "b": "The CPI determines producer surplus.",
+    "c": "The CPI affects people’s Social Security benefits.",
+    "d": "CPI tracks unemployment rates closely.",
+    "e": "The CPI can affect real quantities of certain goods.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following components does GDP NOT include?",
+    "a": "investment",
+    "b": "government transfers",
+    "c": "consumption",
+    "d": "net exports",
+    "e": "government purchases",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Why do economists calculate real GDP?",
+    "a": "to remove the cost of taxation",
+    "b": "to account for depreciation",
+    "c": "to adjust for foreign exchange",
+    "d": "to measure shifts in production",
+    "e": "to measure price in negative externalities",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following answer choices is NOT included when calculating the 'investment' portion of GDP?",
+    "a": "home sales",
+    "b": "office equipment",
+    "c": "purchase of a new factory",
+    "d": "inventory growth",
+    "e": "bond purchases",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following statements describes a country that imports more than it exports?",
+    "a": "Net exports remain the same.",
+    "b": "Foreign investment decreases.",
+    "c": "Net exports decrease.",
+    "d": "Domestic consumption starts to increase.",
+    "e": "Taxation increases.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following answer choices is included when calculating the 'government purchases' portion of GDP?",
+    "a": "social security benefits",
+    "b": "public officials’ wages",
+    "c": "financial aid",
+    "d": "food stamps",
+    "e": "Medicare expenses",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Caroline uses her book advance to buy a flat in Manhattan. Which of the following answer choices BEST describes this purchase?",
+    "a": "capital goods investment",
+    "b": "deadweight loss",
+    "c": "monetary policy",
+    "d": "residential fixed investment",
+    "e": "government subsidy",
+    "correct_answer": "d"
+  },
+  {
+    "question": "On what basis is nominal GDP calculated?",
+    "a": "the current year’s prices",
+    "b": "a base year’s prices",
+    "c": "the previous year’s projected output",
+    "d": "the federal funds rate",
+    "e": "data from the Consumer Price Index",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following statements is TRUE of the Consumer Price Index?",
+    "a": "The CPI draws on the Consumer Expenditure Survey.",
+    "b": "The CPI is calculated on a biannual basis.",
+    "c": "The CPI is calculated from a basket of capital goods.",
+    "d": "The CPI does not use a base year to calculate its index.",
+    "e": "The CPI measures externalities.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What does GDP attempt to measure?",
+    "a": "level of government intervention",
+    "b": "degree of vertical integration",
+    "c": "overall production",
+    "d": "social well-being",
+    "e": "consumer and producer surplus",
+    "correct_answer": "c"
+  }
+]
+

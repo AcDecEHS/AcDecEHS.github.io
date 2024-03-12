@@ -1,0 +1,273 @@
+[
+    {
+        "question": "How is the market supply curve calculated?",
+        "a": "multiplying each producer’s supply curves weighted by size",
+        "b": "adding average total costs for each producer at each price",
+        "c": "multiplying each producer’s supply curves vertically",
+        "d": "adding each producer’s supply curves horizontally",
+        "e": "multiplying marginal and average cost at each price",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following factors would NOT cause a shift in the supply curve for gasoline?",
+        "a": "The supply of crude oil decreases.",
+        "b": "The price of gasoline increases.",
+        "c": "Labor costs decrease.",
+        "d": "The price of crude oil increases.",
+        "e": "The price of gasoline is expected to increase in the future.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following changing factors does NOT shift the supply curve?",
+        "a": "rising input prices",
+        "b": "the price of related goods",
+        "c": "improving technology",
+        "d": "consumer expectations",
+        "e": "falling number of sellers",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following rules is articulated in the law of supply?",
+        "a": "A supply curve must slope upwards.",
+        "b": "A supply curve must run horizontally.",
+        "c": "A supply curve must be tangential to the equilibrium price axis.",
+        "d": "A supply curve must increase exponentially.",
+        "e": "A supply curve must cross the horizontal axis.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What assumption undergirds the interactions of the supply and demand curves?",
+        "a": "All variables besides price are unchanged.",
+        "b": "The value of money always rises.",
+        "c": "Market surplus is positive.",
+        "d": "Demand and price are negatively correlated.",
+        "e": "Supply and price have a positive correlation.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What is the law of supply?",
+        "a": "As the price of a good increases, producers will sell more.",
+        "b": "As the price of a good decreases, demand will increase.",
+        "c": "As the price of a good increases, demand decreases.",
+        "d": "As the price of a good decreases, producers will sell more.",
+        "e": "As demand increases, producers will sell more.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "If tortillas become 20% more expensive, what happens in the market for bread?",
+        "a": "Supply decreases.",
+        "b": "Quantity decreases.",
+        "c": "Demand increases.",
+        "d": "Equilibrium quantity falls.",
+        "e": "Price decreases.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Sam has started to sell soap on Etsy, then realizes that it is a very competitive market. At what point does Sam stop supplying?",
+        "a": "Large firms force him out of the market.",
+        "b": "He makes zero economic profit.",
+        "c": "His profit does not cover his manufacturing costs.",
+        "d": "He can earn more by supplying another good instead.",
+        "e": "The government limits his production.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "If prices for a good are high, a producer is MOST likely to",
+        "a": "leave the market",
+        "b": "hire more staff",
+        "c": "cut working hours",
+        "d": "sell other products",
+        "e": "automate production",
+        "correct_answer": "e"
+    },
+    {
+        "question": "How are quantity supplied and price related?",
+        "a": "exponentially",
+        "b": "positively",
+        "c": "ambiguously",
+        "d": "negatively",
+        "e": "inversely",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What is the definition of “quantity supplied”?",
+        "a": "the amount produced by sellers",
+        "b": "minimizing deadweight loss",
+        "c": "maximizing seller profit",
+        "d": "the amount received by consumers",
+        "e": "the maximum amount that is possible to produce",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How does the market for peanut butter change when the price of its complement, jelly, falls?",
+        "a": "Equilibrium quantity decreases.",
+        "b": "Quantity demanded increases.",
+        "c": "Quantity supplied increases.",
+        "d": "Equilibrium price increases.",
+        "e": "Quantity supplied decreases.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What variable is on the horizontal axis of a supply curve?",
+        "a": "opportunity cost of all producers",
+        "b": "quantity produced",
+        "c": "price",
+        "d": "quantity desired",
+        "e": "total quantity sold",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What relationship does a supply curve state?",
+        "a": "Quantity supplied is negatively related to elasticity.",
+        "b": "Supply is negatively related to price.",
+        "c": "Equilibrium quantity is negatively related to price.",
+        "d": "Quantity supplied is positively related to price.",
+        "e": "Equilibrium quantity is positively related to opportunity cost.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How is the market supply curve calculated?",
+        "a": "summing the prices of the producers’ supply horizontally",
+        "b": "multiplying producers’ quantity supplied",
+        "c": "multiplying consumer and producer surplus",
+        "d": "adding producer’s quantity supplied",
+        "e": "adding demand curves vertically",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following statements is NOT true of a competitive market at equilibrium?",
+        "a": "Society receives the maximum benefit.",
+        "b": "Buyers and sellers are satisfied.",
+        "c": "Total surplus is maximized.",
+        "d": "The outcome is Pareto efficient.",
+        "e": "Firms earn profits equal to producer surplus.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following statements BEST describes equilibrium?",
+        "a": "One force is always more dominant than others.",
+        "b": "All forces in a system are balanced.",
+        "c": "There are no measurable externalities that impact the system.",
+        "d": "All forces are measurable and quantifiable.",
+        "e": "The system is in a constant state of flux.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "If market price exceeds equilibrium price, market price will decline. What factor explains this correlation?",
+        "a": "government intervention",
+        "b": "excess supply",
+        "c": "a lack of Pareto efficiency",
+        "d": "excess demand",
+        "e": "deadweight loss",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Assume that the oil market is in equilibrium. What information does the price of oil communicate?",
+        "a": "marginal cost per unit of oil",
+        "b": "relative elasticity of oil supply",
+        "c": "consumer surplus for the oil market",
+        "d": "ease of entry into the market",
+        "e": "value that buyers place on oil",
+        "correct_answer": "e"
+    },
+    {
+        "question": "A car manufacturing company notices that many consumers are motivated by environmental concerns, so they start to produce EVs. What factor influenced this shift?",
+        "a": "tastes",
+        "b": "expectations",
+        "c": "input changes",
+        "d": "technology",
+        "e": "competition",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How will the vaccine market be impacted if more producers enter the market?",
+        "a": "quantity of vaccines produced will remain the same",
+        "b": "demand for vaccines will decrease",
+        "c": "supply of vaccines will increase",
+        "d": "price of vaccines will increase",
+        "e": "elasticity of supply of vaccines will decrease",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following inputs does a fashion company NOT require?",
+        "a": "machinery",
+        "b": "labor",
+        "c": "leather",
+        "d": "real estate",
+        "e": "taxes",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which benefit naturally arises from competitive market equilibrium?",
+        "a": "Everyone is allocated sufficient resources to survive.",
+        "b": "A competitive market will never produce negative externalities.",
+        "c": "A competitive market in equilibrium cannot be shifted.",
+        "d": "The market benefit of the producer and consumer is maximized.",
+        "e": "At competitive market equilibrium, there is no need for fiat currency.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "If Joe is willing to pay $10 for a game ticket and the price is $20, what is his consumer surplus?",
+        "a": "$10",
+        "b": "$30",
+        "c": "-$30",
+        "d": "-$10",
+        "e": "$0",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How is information conveyed in perfectly competitive markets?",
+        "a": "auction",
+        "b": "surplus",
+        "c": "opportunity costs",
+        "d": "consumer tastes",
+        "e": "price",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Where can equilibrium be found on an economic diagram?",
+        "a": "where consumer surplus is maximized",
+        "b": "where the supply curve is tangent to the demand curve",
+        "c": "where supply and demand curves intersect",
+        "d": "where no deadweight loss occurs",
+        "e": "where producers receive all the surplus",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What change results if input prices of gasoline decrease?",
+        "a": "Producer revenue will decrease.",
+        "b": "Quantity produced will increase.",
+        "c": "Price will increase.",
+        "d": "Total quantity consumed will decrease.",
+        "e": "Consumer surplus will decrease.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following events would cause the supply curve to shift leftwards?",
+        "a": "The input costs of the product decrease.",
+        "b": "Suppliers expect prices to rise in a month.",
+        "c": "An unexpected economic shock leads to a spike in demand.",
+        "d": "Equilibrium price is forecasted to decrease.",
+        "e": "Consumer surplus increases.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following statements CORRECTLY describes market equilibrium?",
+        "a": "There is only one equilibrium point in a market.",
+        "b": "Market equilibrium is never Pareto efficient.",
+        "c": "Suppliers have an incentive to charge more at equilibrium.",
+        "d": "Equilibrium does not always exist in a market.",
+        "e": "Equilibrium ensures all consumers and producers are equal.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following events would NOT shift the supply curve for gasoline?",
+        "a": "More suppliers enter the market.",
+        "b": "Crude oil prices decrease.",
+        "c": "Prices of gas are expected to rise in the future.",
+        "d": "The price of gasoline rises.",
+        "e": "A new self-service system is invented.",
+        "correct_answer": "c"
+    }
+]
+

@@ -1,0 +1,273 @@
+[
+    {
+        "question": "Which of the following goods is MOST likely to produce externalities?",
+        "a": "heating",
+        "b": "electricity",
+        "c": "education",
+        "d": "trams",
+        "e": "internet",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What change occurs if a market internalizes a negative externality?",
+        "a": "lower price, higher quantity",
+        "b": "lower price, equal quantity",
+        "c": "higher price, higher quantity",
+        "d": "higher price, lower quantity",
+        "e": "lower price, lower quantity",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following externalities would be MOST effectively managed with a quota?",
+        "a": "positive welfare outcomes",
+        "b": "unquantifiable effects",
+        "c": "negative effects",
+        "d": "widespread ramifications",
+        "e": "sociopolitical implications",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following conditions does the Coase Theorem require?",
+        "a": "comparative advantage",
+        "b": "diminishing marginal returns",
+        "c": "a functional government",
+        "d": "free trade",
+        "e": "clearly defined property rights",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following investments would be MOST effective for a firm that aspires to engender creative destruction?",
+        "a": "intellectual property",
+        "b": "financial assets",
+        "c": "fixed capital investment",
+        "d": "consumption goods",
+        "e": "research and development",
+        "correct_answer": "e"
+    },
+    {
+        "question": "When does market failure occur?",
+        "a": "Government does not intervene in the market.",
+        "b": "There are clearly defined property rights.",
+        "c": "All surplus is directed towards producers.",
+        "d": "Competitive markets do not produce socially desirable outcomes.",
+        "e": "Markets are all perfectly competitive.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What shift occurs if a market internalizes a positive externality?",
+        "a": "upwards shift of supply curve",
+        "b": "ambiguous shift of demand and supply curves",
+        "c": "downwards shift of supply curve",
+        "d": "upwards shift of demand curve",
+        "e": "downwards shift of demand curve",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following statements is NOT true of negative externalities?",
+        "a": "The optimal level of production can be zero.",
+        "b": "They result in too little production.",
+        "c": "They are extremely rare.",
+        "d": "They increase overall welfare.",
+        "e": "They increase firm profits.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following phenomena exemplify negative externalities?",
+        "a": "government taxation",
+        "b": "personal dietary choices",
+        "c": "infant vaccination",
+        "d": "water pollution",
+        "e": "firms’ vertical integration",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Matt and Mark are having an issue about Matt’s habit of mowing his yard at 6:00 every morning. What solution does the Coase Theorem propose?",
+        "a": "quotas",
+        "b": "common property",
+        "c": "negotiation",
+        "d": "government intervention",
+        "e": "taxes",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following answer choices BEST describes the role of entrepreneurs in the market?",
+        "a": "increasing total welfare",
+        "b": "delineating property rights",
+        "c": "internalizing externalities",
+        "d": "reducing inequality",
+        "e": "establishing new markets",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What benefit does a patent grant?",
+        "a": "economic profits",
+        "b": "legal monopoly",
+        "c": "cartel power",
+        "d": "increasing marginal revenue",
+        "e": "transfer of consumer surplus",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following markets is most susceptible to market failure?",
+        "a": "rival goods",
+        "b": "collective goods",
+        "c": "private goods",
+        "d": "public goods",
+        "e": "common resources",
+        "correct_answer": "d"
+    },
+    {
+        "question": "For what purpose does the government intervene in the cigarette market?",
+        "a": "limiting supply",
+        "b": "imposing a price ceiling",
+        "c": "breaking up a cartel",
+        "d": "preventing price discrimination",
+        "e": "remedying an externality",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following answer choices describes one of the goals of entrepreneurs?",
+        "a": "minimize economic profits",
+        "b": "join competitive markets",
+        "c": "reduce consumer surplus",
+        "d": "establish efficient markets",
+        "e": "circumvent barriers to entry",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following goods is a common resource?",
+        "a": "websites",
+        "b": "satellite radio",
+        "c": "haircuts",
+        "d": "city streets",
+        "e": "tornado siren",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What type of good is at GREATEST risk of overconsumption?",
+        "a": "public good",
+        "b": "common resource",
+        "c": "collective good",
+        "d": "private good",
+        "e": "excludable good",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following goods is LEAST rival?",
+        "a": "a share-size bag of chips",
+        "b": "gasoline",
+        "c": "a news website",
+        "d": "radio broadcasts",
+        "e": "a bike-sharing program",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What solution to the tragedy of the commons is MOST efficient?",
+        "a": "increasing taxes",
+        "b": "forming an oligopoly",
+        "c": "establishing quotas",
+        "d": "creating property rights",
+        "e": "enforcing a price floor",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following goods is CORRECTLY paired with its level of excludability?",
+        "a": "radio, high",
+        "b": "websites, low",
+        "c": "city streets, low",
+        "d": "pizza, low",
+        "e": "national defense, high",
+        "correct_answer": "b"
+    },
+    {
+        "question": "By what process can a group efficiently internalize an externality?",
+        "a": "raising taxes",
+        "b": "making decisions collectively",
+        "c": "operating independently",
+        "d": "monetizing it",
+        "e": "setting price controls",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following goods has low excludability and rivalry?",
+        "a": "walmart.com",
+        "b": "Denali National Park",
+        "c": "Norwegian salmon",
+        "d": "NPR broadcasts",
+        "e": "Disney+",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which type of good has a high degree of rivalry and excludability?",
+        "a": "competitive",
+        "b": "common",
+        "c": "non-renewable",
+        "d": "excludable",
+        "e": "private",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What qualities characterize goods that experience the tragedy of the commons?",
+        "a": "high rivalry, high excludability",
+        "b": "low excludability only",
+        "c": "high rivalry, low excludability",
+        "d": "low rivalry only",
+        "e": "low rivalry, low excludability",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What negative outcome often occurs in the market for common resources?",
+        "a": "inflation",
+        "b": "positive externalities",
+        "c": "monopolization",
+        "d": "taxes",
+        "e": "overutilization",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What type of good has high excludability and low rivalry?",
+        "a": "normal good",
+        "b": "public good",
+        "c": "collective good",
+        "d": "private good",
+        "e": "common resource",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following statements describes collective goods?",
+        "a": "A surplus is often produced.",
+        "b": "Natural monopolies can profit by supplying them.",
+        "c": "Monopolies have incentives to sell them cheaply.",
+        "d": "They have a low degree of rivalry.",
+        "e": "The marginal cost of production is very high.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following resource types produces externalities?",
+        "a": "collective resources",
+        "b": "public resources",
+        "c": "private resources",
+        "d": "excludable resources",
+        "e": "common resources",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following scenarios BEST illustrates the Coase Theorem?",
+        "a": "an economy dividing its resources between public and private",
+        "b": "a government setting a quota on air pollution to improve urban health conditions",
+        "c": "a beekeeper purchasing a nearby apple farm to promote pollination and crop production",
+        "d": "a sanitizer plant increasing production",
+        "e": "a neighborhood association negotiating with a local school about the bright lights on their football field",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following circumstances invalidates the Coase Theorem?",
+        "a": "Governments fail to step in.",
+        "b": "Rational individuals do not change productive behavior.",
+        "c": "The good cannot be quantified.",
+        "d": "There is no optimal solution.",
+        "e": "The costs of negotiating are high.",
+        "correct_answer": "e"
+    }
+]
+

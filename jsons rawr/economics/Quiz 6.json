@@ -1,0 +1,273 @@
+[
+    {
+        "question": "Which of the following statements about free trade is TRUE?",
+        "a": "Involuntary trade harms both parties.",
+        "b": "Specialization increases overall welfare.",
+        "c": "There is always an absolute advantage.",
+        "d": "There is always a comparative advantage.",
+        "e": "Specialization leads to losses from trade.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What concept does the slope of a PPF MOST directly reflect?",
+        "a": "trade-offs",
+        "b": "gains from trade",
+        "c": "rationality",
+        "d": "opportunity cost",
+        "e": "scarcity",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following choices should producer preference determine?",
+        "a": "choosing a point above the PPF",
+        "b": "choosing between two points not on the PPF",
+        "c": "choosing between one point on the PPF and one point above the PPF",
+        "d": "choosing between two points on the PPF",
+        "e": "choosing between one point on the PPF and one point below the PPF",
+        "correct_answer": "d"
+    },
+    {
+        "question": "In what situation does a country’s PPF reflect the whole economy?",
+        "a": "The economy produces hundreds of different goods.",
+        "b": "The economy is a very active trading partner.",
+        "c": "The economy is closed off from the rest of the world.",
+        "d": "The economy only produces one good.",
+        "e": "The economy accepts net capital outflows.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following claims about a firm producing at the axis intercept is true?",
+        "a": "It will have an absolute advantage.",
+        "b": "It produces one good only.",
+        "c": "It will trade with another firm.",
+        "d": "It has no comparative advantage",
+        "e": "It will be unwilling to trade.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What statement describes a PPF that intersects the horizontal axis at 36 units and the vertical axis at 20 units?",
+        "a": "The PPF can be expanded via trade.",
+        "b": "The producer has an absolute advantage in the vertical-axis good.",
+        "c": "The producer will only produce the good on the horizontal-axis.",
+        "d": "The PPF has a slope of -2.",
+        "e": "The producer is more efficient at producing the horizontal-axis good.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Importland decides to open to trade. Its domestic price of coconuts is higher than the world price. What MUST happen in its market for coconuts?",
+        "a": "Consumer surplus increases.",
+        "b": "The price of coconuts rises.",
+        "c": "Total surplus decreases.",
+        "d": "Domestic production rises.",
+        "e": "Producer surplus increases.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "NKLA can produce a good at less opportunity cost than TSLA. Which of the following answer choices correctly describes NKLA’s advantage?",
+        "a": "monopolistic advantage in producing the good",
+        "b": "absolute advantage in producing the good",
+        "c": "marginal advantage in producing the good",
+        "d": "comparative advantage in producing the good",
+        "e": "diminishing advantage in producing the good",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What function does the PPF serve?",
+        "a": "estimating deadweight loss",
+        "b": "modeling efficient production decisions",
+        "c": "increasing a producer’s surplus",
+        "d": "finding the point of perfect elasticity",
+        "e": "identifying inefficiencies",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What change occurs after a nation starts to export goods?",
+        "a": "The domestic price of the good decreases.",
+        "b": "Producer surplus increases.",
+        "c": "Total surplus decreases.",
+        "d": "Consumer surplus increases.",
+        "e": "Domestic demand increases.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "If Fiji’s water costs $2/bottle and the world price is $3, what happens if Fiji opens to trade?",
+        "a": "Domestic production decreases.",
+        "b": "Total welfare decreases.",
+        "c": "The country becomes an importer.",
+        "d": "Trade will not occur.",
+        "e": "Domestic demand increases.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Why do some individuals oppose free trade?",
+        "a": "Other countries can manipulate the terms of the agreement.",
+        "b": "It decreases total welfare.",
+        "c": "It increases income inequality.",
+        "d": "Voluntary trade is not always beneficial.",
+        "e": "It harms some groups depending on relative prices.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What MUST be true if a PPF for two goods is a straight line?",
+        "a": "The opportunity cost of producing one more unit of a good is constant.",
+        "b": "The two goods are identical.",
+        "c": "The two goods are perfect substitutes.",
+        "d": "The slope of the PPF curve is -1.",
+        "e": "The producers have diminishing marginal returns.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Why is the PPF NOT straight?",
+        "a": "Producers tend to specialize.",
+        "b": "Preferences are not constant.",
+        "c": "Opportunity costs change with quantity.",
+        "d": "Marginal cost increases.",
+        "e": "The producers have market power.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "If Sarah’s PPF curve is above and to the right of Tobi’s, Sarah has a(n)",
+        "a": "comparative advantage in no goods",
+        "b": "absolute advantage in one good",
+        "c": "absolute advantage in no goods",
+        "d": "absolute advantage in both goods",
+        "e": "comparative advantage in both goods",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following conditions can describe a firm with diminishing returns to scale in a competitive market and negative accounting profit?",
+        "a": "Marginal revenue exceeds marginal cost.",
+        "b": "Total revenue and cost are equal.",
+        "c": "Total revenue is zero.",
+        "d": "Economic profits are positive.",
+        "e": "Marginal cost exceeds total cost.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following statements describes a competitive market?",
+        "a": "Economic profits do not affect the entry or exit of firms.",
+        "b": "Firms enter the market until marginal revenue equals marginal cost.",
+        "c": "Firms exit the market in response to positive economic profits.",
+        "d": "Economic profits will always be positive.",
+        "e": "Firms enter the market in response to positive economic profits.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The company DJI increases production of drones by 10% in a competitive market. Which of the following values increases 10%?",
+        "a": "deadweight loss",
+        "b": "total revenue",
+        "c": "marginal cost",
+        "d": "marginal revenue",
+        "e": "consumer surplus",
+        "correct_answer": "b"
+    },
+    {
+        "question": "In which situation would accounting profit be negative?",
+        "a": "Opportunity cost exceeds total cost.",
+        "b": "Opportunity cost exceeds total revenue.",
+        "c": "Total cost exceeds total revenue.",
+        "d": "Total revenue exceeds total cost.",
+        "e": "Total revenue exceeds opportunity cost.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following values is constant for a firm in a competitive market?",
+        "a": "total costs",
+        "b": "marginal cost",
+        "c": "marginal revenue",
+        "d": "variable costs",
+        "e": "total revenue",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following costs best describes a firm’s rent?",
+        "a": "marginal cost",
+        "b": "social cost",
+        "c": "opportunity cost",
+        "d": "fixed cost",
+        "e": "variable cost",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What impact would hiring additional workers have on a firm’s costs?",
+        "a": "increasing fixed costs",
+        "b": "diminishing returns to scale",
+        "c": "increasing marginal revenue",
+        "d": "increasing variable costs",
+        "e": "increasing social welfare",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following institutions is NOT a firm?",
+        "a": "Federal Reserve",
+        "b": "Starbucks",
+        "c": "Amazon",
+        "d": "Charles Schwab brokerage",
+        "e": "ManuLife financial advisors",
+        "correct_answer": "a"
+    },
+    {
+        "question": "For what PRIMARY reason do diminishing returns to scale exist?",
+        "a": "Some costs are variable.",
+        "b": "Marginal revenue is constant.",
+        "c": "Firms cannot predict demand.",
+        "d": "Consumers switch to cheaper alternatives.",
+        "e": "Not all inputs are equally productive.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following examples BEST demonstrates diminishing returns to scale?",
+        "a": "As firms expand, fixed costs increase.",
+        "b": "As more workers are hired, additional workers produce less.",
+        "c": "As firms increase quantity supplied, market price rises.",
+        "d": "As firms increase quantity, marginal cost decreases.",
+        "e": "As firms enter new markets, horizontal integration reduces profits.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following outcomes CANNOT describe a firm that earns negative economic profits?",
+        "a": "The firm stays in the market in the long run.",
+        "b": "The firm experiences diminishing returns to scale.",
+        "c": "The firm’s total costs are greater than total revenue.",
+        "d": "The firm’s marginal revenue equals its marginal cost.",
+        "e": "The firm makes an accounting profit.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following equations is TRUE in a stable, competitive market?",
+        "a": "Marginal cost is equal to zero.",
+        "b": "Opportunity costs are equal to zero.",
+        "c": "Accounting profit is equal to zero.",
+        "d": "Accounting profit is equal to opportunity cost.",
+        "e": "Total costs are equal to zero.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Economic costs (unlike accounting costs) include which of the following values?",
+        "a": "marginal costs",
+        "b": "total costs",
+        "c": "fixed costs",
+        "d": "variable costs",
+        "e": "opportunity costs",
+        "correct_answer": "e"
+    },
+    {
+        "question": "A firm produces thermometers at a marginal cost of $3.50 and receives marginal revenue of $3.95. What course of action should the firm choose?",
+        "a": "keep production steady",
+        "b": "increase production",
+        "c": "decrease production",
+        "d": "increase consumption",
+        "e": "leave the market",
+        "correct_answer": "b"
+    },
+    {
+        "question": "At what point does a firm maximize profits?",
+        "a": "Total revenues are greater than total costs.",
+        "b": "Marginal revenue is greater than marginal cost.",
+        "c": "Opportunity cost is less than accounting profit.",
+        "d": "Marginal revenue is equal to marginal cost.",
+        "e": "Economic profit is greater than zero.",
+        "correct_answer": "d"
+    }
+]
+

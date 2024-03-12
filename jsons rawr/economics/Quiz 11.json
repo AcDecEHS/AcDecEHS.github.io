@@ -1,0 +1,273 @@
+[
+  {
+    "question": "A good has been added to the CPI. What conclusion BEST follows?",
+    "a": "It has risen in price.",
+    "b": "It is patented.",
+    "c": "It is a necessity.",
+    "d": "It has high market penetration.",
+    "e": "It is produced domestically.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following values are used to calculate the GDP deflator?",
+    "a": "GDP and GDP per capita",
+    "b": "Interest rates and GDP per capita",
+    "c": "Inflation and unemployment",
+    "d": "Real and nominal GDP",
+    "e": "GDP and aggregate demand",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What factor causes structural unemployment?",
+    "a": "The normal process of looking for jobs",
+    "b": "A mismatch between desired and available skills",
+    "c": "Seasonal changes in employment opportunities",
+    "d": "Fluctuations in the business cycle",
+    "e": "Increased inflationary pressures",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following answer choices BEST describes a product that has a high weighting in the CPI?",
+    "a": "High volume of sales",
+    "b": "Significant price rise",
+    "c": "Major drop in imports",
+    "d": "Domestic supplier",
+    "e": "New version",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following changes does the CPI influence?",
+    "a": "Currency exchange rates",
+    "b": "Cost-of-living adjustment",
+    "c": "Medicare benefits",
+    "d": "Minimum wage increases",
+    "e": "Tax brackets",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What kind of unemployment is ALWAYS present?",
+    "a": "Cyclical",
+    "b": "Frictional",
+    "c": "Seasonal",
+    "d": "Voluntary",
+    "e": "Regional",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is the substitution bias in the CPI?",
+    "a": "Consumers’ preference for newer goods",
+    "b": "Consumers’ trend-following product choices",
+    "c": "Consumers’ choices of less expensive goods",
+    "d": "Consumers’ irrational product preferences",
+    "e": "Consumers’ desire for technological advances",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following people is out of the labor force?",
+    "a": "A member of the army",
+    "b": "An unemployed person searching for a job",
+    "c": "A worker on sick leave",
+    "d": "A frictionally unemployed graduate",
+    "e": "A retiree",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Nominal inflation is 2.8%; it is 3.2% according to the CPI. The Boskin commission would place inflation at",
+    "a": "3.0%",
+    "b": "0.4%",
+    "c": "1.9%",
+    "d": "1.5%",
+    "e": "3.2%",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The working-age population includes 400 people. 64 people are not employed or seeking a job. What is the labor force participation rate?",
+    "a": "16%",
+    "b": "92%",
+    "c": "100%",
+    "d": "84%",
+    "e": "64%",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How does the GDP deflator differ from the CPI?",
+    "a": "The GDP deflator excludes imported products.",
+    "b": "The GDP deflator does not take inflation into account.",
+    "c": "The GDP deflator has not been updated since 1980.",
+    "d": "The GDP deflator only analyzes domestic goods.",
+    "e": "The GDP deflator does not take consider CPI.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What type of unemployment is strongly dependent on recessions and expansions?",
+    "a": "Frictional",
+    "b": "Structural",
+    "c": "Seasonal",
+    "d": "Cyclical",
+    "e": "Involuntary",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the economic definition of the labor force?",
+    "a": "The entire population of an economy",
+    "b": "All people who have worked in the past four weeks",
+    "c": "All employed people in an economy",
+    "d": "All working-age people in an economy",
+    "e": "People of working age who are working or trying to find work",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following events leads to longer periods of unemployment?",
+    "a": "Increased inflation",
+    "b": "Two quarters of positive economic growth",
+    "c": "An increase in the minimum wage",
+    "d": "A reduction in the national debt",
+    "e": "Two quarters of negative economic growth",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What labor force participation rate does the United States have?",
+    "a": "100%",
+    "b": "61%",
+    "c": "54%",
+    "d": "73%",
+    "e": "32%",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following formulae is the correct formula to calculate GDP per capita?",
+    "a": "Real GDP/labor force",
+    "b": "Nominal GDP/labor force",
+    "c": "Nominal GDP/workers",
+    "d": "Nominal GDP/population",
+    "e": "Real GDP/population",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following values BEST reflects growth in GDP?",
+    "a": "Standard of living",
+    "b": "Employment rate",
+    "c": "Population growth",
+    "d": "Overall prices",
+    "e": "Value of production",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Relative to 1900, by what factor did US real GDP per capita rise in 2019?",
+    "a": "1600%",
+    "b": "400%",
+    "c": "900%",
+    "d": "3200%",
+    "e": "2000%",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following goods is physical capital?",
+    "a": "Stocks",
+    "b": "Cars",
+    "c": "Factories",
+    "d": "Knowledge",
+    "e": "Labor",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What actor provides land and labor in economic exchange?",
+    "a": "Firms",
+    "b": "The government",
+    "c": "Financial intermediaries",
+    "d": "Natural resources",
+    "e": "Households",
+    "correct_answer": "e"
+  },
+  {
+    "question": "To what actor do households provide income according to the circular flow model?",
+    "a": "The government",
+    "b": "Importers",
+    "c": "Firms",
+    "d": "Landlords",
+    "e": "Financial intermediaries",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What MAIN factor drives long-run productivity growth?",
+    "a": "Growth in physical capital",
+    "b": "Improved technology",
+    "c": "Democratization",
+    "d": "Legal environment",
+    "e": "Discovery of natural resources",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following institutions is a firm?",
+    "a": "The Federal Reserve",
+    "b": "The Spanish government",
+    "c": "The World Bank",
+    "d": "McDonald’s",
+    "e": "Doctors Without Borders",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following changes LEAST affects labor productivity?",
+    "a": "Vast supplies of oil are found underground.",
+    "b": "The price of gas increases.",
+    "c": "A new production technique is discovered.",
+    "d": "A 5G data network is rolled out.",
+    "e": "Universal free education is introduced.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following statements is NOT true of natural resources?",
+    "a": "The countries with highest GDP per capita depend on natural resources.",
+    "b": "Natural resources can be easily imported.",
+    "c": "Iron and oil are plentiful resources that allow for economic growth.",
+    "d": "Countries like Saudi Arabia depend heavily on their natural resources.",
+    "e": "Natural resources are not necessary for an economy to thrive.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Why is too much investment economically undesirable?",
+    "a": "Investment can be inefficient and costly.",
+    "b": "Investment focuses on short-run growth.",
+    "c": "Investment decreases future production.",
+    "d": "Investments eventually yield diminishing returns.",
+    "e": "Investment decreases total welfare.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following statements CORRECTLY describes the circular flow model?",
+    "a": "Firms receive income.",
+    "b": "The firm supplies goods and services.",
+    "c": "Revenue equals wages, rent, and profits.",
+    "d": "Households provide wages and labor.",
+    "e": "Factors of production include income and materials.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following decisions improves human capital?",
+    "a": "Creating a human resources department",
+    "b": "Upgrading the IT system",
+    "c": "Holding professional development courses",
+    "d": "Hiring more workers",
+    "e": "Promoting a manager",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What flow(s) does the market for goods and services experience?",
+    "a": "Wages and taxes",
+    "b": "Profits and rents",
+    "c": "Inputs and outputs",
+    "d": "Transfers and loans",
+    "e": "Spending and revenue",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following countries benefited from technology transfer MOST?",
+    "a": "Mexico",
+    "b": "United States",
+    "c": "India",
+    "d": "Kenya",
+    "e": "Japan",
+    "correct_answer": "b"
+  }
+]
+

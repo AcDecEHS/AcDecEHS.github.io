@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Which of the following answer choices is the BEST definition of a scarce resource?",
+    "a": "can be sold on the market",
+    "b": "has diminishing returns",
+    "c": "involves opportunity costs",
+    "d": "exists in a limited quantity",
+    "e": "requires inputs",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following topics does economics NOT study?",
+    "a": "how trade-offs create a diverse economy",
+    "b": "how individuals make choices",
+    "c": "how to distribute resources",
+    "d": "how individuals deal with unlimited wants",
+    "e": "how a quarter is minted",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How many items does the average supermarket contain?",
+    "a": "2,700",
+    "b": "270,000",
+    "c": "27,000",
+    "d": "3,300",
+    "e": "33,000",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Economics MOST broadly includes anything related to",
+    "a": "national economies",
+    "b": "decision-making",
+    "c": "gross domestic product",
+    "d": "markets",
+    "e": "money",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following answer choices is NOT scarce, according to economic assumptions?",
+    "a": "money",
+    "b": "wants",
+    "c": "knowledge",
+    "d": "technology",
+    "e": "time",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following questions would an economist NOT answer?",
+    "a": "How do taxes affect consumers and producers?",
+    "b": "How do prices affect demand?",
+    "c": "How do markets face imperfect competition?",
+    "d": "How does the money supply affect GDP?",
+    "e": "How does capitalism inhibit democracy?",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Who wrote An Inquiry into the Wealth of Nations?",
+    "a": "Adam Smith",
+    "b": "Milton Friedman",
+    "c": "Aristotle",
+    "d": "John Maynard Keynes",
+    "e": "Joseph Schumpeter",
+    "correct_answer": "a"
+  },
+  {
+    "question": "How do people make decisions, according to economic assumptions?",
+    "a": "They act in the interest of humanity.",
+    "b": "They conduct cost-benefit analysis.",
+    "c": "They allow others to make decisions for them.",
+    "d": "They choose the option that is easiest.",
+    "e": "They act without thinking.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Jane has to choose either takeout or instant noodles for dinner tonight. Which axiom of economics does her decision illustrate?",
+    "a": "self-interest",
+    "b": "opportunity costs",
+    "c": "scarcity",
+    "d": "trade-offs",
+    "e": "gains from trade",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What type of cost arises from making decisions?",
+    "a": "opportunity cost",
+    "b": "marginal cost",
+    "c": "fixed cost",
+    "d": "total cost",
+    "e": "variable cost",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following answer choices BEST describes how economists assume people behave?",
+    "a": "rationally",
+    "b": "optimistically",
+    "c": "with others’ intentions in mind",
+    "d": "with a margin for error",
+    "e": "predictably",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Why do individuals make trade-offs?",
+    "a": "to minimize costs",
+    "b": "to determine economic values",
+    "c": "to reduce risk",
+    "d": "to allocate limited resources",
+    "e": "to cooperate with others",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following concepts is NOT a basic assumption of economics?",
+    "a": "gains from trade",
+    "b": "demand for money",
+    "c": "opportunity cost",
+    "d": "scarcity",
+    "e": "rationality",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What are the results of specialization?",
+    "a": "deadweight loss",
+    "b": "gains from trade",
+    "c": "monopoly",
+    "d": "perfect price discrimination",
+    "e": "entrepreneurship",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following factors do rational actors consider LEAST?",
+    "a": "societal effects of a decision",
+    "b": "personal beliefs",
+    "c": "temporal costs",
+    "d": "monetary costs",
+    "e": "cost to the producer",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following scenarios involves a value judgement?",
+    "a": "How does inflation relate to the business cycle?",
+    "b": "How should the minimum wage be adjusted to alleviate structural inequalities?",
+    "c": "What conditions enable monopolies in countries with rising GDP?",
+    "d": "What do prices represent in a market that demonstrates traits of an oligarchy?",
+    "e": "How do prices affect demand for elastic versus inelastic goods?",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements does NOT illustrate normative economic thought?",
+    "a": "Government should do more to regulate markets.",
+    "b": "The demand for a normal good will decrease when price increases.",
+    "c": "Monopolies should not be allowed to exist.",
+    "d": "The corporate tax rates should be raised.",
+    "e": "The health system should be nationalized.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following terms BEST describes economic models?",
+    "a": "exact",
+    "b": "realistic",
+    "c": "simple",
+    "d": "opaque",
+    "e": "rigorous",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What phenomenon DIRECTLY relates to gains from trade?",
+    "a": "rationality",
+    "b": "scarcity",
+    "c": "trade-offs",
+    "d": "specialization",
+    "e": "opportunity costs",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following assertions is NOT a basic economic assumption?",
+    "a": "Everything has a cost.",
+    "b": "People save as much money as they can.",
+    "c": "Trade improves welfare.",
+    "d": "All things are limited except human desire.",
+    "e": "People act rationally.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following questions would a positive economist study?",
+    "a": "Is oil a necessary resource?",
+    "b": "How does technological knowledge affect GDP?",
+    "c": "How much regulation should companies face?",
+    "d": "How much should the tax rate be to aid low-income families?",
+    "e": "What is the best role for the government’s humanitarian efforts?",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following answer choices is characteristic of an efficient economic outcome?",
+    "a": "never occur",
+    "b": "address the distribution of resources",
+    "c": "be entirely equitable",
+    "d": "maximize profit",
+    "e": "minimize waste",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following answer choices BEST describes the concept of trade?",
+    "a": "one party benefits more than the other",
+    "b": "both parties benefit",
+    "c": "no comparative advantage exists",
+    "d": "an absolute advantage exists",
+    "e": "no coercion is involved",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following questions can be answered by the criterion of Pareto efficiency?",
+    "a": "How much should the resource cost?",
+    "b": "Who should control the resource?",
+    "c": "How should the resource be divided?",
+    "d": "How much of a resource should be unused?",
+    "e": "Who should receive the resource?",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following answer choices describes normative economic statements?",
+    "a": "no bias",
+    "b": "precision",
+    "c": "quantifying data",
+    "d": "expressing value judgments",
+    "e": "objectivity",
+    "correct_answer": "d"
+  },
+  {
+    "question": "A pizza is cut into ten slices. Which of the following distributions is NOT Pareto efficient?",
+    "a": "five people get two slices, and two people get no slices",
+    "b": "ten people get one slice",
+    "c": "two people get five slices",
+    "d": "one person gets ten slices, and one person gets no slices",
+    "e": "three people get three slices",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Lauren waits to buy a new pair of shoes until they are on sale. What assumption BEST explains Lauren’s behavior?",
+    "a": "gains from trade",
+    "b": "Pareto efficiency",
+    "c": "rationality",
+    "d": "unlimited desires",
+    "e": "poverty",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What kind of outcome is Pareto efficient?",
+    "a": "Everyone is equal.",
+    "b": "People can be made better off without redistribution.",
+    "c": "Overall well-being is unmaximized.",
+    "d": "No one can be made better off without making someone else worse off.",
+    "e": "No one is left empty-handed.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following answer choices BEST describes the nature of economic models?",
+    "a": "predictive",
+    "b": "manipulable",
+    "c": "multivariant",
+    "d": "exact",
+    "e": "retrospective",
+    "correct_answer": "a"
+  },
+  {
+    "question": "How would a positive economist MOST likely approach the question of increased taxes?",
+    "a": "study public reactions to increased taxes",
+    "b": "analyze the impact of taxation on voting rights in lower-income communities",
+    "c": "quantify the effects of taxation",
+    "d": "poll a representative sample of individuals",
+    "e": "consult normative economists on taxation’s effects",
+    "correct_answer": "c"
+  }
+]
+

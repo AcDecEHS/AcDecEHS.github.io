@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Why is price elasticity of demand negative?",
+    "a": "market inefficiency",
+    "b": "the law of demand",
+    "c": "diminishing returns to scale",
+    "d": "imperfect competition",
+    "e": "opportunity costs",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What relationship does price elasticity of demand indicate?",
+    "a": "how much consumers are willing to pay on the margin",
+    "b": "how much utility consumers obtain from the next unit",
+    "c": "how marginal returns diminish with scale",
+    "d": "how much consumer surplus increases per unit",
+    "e": "how sensitive consumers are to price changes",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In which of the following situations is supply relatively inelastic?",
+    "a": "A 3% change in price leads to a 2.5% change in supply.",
+    "b": "A 3% change in price leads to a 3% change in supply.",
+    "c": "A 3% change in price leads to unlimited change in supply.",
+    "d": "A 3% change in price leads to a 4% change in supply.",
+    "e": "A 3% change in price leads to no change in supply.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "For what MAIN reason do gold coins have an inelastic supply?",
+    "a": "Sellers face barriers to entry.",
+    "b": "The inputs are scarce.",
+    "c": "They are a luxury good.",
+    "d": "The good is hard to transport.",
+    "e": "The market is imperfectly competitive.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which economic concept is calculated with the formula (Q∆P)/(P∆Q)?",
+    "a": "opportunity cost",
+    "b": "comparative advantage",
+    "c": "diminishing returns",
+    "d": "GDP per capita",
+    "e": "elasticity",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following goods has the LOWEST elasticity of demand?",
+    "a": "insulin",
+    "b": "cars",
+    "c": "milk",
+    "d": "toilet paper",
+    "e": "gasoline",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following goods has the MOST elastic supply curve?",
+    "a": "cut diamonds",
+    "b": "underground bunkers",
+    "c": "sixteenth-century art",
+    "d": "artisan sandwiches",
+    "e": "vacation yachts",
+    "correct_answer": "b"
+  },
+  {
+    "question": "For what factor is price elasticity of supply a proxy?",
+    "a": "how easily suppliers can change their prices",
+    "b": "the opportunity cost of supplying the good",
+    "c": "how much price can change without affecting quantity demanded",
+    "d": "how much profit suppliers make",
+    "e": "how easily suppliers can change their output",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following factors does NOT affect price elasticity of demand?",
+    "a": "substitutes for the good",
+    "b": "time horizon",
+    "c": "market definition of the good",
+    "d": "scarce resources",
+    "e": "necessity of the good",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following phenomena does NOT explain long-run elasticity?",
+    "a": "Suppliers need to adjust to different profits.",
+    "b": "Suppliers hire more employees.",
+    "c": "Suppliers need to train workers.",
+    "d": "Suppliers use up more raw materials.",
+    "e": "Suppliers require more tools.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the price elasticity of supply for Picasso paintings?",
+    "a": "inelastic",
+    "b": "unit elastic",
+    "c": "perfectly inelastic",
+    "d": "elastic",
+    "e": "perfectly elastic",
+    "correct_answer": "c"
+  },
+  {
+    "question": "When price rises from $20 to $40, the quantity demanded falls from 12,400 to 6,200. Demand is",
+    "a": "elastic",
+    "b": "perfectly elastic",
+    "c": "inelastic",
+    "d": "perfectly inelastic",
+    "e": "unit elastic",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following products likely has the MOST elastic demand?",
+    "a": "Coke",
+    "b": "soft drinks",
+    "c": "gasoline",
+    "d": "Bernini sculptures",
+    "e": "milk",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following slopes corresponds to the LEAST elastic supply curve?",
+    "a": "10",
+    "b": "1/2",
+    "c": "1",
+    "d": "2",
+    "e": "5",
+    "correct_answer": "e"
+  },
+  {
+    "question": "A 25% change in the price of gasoline results in an 50% change in the supply of gasoline. What is the price elasticity of supply?",
+    "a": "-2",
+    "b": "-1/2",
+    "c": "2",
+    "d": "25",
+    "e": "1/2",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Price ceilings do NOT result in a(n)",
+    "a": "lower equilibrium price",
+    "b": "reduction in total surplus",
+    "c": "inefficient outcome",
+    "d": "reduction in producer surplus",
+    "e": "higher quantity supplied",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following terms refers to a form of price control?",
+    "a": "anti-trust laws",
+    "b": "minimum wage",
+    "c": "logrolling",
+    "d": "patent laws",
+    "e": "income taxes",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Where does a price floor appear on a supply and demand diagram?",
+    "a": "vertically to the right of the equilibrium point",
+    "b": "vertically at the equilibrium point",
+    "c": "horizontally above the equilibrium point",
+    "d": "horizontally at the equilibrium point",
+    "e": "parallel to the demand curve shifted to the right",
+    "correct_answer": "a"
+  },
+  {
+    "question": "On which of the following goods will a tax generate the MOST revenue?",
+    "a": "gasoline",
+    "b": "insulin",
+    "c": "cars",
+    "d": "cigarettes",
+    "e": "soda",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following answer choices would be reduced as a result of deadweight loss?",
+    "a": "producer surplus",
+    "b": "barriers to entry",
+    "c": "tax revenue",
+    "d": "social welfare",
+    "e": "consumer savings",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following answer choices BEST describes the effects of taxes on supply and demand?",
+    "a": "overconsumption, transfer of revenue to suppliers",
+    "b": "deadweight loss, government revenue",
+    "c": "deadweight loss, transfer of revenue to consumers",
+    "d": "overconsumption, goods shortages",
+    "e": "imposition of barriers to entry, deadweight loss",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following elasticities describes the market with LEAST deadweight loss from taxes? Assume the first value is elasticity of demand and the second value is elasticity of supply.",
+    "a": "-.5, .5",
+    "b": "-1.5, 1.5",
+    "c": "-1, 1.5",
+    "d": "-1, 1",
+    "e": "-1.5, 1",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What outcome MUST result from price controls?",
+    "a": "movement toward equilibrium",
+    "b": "deadweight loss",
+    "c": "decreased consumer surplus",
+    "d": "increased total surplus",
+    "e": "positive externalities",
+    "correct_answer": "b"
+  },
+  {
+    "question": "After which of the following events is a price ceiling MOST likely to be imposed?",
+    "a": "drastic increase in apartment prices",
+    "b": "overconsumption of cigarettes",
+    "c": "farmers lobbying for higher prices",
+    "d": "under-consumption of honey",
+    "e": "over-pollution of the environment",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What change likely occurs in a market after a price ceiling is imposed?",
+    "a": "lower-quality products",
+    "b": "increased entrants to the market",
+    "c": "increased price competition",
+    "d": "higher supply",
+    "e": "lower demand",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How does the supply curve shift if a $1 tax is placed on suppliers?",
+    "a": "It shifts diagonally by $1.",
+    "b": "It shifts rightward by $1.",
+    "c": "It shifts downwards by $1.",
+    "d": "It does not shift.",
+    "e": "It shifts leftwards by $1.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following markets would be MOST impacted by a social welfare tax?",
+    "a": "rare art",
+    "b": "milk",
+    "c": "diamonds",
+    "d": "insulin",
+    "e": "jam",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What MAIN factor determines the distribution of tax burdens?",
+    "a": "total supply",
+    "b": "elasticity",
+    "c": "externalities",
+    "d": "rivalry",
+    "e": "total demand",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements MOST likely describes a market with a rent ceiling of $500/month?",
+    "a": "Rent has been increasing.",
+    "b": "There are more landlords than renters.",
+    "c": "The government taxes rental income.",
+    "d": "Alternative rental markets have emerged.",
+    "e": "Renters will discriminate against certain tenants.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What MAIN factor drove the 1979 changes in United States oil prices?",
+    "a": "reduction in complements",
+    "b": "reduced supply",
+    "c": "higher demand",
+    "d": "government taxation",
+    "e": "emergence of substitutes",
+    "correct_answer": "b"
+  }
+]
+

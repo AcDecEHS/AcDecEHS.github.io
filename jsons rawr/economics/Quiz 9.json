@@ -1,0 +1,273 @@
+[
+    {
+        "question": "In what MAIN way do governments differ from institutions?",
+        "a": "Governments are much less powerful.",
+        "b": "Governments set rules for behavior.",
+        "c": "Governments help structure interactions.",
+        "d": "Governments operate through voluntary participation.",
+        "e": "Governments have a monopoly on the legal use of force.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following answer choices BEST describes the results of successful rent-seeking?",
+        "a": "Increase in demand",
+        "b": "Increase in total welfare",
+        "c": "Redistribution of utility",
+        "d": "Reduction of prices",
+        "e": "Leveling of opportunities",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which economic actor initiates the process of collective decision-making?",
+        "a": "Organizations",
+        "b": "Institutions",
+        "c": "Individuals",
+        "d": "Governments",
+        "e": "Firms",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What phenomenon occurs along with logrolling?",
+        "a": "Pork barrel politics",
+        "b": "Regulatory capture",
+        "c": "Monopoly regulation",
+        "d": "Rent seeking",
+        "e": "Taxation",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following questions can positive economic analysis BEST answer?",
+        "a": "What is the effect of taxation on the demand for gasoline?",
+        "b": "How much should government tax its richest citizens?",
+        "c": "What role does the government play in the economy?",
+        "d": "Should the government punish harmful behavior?",
+        "e": "Should government intervene in the labor supply market?",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How do import controls affect the market for sugar in the United States?",
+        "a": "The domestic market has many barriers to entry.",
+        "b": "The domestic quantity is higher than equilibrium.",
+        "c": "The domestic market sees monopolistic competition.",
+        "d": "The domestic market is monopolistically competitive.",
+        "e": "The domestic price is higher than the world price.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following functions does taxation serve?",
+        "a": "Decreasing employment",
+        "b": "Increasing total welfare",
+        "c": "Limiting inflation",
+        "d": "Incentivizing investment",
+        "e": "Redistributing wealth",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What MAIN economic function does governance play?",
+        "a": "Coordinating the economy",
+        "b": "Regulating industry",
+        "c": "Expanding the scope of economic activity",
+        "d": "Redistributing wealth",
+        "e": "Interfering in the free market",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Who engages in “log rolling”?",
+        "a": "Banks",
+        "b": "Firms",
+        "c": "Politicians",
+        "d": "Carpenters",
+        "e": "Consumers",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What is an economic downside of rent-seeking?",
+        "a": "Increased inequity",
+        "b": "Lower consumer surplus",
+        "c": "Lower producer surplus",
+        "d": "Higher prices",
+        "e": "Deadweight loss",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following answer choices BEST describes the American market for sugar?",
+        "a": "Price floor",
+        "b": "Price ceiling",
+        "c": "Tax",
+        "d": "Quota",
+        "e": "Subsidy",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Tim and Teresa are going to start an alpaca farm in Kansas. Tim wants to make sure that Teresa will not back out of their investments. Which function of government will protect their business ventures?",
+        "a": "The ability to tax its citizens",
+        "b": "The enforcement of contracts",
+        "c": "The human rights in the Bill of Rights",
+        "d": "The legal use of force",
+        "e": "The necessity to regulate negative externalities",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Legislator Lamar has recently been accused of “pork barrel politics.” Which of the following accusations is MOST likely to be the cause of this accusation?",
+        "a": "Encroaching on legal use of force with a private security team",
+        "b": "Supporting another legislator’s project to get support for his own plans",
+        "c": "Taking advantage of wide tax raises to slide one of his projects into a bill",
+        "d": "Inflating domestic prices with an artificial price floor",
+        "e": "Directing funding to his son’s high school football program",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What is the trade-off for the protections of government?",
+        "a": "Violation of contracts – safe and fair business practices",
+        "b": "Free will – totalitarian control",
+        "c": "Small amount of autonomy – protection of property and security",
+        "d": "Free speech – regulated fields of opinion",
+        "e": "Public transportation – a powerful passport",
+        "correct_answer": "c"
+    },
+    {
+        "question": "In DemiDecTopia, the market cost for alpaca wool is much higher than the global market cost due to the efforts of lobbyists. Which of the following answer choices BEST describes this phenomenon?",
+        "a": "Price ceiling",
+        "b": "Logrolling",
+        "c": "Pork barrel politics",
+        "d": "Rent seeking",
+        "e": "Negative externality",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following questions represents a central issue in microeconomics?",
+        "a": "What are the consequences of high corporate taxes?",
+        "b": "What dictates the interaction between supply and demand in markets?",
+        "c": "What causes fluctuations in the unemployment rate?",
+        "d": "What influences changes in the overall level of economic activity in a country?",
+        "e": "What determines long-run growth in national economies?",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following conditions MUST be satisfied under perfect competition?",
+        "a": "Prices must be set at auction.",
+        "b": "There must be a monopoly.",
+        "c": "The good must be highly accessible.",
+        "d": "The good or service must be highly standardized.",
+        "e": "The number of buyers must not be quantifiable.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following answer choices BEST describes quantity demanded, according to the law of demand?",
+        "a": "Quantity demanded is negatively related to price.",
+        "b": "Quantity demanded is inverted from the supply curve.",
+        "c": "Quantity demanded is unrelated to quantity supplied.",
+        "d": "Quantity demanded is linearly dependent on price.",
+        "e": "Quantity demanded is tangent to price at one point.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following factors is LEAST relevant to demand for a mechanical keyboard?",
+        "a": "Price of the keycaps",
+        "b": "Price of a touch keyboard",
+        "c": "Current computing trends",
+        "d": "Number of keyboard buyers",
+        "e": "Average income of computer users",
+        "correct_answer": "d"
+    },
+    {
+        "question": "When does equilibrium occur in a perfectly competitive market?",
+        "a": "Government intervention is zero.",
+        "b": "No participant desires to alter their behavior.",
+        "c": "Supply and demand are in equilibrium.",
+        "d": "Positive and negative externalities are perfectly balanced.",
+        "e": "Quantity supplied equals quantity demanded.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following answer choices BEST defines elasticity?",
+        "a": "Effects of barriers to entry",
+        "b": "Fluctuations of price over time",
+        "c": "Total surplus of all participants in a market",
+        "d": "Degree to which supply and demand respond to price changes",
+        "e": "Points at which the supply and demand curves intersect",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How does the government raise most of its revenue?",
+        "a": "Tariffs",
+        "b": "Transfer payments",
+        "c": "Taxation",
+        "d": "Trading bonds",
+        "e": "Treasury notes",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How does trade affect welfare?",
+        "a": "International trade increases total surplus.",
+        "b": "International trade limits pork barrel politics.",
+        "c": "Free trade benefits the poor in an economy.",
+        "d": "Free trade reduces negative externalities.",
+        "e": "International trade increases deadweight loss.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What PRIMARY goal do firms have in economic theory?",
+        "a": "Lowering barriers to entry",
+        "b": "Maximizing social good",
+        "c": "Minimizing deadweight loss",
+        "d": "Maximizing economic profits",
+        "e": "Engaging in trade",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which form of market composition leads to monopolistic competition?",
+        "a": "A few suppliers produce vastly different goods.",
+        "b": "One producer sells similar but differentiated goods.",
+        "c": "Many suppliers produce similar but differentiated goods.",
+        "d": "A small number of suppliers produce a standardized good.",
+        "e": "A market has a natural monopoly.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following factors is HIGHER in imperfect competition when compared to perfect competition?",
+        "a": "Price",
+        "b": "Price elasticity",
+        "c": "Quantity supplied",
+        "d": "Deadweight loss",
+        "e": "Quantity demanded",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What situation constitutes a market failure?",
+        "a": "Barriers to entry do not exist.",
+        "b": "Elasticity reaches zero.",
+        "c": "Government intervention lowers economic profits.",
+        "d": "Economic profits are reduced drastically.",
+        "e": "Socially efficient outcomes are not achieved.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "How can negative externalities be resolved?",
+        "a": "International trade",
+        "b": "Barriers to entry",
+        "c": "Monopolistic competition",
+        "d": "Cartel formation",
+        "e": "Government regulation",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Apart from rivalry, which other factor can be used to describe types of goods?",
+        "a": "Social cost",
+        "b": "Desirability",
+        "c": "Barriers to entry",
+        "d": "Excludability",
+        "e": "Marketability",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following elements is NOT a principal category of goods and services?",
+        "a": "Common resources",
+        "b": "Private goods",
+        "c": "Public goods",
+        "d": "Collective goods",
+        "e": "Institutional resources",
+        "correct_answer": "e"
+    }
+]
+
