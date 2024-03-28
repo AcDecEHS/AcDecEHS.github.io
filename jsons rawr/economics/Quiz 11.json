@@ -6,7 +6,7 @@
     "c": "It is a necessity.",
     "d": "It has high market penetration.",
     "e": "It is produced domestically.",
-    "correct_answer": "a"
+    "correct_answer": "d"
   },
   {
     "question": "Which of the following values are used to calculate the GDP deflator?",
@@ -33,7 +33,7 @@
     "c": "Major drop in imports",
     "d": "Domestic supplier",
     "e": "New version",
-    "correct_answer": "b"
+    "correct_answer": "a"
   },
   {
     "question": "Which of the following changes does the CPI influence?",
@@ -78,7 +78,7 @@
     "c": "1.9%",
     "d": "1.5%",
     "e": "3.2%",
-    "correct_answer": "b"
+    "correct_answer": "c"
   },
   {
     "question": "The working-age population includes 400 people. 64 people are not employed or seeking a job. What is the labor force participation rate?",
@@ -96,7 +96,7 @@
     "c": "The GDP deflator has not been updated since 1980.",
     "d": "The GDP deflator only analyzes domestic goods.",
     "e": "The GDP deflator does not take consider CPI.",
-    "correct_answer": "a"
+    "correct_answer": "d"
   },
   {
     "question": "What type of unemployment is strongly dependent on recessions and expansions?",
@@ -132,7 +132,7 @@
     "c": "54%",
     "d": "73%",
     "e": "32%",
-    "correct_answer": "d"
+    "correct_answer": "b"
   },
   {
     "question": "Which of the following formulae is the correct formula to calculate GDP per capita?",
@@ -159,7 +159,7 @@
     "c": "900%",
     "d": "3200%",
     "e": "2000%",
-    "correct_answer": "d"
+    "correct_answer": "c"
   },
   {
     "question": "Which of the following goods is physical capital?",
@@ -186,7 +186,7 @@
     "c": "Firms",
     "d": "Landlords",
     "e": "Financial intermediaries",
-    "correct_answer": "c"
+    "correct_answer": "a"
   },
   {
     "question": "What MAIN factor drives long-run productivity growth?",
@@ -213,7 +213,7 @@
     "c": "A new production technique is discovered.",
     "d": "A 5G data network is rolled out.",
     "e": "Universal free education is introduced.",
-    "correct_answer": "e"
+    "correct_answer": "b"
   },
   {
     "question": "Which of the following statements is NOT true of natural resources?",
@@ -222,7 +222,7 @@
     "c": "Iron and oil are plentiful resources that allow for economic growth.",
     "d": "Countries like Saudi Arabia depend heavily on their natural resources.",
     "e": "Natural resources are not necessary for an economy to thrive.",
-    "correct_answer": "b"
+    "correct_answer": "a"
   },
   {
     "question": "Why is too much investment economically undesirable?",
@@ -240,7 +240,7 @@
     "c": "Revenue equals wages, rent, and profits.",
     "d": "Households provide wages and labor.",
     "e": "Factors of production include income and materials.",
-    "correct_answer": "d"
+    "correct_answer": "b"
   },
   {
     "question": "Which of the following decisions improves human capital?",
@@ -267,7 +267,6 @@
     "c": "India",
     "d": "Kenya",
     "e": "Japan",
-    "correct_answer": "b"
+    "correct_answer": "e"
   }
 ]
-

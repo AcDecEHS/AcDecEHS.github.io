@@ -6,7 +6,7 @@
         "c": "multiplying each producer’s supply curves vertically",
         "d": "adding each producer’s supply curves horizontally",
         "e": "multiplying marginal and average cost at each price",
-        "correct_answer": "a"
+        "correct_answer": "d"
     },
     {
         "question": "Which of the following factors would NOT cause a shift in the supply curve for gasoline?",
@@ -24,7 +24,7 @@
         "c": "improving technology",
         "d": "consumer expectations",
         "e": "falling number of sellers",
-        "correct_answer": "d"
+        "correct_answer": "b"
     },
     {
         "question": "Which of the following rules is articulated in the law of supply?",
@@ -60,7 +60,7 @@
         "c": "Demand increases.",
         "d": "Equilibrium quantity falls.",
         "e": "Price decreases.",
-        "correct_answer": "a"
+        "correct_answer": "c"
     },
     {
         "question": "Sam has started to sell soap on Etsy, then realizes that it is a very competitive market. At what point does Sam stop supplying?",
@@ -69,7 +69,7 @@
         "c": "His profit does not cover his manufacturing costs.",
         "d": "He can earn more by supplying another good instead.",
         "e": "The government limits his production.",
-        "correct_answer": "b"
+        "correct_answer": "d"
     },
     {
         "question": "If prices for a good are high, a producer is MOST likely to",
@@ -78,7 +78,7 @@
         "c": "cut working hours",
         "d": "sell other products",
         "e": "automate production",
-        "correct_answer": "e"
+        "correct_answer": "b"
     },
     {
         "question": "How are quantity supplied and price related?",
@@ -105,7 +105,7 @@
         "c": "Quantity supplied increases.",
         "d": "Equilibrium price increases.",
         "e": "Quantity supplied decreases.",
-        "correct_answer": "c"
+        "correct_answer": "b"
     },
     {
         "question": "What variable is on the horizontal axis of a supply curve?",
@@ -159,7 +159,7 @@
         "c": "a lack of Pareto efficiency",
         "d": "excess demand",
         "e": "deadweight loss",
-        "correct_answer": "d"
+        "correct_answer": "b"
     },
     {
         "question": "Assume that the oil market is in equilibrium. What information does the price of oil communicate?",
@@ -177,7 +177,7 @@
         "c": "input changes",
         "d": "technology",
         "e": "competition",
-        "correct_answer": "d"
+        "correct_answer": "a"
     },
     {
         "question": "How will the vaccine market be impacted if more producers enter the market?",
@@ -213,7 +213,7 @@
         "c": "-$30",
         "d": "-$10",
         "e": "$0",
-        "correct_answer": "d"
+        "correct_answer": "e"
     },
     {
         "question": "How is information conveyed in perfectly competitive markets?",
@@ -249,7 +249,7 @@
         "c": "An unexpected economic shock leads to a spike in demand.",
         "d": "Equilibrium price is forecasted to decrease.",
         "e": "Consumer surplus increases.",
-        "correct_answer": "d"
+        "correct_answer": "b"
     },
     {
         "question": "Which of the following statements CORRECTLY describes market equilibrium?",
@@ -258,7 +258,7 @@
         "c": "Suppliers have an incentive to charge more at equilibrium.",
         "d": "Equilibrium does not always exist in a market.",
         "e": "Equilibrium ensures all consumers and producers are equal.",
-        "correct_answer": "e"
+        "correct_answer": "a"
     },
     {
         "question": "Which of the following events would NOT shift the supply curve for gasoline?",
@@ -267,7 +267,7 @@
         "c": "Prices of gas are expected to rise in the future.",
         "d": "The price of gasoline rises.",
         "e": "A new self-service system is invented.",
-        "correct_answer": "c"
+        "correct_answer": "d"
     }
 ]
 

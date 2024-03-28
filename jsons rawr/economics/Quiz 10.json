@@ -42,7 +42,7 @@
     "c": "number of working-age residents",
     "d": "number of man-hours worked",
     "e": "number of employed and unemployed workers",
-    "correct_answer": "d"
+    "correct_answer": "b"
   },
   {
     "question": "What output per capita did the United States produce in 2008?",
@@ -60,7 +60,7 @@
     "c": "mid-World War I",
     "d": "in the Roaring Twenties",
     "e": "after World War II",
-    "correct_answer": "b"
+    "correct_answer": "e"
   },
   {
     "question": "Which of the following countries had the HIGHEST GDP per capita in 2007?",
@@ -114,7 +114,7 @@
     "c": "It rises during expansions.",
     "d": "It declines alongside output.",
     "e": "It depends on microeconomic forces.",
-    "correct_answer": "d"
+    "correct_answer": "a"
   },
   {
     "question": "Which of the following values is MOST impacted by inflation?",
@@ -168,7 +168,7 @@
     "c": "A baker sells sourdough loaves at a farmer’s market.",
     "d": "Maryland imports $500 million of masks.",
     "e": "A salesman receives a commission from selling an old mansion.",
-    "correct_answer": "e"
+    "correct_answer": "b"
   },
   {
     "question": "What agency calculates the United States Consumer Price Index?",
@@ -204,7 +204,7 @@
     "c": "to adjust for foreign exchange",
     "d": "to measure shifts in production",
     "e": "to measure price in negative externalities",
-    "correct_answer": "b"
+    "correct_answer": "d"
   },
   {
     "question": "Which of the following answer choices is NOT included when calculating the 'investment' portion of GDP?",
@@ -231,7 +231,7 @@
     "c": "financial aid",
     "d": "food stamps",
     "e": "Medicare expenses",
-    "correct_answer": "e"
+    "correct_answer": "b"
   },
   {
     "question": "Caroline uses her book advance to buy a flat in Manhattan. Which of the following answer choices BEST describes this purchase?",

@@ -33,7 +33,7 @@
         "c": "The economy is closed off from the rest of the world.",
         "d": "The economy only produces one good.",
         "e": "The economy accepts net capital outflows.",
-        "correct_answer": "d"
+        "correct_answer": "c"
     },
     {
         "question": "Which of the following claims about a firm producing at the axis intercept is true?",
@@ -42,7 +42,7 @@
         "c": "It will trade with another firm.",
         "d": "It has no comparative advantage",
         "e": "It will be unwilling to trade.",
-        "correct_answer": "d"
+        "correct_answer": "b"
     },
     {
         "question": "What statement describes a PPF that intersects the horizontal axis at 36 units and the vertical axis at 20 units?",
@@ -51,7 +51,7 @@
         "c": "The producer will only produce the good on the horizontal-axis.",
         "d": "The PPF has a slope of -2.",
         "e": "The producer is more efficient at producing the horizontal-axis good.",
-        "correct_answer": "b"
+        "correct_answer": "e"
     },
     {
         "question": "Importland decides to open to trade. Its domestic price of coconuts is higher than the world price. What MUST happen in its market for coconuts?",
@@ -60,7 +60,7 @@
         "c": "Total surplus decreases.",
         "d": "Domestic production rises.",
         "e": "Producer surplus increases.",
-        "correct_answer": "e"
+        "correct_answer": "a"
     },
     {
         "question": "NKLA can produce a good at less opportunity cost than TSLA. Which of the following answer choices correctly describes NKLA’s advantage?",
@@ -87,7 +87,7 @@
         "c": "Total surplus decreases.",
         "d": "Consumer surplus increases.",
         "e": "Domestic demand increases.",
-        "correct_answer": "d"
+        "correct_answer": "b"
     },
     {
         "question": "If Fiji’s water costs $2/bottle and the world price is $3, what happens if Fiji opens to trade?",
@@ -96,7 +96,7 @@
         "c": "The country becomes an importer.",
         "d": "Trade will not occur.",
         "e": "Domestic demand increases.",
-        "correct_answer": "c"
+        "correct_answer": "a"
     },
     {
         "question": "Why do some individuals oppose free trade?",
@@ -132,7 +132,7 @@
         "c": "absolute advantage in no goods",
         "d": "absolute advantage in both goods",
         "e": "comparative advantage in both goods",
-        "correct_answer": "e"
+        "correct_answer": "d"
     },
     {
         "question": "Which of the following conditions can describe a firm with diminishing returns to scale in a competitive market and negative accounting profit?",
@@ -141,7 +141,7 @@
         "c": "Total revenue is zero.",
         "d": "Economic profits are positive.",
         "e": "Marginal cost exceeds total cost.",
-        "correct_answer": "e"
+        "correct_answer": "a"
     },
     {
         "question": "Which of the following statements describes a competitive market?",
@@ -150,7 +150,7 @@
         "c": "Firms exit the market in response to positive economic profits.",
         "d": "Economic profits will always be positive.",
         "e": "Firms enter the market in response to positive economic profits.",
-        "correct_answer": "b"
+        "correct_answer": "e"
     },
     {
         "question": "The company DJI increases production of drones by 10% in a competitive market. Which of the following values increases 10%?",
@@ -186,7 +186,7 @@
         "c": "opportunity cost",
         "d": "fixed cost",
         "e": "variable cost",
-        "correct_answer": "c"
+        "correct_answer": "d"
     },
     {
         "question": "What impact would hiring additional workers have on a firm’s costs?",
@@ -231,7 +231,7 @@
         "c": "The firm’s total costs are greater than total revenue.",
         "d": "The firm’s marginal revenue equals its marginal cost.",
         "e": "The firm makes an accounting profit.",
-        "correct_answer": "e"
+        "correct_answer": "a"
     },
     {
         "question": "Which of the following equations is TRUE in a stable, competitive market?",

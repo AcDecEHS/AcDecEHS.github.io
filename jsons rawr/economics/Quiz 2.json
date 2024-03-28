@@ -87,7 +87,7 @@
     "c": "natural goods",
     "d": "human capital",
     "e": "intangible resources",
-    "correct_answer": "d"
+    "correct_answer": "b"
   },
   {
     "question": "How are macroeconomics and microeconomics related?",
@@ -114,7 +114,7 @@
     "c": "consumptive efficiency",
     "d": "profit efficiency",
     "e": "Pareto efficiency",
-    "correct_answer": "b"
+    "correct_answer": "e"
   },
   {
     "question": "Which of the following variables do economists consider infinite?",
@@ -123,7 +123,7 @@
     "c": "knowledge",
     "d": "money",
     "e": "time",
-    "correct_answer": "e"
+    "correct_answer": "b"
   },
   {
     "question": "What is the main purpose of economic models?",
@@ -150,7 +150,7 @@
     "c": "inferior",
     "d": "complementary",
     "e": "substitute",
-    "correct_answer": "d"
+    "correct_answer": "c"
   },
   {
     "question": "What relationship is articulated by the law of demand?",
@@ -195,7 +195,7 @@
     "c": "buyers and sellers",
     "d": "supply and demand",
     "e": "banks and businesses",
-    "correct_answer": "c"
+    "correct_answer": "d"
   },
   {
     "question": "Who does the market for gasoline include?",
@@ -222,7 +222,7 @@
     "c": "Demand for ramen shifts to the left.",
     "d": "Supply of ramen shifts down.",
     "e": "Demand for ramen does not move.",
-    "correct_answer": "c"
+    "correct_answer": "e"
   },
   {
     "question": "How is “perfect competition” a useful concept in the field of economics more broadly?",
@@ -267,7 +267,7 @@
     "c": "plane tickets",
     "d": "tennis balls",
     "e": "currency",
-    "correct_answer": "d"
+    "correct_answer": "e"
   }
 ]
 

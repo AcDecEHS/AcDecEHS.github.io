@@ -24,7 +24,7 @@
         "c": "negative effects",
         "d": "widespread ramifications",
         "e": "sociopolitical implications",
-        "correct_answer": "c"
+        "correct_answer": "b"
     },
     {
         "question": "Which of the following conditions does the Coase Theorem require?",
@@ -60,7 +60,7 @@
         "c": "downwards shift of supply curve",
         "d": "upwards shift of demand curve",
         "e": "downwards shift of demand curve",
-        "correct_answer": "a"
+        "correct_answer": "d"
     },
     {
         "question": "Which of the following statements is NOT true of negative externalities?",
@@ -69,7 +69,7 @@
         "c": "They are extremely rare.",
         "d": "They increase overall welfare.",
         "e": "They increase firm profits.",
-        "correct_answer": "e"
+        "correct_answer": "a"
     },
     {
         "question": "Which of the following phenomena exemplify negative externalities?",
@@ -132,7 +132,7 @@
         "c": "reduce consumer surplus",
         "d": "establish efficient markets",
         "e": "circumvent barriers to entry",
-        "correct_answer": "d"
+        "correct_answer": "e"
     },
     {
         "question": "Which of the following goods is a common resource?",
@@ -159,7 +159,7 @@
         "c": "a news website",
         "d": "radio broadcasts",
         "e": "a bike-sharing program",
-        "correct_answer": "c"
+        "correct_answer": "d"
     },
     {
         "question": "What solution to the tragedy of the commons is MOST efficient?",
@@ -195,7 +195,7 @@
         "c": "Norwegian salmon",
         "d": "NPR broadcasts",
         "e": "Disney+",
-        "correct_answer": "b"
+        "correct_answer": "d"
     },
     {
         "question": "Which type of good has a high degree of rivalry and excludability?",
@@ -231,7 +231,7 @@
         "c": "collective good",
         "d": "private good",
         "e": "common resource",
-        "correct_answer": "d"
+        "correct_answer": "c"
     },
     {
         "question": "Which of the following statements describes collective goods?",
@@ -240,7 +240,7 @@
         "c": "Monopolies have incentives to sell them cheaply.",
         "d": "They have a low degree of rivalry.",
         "e": "The marginal cost of production is very high.",
-        "correct_answer": "d"
+        "correct_answer": "b"
     },
     {
         "question": "Which of the following resource types produces externalities?",
@@ -258,7 +258,7 @@
         "c": "a beekeeper purchasing a nearby apple farm to promote pollination and crop production",
         "d": "a sanitizer plant increasing production",
         "e": "a neighborhood association negotiating with a local school about the bright lights on their football field",
-        "correct_answer": "c"
+        "correct_answer": "e"
     },
     {
         "question": "Which of the following circumstances invalidates the Coase Theorem?",

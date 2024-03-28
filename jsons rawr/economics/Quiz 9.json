@@ -24,7 +24,7 @@
         "c": "Individuals",
         "d": "Governments",
         "e": "Firms",
-        "correct_answer": "c"
+        "correct_answer": "b"
     },
     {
         "question": "What phenomenon occurs along with logrolling?",
@@ -69,7 +69,7 @@
         "c": "Expanding the scope of economic activity",
         "d": "Redistributing wealth",
         "e": "Interfering in the free market",
-        "correct_answer": "a"
+        "correct_answer": "c"
     },
     {
         "question": "Who engages in “log rolling”?",
@@ -96,7 +96,7 @@
         "c": "Tax",
         "d": "Quota",
         "e": "Subsidy",
-        "correct_answer": "d"
+        "correct_answer": "a"
     },
     {
         "question": "Tim and Teresa are going to start an alpaca farm in Kansas. Tim wants to make sure that Teresa will not back out of their investments. Which function of government will protect their business ventures?",
@@ -114,7 +114,7 @@
         "c": "Taking advantage of wide tax raises to slide one of his projects into a bill",
         "d": "Inflating domestic prices with an artificial price floor",
         "e": "Directing funding to his son’s high school football program",
-        "correct_answer": "b"
+        "correct_answer": "e"
     },
     {
         "question": "What is the trade-off for the protections of government?",
@@ -168,7 +168,7 @@
         "c": "Current computing trends",
         "d": "Number of keyboard buyers",
         "e": "Average income of computer users",
-        "correct_answer": "d"
+        "correct_answer": "a"
     },
     {
         "question": "When does equilibrium occur in a perfectly competitive market?",
@@ -177,7 +177,7 @@
         "c": "Supply and demand are in equilibrium.",
         "d": "Positive and negative externalities are perfectly balanced.",
         "e": "Quantity supplied equals quantity demanded.",
-        "correct_answer": "e"
+        "correct_answer": "b"
     },
     {
         "question": "Which of the following answer choices BEST defines elasticity?",
@@ -231,7 +231,7 @@
         "c": "Quantity supplied",
         "d": "Deadweight loss",
         "e": "Quantity demanded",
-        "correct_answer": "d"
+        "correct_answer": "a"
     },
     {
         "question": "What situation constitutes a market failure?",
