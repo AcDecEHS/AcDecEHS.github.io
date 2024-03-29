@@ -1,273 +1,273 @@
 [
-    {
-        "question": "To whom is the epigraph to Chapter 1 attributed?",
-        "a": "Confucius",
-        "b": "Mencius",
-        "c": "Laozi",
-        "d": "Chuang Tse",
-        "e": "Sun Tzu",
-        "correct_answer": "d"
-    },
-    {
-        "question": "Which creature opens Chapter 1?",
-        "a": "cockroach",
-        "b": "horse",
-        "c": "dog",
-        "d": "octopus",
-        "e": "jellyfish",
-        "correct_answer": "e"
-    },
-    {
-        "question": "What causes the main character’s illness at the beginning of Chapter 1?",
-        "a": "a cancerous plague",
-        "b": "radiation sickness",
-        "c": "poor nutrition",
-        "d": "excessive alcohol",
-        "e": "influenza",
-        "correct_answer": "b"
-    },
-    {
-        "question": "What type of flower does the main character see?",
-        "a": "rose",
-        "b": "dandelion",
-        "c": "forsythia",
-        "d": "cowslip",
-        "e": "peony",
-        "correct_answer": "b"
-    },
-    {
-        "question": "What does the medic say has caused the main character’s illness?",
-        "a": "bad food",
-        "b": "repressed anger",
-        "c": "too much dreaming",
-        "d": "a drug overdose",
-        "e": "radiation poisoning",
-        "correct_answer": "d"
-    },
-    {
-        "question": "What type of treatment does the medic recommend for the main character in Chapter 1?",
-        "a": "Behavioral Therapy",
-        "b": "Surgical Treatment",
-        "c": "Voluntary Therapeutic",
-        "d": "Radiation Therapy",
-        "e": "Medication Therapy",
-        "correct_answer": "c"
-    },
-    {
-        "question": "In Chapter 1, we learn that the main character’s name is",
-        "a": "Henry",
-        "b": "Phil",
-        "c": "Haber",
-        "d": "George",
-        "e": "Sam",
-        "correct_answer": "d"
-    },
-    {
-        "question": "What does Mannie do for the main character in Chapter 1?",
-        "a": "soothes him to sleep",
-        "b": "covers for his drug use",
-        "c": "helps him undress",
-        "d": "makes him a meal",
-        "e": "calls an ambulance",
-        "correct_answer": "b"
-    },
-    {
-        "question": "What is Mannie’s occupation?",
-        "a": "medic",
-        "b": "elevator guard",
-        "c": "plumber",
-        "d": "janitor",
-        "e": "sleep doctor",
-        "correct_answer": "b"
-    },
-    {
-        "question": "What illness does the medic say is afflicting children?",
-        "a": "scurvy",
-        "b": "kwashiorkor",
-        "c": "polio",
-        "d": "cancer",
-        "e": "diphtheria",
-        "correct_answer": "b"
-    },
-    {
-        "question": "In Chapter 1, the main character is taking barbiturates and",
-        "a": "Concerta",
-        "b": "Focalin",
-        "c": "Dexedrine",
-        "d": "Adderall",
-        "e": "Desoxyn",
-        "correct_answer": "c"
-    },
-    {
-        "question": "What nutrient does the medic say that many children are lacking, in Chapter 1?",
-        "a": "calcium",
-        "b": "vitamin A",
-        "c": "magnesium",
-        "d": "iron",
-        "e": "protein",
-        "correct_answer": "e"
-    },
-    {
-        "question": "What nutrient does the medic give many children?",
-        "a": "vitamin C",
-        "b": "iodine",
-        "c": "folate",
-        "d": "potassium",
-        "e": "protein",
-        "correct_answer": "a"
-    },
-    {
-        "question": "What question does Mannie ask at the end of Chapter 1?",
-        "a": "“What’s that noise?”",
-        "b": "“Wouldn’t you like to know?”",
-        "c": "“What’d you do with my Pharm Card?”",
-        "d": "“Ain’t it great to be alive?”",
-        "e": "“Who took my shoes?”",
-        "correct_answer": "d"
-    },
-    {
-        "question": "The tone of Chapter 1 can BEST be described as",
-        "a": "contemplative",
-        "b": "nostalgic",
-        "c": "hopeful",
-        "d": "bleak",
-        "e": "wistful",
-        "correct_answer": "d"
-    },
-    {
-        "question": "In Chapter 2, what is the referral patient's medical condition?",
-        "a": "drug abuse",
-        "b": "leprosy",
-        "c": "diabetes",
-        "d": "cancer",
-        "e": "heart disease",
-        "correct_answer": "a"
-    },
-    {
-        "question": "In Chapter 2, what is Dr. Haber’s profession?",
-        "a": "cardiologist",
-        "b": "oncologist",
-        "c": "neurologist",
-        "d": "pharmacist",
-        "e": "oneirologist",
-        "correct_answer": "e"
-    },
-    {
-        "question": "In Chapter 2, why did Orr prefer barbiturates over dextroamphetamine?",
-        "a": "Barbiturates were more effective at suppressing dreaming.",
-        "b": "Barbiturates had a stronger stimulating effect.",
-        "c": "Barbiturates have fewer side effects.",
-        "d": "Dextroamphetamine had no effect on his sleep.",
-        "e": "Dextroamphetamine made him jumpy.",
-        "correct_answer": "a"
-    },
-    {
-        "question": "In Chapter 2, in The Lathe of Heaven, the sleep doctor uses a dream machine called the",
-        "a": "Trancap",
-        "b": "Hypnagogue",
-        "c": "Augmentor",
-        "d": "Sleep Enhancer",
-        "e": "EEG",
-        "correct_answer": "c"
-    },
-    {
-        "question": "In Chapter 2, where does The Lathe of Heaven take place?",
-        "a": "Sacramento",
-        "b": "Boise",
-        "c": "Portland",
-        "d": "Denver",
-        "e": "Seattle",
-        "correct_answer": "c"
-    },
-    {
-        "question": "In Chapter 2, what is the main character's profession?",
-        "a": "medic",
-        "b": "plumber",
-        "c": "lawyer",
-        "d": "teacher",
-        "e": "draftsman",
-        "correct_answer": "e"
-    },
-    {
-        "question": "In Chapter 2, how did George Orr feel about his aunt’s advances?",
-        "a": "He was indifferent and distant.",
-        "b": "He was surprised and excited.",
-        "c": "He was flattered and interested.",
-        "d": "He was curious and confused.",
-        "e": "He was afraid and resentful.",
-        "correct_answer": "e"
-    },
-    {
-        "question": "In Chapter 2, how did George Orr’s dream about his aunt affect reality?",
-        "a": "It made his mother move out.",
-        "b": "It made his aunt die.",
-        "c": "It allowed him to speak frankly to his aunt.",
-        "d": "It caused his aunt to become a white cat.",
-        "e": "It made his aunt no longer exist.",
-        "correct_answer": "b"
-    },
-    {
-        "question": "In Chapter 2, what does George Orr say about dreams?",
-        "a": "frightening",
-        "b": "unsocialized",
-        "c": "prophetic",
-        "d": "exciting",
-        "e": "uncanny",
-        "correct_answer": "b"
-    },
-    {
-        "question": "In Chapter 2, what does Haber propose to Orr?",
-        "a": "to undergo surgery to remove his ability to dream",
-        "b": "to try autohypnosis to control his dreams",
-        "c": "to take even more drugs to suppress all dreams",
-        "d": "to see a different psychiatrist",
-        "e": "to dream intentionally under controlled conditions",
-        "correct_answer": "e"
-    },
-    {
-        "question": "In Chapter 2, how does the Dream Machine work?",
-        "a": "by suppressing certain types of dreams",
-        "b": "by playing recordings of healthy brain waves to the subject",
-        "c": "by inducing alpha trance in the subject",
-        "d": "by analyzing feedback from the subject's brain waves",
-        "e": "by sending signals to electrodes implanted in the brain",
-        "correct_answer": "b"
-    },
-    {
-        "question": "In Chapter 2, what does Haber use to induce hypnosis?",
-        "a": "v-c induction",
-        "b": "deep breathing techniques",
-        "c": "electronic brain stimulation",
-        "d": "autohypnosis",
-        "e": "dream-suppressant drugs",
-        "correct_answer": "a"
-    },
-    {
-        "question": "In Chapter 2, what does Haber tell Orr to dream about during their first session together?",
-        "a": "a car",
-        "b": "his aunt",
-        "c": "a horse",
-        "d": "a cabin",
-        "e": "a plague",
-        "correct_answer": "c"
-    },
-    {
-        "question": "In Chapter 2, how does Haber react when Orr questions him about the picture in his office?",
-        "a": "He laughs and makes a joke about the picture.",
-        "b": "He asks Orr to undergo the Augmentor again.",
-        "c": "He becomes angry and defensive.",
-        "d": "He changes the subject to ask Orr about his dream.",
-        "e": "He admits that the pictures has been changed.",
-        "correct_answer": "a"
-    },
-    {
-        "question": "In Chapter 2, what does Orr say about the horse in Haber's mural?",
-        "a": "that it looks like Haber",
-        "b": "that it is a symbol of psychiatry",
-        "c": "that he does not remember it being there",
-        "d": "that it has strength and self-realization in animal terms",
-        "e": "that it was a mountain before the dream",
-        "correct_answer": "a"
-    }
+  {
+    "question": "To whom is the epigraph to Chapter 1 attributed?",
+    "a": "Confucius",
+    "b": "Mencius",
+    "c": "Laozi",
+    "d": "Chuang Tse",
+    "e": "Sun Tzu",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which creature opens Chapter 1?",
+    "a": "cockroach",
+    "b": "horse",
+    "c": "dog",
+    "d": "octopus",
+    "e": "jellyfish",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What causes the main character’s illness at the beginning of Chapter 1?",
+    "a": "a cancerous plague",
+    "b": "radiation sickness",
+    "c": "poor nutrition",
+    "d": "excessive alcohol",
+    "e": "influenza",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What type of flower does the main character see?",
+    "a": "rose",
+    "b": "dandelion",
+    "c": "forsythia",
+    "d": "cowslip",
+    "e": "peony",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What does the medic say has caused the main character’s illness?",
+    "a": "bad food",
+    "b": "repressed anger",
+    "c": "too much dreaming",
+    "d": "a drug overdose",
+    "e": "radiation poisoning",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What type of treatment does the medic recommend for the main character in Chapter 1?",
+    "a": "Behavioral Therapy",
+    "b": "Surgical Treatment",
+    "c": "Voluntary Therapeutic",
+    "d": "Radiation Therapy",
+    "e": "Medication Therapy",
+    "correct_answer": "c"
+  },
+  {
+    "question": "In Chapter 1, we learn that the main character’s name is",
+    "a": "Henry",
+    "b": "Phil",
+    "c": "Haber",
+    "d": "George",
+    "e": "Sam",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What does Mannie do for the main character in Chapter 1?",
+    "a": "soothes him to sleep",
+    "b": "covers for his drug use",
+    "c": "helps him undress",
+    "d": "makes him a meal",
+    "e": "calls an ambulance",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is Mannie’s occupation?",
+    "a": "medic",
+    "b": "elevator guard",
+    "c": "plumber",
+    "d": "janitor",
+    "e": "sleep doctor",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What illness does the medic say is afflicting children?",
+    "a": "scurvy",
+    "b": "kwashiorkor",
+    "c": "polio",
+    "d": "cancer",
+    "e": "diphtheria",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In Chapter 1, the main character is taking barbiturates and",
+    "a": "Concerta",
+    "b": "Focalin",
+    "c": "Dexedrine",
+    "d": "Adderall",
+    "e": "Desoxyn",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What nutrient does the medic say that many children are lacking, in Chapter 1?",
+    "a": "calcium",
+    "b": "vitamin A",
+    "c": "magnesium",
+    "d": "iron",
+    "e": "protein",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What nutrient does the medic give many children?",
+    "a": "vitamin C",
+    "b": "iodine",
+    "c": "folate",
+    "d": "potassium",
+    "e": "protein",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What question does Mannie ask at the end of Chapter 1?",
+    "a": "“What’s that noise?”",
+    "b": "“Wouldn’t you like to know?”",
+    "c": "“What’d you do with my Pharm Card?”",
+    "d": "“Ain’t it great to be alive?”",
+    "e": "“Who took my shoes?”",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The tone of Chapter 1 can BEST be described as",
+    "a": "contemplative",
+    "b": "nostalgic",
+    "c": "hopeful",
+    "d": "bleak",
+    "e": "wistful",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In Chapter 2, what is the referral patient's medical condition?",
+    "a": "drug abuse",
+    "b": "leprosy",
+    "c": "diabetes",
+    "d": "cancer",
+    "e": "heart disease",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Chapter 2, what is Dr. Haber’s profession?",
+    "a": "cardiologist",
+    "b": "oncologist",
+    "c": "neurologist",
+    "d": "pharmacist",
+    "e": "oneirologist",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In Chapter 2, why did Orr prefer barbiturates over dextroamphetamine?",
+    "a": "Barbiturates were more effective at suppressing dreaming.",
+    "b": "Barbiturates had a stronger stimulating effect.",
+    "c": "Barbiturates have fewer side effects.",
+    "d": "Dextroamphetamine had no effect on his sleep.",
+    "e": "Dextroamphetamine made him jumpy.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Chapter 2, in The Lathe of Heaven, the sleep doctor uses a dream machine called the Augmentor",
+    "a": "Trancap",
+    "b": "Hypnagogue",
+    "c": "Augmentor",
+    "d": "Sleep Enhancer",
+    "e": "EEG",
+    "correct_answer": "c"
+  },
+  {
+    "question": "In Chapter 2, where does The Lathe of Heaven take place?",
+    "a": "Sacramento",
+    "b": "Boise",
+    "c": "Portland",
+    "d": "Denver",
+    "e": "Seattle",
+    "correct_answer": "c"
+  },
+  {
+    "question": "In Chapter 2, what is the main character's profession?",
+    "a": "medic",
+    "b": "plumber",
+    "c": "lawyer",
+    "d": "teacher",
+    "e": "draftsman",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In Chapter 2, how did George Orr feel about his aunt’s advances?",
+    "a": "He was indifferent and distant.",
+    "b": "He was surprised and excited.",
+    "c": "He was flattered and interested.",
+    "d": "He was curious and confused.",
+    "e": "He was afraid and resentful.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In Chapter 2, how did George Orr’s dream about his aunt affect reality?",
+    "a": "It made his mother move out.",
+    "b": "It made his aunt die.",
+    "c": "It allowed him to speak frankly to his aunt.",
+    "d": "It caused his aunt to become a white cat.",
+    "e": "It made his aunt no longer exist.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In Chapter 2, what does George Orr say about dreams?",
+    "a": "frightening",
+    "b": "unsocialized",
+    "c": "prophetic",
+    "d": "exciting",
+    "e": "uncanny",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In Chapter 2, what does Haber propose to Orr?",
+    "a": "to undergo surgery to remove his ability to dream",
+    "b": "to try autohypnosis to control his dreams",
+    "c": "to take even more drugs to suppress all dreams",
+    "d": "to see a different psychiatrist",
+    "e": "to dream intentionally under controlled conditions",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In Chapter 2, how does the Dream Machine work?",
+    "a": "by suppressing certain types of dreams",
+    "b": "by playing recordings of healthy brain waves to the subject",
+    "c": "by inducing alpha trance in the subject",
+    "d": "by analyzing feedback from the subject's brain waves",
+    "e": "by sending signals to electrodes implanted in the brain",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In Chapter 2, what does Haber use to induce hypnosis?",
+    "a": "v-c induction",
+    "b": "deep breathing techniques",
+    "c": "electronic brain stimulation",
+    "d": "autohypnosis",
+    "e": "dream-suppressant drugs",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Chapter 2, what does Haber tell Orr to dream about during their first session together?",
+    "a": "a car",
+    "b": "his aunt",
+    "c": "a horse",
+    "d": "a cabin",
+    "e": "a plague",
+    "correct_answer": "c"
+  },
+  {
+    "question": "In Chapter 2, how does Haber react when Orr questions him about the picture in his office?",
+    "a": "He laughs and makes a joke about the picture.",
+    "b": "He asks Orr to undergo the Augmentor again.",
+    "c": "He becomes angry and defensive.",
+    "d": "He changes the subject to ask Orr about his dream.",
+    "e": "He admits that the pictures has been changed.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Chapter 2, what does Orr say about the horse in Haber's mural?",
+    "a": "that it looks like Haber",
+    "b": "that it is a symbol of psychiatry",
+    "c": "that he does not remember it being there",
+    "d": "that it has strength and self-realization in animal terms",
+    "e": "that it was a mountain before the dream",
+    "correct_answer": "a"
+  }
 ]
 
