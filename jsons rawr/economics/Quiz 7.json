@@ -114,7 +114,7 @@
     "c": "raising output",
     "d": "differentiating their products",
     "e": "increasing prices",
-    "correct_answer": "c"
+    "correct_answer": "e"
   },
   {
     "question": "Which of the following statements describes a perfectly competitive market?",
@@ -204,7 +204,7 @@
     "c": "MR < MC",
     "d": "P > MC",
     "e": "MR > MC",
-    "correct_answer": "c"
+    "correct_answer": "d"
   },
   {
     "question": "Which of the following markets is NOT a monopolistically competitive market?",
@@ -249,7 +249,7 @@
     "c": "cartel formation",
     "d": "tragedy of the commons",
     "e": "higher deadweight loss",
-    "correct_answer": "c"
+    "correct_answer": "e"
   },
   {
     "question": "Unlike a firm in perfect competition, what phenomenon do firms in monopolistic competition face?",
@@ -258,7 +258,7 @@
     "c": "positive economic profits",
     "d": "a downward-sloping demand curve",
     "e": "barriers to entry",
-    "correct_answer": "c"
+    "correct_answer": "d"
   },
   {
     "question": "What is a cartel, in economic terms?",

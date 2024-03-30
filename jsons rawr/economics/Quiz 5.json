@@ -24,7 +24,7 @@
     "c": "A 3% change in price leads to unlimited change in supply.",
     "d": "A 3% change in price leads to a 4% change in supply.",
     "e": "A 3% change in price leads to no change in supply.",
-    "correct_answer": "d"
+    "correct_answer": "a"
   },
   {
     "question": "For what MAIN reason do gold coins have an inelastic supply?",
@@ -33,7 +33,7 @@
     "c": "They are a luxury good.",
     "d": "The good is hard to transport.",
     "e": "The market is imperfectly competitive.",
-    "correct_answer": "a"
+    "correct_answer": "b"
   },
   {
     "question": "Which economic concept is calculated with the formula (Q∆P)/(P∆Q)?",
@@ -60,7 +60,7 @@
     "c": "sixteenth-century art",
     "d": "artisan sandwiches",
     "e": "vacation yachts",
-    "correct_answer": "b"
+    "correct_answer": "d"
   },
   {
     "question": "For what factor is price elasticity of supply a proxy?",
@@ -114,7 +114,7 @@
     "c": "gasoline",
     "d": "Bernini sculptures",
     "e": "milk",
-    "correct_answer": "d"
+    "correct_answer": "a"
   },
   {
     "question": "Which of the following slopes corresponds to the LEAST elastic supply curve?",
@@ -123,7 +123,7 @@
     "c": "1",
     "d": "2",
     "e": "5",
-    "correct_answer": "e"
+    "correct_answer": "b"
   },
   {
     "question": "A 25% change in the price of gasoline results in an 50% change in the supply of gasoline. What is the price elasticity of supply?",
@@ -159,7 +159,7 @@
     "c": "horizontally above the equilibrium point",
     "d": "horizontally at the equilibrium point",
     "e": "parallel to the demand curve shifted to the right",
-    "correct_answer": "a"
+    "correct_answer": "c"
   },
   {
     "question": "On which of the following goods will a tax generate the MOST revenue?",
@@ -168,7 +168,7 @@
     "c": "cars",
     "d": "cigarettes",
     "e": "soda",
-    "correct_answer": "d"
+    "correct_answer": "b"
   },
   {
     "question": "Which of the following answer choices would be reduced as a result of deadweight loss?",
@@ -195,7 +195,7 @@
     "c": "-1, 1.5",
     "d": "-1, 1",
     "e": "-1.5, 1",
-    "correct_answer": "d"
+    "correct_answer": "b"
   },
   {
     "question": "What outcome MUST result from price controls?",
@@ -222,7 +222,7 @@
     "c": "increased price competition",
     "d": "higher supply",
     "e": "lower demand",
-    "correct_answer": "e"
+    "correct_answer": "a"
   },
   {
     "question": "How does the supply curve shift if a $1 tax is placed on suppliers?",
@@ -231,7 +231,7 @@
     "c": "It shifts downwards by $1.",
     "d": "It does not shift.",
     "e": "It shifts leftwards by $1.",
-    "correct_answer": "b"
+    "correct_answer": "e"
   },
   {
     "question": "Which of the following markets would be MOST impacted by a social welfare tax?",
@@ -240,7 +240,7 @@
     "c": "diamonds",
     "d": "insulin",
     "e": "jam",
-    "correct_answer": "a"
+    "correct_answer": "e"
   },
   {
     "question": "What MAIN factor determines the distribution of tax burdens?",
@@ -258,7 +258,7 @@
     "c": "The government taxes rental income.",
     "d": "Alternative rental markets have emerged.",
     "e": "Renters will discriminate against certain tenants.",
-    "correct_answer": "d"
+    "correct_answer": "e"
   },
   {
     "question": "What MAIN factor drove the 1979 changes in United States oil prices?",

@@ -33,7 +33,7 @@
     "c": "$80",
     "d": "$50",
     "e": "$100",
-    "correct_answer": "b"
+    "correct_answer": "e"
   },
   {
     "question": "What condition describes a market with maximized total surplus?",
@@ -78,7 +78,7 @@
     "c": "below the equilibrium price and above the demand curve",
     "d": "above the equilibrium price and below the supply curve",
     "e": "above the equilibrium price and below the demand curve",
-    "correct_answer": "d"
+    "correct_answer": "a"
   },
   {
     "question": "In which of the following situations does producer surplus exist?",
@@ -96,7 +96,7 @@
     "c": "supplies the largest quantity of the good",
     "d": "cannot enter the market due to high barriers to entry",
     "e": "has an extremely high producer surplus",
-    "correct_answer": "b"
+    "correct_answer": "a"
   },
   {
     "question": "Which of the following actors values maximizing total welfare MOST?",
@@ -141,7 +141,7 @@
     "c": "Supply decreases.",
     "d": "Supply increases.",
     "e": "Demand decreases.",
-    "correct_answer": "d"
+    "correct_answer": "a"
   },
   {
     "question": "How much did milk production increase as a result of BGH?",
@@ -150,7 +150,7 @@
     "c": "25–30%",
     "d": "5–10%",
     "e": "15–20%",
-    "correct_answer": "b"
+    "correct_answer": "a"
   },
   {
     "question": "A rightward shift of the supply curve results in",
@@ -159,7 +159,7 @@
     "c": "lower producer surplus",
     "d": "lower consumer surplus",
     "e": "no change in surplus",
-    "correct_answer": "b"
+    "correct_answer": "a"
   },
   {
     "question": "When a downtown area undergoes gentrification, local housing prices increase. What term refers to this welfare effect that is not priced into the market for a good?",
@@ -195,7 +195,7 @@
     "c": "Total surplus increases.",
     "d": "Equilibrium quantity increases.",
     "e": "Consumer surplus increases.",
-    "correct_answer": "a"
+    "correct_answer": "e"
   },
   {
     "question": "In Mexico, foods deemed to contain excess sugar, calories, or saturated fat must be labeled with black rectangular warning labels. What is the intended impact of this policy?",
@@ -204,7 +204,7 @@
     "c": "normative economics",
     "d": "increase in price",
     "e": "decrease in demand",
-    "correct_answer": "d"
+    "correct_answer": "e"
   },
   {
     "question": "Which of the following answer choices MUST occur if demand increases?",
@@ -240,7 +240,7 @@
     "c": "Supply and demand increase.",
     "d": "Demand decreases.",
     "e": "Supply decreases.",
-    "correct_answer": "e"
+    "correct_answer": "d"
   },
   {
     "question": "Which of the following answer choices explains a downside to the widespread adoption of BGH?",
@@ -249,7 +249,7 @@
     "c": "It reduces total surplus via deadweight loss.",
     "d": "It makes consumers worse off.",
     "e": "It is very expensive to administer.",
-    "correct_answer": "c"
+    "correct_answer": "a"
   },
   {
     "question": "How would the equilibrium point in the pork market shift in response to a decrease in the price of beef?",
@@ -258,7 +258,7 @@
     "c": "up and to the left",
     "d": "down and to the left",
     "e": "up and to the right",
-    "correct_answer": "e"
+    "correct_answer": "d"
   },
   {
     "question": "If the supply curve shifts upward and the demand curve shifts leftward, which of the following answer choices MUST be produced?",
@@ -267,7 +267,7 @@
     "c": "goods oversupply",
     "d": "lower price",
     "e": "lower quantity",
-    "correct_answer": "e"
+    "correct_answer": "d"
   }
 ]
 

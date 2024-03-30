@@ -1,273 +1,273 @@
 [
-    {
-        "question": "In Chapter 3, what news article did George Orr read on the subway?",
-        "a": "\"NEW RESTAURANT OPENS IN DOWNTOWN\"",
-        "b": "\"LOCAL SPORTS TEAM WINS CHAMPIONSHIP\"",
-        "c": "\"WEATHER FORECAST FOR THE WEEK\"",
-        "d": "\"CELEBRITY COUPLE BREAKS UP\"",
-        "e": "\"BIG A-l STRIKE NEAR AFGHAN BORDER\"",
-        "correct_answer": "e"
-    },
-    {
-        "question": "In Chapter 3, why does George Orr say he stays in Portland?",
-        "a": "He has a successful career there.",
-        "b": "He loves the natural beauty.",
-        "c": "He is afraid of the Mafia.",
-        "d": "He is too poor to move.",
-        "e": "He has always lived there.",
-        "correct_answer": "e"
-    },
-    {
-        "question": "In Chapter 3, how does Dr. Haber's act towards George Orr?",
-        "a": "suspicious",
-        "b": "disinterested",
-        "c": "indifferent",
-        "d": "genial",
-        "e": "hostile",
-        "correct_answer": "d"
-    },
-    {
-        "question": "In Chapter 3, during his second session with Dr. Haber, George Orr dreams about",
-        "a": "Mount Hood erupting",
-        "b": "a horse defecating",
-        "c": "an alien invasion",
-        "d": "a large avalanche",
-        "e": "Dr. Haber attacking him",
-        "correct_answer": "b"
-    },
-    {
-        "question": "In Chapter 3, Haber recommends that Orr should",
-        "a": "avoid dreaming altogether",
-        "b": "take a leave of absence from work",
-        "c": "travel to the wilderness",
-        "d": "rely solely on chemical stimulation",
-        "e": "use and employ his mental powers",
-        "correct_answer": "e"
-    },
-    {
-        "question": "In Chapter 3, how has Orr's use of narcotics and pep pills affected him?",
-        "a": "It has improved his ability to work.",
-        "b": "It has made it impossible for him to dream.",
-        "c": "It has improved his mental powers",
-        "d": "It has left him emotionally off-balance",
-        "e": "It has made him feel invincible",
-        "correct_answer": "d"
-    },
-    {
-        "question": "In Chapter 3, what does Orr ask Haber to do for him?",
-        "a": "To teach him how to lucid dream",
-        "b": "To prescribe him a new sleeping routine",
-        "c": "To give him a new prescription for drugs",
-        "d": "To give him a posthypnotic suggestion not to dream effectively",
-        "e": "To analyze his daydreams",
-        "correct_answer": "d"
-    },
-    {
-        "question": "In Chapter 3, which type of daydream does Haber say he frequently has?",
-        "a": "South Sea Island type daydreams",
-        "b": "Messiah dreams, do-gooder dreams",
-        "c": "Sado-masochist daydreams",
-        "d": "Romantic fantasies of adolescence",
-        "e": "Noble-suffering-martyr type daydreams",
-        "correct_answer": "b"
-    },
-    {
-        "question": "In Chapter 3, Dr. Haber tells Orr that, as a patient, he is",
-        "a": "happy and joyful",
-        "b": "generous and kind",
-        "c": "angry and hostile",
-        "d": "quiet and peaceful",
-        "e": "intelligent and cooperative",
-        "correct_answer": "e"
-    },
-    {
-        "question": "In Chapter 3, what luxury does Orr wish he could afford?",
-        "a": "a houseboat on a river",
-        "b": "a private island retreat",
-        "c": "a private pool",
-        "d": "a beachfront villa",
-        "e": "a cabin in the wilderness",
-        "correct_answer": "e"
-    },
-    {
-        "question": "In Chapter 3, how does Orr feel after having an effective dream?",
-        "a": "energized and refreshed",
-        "b": "broken and abraded",
-        "c": "frightened and furious",
-        "d": "content and fulfilled",
-        "e": "confused and disoriented",
-        "correct_answer": "b"
-    },
-    {
-        "question": "In Chapter 3, what was the effective part of Orr’s final dream?",
-        "a": "the appearance of Kennedy",
-        "b": "the end of Orr’s anxiety",
-        "c": "the presence of Haber",
-        "d": "the stopping of the rain",
-        "e": "the change of location",
-        "correct_answer": "d"
-    },
-    {
-        "question": "In Chapter 3, why was the Willamette not concreted over like other creeks and streams in the city?",
-        "a": "It allowed Portland to be a port city.",
-        "b": "It was too large to be concreted over.",
-        "c": "The city government lacked the resources to concrete over it.",
-        "d": "It was protected by strict environmental regulations.",
-        "e": "It was important to the local wildlife.",
-        "correct_answer": "a"
-    },
-    {
-        "question": "In Chapter 3, what has puzzled Orr regarding dreams?",
-        "a": "why most dreams cannot be consciously recalled",
-        "b": "why dreams are often nonsensical",
-        "c": "what the purpose of dreams is",
-        "d": "Whether other animals dream",
-        "e": "why some dreams are more vivid than others",
-        "correct_answer": "a"
-    },
-    {
-        "question": "In Chapter 3, where does Orr live?",
-        "a": "in a studio apartment",
-        "b": "in a three-bedroom house",
-        "c": "in a hotel",
-        "d": "on a houseboat",
-        "e": "in a shack",
-        "correct_answer": "a"
-    },
-    {
-        "question": "What is a feature of the parking structure described at the beginning of Chapter 4?",
-        "a": "It was once a high-rise building",
-        "b": "It has a curved façade",
-        "c": "It has a rooftop garden",
-        "d": "It still smells of gasoline fumes",
-        "e": "It was designed by a famous architect",
-        "correct_answer": "d"
-    },
-    {
-        "question": "In Chapter 4, how does Miss Lelache see herself?",
-        "a": "as a victim",
-        "b": "as a poisonous spider",
-        "c": "as an ambitious lawyer",
-        "d": "as a mentor",
-        "e": "as a friendly coworker",
-        "correct_answer": "b"
-    },
-    {
-        "question": "In Chapter 4, how does Miss Lelache see George Orr?",
-        "a": "confident and assertive",
-        "b": "witty and charming",
-        "c": "strong and muscular",
-        "d": "tall and imposing",
-        "e": "fragile and meek",
-        "correct_answer": "e"
-    },
-    {
-        "question": "In Chapter 4, which types of rights does George Orr believe that Dr. Haber is violating?",
-        "a": "political",
-        "b": "civil",
-        "c": "privacy",
-        "d": "social",
-        "e": "economic",
-        "correct_answer": "c"
-    },
-    {
-        "question": "In The Lathe of Heaven, Miss Lelache is a(n)",
-        "a": "doctor",
-        "b": "engineer",
-        "c": "accountant",
-        "d": "lawyer",
-        "e": "teacher",
-        "correct_answer": "d"
-    },
-    {
-        "question": "In Chapter 4, what is George Orr’s attitude toward his situation?",
-        "a": "angry and confrontational",
-        "b": "hopeless and depressed",
-        "c": "confident and optimistic",
-        "d": "uncertain and confused",
-        "e": "desperate and resigned",
-        "correct_answer": "e"
-    },
-    {
-        "question": "In Chapter 4, what does George Orr think about Dr. Haber’s motives?",
-        "a": "He means well.",
-        "b": "He is twisted.",
-        "c": "He is evil.",
-        "d": "He is megalomaniacal.",
-        "e": "He is a mad scientist.",
-        "correct_answer": "a"
-    },
-    {
-        "question": "In Chapter 4, what does George Orr say he wants from his visits to Dr. Haber?",
-        "a": "to receive better drugs",
-        "b": "to be cured",
-        "c": "to increase his power",
-        "d": "to regain his job",
-        "e": "to improve the world",
-        "correct_answer": "b"
-    },
-    {
-        "question": "In Chapter 4, how does Miss Lelache feel about George Orr’s story?",
-        "a": "skeptical",
-        "b": "admiring",
-        "c": "sympathetic",
-        "d": "confused",
-        "e": "amused",
-        "correct_answer": "a"
-    },
-    {
-        "question": "In Chapter 4, how does George Orr obtain a cabin in the wilderness?",
-        "a": "He buys it from a friend.",
-        "b": "He inherits it from a relative.",
-        "c": "He dreams it into existence.",
-        "d": "He finds it unattended.",
-        "e": "He wins it in a lottery.",
-        "correct_answer": "c"
-    },
-    {
-        "question": "In Chapter 4, which type of animal does George Orr use to illustrate his ability to change the order of nature?",
-        "a": "red iguana",
-        "b": "purple parakeet",
-        "c": "yellow snake",
-        "d": "green elephant",
-        "e": "pink poodle",
-        "correct_answer": "e"
-    },
-    {
-        "question": "In Chapter 4, Miss Lelache agrees to observe a session with Dr. Haber in order to",
-        "a": "get Dr. Haber into trouble",
-        "b": "disprove Orr’s claims about effective dreaming",
-        "c": "ensure that Orr’s civil rights are not violated",
-        "d": "prove that the machine is experimental",
-        "e": "help cure Orr’s ability to dream effectively",
-        "correct_answer": "c"
-    },
-    {
-        "question": "In Chapter 4, why does George Orr say he objects to Dr. Haber's treatment?",
-        "a": "The treatment is physically painful.",
-        "b": "The dreams are morally repugnant.",
-        "c": "The machine is causing him physical harm.",
-        "d": "Dr. Haber’s treatment is not effective.",
-        "e": "He is being used as an instrument without his consent.",
-        "correct_answer": "e"
-    },
-    {
-        "question": "In The Lathe of Heaven, what does Miss Lelache suggest to George Orr after their first meeting?",
-        "a": "getting a HEW order to investigate",
-        "b": "stopping his drug use",
-        "c": "destroying the machine",
-        "d": "accusing Dr. Haber of misconduct",
-        "e": "asking Dr. Haber for his cooperation",
-        "correct_answer": "a"
-    },
-    {
-        "question": "In Chapter 4, how does George Orr describe the purpose of the Augmentor?",
-        "a": "to intensify the dream-state",
-        "b": "to stop dreaming",
-        "c": "to analyze dreams",
-        "d": "to induce hypnosis",
-        "e": "to change reality",
-        "correct_answer": "a"
-    }
+  {
+    "question": "In Chapter 3, what news article did George Orr read on the subway?",
+    "a": "\"NEW RESTAURANT OPENS IN DOWNTOWN\"",
+    "b": "\"LOCAL SPORTS TEAM WINS CHAMPIONSHIP\"",
+    "c": "\"WEATHER FORECAST FOR THE WEEK\"",
+    "d": "\"CELEBRITY COUPLE BREAKS UP\"",
+    "e": "\"BIG A-l STRIKE NEAR AFGHAN BORDER\"",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In Chapter 3, why does George Orr say he stays in Portland?",
+    "a": "He has a successful career there.",
+    "b": "He loves the natural beauty.",
+    "c": "He is afraid of the Mafia.",
+    "d": "He is too poor to move.",
+    "e": "He has always lived there.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In Chapter 3, how does Dr. Haber act towards George Orr?",
+    "a": "suspicious",
+    "b": "disinterested",
+    "c": "indifferent",
+    "d": "genial",
+    "e": "hostile",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In Chapter 3, during his second session with Dr. Haber, George Orr dreams about",
+    "a": "Mount Hood erupting",
+    "b": "a horse defecating",
+    "c": "an alien invasion",
+    "d": "a large avalanche",
+    "e": "Dr. Haber attacking him",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In Chapter 3, Haber recommends that Orr should",
+    "a": "avoid dreaming altogether",
+    "b": "take a leave of absence from work",
+    "c": "travel to the wilderness",
+    "d": "rely solely on chemical stimulation",
+    "e": "use and employ his mental powers",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In Chapter 3, how has Orr's use of narcotics and pep pills affected him?",
+    "a": "It has improved his ability to work.",
+    "b": "It has made it impossible for him to dream.",
+    "c": "It has improved his mental powers",
+    "d": "It has left him emotionally off-balance",
+    "e": "It has made him feel invincible",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In Chapter 3, what does Orr ask Haber to do for him?",
+    "a": "To teach him how to lucid dream",
+    "b": "To prescribe him a new sleeping routine",
+    "c": "To give him a new prescription for drugs",
+    "d": "To give him a posthypnotic suggestion not to dream effectively",
+    "e": "To analyze his daydreams",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In Chapter 3, which type of daydream does Haber say he frequently has?",
+    "a": "South Sea Island type daydreams",
+    "b": "Messiah dreams, do-gooder dreams",
+    "c": "Sado-masochist daydreams",
+    "d": "Romantic fantasies of adolescence",
+    "e": "Noble-suffering-martyr type daydreams",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In Chapter 3, Dr. Haber tells Orr that, as a patient, he is",
+    "a": "happy and joyful",
+    "b": "generous and kind",
+    "c": "angry and hostile",
+    "d": "quiet and peaceful",
+    "e": "intelligent and cooperative",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In Chapter 3, what luxury does Orr wish he could afford?",
+    "a": "a houseboat on a river",
+    "b": "a private island retreat",
+    "c": "a private pool",
+    "d": "a beachfront villa",
+    "e": "a cabin in the wilderness",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In Chapter 3, how does Orr feel after having an effective dream?",
+    "a": "energized and refreshed",
+    "b": "broken and abraded",
+    "c": "frightened and furious",
+    "d": "content and fulfilled",
+    "e": "confused and disoriented",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In Chapter 3, what was the effective part of Orr’s final dream?",
+    "a": "the appearance of Kennedy",
+    "b": "the end of Orr’s anxiety",
+    "c": "the presence of Haber",
+    "d": "the stopping of the rain",
+    "e": "the change of location",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In Chapter 3, why was the Willamette not concreted over like other creeks and streams in the city?",
+    "a": "It allowed Portland to be a port city.",
+    "b": "It was too large to be concreted over.",
+    "c": "The city government lacked the resources to concrete over it.",
+    "d": "It was protected by strict environmental regulations.",
+    "e": "It was important to the local wildlife.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Chapter 3, what has puzzled Orr regarding dreams?",
+    "a": "why most dreams cannot be consciously recalled",
+    "b": "why dreams are often nonsensical",
+    "c": "what the purpose of dreams is",
+    "d": "Whether other animals dream",
+    "e": "why some dreams are more vivid than others",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Chapter 3, where does Orr live?",
+    "a": "in a studio apartment",
+    "b": "in a three-bedroom house",
+    "c": "in a hotel",
+    "d": "on a houseboat",
+    "e": "in a shack",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is a feature of the parking structure described at the beginning of Chapter 4?",
+    "a": "It was once a high-rise building",
+    "b": "It has a curved façade",
+    "c": "It has a rooftop garden",
+    "d": "It still smells of gasoline fumes",
+    "e": "It was designed by a famous architect",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In Chapter 4, how does Miss Lelache see herself?",
+    "a": "as a victim",
+    "b": "as a poisonous spider",
+    "c": "as an ambitious lawyer",
+    "d": "as a mentor",
+    "e": "as a friendly coworker",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In Chapter 4, how does Miss Lelache see George Orr?",
+    "a": "confident and assertive",
+    "b": "witty and charming",
+    "c": "strong and muscular",
+    "d": "tall and imposing",
+    "e": "fragile and meek",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In Chapter 4, which types of rights does George Orr believe that Dr. Haber is violating?",
+    "a": "political",
+    "b": "civil",
+    "c": "privacy",
+    "d": "social",
+    "e": "economic",
+    "correct_answer": "c"
+  },
+  {
+    "question": "In The Lathe of Heaven, Miss Lelache is a(n)",
+    "a": "doctor",
+    "b": "engineer",
+    "c": "accountant",
+    "d": "lawyer",
+    "e": "teacher",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In Chapter 4, what is George Orr’s attitude toward his situation?",
+    "a": "angry and confrontational",
+    "b": "hopeless and depressed",
+    "c": "confident and optimistic",
+    "d": "uncertain and confused",
+    "e": "desperate and resigned",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In Chapter 4, what does George Orr think about Dr. Haber’s motives?",
+    "a": "He means well.",
+    "b": "He is twisted.",
+    "c": "He is evil.",
+    "d": "He is megalomaniacal.",
+    "e": "He is a mad scientist.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Chapter 4, what does George Orr say he wants from his visits to Dr. Haber?",
+    "a": "to receive better drugs",
+    "b": "to be cured",
+    "c": "to increase his power",
+    "d": "to regain his job",
+    "e": "to improve the world",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In Chapter 4, how does Miss Lelache feel about George Orr’s story?",
+    "a": "skeptical",
+    "b": "admiring",
+    "c": "sympathetic",
+    "d": "confused",
+    "e": "amused",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Chapter 4, how does George Orr obtain a cabin in the wilderness?",
+    "a": "He buys it from a friend.",
+    "b": "He inherits it from a relative.",
+    "c": "He dreams it into existence.",
+    "d": "He finds it unattended.",
+    "e": "He wins it in a lottery.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "In Chapter 4, which type of animal does George Orr use to illustrate his ability to change the order of nature?",
+    "a": "red iguana",
+    "b": "purple parakeet",
+    "c": "yellow snake",
+    "d": "green elephant",
+    "e": "pink poodle",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In Chapter 4, Miss Lelache agrees to observe a session with Dr. Haber in order to",
+    "a": "get Dr. Haber into trouble",
+    "b": "disprove Orr’s claims about effective dreaming",
+    "c": "ensure that Orr’s civil rights are not violated",
+    "d": "prove that the machine is experimental",
+    "e": "help cure Orr’s ability to dream effectively",
+    "correct_answer": "c"
+  },
+  {
+    "question": "In Chapter 4, why does George Orr say he objects to Dr. Haber's treatment?",
+    "a": "The treatment is physically painful.",
+    "b": "The dreams are morally repugnant.",
+    "c": "The machine is causing him physical harm.",
+    "d": "Dr. Haber’s treatment is not effective.",
+    "e": "He is being used as an instrument without his consent.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In The Lathe of Heaven, what does Miss Lelache suggest to George Orr after their first meeting?",
+    "a": "getting a HEW order to investigate",
+    "b": "stopping his drug use",
+    "c": "destroying the machine",
+    "d": "accusing Dr. Haber of misconduct",
+    "e": "asking Dr. Haber for his cooperation",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In Chapter 4, how does George Orr describe the purpose of the Augmentor?",
+    "a": "to intensify the dream-state",
+    "b": "to stop dreaming",
+    "c": "to analyze dreams",
+    "d": "to induce hypnosis",
+    "e": "to change reality",
+    "correct_answer": "a"
+  }
 ]
 
