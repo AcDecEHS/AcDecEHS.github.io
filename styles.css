@@ -47,7 +47,7 @@ iframe {
     margin-bottom: auto;
 }
 /* for mobile >~< */
-@media screen and (max-width: 1080px) {
+@media only screen and (max-width: 800px) {
     body {
         flex-wrap: wrap-reverse;
         padding-inline: 4px;
