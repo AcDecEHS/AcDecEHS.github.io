@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Which of the following answer choices is MOST closely associated with the foreign exchange effect?",
+    "a": "interest rates",
+    "b": "government purchases",
+    "c": "foreign exchange rates",
+    "d": "domestic inflation",
+    "e": "asset valuations",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the effect of government-imposed austerity measures?",
+    "a": "Aggregate demand shifts left.",
+    "b": "Aggregate demand shifts upward.",
+    "c": "Short-run aggregate supply shifts downward.",
+    "d": "Short-run aggregate supply shifts right.",
+    "e": "Long-run aggregate supply shifts right.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following changes follows an increase in aggregate price level?",
+    "a": "Aggregate demand increases.",
+    "b": "Net exports decrease.",
+    "c": "Taxes are raised.",
+    "d": "Aggregate demand decreases.",
+    "e": "Net imports increase.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "At the expected aggregate price level, which of the following factors is equal to short-run aggregate supply?",
+    "a": "Y* – Y",
+    "b": "real GDP per capita",
+    "c": "real GDP",
+    "d": "nominal GDP per capita",
+    "e": "nominal GDP",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What consumer behavior indicates a preference for holding LESS money?",
+    "a": "increasing overall consumption",
+    "b": "paying increased taxes",
+    "c": "purchasing illiquid assets",
+    "d": "borrowing from the bank",
+    "e": "divesting from stocks early",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following situations leads to an increase in short-run aggregate supply?",
+    "a": "an increase in the expected price level",
+    "b": "a rise in structural unemployment",
+    "c": "a suspension of payroll taxes",
+    "d": "an increase in capital expenditures",
+    "e": "net capital exports rise",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which value shifted right at every price level as a result of SpaceX drastically increasing investment spending?",
+    "a": "aggregate demand",
+    "b": "supply of savings",
+    "c": "long-run aggregate supply",
+    "d": "short-run aggregate supply",
+    "e": "demand for savings",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What PRIMARY factor drives shifts in long-run aggregate supply?",
+    "a": "supply shocks",
+    "b": "monetary policy",
+    "c": "wealth effects",
+    "d": "technological innovation",
+    "e": "fiscal policy",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following events does NOT explain the slope of the aggregate demand curve?",
+    "a": "At lower price levels, savings increase.",
+    "b": "At lower price levels, domestic goods are more attractive abroad.",
+    "c": "At higher domestic price levels, imports increase.",
+    "d": "Lower price levels encourage consumer spending.",
+    "e": "As the price of one good rises, consumers buy more substitutes.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What result occurs if money supply grows faster than potential output?",
+    "a": "Consumer expenditures fall.",
+    "b": "Investment falls.",
+    "c": "Real GDP increases.",
+    "d": "Unemployment decreases.",
+    "e": "Aggregate price levels rise.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following effects explains the aggregate demand curve’s slope?",
+    "a": "input price effects",
+    "b": "market power effects",
+    "c": "supply shock effects",
+    "d": "substitution effects",
+    "e": "interest rate effects",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following statements explains the wealth effect?",
+    "a": "Consumers substitute cheaper goods for more expensive ones.",
+    "b": "Currency exchange rates are affected by the domestic price level.",
+    "c": "Interest rates shift investment spending.",
+    "d": "Decreases in taxation make consumers wealthier.",
+    "e": "A decline in the price level leads to higher purchasing power.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What immediate effect does increased savings have?",
+    "a": "higher interest rates",
+    "b": "higher unemployment",
+    "c": "higher real GDP",
+    "d": "lower real GDP",
+    "e": "lower interest rates",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following situations would MOST likely trigger a recession?",
+    "a": "positive aggregate demand shock",
+    "b": "positive short-run aggregate supply shock",
+    "c": "negative long-run aggregate supply shock",
+    "d": "positive long-run aggregate supply shock",
+    "e": "negative aggregate demand shock",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Why is aggregate supply inelastic in the short run?",
+    "a": "Supply shocks are very common.",
+    "b": "There are several barriers to entry in the market.",
+    "c": "Firms cannot quickly reallocate resources.",
+    "d": "Firms do not receive any information from consumers.",
+    "e": "Firms can very easily change prices.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Why does the Federal Reserve adjust the money supply?",
+    "a": "to decrease inflation",
+    "b": "to maximize labor force participation",
+    "c": "to influence interest rates",
+    "d": "to decrease the unemployment rate",
+    "e": "to increase the output gap",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What MUST be true of an economy with no output gap?",
+    "a": "Structural unemployment is zero.",
+    "b": "Natural unemployment is zero.",
+    "c": "Cyclical unemployment is zero.",
+    "d": "Frictional unemployment is zero.",
+    "e": "Total unemployment is zero.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What happens when the money supply increases during a recession?",
+    "a": "aggregate demand decreases",
+    "b": "investment increases",
+    "c": "short-run aggregate supply increases",
+    "d": "investment decreases",
+    "e": "long-run aggregate supply increases",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is the underlying cause of recessions and expansions?",
+    "a": "failure of government intervention",
+    "b": "negative externalities",
+    "c": "increased inflation",
+    "d": "increased unemployment",
+    "e": "short-term inflexibility of prices",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following pairs CORRECTLY links a change and its effect?",
+    "a": "fall in money supply; fall in prices",
+    "b": "increase in taxes; increase in output",
+    "c": "increase in discount rate; increase in prices",
+    "d": "fall in reserve ratio; fall in money supply",
+    "e": "rise in money supply; fall in economic activity",
+    "correct_answer": "a"
+  },
+  {
+    "question": "For what MAIN reason can monetary and fiscal policy be counterproductive?",
+    "a": "Firms respond to government intervention with decreased output.",
+    "b": "Economic predictions are very often incorrect.",
+    "c": "It can overcorrect a recessionary gap.",
+    "d": "Government interference creates deadweight loss.",
+    "e": "It can lead to hyperinflation.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following actions is fiscal policy?",
+    "a": "buying bonds",
+    "b": "increasing taxes",
+    "c": "lowering the reserve ratio",
+    "d": "increasing the discount rate",
+    "e": "decreasing the federal funds rate",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is the primary role of expansionary fiscal policy?",
+    "a": "reducing overemployment",
+    "b": "breaking up monopolies",
+    "c": "shifting the money supply",
+    "d": "ending recessions",
+    "e": "curbing inflation",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the upper limit of the amount of time it takes Congress to authorize additional spending?",
+    "a": "three months",
+    "b": "one year",
+    "c": "three business cycles",
+    "d": "two years",
+    "e": "six months",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Y exceeds Y*. Which of the following answer choices BEST describes this economy?",
+    "a": "inflationary bubble",
+    "b": "expansion",
+    "c": "trough",
+    "d": "period of deflation",
+    "e": "recession",
+    "correct_answer": "b"
+  },
+  {
+    "question": "How does the economy adjust to a negative AS shock?",
+    "a": "increase in price level until Y=Y*",
+    "b": "fall in price level until Y=Y*",
+    "c": "increase in AD until Y=Y*",
+    "d": "shift in LRAS until Y=Y*",
+    "e": "decrease in AD until Y=Y*",
+    "correct_answer": "b"
+  },
+  {
+    "question": "If Y* > Y, which of the following actions would the Federal Reserve MOST likely take?",
+    "a": "decrease government spending",
+    "b": "sell bonds",
+    "c": "increase money supply",
+    "d": "increase taxes",
+    "e": "decrease money supply",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following phenomena occurs if Y > Y*?",
+    "a": "recession",
+    "b": "stagflation",
+    "c": "deflation",
+    "d": "unemployment",
+    "e": "inflation",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How long does it take to calculate the first estimates of GDP?",
+    "a": "six months",
+    "b": "one month",
+    "c": "two weeks",
+    "d": "three months",
+    "e": "one year",
+    "correct_answer": "d"
+  },
+  {
+    "question": "On a Keynesian model, AD and SRAS intersect where potential output equals",
+    "a": "real GDP per capita",
+    "b": "real GDP",
+    "c": "nominal GDP per capita",
+    "d": "nominal GDP",
+    "e": "price level",
+    "correct_answer": "b"
+  }
+]
+

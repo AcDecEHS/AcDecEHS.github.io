@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Which of the following hypothetical statements could describe M in the equation MV = PY?",
+    "a": "Money circulates at a velocity of 1.2.",
+    "b": "The money stock has increased by $2 billion.",
+    "c": "Unemployment has increased by 3% in 2020.",
+    "d": "Real GDP is projected to shrink 4.4% in 2020.",
+    "e": "The 2020 CPI has dropped by 2.8%.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following statements is TRUE of banks’ reserves?",
+    "a": "Banks often exhaust reserves.",
+    "b": "Banks have a maximum limit to their reserves.",
+    "c": "Their fractional reserves do not create wealth.",
+    "d": "The size of reserves is directly proportional to the interest rate.",
+    "e": "Bank runs do not occur in the modern economy.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following factors will NOT affect the demand for money?",
+    "a": "the unemployment rate",
+    "b": "the price level",
+    "c": "the velocity of money",
+    "d": "the level of real production",
+    "e": "the introduction of credit cards",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What change occurs if demand for money rises and supply is fixed in the short run?",
+    "a": "higher price levels",
+    "b": "lower CPI",
+    "c": "higher real GDP",
+    "d": "lower consumer spending",
+    "e": "higher unemployment",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the equation of exchange?",
+    "a": "S = D",
+    "b": "RR = 1/M",
+    "c": "S = I + NCO",
+    "d": "Y = C + G + I + NX",
+    "e": "MV = PY",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In the money market, which of the following values is equal to the formula M x V?",
+    "a": "average income",
+    "b": "nominal GDP",
+    "c": "total investment",
+    "d": "the price level",
+    "e": "real output",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following values is fixed in the short run?",
+    "a": "the reserve ratio",
+    "b": "the velocity of money",
+    "c": "nominal output",
+    "d": "price levels",
+    "e": "the demand for money",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In the money market, which of the following values is equal to 1/P?",
+    "a": "the price level",
+    "b": "the inflation rate",
+    "c": "the money multiplier",
+    "d": "the reserve ratio",
+    "e": "the value of money",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following answer choices is equal to the velocity of money divided by the quantity of money?",
+    "a": "interest rate",
+    "b": "inflation",
+    "c": "nominal GDP",
+    "d": "real GDP",
+    "e": "demand for money",
+    "correct_answer": "c"
+  },
+  {
+    "question": "How does the introduction of ATMs affect the money market?",
+    "a": "decreasing supply",
+    "b": "increasing demand",
+    "c": "keeping demand constant",
+    "d": "decreasing demand",
+    "e": "increasing supply",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Why is currency so valuable in the money market?",
+    "a": "trustworthiness",
+    "b": "bankability",
+    "c": "durability",
+    "d": "liquidity",
+    "e": "universality",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What does the money supply curve look like?",
+    "a": "an upwards sloping curve",
+    "b": "a vertical line",
+    "c": "a downwards sloping curve",
+    "d": "a horizontal line",
+    "e": "a sine wave",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who does inflation impact the MOST?",
+    "a": "businesses",
+    "b": "stock owners",
+    "c": "lenders",
+    "d": "the government",
+    "e": "holders of currency",
+    "correct_answer": "e"
+  },
+  {
+    "question": "When did American consumers view inflation as MOST harmful?",
+    "a": "1930s",
+    "b": "2000s",
+    "c": "1970s",
+    "d": "1960s",
+    "e": "1920s",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What implication does the neutrality of money have?",
+    "a": "Any currency can be used as money.",
+    "b": "The money supply is perfectly elastic.",
+    "c": "Changes in the money supply do not affect real prices.",
+    "d": "Unemployment is a direct result of the money supply.",
+    "e": "Inflation imposes no costs on society.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which two factors are related according to Okun’s law?",
+    "a": "long-run aggregate supply, productivity growth",
+    "b": "inflation rate, real GDP",
+    "c": "elasticity, market power",
+    "d": "cyclical unemployment, output gap",
+    "e": "natural unemployment, labor force participation rate",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What does the long-run aggregate supply curve look like on a diagram?",
+    "a": "upward sloping line",
+    "b": "horizontal line",
+    "c": "downward sloping line",
+    "d": "parabola",
+    "e": "vertical line",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following statements is TRUE of unemployment?",
+    "a": "Unemployment has no effect on output.",
+    "b": "Cyclical unemployment is caused by recessions.",
+    "c": "Potential output is reached with zero unemployment.",
+    "d": "Unemployment constantly increases.",
+    "e": "The natural rate of unemployment is zero.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What period sees real GDP fall for two quarters in a row?",
+    "a": "bull run",
+    "b": "bear market",
+    "c": "expansion",
+    "d": "recession",
+    "e": "depression",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following factors is indicated by the vertical point of intersection of the aggregate demand and short-run aggregate supply curves?",
+    "a": "nominal GDP",
+    "b": "unemployment rate",
+    "c": "market power",
+    "d": "price level",
+    "e": "real GDP",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What conclusion follows if Y* - Y = 0?",
+    "a": "The economy is in an expansion.",
+    "b": "The inflation rate is zero.",
+    "c": "There is no cyclical unemployment.",
+    "d": "There is no natural unemployment.",
+    "e": "The economy is in a recession.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What axes does the Keynesian model use?",
+    "a": "real GDP; price level",
+    "b": "real GDP; interest rate",
+    "c": "nominal GDP; price level",
+    "d": "GDP growth; price level",
+    "e": "GDP growth; rate of inflation",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following factors is the primary driver of short-run output?",
+    "a": "price level",
+    "b": "short-run aggregate supply",
+    "c": "long-run aggregate supply",
+    "d": "real GDP",
+    "e": "aggregate demand",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which term refers to the quantity of goods and services that the economy can produce when using its resources at normal rates?",
+    "a": "normal Gross Domestic Product",
+    "b": "current output",
+    "c": "output gap",
+    "d": "potential output",
+    "e": "actual output",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following shifts occurred in the American economy in the 1980s?",
+    "a": "importer to exporter",
+    "b": "exporter to importer",
+    "c": "services to manufacturing",
+    "d": "manufacturing to services",
+    "e": "expansion to depression",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What metric refers to frictional and structural unemployment combined?",
+    "a": "seasonal unemployment",
+    "b": "basic unemployment",
+    "c": "total unemployment",
+    "d": "natural unemployment",
+    "e": "default unemployment",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following factors LEAST affects short-run variation in potential output growth?",
+    "a": "population growth",
+    "b": "inflation",
+    "c": "labor force participation",
+    "d": "technological innovation",
+    "e": "capital accumulation",
+    "correct_answer": "b"
+  },
+  {
+    "question": "How do firms generally react to short-run changes in demand?",
+    "a": "adjusting quantities",
+    "b": "taking out loans",
+    "c": "outsourcing staff",
+    "d": "adjusting prices",
+    "e": "firing workers",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following curves does the Keynesian model NOT include?",
+    "a": "SRAS",
+    "b": "LRAS",
+    "c": "Y",
+    "d": "AD",
+    "e": "P",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Where is the vertical line on a Keynesian model set?",
+    "a": "Y = Y*",
+    "b": "Y = SRAS",
+    "c": "Y = D",
+    "d": "Y = C",
+    "e": "Y = AD",
+    "correct_answer": "a"
+  }
+]
+

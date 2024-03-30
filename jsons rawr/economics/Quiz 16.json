@@ -1,0 +1,273 @@
+[
+  {
+    "question": "In 1820, the percentage of the world population living on under $1.90 a day was nearly",
+    "a": "60%",
+    "b": "70%",
+    "c": "50%",
+    "d": "80%",
+    "e": "90%",
+    "correct_answer": "e"
+  },
+  {
+    "question": "A plurality of workers in Europe around 1500 CE were employed in",
+    "a": "services",
+    "b": "heavy industry",
+    "c": "agriculture",
+    "d": "creative professions",
+    "e": "light industry",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following fractions is CLOSEST to the percentage of United States laborers employed in blue-collar jobs in 1870?",
+    "a": "one-third",
+    "b": "one-fourth",
+    "c": "one-half",
+    "d": "one-fifth",
+    "e": "two-fifths",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Pre-industrial candles were made PRIMARILY from",
+    "a": "wood",
+    "b": "fat",
+    "c": "peat",
+    "d": "coal",
+    "e": "dung",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following food preservation techniques was NOT available to pre-industrial societies?",
+    "a": "salting",
+    "b": "pickling",
+    "c": "drying",
+    "d": "refrigerating",
+    "e": "smoking",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In 1800, the nominal cost of a clock in the United States was approximately",
+    "a": "$10",
+    "b": "$20",
+    "c": "$50",
+    "d": "$100",
+    "e": "$5",
+    "correct_answer": "c"
+  },
+  {
+    "question": "In 1666, a massive fire devastated much of",
+    "a": "London",
+    "b": "Tokyo",
+    "c": "Rome",
+    "d": "Beijing",
+    "e": "Dubai",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Why was cousin marriage a frequent occurrence in pre-industrial Europe?",
+    "a": "Religious teachings encouraged the practice.",
+    "b": "The practice kept wealth within extended families.",
+    "c": "Royalty used it to exclude commoners from succession.",
+    "d": "Difficult and expensive travel limited people's social options.",
+    "e": "Proto-eugenicist theories viewed it as salutary.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following business slogans was a necessity for many companies in pre-industrial Europe?",
+    "a": "\"Why pay more?\"",
+    "b": "\"New and improved!\"",
+    "c": "\"Upgrade now!\"",
+    "d": "\"Union made.\"",
+    "e": "\"Buy local.\"",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following percentages is CLOSEST to the literacy rate of the global population in 1800?",
+    "a": "30%",
+    "b": "18%",
+    "c": "6%",
+    "d": "24%",
+    "e": "12%",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In the Middle Ages, nearly half the population of Europe died during an outbreak of",
+    "a": "malaria",
+    "b": "cholera",
+    "c": "tuberculosis",
+    "d": "smallpox",
+    "e": "plague",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The odds of a child surviving to one year of age in the preindustrial world were approximately",
+    "a": "4 in 5",
+    "b": "3 in 4",
+    "c": "2 in 3",
+    "d": "1 in 2",
+    "e": "5 in 6",
+    "correct_answer": "b"
+  },
+  {
+    "question": "All of the following phenomena regularly caused famines in the preindustrial world EXCEPT",
+    "a": "pests",
+    "b": "blight",
+    "c": "earthquakes",
+    "d": "floods",
+    "e": "drought",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Why were preindustrial urban areas prone to citywide fires?",
+    "a": "Octane fuels drastically raised the fire hazard of industrial areas.",
+    "b": "Urban sprawl created chains of flammable areas.",
+    "c": "Cities were built away from rivers and other water sources.",
+    "d": "Fire was seen as divine punishment and not controlled.",
+    "e": "Wood construction allowed flames to spread easily.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "All of the following phenomena were restricted to the wealthy in preindustrial Europe EXCEPT",
+    "a": "recorded music",
+    "b": "leisure travel",
+    "c": "well-lit evenings",
+    "d": "large wardrobes",
+    "e": "exotic fruits",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Who coined the term \"the Great Enrichment\" for the rise in living standards since 1800?",
+    "a": "Elinor Ostrom",
+    "b": "Elham Mafi-Kreft",
+    "c": "Deirdre McCloskey",
+    "d": "Esther Duflo",
+    "e": "Robert Solow",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Between 1000 and 1600 CE, GDP per capita in the United Kingdom",
+    "a": "rose gradually",
+    "b": "rose exponentially",
+    "c": "fell exponentially",
+    "d": "fell gradually",
+    "e": "stayed nearly the same",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Between 1600 and 1800, GDP per capita in the United States and its predecessor colonies",
+    "a": "stayed nearly the same",
+    "b": "fell gradually",
+    "c": "rose gradually",
+    "d": "fell exponentially",
+    "e": "rose exponentially",
+    "correct_answer": "c"
+  },
+  {
+    "question": "According to Max Roser, since 1800, GDP per capita in industrialized nations has risen",
+    "a": "30 to 40 times",
+    "b": "10 to 20 times",
+    "c": "40 to 50 times",
+    "d": "50 to 60 times",
+    "e": "20 to 30 times",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following figures is CLOSEST to the average workweek in the United States in 1870?",
+    "a": "60 hours",
+    "b": "40 hours",
+    "c": "70 hours",
+    "d": "80 hours",
+    "e": "50 hours",
+    "correct_answer": "a"
+  },
+  {
+    "question": "The airplane has enabled most point-to-point travel worldwide to take place within",
+    "a": "24 hours",
+    "b": "12 hours",
+    "c": "96 hours",
+    "d": "48 hours",
+    "e": "6 hours",
+    "correct_answer": "a"
+  },
+  {
+    "question": "How has the Great Enrichment MOST directly enabled long-distance romantic relationships?",
+    "a": "Technology has made communication fast and cheap.",
+    "b": "Travel costs have risen substantially in many countries.",
+    "c": "The costs of shipping goods have fallen drastically.",
+    "d": "Automatic translation services have removed language barriers.",
+    "e": "Creative destruction has eroded senses of local community.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Since 1800, world average life expectancy at birth has more than",
+    "a": "quadrupled",
+    "b": "doubled",
+    "c": "halved",
+    "d": "tripled",
+    "e": "quintupled",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Compared to pre-Great Enrichment figures, mortality rates for infectious disease have fallen by over",
+    "a": "80%",
+    "b": "90%",
+    "c": "60%",
+    "d": "70%",
+    "e": "50%",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Why did Pittsburgh have low air quality during much of the 1800s?",
+    "a": "Car culture led to mass contamination by lead and other pollutants.",
+    "b": "Open-air burning of agricultural waste put particulates in the air.",
+    "c": "Aviation fuels added greenhouse gases to the atmosphere.",
+    "d": "Household incinerators made residential areas' air hazardous.",
+    "e": "Coal consumption by factories created rampant air pollution.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Yearly deaths worldwide from automobile crashes are CLOSEST to",
+    "a": "3 million",
+    "b": "7 million",
+    "c": "1 million",
+    "d": "5 million",
+    "e": "9 million",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following atmospheric gases poses a potential multi-trillion-dollar economic problem?",
+    "a": "argon",
+    "b": "oxygen",
+    "c": "ozone",
+    "d": "carbon dioxide",
+    "e": "nitrogen",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which nation's navy innovated a factory to produce pulling blocks using fewer than one-tenth of the labor previously needed?",
+    "a": "Spain",
+    "b": "Germany",
+    "c": "United Kingdom",
+    "d": "Italy",
+    "e": "France",
+    "correct_answer": "c"
+  },
+  {
+    "question": "A mid-1800s reaping machine replaced the labor of ten men using scythes with",
+    "a": "one man and a tractor",
+    "b": "two men and two horses",
+    "c": "one man",
+    "d": "two horses",
+    "e": "one man and two horses",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How did mechanization of thread-spinning enable the production of high-quality textiles?",
+    "a": "combining seed removal and spinning",
+    "b": "creating materials hand labor could not spin",
+    "c": "freeing labor to focus on weaving",
+    "d": "enabling the spinning of very fine thread",
+    "e": "speeding up the warping of looms",
+    "correct_answer": "d"
+  }
+]
+

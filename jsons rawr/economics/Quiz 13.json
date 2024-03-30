@@ -1,0 +1,273 @@
+[
+    {
+        "question": "The quantity of money increases while real production remains unchanged. What result occurs?",
+        "a": "unemployment",
+        "b": "inflation",
+        "c": "recession",
+        "d": "deflation",
+        "e": "liquidity",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following answer choices is the BEST definition of wealth?",
+        "a": "stores of value",
+        "b": "units of account",
+        "c": "liquid assets",
+        "d": "media of exchange",
+        "e": "currency",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What PRIMARY advantage does cash offer?",
+        "a": "convenience",
+        "b": "low risk",
+        "c": "return on investment",
+        "d": "illiquidity",
+        "e": "intrinsic value",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What function does a unit of account have?",
+        "a": "It can provide valuable returns on investment.",
+        "b": "It can be used as a relative measure of value.",
+        "c": "It can be used to retain its worth into the future.",
+        "d": "It can ensure all debts are paid.",
+        "e": "It can be used to purchase other goods.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following stores of value is MOST effective?",
+        "a": "stocks",
+        "b": "currency",
+        "c": "jewelry",
+        "d": "cars",
+        "e": "real estate",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following goods is LEAST liquid?",
+        "a": "checking account",
+        "b": "stocks",
+        "c": "house",
+        "d": "currency",
+        "e": "savings account",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What prerequisite does fiat money require?",
+        "a": "government power",
+        "b": "currency exchange",
+        "c": "neutrality of money",
+        "d": "solvent banks",
+        "e": "intrinsic value",
+        "correct_answer": "a"
+    },
+    {
+        "question": "In what MAIN way does fiat money differ from commodity money?",
+        "a": "It is far less liquid.",
+        "b": "It is not backed by the government.",
+        "c": "It has no intrinsic value.",
+        "d": "It is in much shorter supply.",
+        "e": "It is less valuable.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What good served as commodity money in World War II prison camps?",
+        "a": "gold",
+        "b": "art pieces",
+        "c": "cigarettes",
+        "d": "bills",
+        "e": "labor",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following assets is part of M1?",
+        "a": "savings deposits",
+        "b": "small denomination time deposits",
+        "c": "demand deposits",
+        "d": "retail money funds",
+        "e": "credit cards",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Why does the money stock NOT include credit cards?",
+        "a": "Credit cards cannot be transferred to a new owner.",
+        "b": "Credit cards do not store value.",
+        "c": "Credit cards are susceptible to fraud.",
+        "d": "Credit cards do not serve as a unit of account.",
+        "e": "Credit cards have low market penetrance.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following features indicates that an asset is MOST liable to monetization?",
+        "a": "government-backed",
+        "b": "valued intrinsically",
+        "c": "difficult to trade",
+        "d": "in high supply",
+        "e": "highly liquid",
+        "correct_answer": "e"
+    },
+    {
+        "question": "How are savings deposits categorized in the money supply?",
+        "a": "financial assets",
+        "b": "highest liquidity",
+        "c": "M2",
+        "d": "wealth",
+        "e": "M1",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Unlike diamonds, a dollar bill does NOT have",
+        "a": "government regulation",
+        "b": "stored value",
+        "c": "liquidity",
+        "d": "interest accrual",
+        "e": "intrinsic value",
+        "correct_answer": "e"
+    },
+    {
+        "question": "In which of the following ways does paper currency differ from a bond certificate?",
+        "a": "It lacks intrinsic value.",
+        "b": "It cannot be used to save money.",
+        "c": "Bonds are not guaranteed.",
+        "d": "It does not appreciate in value.",
+        "e": "Less currency exists than bonds.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "In monetary policy, which of the following values is represented by the equation M – C?",
+        "a": "excess reserves",
+        "b": "real interest rate",
+        "c": "reserve ratio",
+        "d": "bank reserves",
+        "e": "discount rate",
+        "correct_answer": "d"
+    },
+    {
+        "question": "In which of the following situations would the discount rate apply?",
+        "a": "bank loans to citizens",
+        "b": "Federal Reserve loans to the government",
+        "c": "bank loans to other banks",
+        "d": "Federal Reserve loans to banks",
+        "e": "Federal Reserve loans to citizens",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What policy action does the Federal Reserve take LEAST often?",
+        "a": "clearing checks",
+        "b": "selling securities",
+        "c": "changing the reserve ratio",
+        "d": "buying treasury bonds",
+        "e": "changing the discount rate",
+        "correct_answer": "c"
+    },
+    {
+        "question": "The government purchases bonds from the public. What actor made this decision?",
+        "a": "Department of the Treasury",
+        "b": "International Monetary Fund",
+        "c": "Senate Finance Committee",
+        "d": "Federal Reserve",
+        "e": "Federal Open Market Committee",
+        "correct_answer": "e"
+    },
+    {
+        "question": "The Federal Reserve increases the money supply if it",
+        "a": "lowers the reserve ratio",
+        "b": "purchases bonds",
+        "c": "lowers the federal funds rate",
+        "d": "lowers the discount rate",
+        "e": "sells bonds",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following answer choices represents open market operations?",
+        "a": "interest rate changes",
+        "b": "currency issuance",
+        "c": "exchange rate manipulation",
+        "d": "stock selling",
+        "e": "bond trading",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What kind of bank is considered solvent?",
+        "a": "Its reserves exceed its liabilities.",
+        "b": "Its liabilities exceed its assets.",
+        "c": "Its assets exceed its reserves.",
+        "d": "Its reserves exceed its assets.",
+        "e": "Its assets exceed its liabilities.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following answer choices is most closely tied to the reserve ratio?",
+        "a": "discount rate",
+        "b": "federal funds rate",
+        "c": "money multiplier",
+        "d": "open market operations",
+        "e": "real interest rate",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What DIRECT effect results from an increased monetary base?",
+        "a": "Unemployment has decreased.",
+        "b": "Inflation has increased.",
+        "c": "People have more currency to spend.",
+        "d": "Real GDP has increased.",
+        "e": "The money supply has increased.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What is another name for the monetary base?",
+        "a": "high-powered money",
+        "b": "solvent reserves",
+        "c": "liquid assets",
+        "d": "fractional reserves",
+        "e": "illiquid money",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following actions will decrease the money supply?",
+        "a": "decreasing the federal funds rate",
+        "b": "buying bonds",
+        "c": "increasing the reserve ratio",
+        "d": "decreasing the tax rate",
+        "e": "increasing the discount rate",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What problem arises with fractional reserve banking?",
+        "a": "lower money supply",
+        "b": "higher interest rates",
+        "c": "increased unemployment",
+        "d": "higher inflation",
+        "e": "lower liquidity",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following statements is TRUE of the Federal Reserve?",
+        "a": "It does not directly control the federal funds rate.",
+        "b": "It most often influences the economy through the reserve ratio.",
+        "c": "It was founded in 1918.",
+        "d": "It is overseen by the President.",
+        "e": "It consists of 13 regional banks.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "If the reserve ratio is 10%, what is the money multiplier?",
+        "a": "5",
+        "b": "10",
+        "c": "1",
+        "d": "100",
+        "e": "2",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following answer choices describes a role of the Federal Open Market Committee?",
+        "a": "arbiter of imperfect competition",
+        "b": "determinant of monetary policy",
+        "c": "coordinator of bond purchases",
+        "d": "manager of fiscal policy implementation",
+        "e": "regulator of overall prices",
+        "correct_answer": "b"
+    }
+]
+

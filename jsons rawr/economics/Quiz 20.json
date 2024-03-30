@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Which of the following aspects of Apple Inc. is a form of intellectual property?",
+    "a": "its App Store",
+    "b": "its trademark on the apple logo",
+    "c": "its global reputation",
+    "d": "its code base for iOS",
+    "e": "its partnership with Chinese factories",
+    "correct_answer": "b"
+  },
+  {
+    "question": "How does The Lathe of Heaven enjoy intellectual property protection?",
+    "a": "It was registered under the Cole Protocol.",
+    "b": "It has an example in the Library of Congress.",
+    "c": "It has a patent.",
+    "d": "It is covered by the Lausanne Convention.",
+    "e": "It is under copyright.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The duration of a utility patent in the United States is CLOSEST to",
+    "a": "one decade",
+    "b": "four decades",
+    "c": "five decades",
+    "d": "three decades",
+    "e": "two decades",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Intellectual property rights turn",
+    "a": "innovations into inventions",
+    "b": "non-excludable goods into excludable goods",
+    "c": "non-rival goods into rival goods",
+    "d": "inventions into products",
+    "e": "public domain into private property",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Patents try to strike a balance between",
+    "a": "inventors and investors",
+    "b": "national interests and global interests",
+    "c": "appropriability and social value",
+    "d": "time and utility",
+    "e": "producer surplus and consumer surplus",
+    "correct_answer": "c"
+  },
+  {
+    "question": "How does a patent allow an inventor who is NOT an entrepreneur to appropriate part of an invention's value?",
+    "a": "A patent dissuades small firms from asking for intellectual property rights.",
+    "b": "A patent protects the inventor from others copying the invention.",
+    "c": "A patent provides near-instant access to capital through loans.",
+    "d": "A patent allows the inventor to sell the rights to make the invention to a firm or business.",
+    "e": "A patent creates a legal mechanism for licensing reverse engineering rights.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following firms is MOST likely to use patents to protect innovations?",
+    "a": "nonprofit organization",
+    "b": "partnership",
+    "c": "technology startup",
+    "d": "sole proprietorship",
+    "e": "multinational conglomerate",
+    "correct_answer": "e"
+  },
+  {
+    "question": "All of the following potential downsides apply to patent protection EXCEPT",
+    "a": "revealing the secrets of an invention",
+    "b": "upfront costs to secure a patent",
+    "c": "loss of exclusivity through corporate espionage",
+    "d": "effort required to find and identify infringers",
+    "e": "uncertain outcomes in court",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which historian argued that inventors' use of the scientific method resulted in improved steam engines?",
+    "a": "Larry Neal",
+    "b": "David Wootton",
+    "c": "Robert Fogel",
+    "d": "Stanley Reiter",
+    "e": "Alfred Conrad",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The development of television based on the discovery of electricity is an example of",
+    "a": "negative externality",
+    "b": "knowledge spillover",
+    "c": "slipstream effect",
+    "d": "patent infringement",
+    "e": "technical appropriation",
+    "correct_answer": "b"
+  },
+  {
+    "question": "According to Nordhaus (2004), on average, what percentage of social value of inventions are inventors able to appropriate?",
+    "a": "3.3%",
+    "b": "4.4%",
+    "c": "1.1%",
+    "d": "5.5%",
+    "e": "2.2%",
+    "correct_answer": "e"
+  },
+  {
+    "question": "An advantage of non-profit R&D spending is that non-profit organizations need not worry about",
+    "a": "ethics",
+    "b": "appropriability",
+    "c": "prior art",
+    "d": "the patent system",
+    "e": "costs of investment",
+    "correct_answer": "b"
+  },
+  {
+    "question": "According to the NSF, how much scientific research in the United States is funded by the federal government and non-profit organizations?",
+    "a": "one-half",
+    "b": "one-third",
+    "c": "one-quarter",
+    "d": "one-fifth",
+    "e": "two-thirds",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Governments and other non-profit organizations promote R&D through all of the following methods EXCEPT",
+    "a": "enforcement of patent systems",
+    "b": "scholarships for aspiring scientists",
+    "c": "tax breaks on R&D investment",
+    "d": "levies on R&D spending",
+    "e": "loans to firms engaged in R&D",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How do knowledge spillovers complicate a firm's decision to invest in R&D?",
+    "a": "Knowledge spillovers make social value easier for inventor-firms to capture.",
+    "b": "Knowledge spillovers may lower that firm's projected R&D costs.",
+    "c": "Knowledge spillovers provide an edge to government-funded projects.",
+    "d": "Knowledge spillovers benefit the firm and rivals equally.",
+    "e": "Knowledge spillovers unlock the potential for cheaper iteration.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who teamed with James Watt to sell early steam engines?",
+    "a": "Joseph Priestley",
+    "b": "Henry Bessemer",
+    "c": "Charles Darwin",
+    "d": "Isambard Kingdom Brunel",
+    "e": "Matthew Boulton",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In 2017, infections by tropical diseases ran at",
+    "a": "one in two people",
+    "b": "one in three people",
+    "c": "one in six people",
+    "d": "one in four people",
+    "e": "one in five people",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Why has private investment in R&D for tropical disease treatments remained low?",
+    "a": "Government spending has crowded out private R&D for tropical disease treatments.",
+    "b": "Tropical diseases are less lethal than others.",
+    "c": "Tropical diseases mutate too rapidly for R&D cycles.",
+    "d": "Tropical diseases largely affect low-income individuals.",
+    "e": "Tropical disease treatments would be cheap and offer little profit.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Among new medicines licensed worldwide between 1975 and 1997, how many treated tropical diseases?",
+    "a": "forty-four",
+    "b": "four",
+    "c": "fourteen",
+    "d": "thirty-four",
+    "e": "twenty-four",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which group made a 2007 pact with five countries to fund vaccines against pneumococcal infection?",
+    "a": "Gates Foundation",
+    "b": "Centers for Disease Control",
+    "c": "World Health Organization",
+    "d": "Lilly Endowment",
+    "e": "Ivy League",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In the United States, which entity or entities PRIMARILY subsidized COVID-19 vaccines at the height of the pandemic?",
+    "a": "cities",
+    "b": "pharmaceutical companies",
+    "c": "state governments",
+    "d": "insurers",
+    "e": "the federal government",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following environments is responsible for a greater share of innovation than its population might suggest?",
+    "a": "exurban",
+    "b": "rural",
+    "c": "small-town",
+    "d": "urban",
+    "e": "suburban",
+    "correct_answer": "d"
+  },
+  {
+    "question": "When patents refer to previous patents through citations, we see an example of",
+    "a": "appropriability",
+    "b": "negative externality",
+    "c": "intellectual property",
+    "d": "enrichment",
+    "e": "knowledge spillover",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following benefits is NOT an aspect of the agglomeration benefit?",
+    "a": "lower taxes",
+    "b": "networking opportunities",
+    "c": "concentration of talent",
+    "d": "presence of potential investors",
+    "e": "higher wages",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following twentieth century economies would LEAST likely allow an inventor to appropriate value from an invention through markets?",
+    "a": "Japan, 1980s",
+    "b": "United Kingdom, 1970s",
+    "c": "United States, 1950s",
+    "d": "Soviet Union, 1960s",
+    "e": "Australia, 1990s",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Why did Edmond Albius never appropriate value from his invention?",
+    "a": "Being enslaved, he had no way to exercise any property rights.",
+    "b": "He sold his intellectual property rights to buy freedom.",
+    "c": "No one had any property rights under the command economy in which he lived.",
+    "d": "His invention was only publicized after his death.",
+    "e": "His invention saw the most use in nations not recognizing his patent.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "All of the following entities are examples of economic institutions EXCEPT",
+    "a": "market economy structure",
+    "b": "democratic government",
+    "c": "courts of law",
+    "d": "patent systems",
+    "e": "manufacturing firms",
+    "correct_answer": "e"
+  },
+  {
+    "question": "An absolute monarchy is an example of a(n)",
+    "a": "extractive institution",
+    "b": "liminal institution",
+    "c": "autonomic institution",
+    "d": "inclusive institution",
+    "e": "rival institution",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following economic historians claimed that the concepts of progress and growth were key instigators of the Great Enrichment?",
+    "a": "Joseph Schumpeter",
+    "b": "Robert Solow",
+    "c": "Deirdre McCloskey",
+    "d": "Joel Mokyr",
+    "e": "Paul Romer",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Established firms may attempt to suppress new inventions because they fear",
+    "a": "creative destruction",
+    "b": "legal battles",
+    "c": "unapproved usage",
+    "d": "monopolistic activity",
+    "e": "government scrutiny",
+    "correct_answer": "a"
+  }
+]
+

@@ -1,0 +1,273 @@
+[
+  {
+    "question": "What function does the NYSE serve?",
+    "a": "auctioneer",
+    "b": "stock exchange",
+    "c": "bond issuer",
+    "d": "overnight loan facility",
+    "e": "financial intermediary",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What actors do financial intermediaries connect?",
+    "a": "savers and borrowers",
+    "b": "buyers and sellers",
+    "c": "banks and companies",
+    "d": "government and citizens",
+    "e": "firms and consumers",
+    "correct_answer": "a"
+  },
+  {
+    "question": "In banking, what does the term “principal” refer to?",
+    "a": "sum of money borrowed",
+    "b": "interest rate on the loan/bond",
+    "c": "length of the loan",
+    "d": "primary borrower",
+    "e": "total payment at the end of the loan",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following terms describes banks AND mutual funds?",
+    "a": "wealth creators",
+    "b": "risk aggregators",
+    "c": "guarantors",
+    "d": "intermediaries",
+    "e": "monopolies",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Why do transactions of existing stock NOT count as investment?",
+    "a": "The transactions are too small to be considered.",
+    "b": "The transactions are primarily conducted by the government.",
+    "c": "The transactions are not legally monitored.",
+    "d": "The stock purchases are performed outside of the country.",
+    "e": "The company does not receive money from the trade.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What long-run function does the savings and investment market serve?",
+    "a": "yield curve control",
+    "b": "inflation management",
+    "c": "interest rate policy",
+    "d": "capital formation",
+    "e": "job creation",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following statements is TRUE of a company that fails?",
+    "a": "It is legally dissolved.",
+    "b": "It must repurchase its shares.",
+    "c": "It must pay back bondholders first.",
+    "d": "Its owners face jail time.",
+    "e": "It cannot be acquired.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following entities is MOST likely to take a bank loan for investment?",
+    "a": "a mutual fund",
+    "b": "a smaller company",
+    "c": "an individual investor",
+    "d": "the federal government",
+    "e": "a multinational corporation",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What investments do mutual funds hold?",
+    "a": "stocks and bonds",
+    "b": "Treasury notes and bills",
+    "c": "index funds and mortgages",
+    "d": "shorts and hedges",
+    "e": "options and derivatives",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What PRIMARY factor(s) affect bond interest rates?",
+    "a": "the discount rate",
+    "b": "the federal funds rate",
+    "c": "prevailing interest and inflation rates",
+    "d": "bankruptcy and buyback protections",
+    "e": "time horizon and default risk",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What advantage do mutual funds offer?",
+    "a": "targeted STEM-focused investment",
+    "b": "international investment",
+    "c": "diversification",
+    "d": "convenience",
+    "e": "liquidity",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What financial instrument functions as a proof of debt?",
+    "a": "index fund",
+    "b": "share",
+    "c": "collateral",
+    "d": "bond",
+    "e": "put option",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who receives dividends?",
+    "a": "holders of bond certificates",
+    "b": "the Federal Reserve",
+    "c": "the government",
+    "d": "servicers of debt obligations",
+    "e": "purchasers of stock shares",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Bond is to debt as stock is to",
+    "a": "credit",
+    "b": "equity",
+    "c": "capital",
+    "d": "liability",
+    "e": "yield",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following purchases is counted as investment?",
+    "a": "purchasing a tractor",
+    "b": "purchasing government treasury notes",
+    "c": "purchasing ten shares of Disney",
+    "d": "purchasing corporate bonds",
+    "e": "placing savings in a bank",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Why is the supply curve for the interest rate upward sloping?",
+    "a": "It becomes more expensive to supply savings.",
+    "b": "It reflects the irrationality of the typical saver.",
+    "c": "People have more money to save.",
+    "d": "Borrowers will be more willing to take out loans.",
+    "e": "People save more if they earn more interest.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What characteristic defines a closed economy?",
+    "a": "zero exports",
+    "b": "lack of comparative advantage",
+    "c": "high inflation",
+    "d": "trade deficit",
+    "e": "trade surplus",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following identities is TRUE when calculating GDP?",
+    "a": "net exports = government spending",
+    "b": "production = consumption",
+    "c": "expenditures = savings",
+    "d": "production = income",
+    "e": "investment = consumption",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What equation indicates the government’s budgetary balance?",
+    "a": "I - G",
+    "b": "I – S",
+    "c": "T – G",
+    "d": "G - S",
+    "e": "T - S",
+    "correct_answer": "c"
+  },
+  {
+    "question": "In an open economy, what is the value of I + NCO?",
+    "a": "savings",
+    "b": "money stock",
+    "c": "consumption",
+    "d": "loans",
+    "e": "high-powered money",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following purchases increases a country’s capital outflow?",
+    "a": "a domestic firm’s purchase of a foreign firm",
+    "b": "a foreign country purchasing a domestic bond",
+    "c": "a foreign country purchasing a domestic firm",
+    "d": "a domestic firm’s purchase of a domestic firm",
+    "e": "a domestic firm’s importing of foreign goods",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following values is NOT included in aggregate demand?",
+    "a": "tax expenditures",
+    "b": "government purchases",
+    "c": "net exports",
+    "d": "investment",
+    "e": "consumption",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What equation correctly relates NX and NCO when calculating GDP?",
+    "a": "NX = C + NCO",
+    "b": "NX = NCO",
+    "c": "NX – NCO = G",
+    "d": "NX = -NCO",
+    "e": "NX = I + NCO",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Bob purchases stocks in a Japanese firm. What phenomenon does this describe?",
+    "a": "crowding out",
+    "b": "foreign portfolio investment",
+    "c": "leverage",
+    "d": "foreign direct investment",
+    "e": "net exports",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In 2020, the inflation rate is -0.8%, the nominal interest rate is 1.2%, and the GDP deflator is 0.6%. What is the real interest rate?",
+    "a": "0.4%",
+    "b": "2.0%",
+    "c": "0.6%",
+    "d": "1.8%",
+    "e": "1.4%",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What outcome is MOST likely if a bond yield is 3% and the interest rate is 2%?",
+    "a": "Banks issue more bonds.",
+    "b": "The demand for bonds decreases.",
+    "c": "Investors borrow money and buy bonds.",
+    "d": "Interest rates rise.",
+    "e": "The bond yield increases.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following changes is MOST associated with crowding out?",
+    "a": "a higher government deficit",
+    "b": "surplus of savings",
+    "c": "higher marginal tax rates",
+    "d": "more competitive savings market",
+    "e": "a lower minimum wage",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following equalities is TRUE regarding the calculation of GDP?",
+    "a": "Y – C – G = S = I + NX",
+    "b": "Y – G = S + I",
+    "c": "Y = S + I + NX",
+    "d": "S + I = C",
+    "e": "S = I - NX",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What outcome is likely if the supply of savings decreases?",
+    "a": "Interest rates fall.",
+    "b": "Investment falls.",
+    "c": "Consumer spending decreases.",
+    "d": "The price level rises.",
+    "e": "The reserve ratio increases.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following events would shift a country’s demand curve for savings to the right?",
+    "a": "The real interest rate increases.",
+    "b": "Net capital outflows decrease.",
+    "c": "A tax credit is given to savers.",
+    "d": "The government deficit increases.",
+    "e": "Technological improvements raise the return on capital.",
+    "correct_answer": "e"
+  }
+]
+

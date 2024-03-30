@@ -1,0 +1,318 @@
+[
+    {
+        "question": "Steel is an alloy of iron and",
+        "a": "hydrogen",
+        "b": "carbon",
+        "c": "helium",
+        "d": "beryllium",
+        "e": "lithium",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Henry Bessemer's nationality was",
+        "a": "Canadian",
+        "b": "Scottish",
+        "c": "Welsh",
+        "d": "English",
+        "e": "American",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How does the Bessemer process purify steel?",
+        "a": "molten heating",
+        "b": "extreme compressing",
+        "c": "repeated stretching",
+        "d": "air blasting",
+        "e": "water spraying",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following rocks is the PRIMARY ingredient of cement?",
+        "a": "limestone",
+        "b": "sandstone",
+        "c": "gneiss",
+        "d": "granite",
+        "e": "basalt",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Kilning turns calcium carbonate into",
+        "a": "calcium dicarbide",
+        "b": "calcium dioxide",
+        "c": "calcium trioxide",
+        "d": "calcium carbide",
+        "e": "calcium oxide",
+        "correct_answer": "e"
+    },
+    {
+        "question": "How do material engineers prepare cement to enable underwater setting?",
+        "a": "They supplement it with iron filaments.",
+        "b": "They add plastic microparticles.",
+        "c": "They mix in silicates.",
+        "d": "They combine it with liquid nitrogen.",
+        "e": "They treat the surface with phosphates.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "A cement formula invented in the 1800s and still in wide use today is named for the",
+        "a": "Isle of Portland",
+        "b": "Duchy of Marlborough",
+        "c": "City of London",
+        "d": "Town of Golspie",
+        "e": "Parish of Salisbury",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Before the invention of plastic, all of the following products were made from animal parts EXCEPT",
+        "a": "electrical insulation",
+        "b": "knife handles",
+        "c": "stemware",
+        "d": "billiard balls",
+        "e": "combs",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following articles of clothing was MOST likely to have a plastic-based substitute after that material's invention?",
+        "a": "gold necklace",
+        "b": "canvas shoes",
+        "c": "silk stockings",
+        "d": "denim jeans",
+        "e": "cotton dress",
+        "correct_answer": "c"
+    },
+    {
+        "question": "A field left unsown to allow nutrients in the soil to replenish is",
+        "a": "fallow",
+        "b": "choked",
+        "c": "weedy",
+        "d": "barren",
+        "e": "slept",
+        "correct_answer": "a"
+    },
+    {
+        "question": "A farmer may replenish nitrogen in soil by planting",
+        "a": "rye",
+        "b": "corn",
+        "c": "oats",
+        "d": "legumes",
+        "e": "wheat",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How are manure and guano fertilizers alike?",
+        "a": "They are imported to the United States from South America.",
+        "b": "They derive from the waste of animals.",
+        "c": "They inspired imperialist annexation of islands.",
+        "d": "They are effectively nonrenewable resources.",
+        "e": "They have been used in Western Europe since ancient times.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which fertilizer precursor does the Haber-Bosch process make?",
+        "a": "nitrogen phosphate",
+        "b": "nitrogen dioxide",
+        "c": "hydrogen phosphate",
+        "d": "ammonia",
+        "e": "bleach",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How much food produced each year derives from fertilizer created using the Haber-Bosch process?",
+        "a": "one-quarter",
+        "b": "one-fifth",
+        "c": "one-sixth",
+        "d": "one-half",
+        "e": "one-third",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Present-day corn yields per hectare in the United States are CLOSEST to",
+        "a": "4 tons",
+        "b": "10 tons",
+        "c": "8 tons",
+        "d": "6 tons",
+        "e": "2 tons",
+        "correct_answer": "b"
+    },
+    {
+        "question": "All of the following mechanical energy sources predate the Industrial Revolution EXCEPT",
+        "a": "animal strength",
+        "b": "water",
+        "c": "human strength",
+        "d": "wind",
+        "e": "oil",
+        "correct_answer": "e"
+    },
+    {
+        "question": "The steam engine creates mechanical energy from",
+        "a": "heat",
+        "b": "air pressure",
+        "c": "gravity",
+        "d": "water currents",
+        "e": "electricity",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Who invented the first practical steam engine in 1712?",
+        "a": "Isambard Kingdom Brunel",
+        "b": "Thomas Newcomen",
+        "c": "James Watt",
+        "d": "Henry Bessemer",
+        "e": "Thomas Edison",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The first applications for the steam engine were in",
+        "a": "mining",
+        "b": "agriculture",
+        "c": "transport",
+        "d": "construction",
+        "e": "naval warfare",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The oil industry emerged in the",
+        "a": "mid-eighteenth century",
+        "b": "mid-nineteenth century",
+        "c": "mid-twentieth century",
+        "d": "mid-seventeenth century",
+        "e": "mid-sixteenth century",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following refined oil products was invented first?",
+        "a": "kerosene",
+        "b": "butane",
+        "c": "diesel",
+        "d": "gasoline",
+        "e": "propane",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The first electric light bulbs date to the",
+        "a": "1870s",
+        "b": "1850s",
+        "c": "1880s",
+        "d": "1860s",
+        "e": "1840s",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How did the electric power grid increase the importance of Niagara Falls as a power source?",
+        "a": "It drew the attention of conservationists through its infrastructure.",
+        "b": "It allowed for automatic starting and stopping of dam gates.",
+        "c": "It compelled the United States and Canada to make an energy treaty.",
+        "d": "It enabled the transmission of energy across greater distances.",
+        "e": "It spurred production of more refined dam-making materials.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "The first fully steam-powered railway line was built in",
+        "a": "the United Kingdom",
+        "b": "Canada",
+        "c": "the United States",
+        "d": "Russia",
+        "e": "France",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The Transcontinental Railroad shrank travel time between New York and San Francisco to six",
+        "a": "months",
+        "b": "days",
+        "c": "fortnights",
+        "d": "hours",
+        "e": "weeks",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The automobile PRIMARILY contributed to the growth of",
+        "a": "large cities",
+        "b": "small cities",
+        "c": "suburbs",
+        "d": "towns",
+        "e": "villages",
+        "correct_answer": "c"
+    },
+    {
+        "question": "The first airplane flight took place in the",
+        "a": "1860s",
+        "b": "1890s",
+        "c": "1870s",
+        "d": "1900s",
+        "e": "1880s",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which day's 'drive' became a social institution with the wide spread of automobiles?",
+        "a": "Friday’s",
+        "b": "Sunday’s",
+        "c": "Saturday’s",
+        "d": "Monday’s",
+        "e": "Thursday’s",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The standardized metal shipping container became a norm in the",
+        "a": "late 1800s",
+        "b": "mid-1800s",
+        "c": "mid-1900s",
+        "d": "late 1900s",
+        "e": "early 1900s",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following scientific sources kicked off a communications boom early in the Great Enrichment?",
+        "a": "rocketry",
+        "b": "electromagnetism",
+        "c": "steam power",
+        "d": "internal combustion",
+        "e": "nuclear power",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following inventions is MOST closely associated with Samuel Morse?",
+        "a": "telegraph",
+        "b": "radio",
+        "c": "telephone",
+        "d": "television",
+        "e": "Internet",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Commercial radio broadcasting in the United States began in the",
+        "a": "1950s",
+        "b": "1930s",
+        "c": "1920s",
+        "d": "1940s",
+        "e": "1910s",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following methods would MOST likely deliver a text message between European cities pre-Great Enrichment?",
+        "a": "foot courier",
+        "b": "bicycle messenger",
+        "c": "telegraph",
+        "d": "sailing ship",
+        "e": "mule rider",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How did broadcasting lead to the emergence of mass culture?",
+        "a": "It enabled authoritarian governments to spread propaganda.",
+        "b": "It created distinct blocks of time to receive information.",
+        "c": "It offered employment to creatives during the Great Depression",
+        "d": "It privileged recorded music over live musicians.",
+        "e": "It allowed wide, near-instant spread of news and entertainment.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which 1990s development brought the Internet to consumers?",
+        "a": "domain system",
+        "b": "app store",
+        "c": "instant messaging",
+        "d": "social media",
+        "e": "web browser",
+        "correct_answer": "e"
+    }
+]
+

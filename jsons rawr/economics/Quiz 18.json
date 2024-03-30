@@ -1,0 +1,275 @@
+{
+  "questions": [
+    {
+      "question": "The foundational work establishing germ theory took place in the",
+      "a": "nineteenth century",
+      "b": "sixteenth century",
+      "c": "eighteenth century",
+      "d": "seventeenth century",
+      "e": "twentieth century",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Robert Koch's scientific specialty was",
+      "a": "radiochemistry",
+      "b": "oceanography",
+      "c": "earth science",
+      "d": "materials science",
+      "e": "microbiology",
+      "correct_answer": "e"
+    },
+    {
+      "question": "Chlorination is MOST commonly used to suppress germs in",
+      "a": "food",
+      "b": "water",
+      "c": "air",
+      "d": "agriculture",
+      "e": "soil",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Which of the following animals is MOST responsible for the spread of malaria?",
+      "a": "mosquitoes",
+      "b": "lice",
+      "c": "fleas",
+      "d": "bedbugs",
+      "e": "wasps",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Which of the following diseases did vaccination eradicate?",
+      "a": "rubella",
+      "b": "mumps",
+      "c": "smallpox",
+      "d": "measles",
+      "e": "pertussis",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Which of the following diseases is MOST likely to respond to antibiotics?",
+      "a": "Ebola",
+      "b": "COVID-19",
+      "c": "rabies",
+      "d": "influenza",
+      "e": "tuberculosis",
+      "correct_answer": "e"
+    },
+    {
+      "question": "Since 1900, infectious disease mortality in the United States has fallen",
+      "a": "slightly under 50%",
+      "b": "about 70%",
+      "c": "about 80%",
+      "d": "about 60%",
+      "e": "more than 90%",
+      "correct_answer": "e"
+    },
+    {
+      "question": "Which country was the birthplace of the First Industrial Revolution?",
+      "a": "United Kingdom",
+      "b": "United States",
+      "c": "Spain",
+      "d": "France",
+      "e": "Germany",
+      "correct_answer": "a"
+    },
+    {
+      "question": "How do the innovations of the First Industrial Revolution differ from those of later Industrial Revolutions?",
+      "a": "They were largely derived from European rather than Asian work.",
+      "b": "They were mostly mechanical rather than based in science.",
+      "c": "They were usually focused on saving women's labor over men's.",
+      "d": "They were primarily driven by government research.",
+      "e": "They were generally focused on agriculture over industry.",
+      "correct_answer": "b"
+    },
+    {
+      "question": "All of the following inventions were part of the First Industrial Revolution EXCEPT",
+      "a": "spinning jenny",
+      "b": "telegraph",
+      "c": "steam engine",
+      "d": "locomotive",
+      "e": "mechanical reaper",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Which automobile company produced the Model T?",
+      "a": "Pontiac",
+      "b": "Packard",
+      "c": "General Motors",
+      "d": "Ford",
+      "e": "Cadillac",
+      "correct_answer": "d"
+    },
+    {
+      "question": "The system of mass production as it is known today emerged during the",
+      "a": "Roman Empire",
+      "b": "Roman Republic",
+      "c": "Second Industrial Revolution",
+      "d": "First Industrial Revolution",
+      "e": "Third Industrial Revolution",
+      "correct_answer": "c"
+    },
+    {
+      "question": "After World War II, which nation was the leading economic power of the Second Industrial Revolution?",
+      "a": "China",
+      "b": "Soviet Union",
+      "c": "United Kingdom",
+      "d": "France",
+      "e": "United States",
+      "correct_answer": "e"
+    },
+    {
+      "question": "The technology of the Third Industrial Revolution is PRIMARILY",
+      "a": "mechanical",
+      "b": "chemical",
+      "c": "agricultural",
+      "d": "digital",
+      "e": "metallurgical",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Which of the following countries went from least developed to highly developed during the Third Industrial Revolution?",
+      "a": "Russia",
+      "b": "Denmark",
+      "c": "Nicaragua",
+      "d": "Eritrea",
+      "e": "South Korea",
+      "correct_answer": "e"
+    },
+    {
+      "question": "In economic terms, a way of transforming a set of inputs into outputs is a(n)",
+      "a": "innovation",
+      "b": "factory",
+      "c": "adducer",
+      "d": "corporation",
+      "e": "technology",
+      "correct_answer": "e"
+    },
+    {
+      "question": "Henry Bessemer's improved steel-making technique is an example of a",
+      "a": "capital improvement",
+      "b": "manufacturing patent",
+      "c": "product innovation",
+      "d": "labor multiplier",
+      "e": "process innovation",
+      "correct_answer": "e"
+    },
+    {
+      "question": "The development of plastic is an example of a(n)",
+      "a": "skunk work",
+      "b": "utility patent",
+      "c": "process innovation",
+      "d": "moon shot",
+      "e": "product innovation",
+      "correct_answer": "e"
+    },
+    {
+      "question": "Output per worker-hour is a measure of",
+      "a": "capital factor",
+      "b": "labor productivity",
+      "c": "Taylor coefficient",
+      "d": "purchasing power parity",
+      "e": "per capita income",
+      "correct_answer": "b"
+    },
+    {
+      "question": "How can capital equipment raise labor productivity?",
+      "a": "Computer systems allow for more efficient levying of tariffs.",
+      "b": "Factories provide a centralized locale for labor.",
+      "c": "Assembly lines encourage the formation of unions.",
+      "d": "Automobiles and mass transit systems enable longer commutes.",
+      "e": "Machines allow workers to produce more output than is possible by hand.",
+      "correct_answer": "e"
+    },
+    {
+      "question": "Robert Solow's MOST groundbreaking work on economic growth took place in the",
+      "a": "1920s",
+      "b": "1930s",
+      "c": "1950s",
+      "d": "1960s",
+      "e": "1940s",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Y = AK1/3L2/3 is an example of a(n)",
+      "a": "production function",
+      "b": "Solow residual",
+      "c": "utility curve",
+      "d": "Wicksteed formula",
+      "e": "input-output model",
+      "correct_answer": "a"
+    },
+    {
+      "question": "The K in Y = AK1/3L2/3 represents",
+      "a": "labor",
+      "b": "capital",
+      "c": "TFP",
+      "d": "technology",
+      "e": "GDP",
+      "correct_answer": "b"
+    },
+    {
+      "question": "The Y in Y = AK1/3L2/3 represents",
+      "a": "technology",
+      "b": "capital",
+      "c": "GDP",
+      "d": "TFP",
+      "e": "labor",
+      "correct_answer": "c"
+    },
+    {
+      "question": "In the acronym TFP, the \"F\" stands for",
+      "a": "function",
+      "b": "fungible",
+      "c": "factor",
+      "d": "force",
+      "e": "federated",
+      "correct_answer": "c"
+    },
+    {
+      "question": "If Y = AK1/3L2/3, to double output, capital must increase by a factor of",
+      "a": "six",
+      "b": "two",
+      "c": "four",
+      "d": "eight",
+      "e": "ten",
+      "correct_answer": "d"
+    },
+    {
+      "question": "If Y = AK1/3L2/3, GDP per capita equals",
+      "a": "Y / L",
+      "b": "A / YL",
+      "c": "Y / AL",
+      "d": "L / A",
+      "e": "A / Y",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Robert Solow's 1950s work found that the GREATEST contribution to economic growth in the United States was",
+      "a": "regulation",
+      "b": "labor",
+      "c": "TFP",
+      "d": "patents",
+      "e": "capital",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Why has labor productivity in microchip manufacturing gained drastically since 1970?",
+      "a": "Quadrillions of dollars have been invested into capital equipment.",
+      "b": "Technology has made microchips more valuable.",
+      "c": "The cost of water inputs has fallen drastically.",
+      "d": "Western nations have offshored production to Asian nations.",
+      "e": "A second generation of manufacturing labor has realized the first's gains.",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Robert Solow received the National Medal of Science in",
+      "a": "1996",
+      "b": "1993",
+      "c": "1987",
+      "d": "1990",
+      "e": "1999",
+      "correct_answer": "e"
+    }
+  ]
+}
+

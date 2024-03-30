@@ -1,0 +1,273 @@
+[
+    {
+        "question": "Which of the following economists introduced the phrase \"creative destruction\" to the field?",
+        "a": "Robert Solow",
+        "b": "William Vickrey",
+        "c": "Milton Friedman",
+        "d": "Joseph Schumpeter",
+        "e": "Arthur Lewis",
+        "correct_answer": "d"
+    },
+    {
+        "question": "The losses to horse-drawn buggy manufacturers after the invention of the automobile provide an example of",
+        "a": "creative destruction",
+        "b": "system shock",
+        "c": "technological unemployment",
+        "d": "government subsidy",
+        "e": "planned obsolescence",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following workers would be MOST vulnerable to technological unemployment?",
+        "a": "a cashier",
+        "b": "a chief executive officer",
+        "c": "an abstract artist",
+        "d": "a Michelin-star chef",
+        "e": "a sommelier",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Why does technological unemployment generally NOT result in higher general unemployment rates?",
+        "a": "Technological unemployment largely affects only flexible workers.",
+        "b": "Technology creates new jobs as well as destroying them.",
+        "c": "Technology brings a higher overall standard of living to society.",
+        "d": "Technological unemployment affects primarily younger workers.",
+        "e": "Workers affected by technological unemployment often exit the labor force.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Why does technological unemployment affect individuals more strongly than society at large?",
+        "a": "Individuals tie themselves to places through mortgages and families.",
+        "b": "Individuals cannot adapt as quickly to change as the aggregate of workers.",
+        "c": "Individuals have less purchasing power than the technological forces.",
+        "d": "Individuals lack protections from firing outside unions and tenure.",
+        "e": "Individuals can become as mere numbers to cut for large corporations.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Real GDP attempts to measure",
+        "a": "private production over government spending",
+        "b": "actual production over inflation",
+        "c": "nominal production over relative production",
+        "d": "relative production over net exports",
+        "e": "production per worker over total production",
+        "correct_answer": "b"
+    },
+    {
+        "question": "From the 1950s to 2020, average real GDP growth in the United States was CLOSEST to",
+        "a": "5% per year",
+        "b": "2% per year",
+        "c": "3% per year",
+        "d": "4% per year",
+        "e": "1% per year",
+        "correct_answer": "b"
+    },
+    {
+        "question": "All of the following factors contributed to real GDP growth for the United States from the 1950s to 2020 EXCEPT",
+        "a": "managing inflation",
+        "b": "technological innovation",
+        "c": "better matching of workers to jobs",
+        "d": "increased labor participation",
+        "e": "greater education attainment in the workforce",
+        "correct_answer": "a"
+    },
+    {
+        "question": "United States GDP per capita growth from the 1950s to 2020 attributed to technology is CLOSEST to",
+        "a": "4% per year",
+        "b": "5% per year",
+        "c": "3% per year",
+        "d": "1% per year",
+        "e": "2% per year",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Unlike machines themselves, the ideas for machines are",
+        "a": "non-copyrightable",
+        "b": "non-rival",
+        "c": "non-salable",
+        "d": "non-fungible",
+        "e": "non-economic",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following percentages is CLOSEST to the global R&D spending done by the United States in 2019?",
+        "a": "23%",
+        "b": "15%",
+        "c": "27%",
+        "d": "11%",
+        "e": "19%",
+        "correct_answer": "c"
+    },
+    {
+        "question": "In the United States, the source of most R&D spending is",
+        "a": "universities",
+        "b": "state governments",
+        "c": "the federal government",
+        "d": "non-profit foundations",
+        "e": "private industry",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following pairs of economies is CLOSEST in total R&D spending as of 2019?",
+        "a": "Europe and Japan",
+        "b": "Europe and the United States",
+        "c": "China and Japan",
+        "d": "China and the United States",
+        "e": "China and Europe",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Government R&D spending in the United States as a percentage of the total peaked in the",
+        "a": "1940s",
+        "b": "1950s",
+        "c": "1970s",
+        "d": "1980s",
+        "e": "1960s",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following fractions is CLOSEST to the government share of R&D spending in the United States at its peak?",
+        "a": "three-fourths",
+        "b": "one-half",
+        "c": "four-fifths",
+        "d": "five-sixths",
+        "e": "two-thirds",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Paul Romer became a Nobel laureate for his work on",
+        "a": "endogenous growth theory",
+        "b": "monetarist theory",
+        "c": "microfinance theory",
+        "d": "hyperinflation theory",
+        "e": "game theory",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Economists PRIMARILY view investors and entrepreneurs as",
+        "a": "profit maximizers",
+        "b": "work-oriented",
+        "c": "altruists",
+        "d": "innovators",
+        "e": "irrational actors",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Why might a mature firm slow down or cease its R&D spending?",
+        "a": "Management in mature firms indulges in moral hazard.",
+        "b": "R&D poses inherent risk of spending money to return no value.",
+        "c": "Startup companies are nimbler and better able to take on risk.",
+        "d": "Mature firms can capture only two-thirds of value from R&D.",
+        "e": "Governments seldom support R&D through regulation.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "A good that an individual can prevent others from using is",
+        "a": "excludable",
+        "b": "fungible",
+        "c": "monopolistic",
+        "d": "patented",
+        "e": "monopsonistic",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following inventors is MOST closely associated with Menlo Park?",
+        "a": "George Washington Carver",
+        "b": "Alexander Graham Bell",
+        "c": "Samuel F.B. Morse",
+        "d": "Sarah Breedlove",
+        "e": "Thomas Edison",
+        "correct_answer": "e"
+    },
+    {
+        "question": "An investor's ability to capture the social value of an innovation is that innovation's",
+        "a": "profit potential",
+        "b": "appropriability",
+        "c": "exclusivity",
+        "d": "monopoly",
+        "e": "value coefficient",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Figuring out how to make an invention by studying the invention itself is",
+        "a": "mechanical engineering",
+        "b": "chemical engineering",
+        "c": "civil engineering",
+        "d": "social engineering",
+        "e": "reverse engineering",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following individuals is a co-founder of Twitter?",
+        "a": "Larry Page",
+        "b": "Jack Dorsey",
+        "c": "Chad Hurley",
+        "d": "Elon Musk",
+        "e": "Steve Chen",
+        "correct_answer": "b"
+    },
+    {
+        "question": "According to surveys of manufacturing firms, what fraction of inventions are effectively protected by secrecy?",
+        "a": "one-half",
+        "b": "one-third",
+        "c": "three-fourths",
+        "d": "two-thirds",
+        "e": "one-fourth",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The period between the debut of an invention and the appearance of copies made by rivals is",
+        "a": "patent duration",
+        "b": "lead time",
+        "c": "first-mover advantage",
+        "d": "exclusivity",
+        "e": "monopsony",
+        "correct_answer": "b"
+    },
+    {
+        "question": "In concrete manufacture, clay and volcanic ash are",
+        "a": "process innovations",
+        "b": "non-exclusive goods",
+        "c": "non-rival goods",
+        "d": "complementary assets",
+        "e": "trade secrets",
+        "correct_answer": "d"
+    },
+    {
+        "question": "All of the following advantages are examples of complementary assets EXCEPT",
+        "a": "patent protection",
+        "b": "access to quality-improving materials",
+        "c": "internal manufacturing knowledge",
+        "d": "a large sales force",
+        "e": "a great business reputation",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following brands benefits MOST from network effects?",
+        "a": "Boeing",
+        "b": "Porsche",
+        "c": "Facebook",
+        "d": "Chevron",
+        "e": "McDonald's",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How does a mobile operating system derive its value?",
+        "a": "High-tech hardware is a complementary asset.",
+        "b": "Exclusives allow for lead time before rivals can catch up.",
+        "c": "Apps create an ecosystem of related technologies.",
+        "d": "Walled gardens allow for maintaining secrecy.",
+        "e": "Deals with manufacturers create economies of scale.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "When a firm has its average cost to produce a good fall the more they produce of it, that firm is enjoying a(n)",
+        "a": "network effect",
+        "b": "complementary asset",
+        "c": "economy of scale",
+        "d": "trade secret",
+        "e": "lead time",
+        "correct_answer": "c"
+    }
+]
+
