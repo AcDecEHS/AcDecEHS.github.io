@@ -26,6 +26,7 @@ body {
 }
 .sidebar {
     width: 20%;
+    list-style-type: none;
 }
 .content {
     width: 80%;
