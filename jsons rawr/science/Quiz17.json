@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Memory is best defined as",
+    "a": "synthesis of sensory inputs",
+    "b": "behavior change in response to stimuli",
+    "c": "information storage through time",
+    "d": "fixation of neural networks",
+    "e": "recollection of recent information",
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which decade did the idea first arise that learning requires changes in connections between neurons?",
+    "a": "1850s",
+    "b": "1860s",
+    "c": "1890s",
+    "d": "1880s",
+    "e": "1870s",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following animals Eric Kandel’s memory studies use?",
+    "a": "Cornu aspersum",
+    "b": "Limax maximus",
+    "c": "Cucumaria miniata",
+    "d": "Acochlidium fijiiensis",
+    "e": "Aplysia californica",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following processes involves ignoring unimportant stimuli?",
+    "a": "sensitization",
+    "b": "adaptation",
+    "c": "assimilation",
+    "d": "habituation",
+    "e": "generalization",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Why does animal response to a harmless stimulus decrease with repetition?",
+    "a": "Repeated stimuli are processed by the central nervous system and labeled as unimportant in future repetitions.",
+    "b": "Synaptic weakening decreases the strength of the connection between the sensory neuron that receives the stimulus and the motor neuron that causes the response.",
+    "c": "The sensory neuron that receives the stimulus sends weaker signals to the motor neuron.",
+    "d": "The size of the synaptic gap between the neurons increases with repeated stimuli, requiring a stronger signal to elicit a response.",
+    "e": "Interneurons between the sensory neuron that receives the stimulus and the motor neuron that causes the response stop sending signals.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "When a gentle touch is paired with a painful shock, an animal’s response to the touch undergoes",
+    "a": "aggregation",
+    "b": "sensitization",
+    "c": "habituation",
+    "d": "exaggeration",
+    "e": "excitation",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is the order of proteins involved in the signaling cascade to strengthen an animal’s behavioral response to a painful stimulus?",
+    "a": "GPCR, calcium channel, potassium channel, PKA",
+    "b": "GPCR, PKA, calcium channel, potassium channel",
+    "c": "potassium channel, calcium channel, PKA, GPCR",
+    "d": "PKA, GPCR, potassium channel, calcium channel",
+    "e": "GPCR, PKA, potassium channel, calcium channel",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which research technique involves measuring both presynaptic and postsynaptic membrane potentials?",
+    "a": "functional magnetic resonance imaging (fMRI)",
+    "b": "magnetic resonance imaging (MRI)",
+    "c": "computer modeling",
+    "d": "electrophysiological recording",
+    "e": "electroencephalogram (EEG)",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Interfering with long term potentiation in the hippocampus MOST affects the",
+    "a": "ability to store memories of recent experiences",
+    "b": "association between memory and sensory stimuli",
+    "c": "verbal communication of prior memories",
+    "d": "retrieval of previously learned information",
+    "e": "recall of important information",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In mammals, long-term potentiation occurs when the",
+    "a": "concentration of calcium ions outside the neuron is sufficient",
+    "b": "minimum threshold has been met for an action potential",
+    "c": "axon of the presynaptic cell is sufficiently myelinated to expedite signals",
+    "d": "presynaptic cell depolarizes simultaneously with the postsynaptic cell",
+    "e": "synaptic gap contains enough excitatory neurotransmitters",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following ions blocks other ions from flowing through the NMDA receptor?",
+    "a": "potassium",
+    "b": "calcium",
+    "c": "sodium",
+    "d": "magnesium",
+    "e": "chlorine",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which ion can flow through an NMDA receptor that does not flow through an AMPA receptor?",
+    "a": "magnesium",
+    "b": "calcium",
+    "c": "sodium",
+    "d": "potassium",
+    "e": "chlorine",
+    "correct_answer": "b"
+  },
+  {
+    "question": "CaMKII is BEST described as a(n)",
+    "a": "enzyme",
+    "b": "receptor",
+    "c": "channel",
+    "d": "lattice",
+    "e": "filament",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following functions is NOT a responsibility of CaMKII?",
+    "a": "guiding new AMPA receptors into the postsynaptic cell membrane",
+    "b": "activating the transcription factor CREB to produce new proteins",
+    "c": "phosphorylating current AMPA receptors to increase efficiency",
+    "d": "stimulating glutamate production to accumulate excitatory neurotransmitter",
+    "e": "changing the morphology of postsynaptic dendrites",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Decreased synaptic strength leads to",
+    "a": "sensory habituation",
+    "b": "synaptic fatigue",
+    "c": "long-term depression",
+    "d": "signal inhibition",
+    "e": "neural plasticity",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the role of the hippocampus in memory systems?",
+    "a": "creating associations between different memories",
+    "b": "encoding pure facts",
+    "c": "cluttering the mind with memories",
+    "d": "regularly revisiting memories",
+    "e": "selectively storing important memories",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What is the purpose of associations in memory encoding?",
+    "a": "to create a timeline of events",
+    "b": "to establish connections between different memories",
+    "c": "to trigger strong emotional responses",
+    "d": "to declutter the mind of useless memories",
+    "e": "to encode pure facts more effectively",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which region of the brain brings together sensory inputs to create complex memories?",
+    "a": "amygdala",
+    "b": "auditory cortex",
+    "c": "cingulate gyrus",
+    "d": "hippocampus",
+    "e": "entorhinal cortex",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which areas of the brain are involved in providing sensory inputs to the hippocampus?",
+    "a": "prefrontal cortex and somatosensory cortex",
+    "b": "rhinal cortex and entorhinal cortex",
+    "c": "hypothalamus and cingulate gyrus",
+    "d": "hippocampus and amygdala",
+    "e": "primary motor cortex and basal ganglia",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What was observed in the famous case of patient H.M. regarding long-term memory storage?",
+    "a": "The right side of the hippocampus is not involved in the formation of long-term memories.",
+    "b": "The left hippocampus is more important for memory storage than the right hippocampus.",
+    "c": "Both sides of the hippocampus are critical for encoding new memories.",
+    "d": "The entorhinal cortex is solely responsible for long-term memory storage.",
+    "e": "Damage to the hippocampus erases all previously encoded memories.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which region of the hippocampus is known for neurogenesis?",
+    "a": "Cornu Ammonis 3 (CA3)",
+    "b": "CA1 subregion",
+    "c": "Ammon's Horn",
+    "d": "granule cells",
+    "e": "dentate gyrus",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which type of cells in the dentate gyrus send mossy fibers to the CA3 region?",
+    "a": "schafer collateral cells",
+    "b": "granule cells",
+    "c": "entorhinal cortex cells",
+    "d": "perforant path cells",
+    "e": "pyramidal cells",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is the role of the fornix in the hippocampus?",
+    "a": "It brings information from the entorhinal cortex to the hippocampus.",
+    "b": "It merges information from all sensory modalities in the dentate gyrus.",
+    "c": "It forms a loop connecting the hippocampus and the entorhinal cortex.",
+    "d": "It connects the CA1 subregion to the CA3 subregion.",
+    "e": "It is responsible for neurogenesis in the dentate gyrus.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "How many items can the average person retain in their short-term memory?",
+    "a": "five to nine",
+    "b": "six to nine",
+    "c": "seven to eleven",
+    "d": "nine to eleven",
+    "e": "three to six",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which region of the brain is critical for maintaining short-term memory?",
+    "a": "amygdala",
+    "b": "hippocampus",
+    "c": "prefrontal cortex",
+    "d": "basal ganglia",
+    "e": "entorhinal cortex",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which type of memory can be either semantic or episodic in nature?",
+    "a": "implicit memory",
+    "b": "encoding memory",
+    "c": "explicit memory",
+    "d": "procedural memory",
+    "e": "short-term memory",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which region of the brain is involved in procedural memory?",
+    "a": "amygdala",
+    "b": "entorhinal cortex",
+    "c": "hippocampus",
+    "d": "prefrontal cortex",
+    "e": "cerebellum",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What is the process whereby exposure to one stimulus influences your memory?",
+    "a": "retrieval",
+    "b": "encoding",
+    "c": "consolidation",
+    "d": "recall",
+    "e": "priming",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which region of the brain is involved in emotional associations and classical conditioning?",
+    "a": "cerebellum",
+    "b": "hippocampus",
+    "c": "prefrontal cortex",
+    "d": "amygdala",
+    "e": "entorhinal cortex",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which type of memory did Eric Kandel influence in Aplysia californica?",
+    "a": "semantic memory",
+    "b": "explicit memory",
+    "c": "procedural memory",
+    "d": "episodic memory",
+    "e": "implicit memory",
+    "correct_answer": "e"
+  }
+]
+

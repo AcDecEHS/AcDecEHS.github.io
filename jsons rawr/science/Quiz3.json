@@ -1,0 +1,273 @@
+[
+    {
+        "question": "In what way is the cerebrum distinct from other structures?",
+        "a": "It connects directly to the spinal cord.",
+        "b": "It is the largest structure in the brain.",
+        "c": "It controls most motor function.",
+        "d": "It coordinates eye movements.",
+        "e": "It is the first part of the brain to develop.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The cerebrum can be divided into",
+        "a": "four layers",
+        "b": "a top and bottom side",
+        "c": "a front and back side",
+        "d": "a left and right side",
+        "e": "three layers",
+        "correct_answer": "d"
+    },
+    {
+        "question": "The appearance of the cerebrum can best be described as",
+        "a": "smooth",
+        "b": "rough",
+        "c": "gritty",
+        "d": "wrinkly",
+        "e": "shiny",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Gyri refer to the",
+        "a": "cells located within the cerebrum",
+        "b": "grooves on the surface of the brain",
+        "c": "bumps on the surface of the brain",
+        "d": "wrinkles on the outside of the cerebrum",
+        "e": "dividing line of the two cerebral hemispheres",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Gyri and sulci MAINLY differ in",
+        "a": "form",
+        "b": "function",
+        "c": "texture",
+        "d": "color",
+        "e": "size",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following statements is NOT true about the cerebral cortex?",
+        "a": "It has a wrinkled appearance.",
+        "b": "It is made up of the outermost layers of the cerebrum.",
+        "c": "It is located inside the cerebellum.",
+        "d": "It contains a large portion of the cell bodies of the brain’s neurons.",
+        "e": "It would have a large surface area if flattened out.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "The three main regions of the brain are the",
+        "a": "cerebral cortex, cerebellum, and brainstem",
+        "b": "cerebrum, cerebellum, and frontal lobe",
+        "c": "cerebrum, cerebral cortex, and brainstem",
+        "d": "cerebrum, cerebellum, and brainstem",
+        "e": "cerebral cortex, frontal lobe, and parietal lobe",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following lobes is NOT located in the cerebrum?",
+        "a": "parietal lobe",
+        "b": "flocculonodular lobe",
+        "c": "occipital lobe",
+        "d": "temporal lobe",
+        "e": "frontal lobe",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following lobes is the largest in the human brain?",
+        "a": "temporal lobe",
+        "b": "frontal lobe",
+        "c": "occipital lobe",
+        "d": "anterior lobe",
+        "e": "flocculonodular lobe",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following concepts does the frontal lobe NOT handle?",
+        "a": "spatial relationships",
+        "b": "speech production",
+        "c": "decision-making",
+        "d": "future planning",
+        "e": "problem-solving",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The area of the brain associated with thinking, feeling, and cognition is known as the",
+        "a": "prefrontal cortex",
+        "b": "cerebral cortex",
+        "c": "cerebellum",
+        "d": "occipital lobe",
+        "e": "temporal lobe",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following lobes is associated with the sense of touch?",
+        "a": "temporal lobe",
+        "b": "parietal lobe",
+        "c": "frontal lobe",
+        "d": "occipital lobe",
+        "e": "anterior lobe",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The occipital lobe is MOST associated with the",
+        "a": "eyes",
+        "b": "ears",
+        "c": "mouth",
+        "d": "hands",
+        "e": "nose",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The temporal lobe is PRIMARILY responsible for",
+        "a": "visual information",
+        "b": "attention",
+        "c": "movement coordination",
+        "d": "auditory processing",
+        "e": "social behaviors",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following structures is Latin for 'little brain?'",
+        "a": "cerebrum",
+        "b": "motor cortex",
+        "c": "cerebellum",
+        "d": "brainstem",
+        "e": "cerebral cortex",
+        "correct_answer": "c"
+    },
+    {
+        "question": "The amygdala is located in the",
+        "a": "prefrontal cortex",
+        "b": "hippocampus",
+        "c": "cerebellum",
+        "d": "temporal lobe",
+        "e": "thalamus",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following objects does the amygdala MOST resemble?",
+        "a": "almond",
+        "b": "coin",
+        "c": "marble",
+        "d": "donut",
+        "e": "grape",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The amygdala is NOT primarily responsible for processing",
+        "a": "hunger",
+        "b": "reward",
+        "c": "stress",
+        "d": "arousal",
+        "e": "fear",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following structures is MOST crucial for long-term memory?",
+        "a": "thalamus",
+        "b": "amygdala",
+        "c": "basal ganglia",
+        "d": "hypothalamus",
+        "e": "hippocampus",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Damage to both hippocampi may result in a(n)",
+        "a": "inability to create long-term memories",
+        "b": "lack of satiation awareness",
+        "c": "imbalance of arousal hormones",
+        "d": "deficiency in logical reasoning",
+        "e": "problem with initiating movements",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following senses does NOT stop in the thalamus?",
+        "a": "hearing",
+        "b": "smell",
+        "c": "sight",
+        "d": "taste",
+        "e": "touch",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The thalamus plays a role in",
+        "a": "regulating blood pressure",
+        "b": "consciousness",
+        "c": "creating memories",
+        "d": "recognizing fear",
+        "e": "processing threat",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following structures is MOST critical to homeostasis?",
+        "a": "hypothalamus",
+        "b": "brainstem",
+        "c": "hippocampus",
+        "d": "thalamus",
+        "e": "amygdala",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following structures is NOT included within the basal ganglia?",
+        "a": "caudate nucleus",
+        "b": "putamen",
+        "c": "globus pallidus",
+        "d": "subthalamic nucleus",
+        "e": "pituitary gland",
+        "correct_answer": "e"
+    },
+    {
+        "question": "The circuitry of the basal ganglia helps",
+        "a": "process speech",
+        "b": "analyze visual information",
+        "c": "control body temperature",
+        "d": "identify objects",
+        "e": "prevent excess movement",
+        "correct_answer": "e"
+    },
+    {
+        "question": "In which of the following diseases do neurons of the substantia nigra degenerate?",
+        "a": "cerebral palsy",
+        "b": "epilepsy",
+        "c": "Alzheimer’s disease",
+        "d": "Parkinson’s disease",
+        "e": "encephalitis",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following functions do the cell bodies of the brainstem NOT mainly control?",
+        "a": "heart rate",
+        "b": "cognition",
+        "c": "coordination",
+        "d": "reflexes",
+        "e": "breathing",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The brainstem can be divided into the",
+        "a": "thalamus, midbrain, and amygdala",
+        "b": "midbrain, pons, and medulla",
+        "c": "spinal cord, basal ganglia, and medulla",
+        "d": "midbrain, basal ganglia, and medulla",
+        "e": "spinal cord, pons, and thalamus",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following statements is NOT true about the midbrain?",
+        "a": "It helps regulate eye movement.",
+        "b": "It is the topmost part of the brainstem.",
+        "c": "It is responsible for relaying touch sensations.",
+        "d": "It contains nuclei that control the pupillary light flex.",
+        "e": "It synthesizes visual information with auditory information.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following structures’ names originates from the Latin word meaning 'bridge?'",
+        "a": "pons",
+        "b": "brainstem",
+        "c": "thalamus",
+        "d": "medulla",
+        "e": "midbrain",
+        "correct_answer": "a"
+    }
+]
+

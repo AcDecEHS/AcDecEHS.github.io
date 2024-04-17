@@ -1,0 +1,273 @@
+[
+  {
+    "question": "What is the role of the central nervous system in the interaction between organisms and their environments?",
+    "a": "bringing information about the world into the brain",
+    "b": "coordinating motor systems",
+    "c": "transmitting behavioral commands from the brain",
+    "d": "regulating neural development",
+    "e": "controlling sensory perception",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which component of the nervous system brings behavioral commands out from the brain?",
+    "a": "autonomic nervous system",
+    "b": "motor systems",
+    "c": "sensory systems",
+    "d": "central nervous system",
+    "e": "peripheral nervous system",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Neurons communicate using",
+    "a": "action potentials",
+    "b": "chemical neurotransmitters",
+    "c": "sound waves",
+    "d": "vibrations in the environment",
+    "e": "visual images",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Where does the transduction of light into an electrochemical signal occur in the visual system?",
+    "a": "retina",
+    "b": "primary visual cortex",
+    "c": "subregions of the visual cortex",
+    "d": "photoreceptors",
+    "e": "thalamus",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What type of information is primarily encoded at the level of the retina in the visual system?",
+    "a": "shapes",
+    "b": "motion detection",
+    "c": "full visual experience",
+    "d": "depth perception",
+    "e": "basic lines",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Human visual experience is reliant on processing by many subregions of the",
+    "a": "retina",
+    "b": "primary visual cortex",
+    "c": "photoreceptors",
+    "d": "thalamus",
+    "e": "visual cortex",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What is unique about the pathways of the chemical senses?",
+    "a": "They have complex mapping systems.",
+    "b": "They cross over in the brain.",
+    "c": "They rely on the inner ear for transduction.",
+    "d": "They are absent in evolutionarily ancient organisms.",
+    "e": "They transmit visual information.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which senses are included in the chemical senses?",
+    "a": "smell and hearing",
+    "b": "vision and hearing",
+    "c": "touch and proprioception",
+    "d": "taste and touch",
+    "e": "taste and smell",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What is the purpose of the complex network of pathways in the brainstem for auditory signals?",
+    "a": "localization of sound",
+    "b": "amplification of sound signals",
+    "c": "generation of auditory cortex",
+    "d": "transduction of sound waves",
+    "e": "integration of visual information",
+    "correct_answer": "a"
+  },
+  {
+    "question": "How do the chemical senses differ from other sensory systems?",
+    "a": "They have complex mapping systems.",
+    "b": "They rely on the inner ear for transduction.",
+    "c": "They are evolutionarily ancient systems.",
+    "d": "Their pathways cross in the brain.",
+    "e": "They transduce mechanical energy.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How does our sense of taste differ from our sense of smell?",
+    "a": "Taste has complex mapping systems, while smell does not.",
+    "b": "Taste and smell have pathways that cross in the brain.",
+    "c": "Taste is an evolutionarily ancient system, while smell is a recent development.",
+    "d": "Taste transduces chemicals in the air, while smell transduces chemicals in the mouth.",
+    "e": "Taste transduces mechanical energy, while smell transduces light energy.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following senses is NOT included in the somatosensory system?",
+    "a": "smell",
+    "b": "pain",
+    "c": "temperature",
+    "d": "proprioception",
+    "e": "touch",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which structure is involved in transmitting somatosensory signals to the brain?",
+    "a": "cerebellum",
+    "b": "auditory cortex",
+    "c": "visual cortex",
+    "d": "spinal cord",
+    "e": "hippocampus",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the role of the motor cortex in the motor system?",
+    "a": "It controls proprioception.",
+    "b": "It processes sensory information.",
+    "c": "It regulates basal ganglia function.",
+    "d": "It directs planned movement.",
+    "e": "It coordinates involuntary movements.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What are the roles of the basal ganglia and the cerebellum in the motor system?",
+    "a": "They regulate the motor cortex.",
+    "b": "They coordinate sensory perception.",
+    "c": "They generate involuntary movements.",
+    "d": "They modulate motor commands for coordination and adaptability.",
+    "e": "They control proprioceptive feedback.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is one remarkable characteristic of the cerebral cortex?",
+    "a": "adaptability",
+    "b": "rigidity",
+    "c": "complexity",
+    "d": "sensitivity",
+    "e": "stability",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which term used to describe the stripes of tissue in layer 4C that receive input from one eye only?",
+    "a": "visual segregation lines",
+    "b": "dominant eye columns",
+    "c": "ocular dominance columns",
+    "d": "optical segregation columns",
+    "e": "eye-specific stripes",
+    "correct_answer": "c"
+  },
+  {
+    "question": "How did David Hubel and Torsten Wiesel study the ocular dominance columns?",
+    "a": "by observing the firing patterns of neurons in the primary visual cortex",
+    "b": "by mapping the receptive fields of neurons in the primary visual cortex",
+    "c": "by analyzing the synaptic structure of the primary visual cortex",
+    "d": "by examining the functional connectivity between the visual cortex and the thalamus",
+    "e": "by manipulating the visual inputs to the thalamus",
+    "correct_answer": "a"
+  },
+  {
+    "question": "David Hubel and Torsten Wiesel observed that neurons in layer 4C of the primary visual cortex",
+    "a": "fired action potentials only in response to input from one eye",
+    "b": "experienced a delay in firing action potentials in response to visual input",
+    "c": "did not fire action potentials in response to any visual input",
+    "d": "fired action potentials randomly, regardless of the input received",
+    "e": "fired action potentials in response to input from both eyes simultaneously",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the long-term effect of monocular deprivation on the ocular dominance columns?",
+    "a": "They become more pronounced.",
+    "b": "They break down into smaller subregions.",
+    "c": "They disappear completely.",
+    "d": "They become less distinct.",
+    "e": "They shift in their location.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following conditions can prevent the formation of ocular dominance columns?",
+    "a": "lack of synaptic connections between the visual cortex and the thalamus",
+    "b": "reduced plasticity of the cerebral cortex",
+    "c": "insufficient thalamic inputs to the visual cortex",
+    "d": "dark rearing with complete absence of visual input",
+    "e": "damage to the neurons in layer 4C of the primary visual cortex",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The structure of synapses in layer 4C of V1 may change after monocular deprivation for a few",
+    "a": "months",
+    "b": "minutes",
+    "c": "years",
+    "d": "days",
+    "e": "hours",
+    "correct_answer": "d"
+  },
+  {
+    "question": "A critical period in development is when",
+    "a": "plasticity is low",
+    "b": "chemical inputs have no influence",
+    "c": "developmental fate can be influenced",
+    "d": "ocular dominance columns are permanently fixed",
+    "e": "the brain is not receptive to any environmental inputs",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What happens to the plasticity of ocular dominance columns in adulthood?",
+    "a": "Plasticity becomes completely absent.",
+    "b": "Plasticity fluctuates throughout adulthood depending on environmental factors.",
+    "c": "Plasticity remains high and continues to change based on environmental inputs.",
+    "d": "Plasticity diminishes but some minor effects can still be observed.",
+    "e": "Plasticity remains low and continues to change based on environmental inputs.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What type of information do rodent whiskers gather?",
+    "a": "temperature",
+    "b": "tactile",
+    "c": "magnetic",
+    "d": "spatial",
+    "e": "vibrational",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following terms is used to describe the representation of touch from each whisker in the rodent's somatosensory cortex?",
+    "a": "field",
+    "b": "dot",
+    "c": "homunculus",
+    "d": "cluster",
+    "e": "barrel",
+    "correct_answer": "e"
+  },
+  {
+    "question": "After a row of whiskers are plucked from a newly born rat during the critical period, the whisker representations",
+    "a": "gradually enlarge",
+    "b": "completely disappear",
+    "c": "gradually diminish",
+    "d": "remain permanent",
+    "e": "increase in sensitivity",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Major plasticity of the sensory homunculus occurs in",
+    "a": "primates",
+    "b": "arachnoids",
+    "c": "insects",
+    "d": "rodents",
+    "e": "fish",
+    "correct_answer": "a"
+  },
+  {
+    "question": "How does cortical reorganization contribute to phantom limb syndrome?",
+    "a": "It enhances the perception of touch in the neighboring areas.",
+    "b": "It eliminates the representation for the missing limb.",
+    "c": "It disrupts the neighboring cortical representations.",
+    "d": "It creates a new representation for the missing limb.",
+    "e": "It enlarges the representation for the missing limb.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What can evoke sensations in a missing hand for patients with phantom limb syndrome?",
+    "a": "exposing the face to heat",
+    "b": "exposing the residual limb to humidity",
+    "c": "touching the remaining portion of the limb",
+    "d": "applying cold to the palms",
+    "e": "touching the face",
+    "correct_answer": "c"
+  }
+]
+

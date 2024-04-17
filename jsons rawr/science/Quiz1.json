@@ -1,0 +1,273 @@
+[
+  {
+    "question": "The most important function of the nervous system is",
+    "a": "regulation",
+    "b": "motion",
+    "c": "sensation",
+    "d": "circulation",
+    "e": "communication",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following fields is LEAST involved in the study of neuroscience?",
+    "a": "geosciences",
+    "b": "psychology",
+    "c": "physics",
+    "d": "computer science",
+    "e": "mathematics",
+    "correct_answer": "a"
+  },
+  {
+    "question": "The most important nervous system cells for long-range communication are",
+    "a": "astrocytes",
+    "b": "microglia",
+    "c": "Schwann cells",
+    "d": "neurons",
+    "e": "oligodendrocytes",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What distinguishes neurons from other cells in the body?",
+    "a": "Neurons use RNA polymerase for transcription.",
+    "b": "Neurons are much larger than most cells.",
+    "c": "Neurons have no nucleus.",
+    "d": "Neurons are only found in the brain.",
+    "e": "Neurons are difficult to replace.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Neurons mainly store genetic information in the form of",
+    "a": "mRNA",
+    "b": "polysaccharides",
+    "c": "amino acids",
+    "d": "tRNA",
+    "e": "DNA",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following words is synonymous with 'cell body'?",
+    "a": "cytosol",
+    "b": "soma",
+    "c": "dendrite",
+    "d": "nucleus",
+    "e": "axon",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following cell parts receives incoming information?",
+    "a": "soma",
+    "b": "dendrite",
+    "c": "Node of Ranvier",
+    "d": "antenna",
+    "e": "axon",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The word 'dendrite' is based on the Greek word for",
+    "a": "'input'",
+    "b": "'branching'",
+    "c": "'spiny'",
+    "d": "'afferent'",
+    "e": "'treelike'",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The main function of the axon is to",
+    "a": "synthesize neurotransmitters",
+    "b": "regulate gene expression",
+    "c": "send outgoing information",
+    "d": "store excess ions",
+    "e": "receive incoming signals",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Mammalian axon length can reach up to",
+    "a": "one foot",
+    "b": "one inch",
+    "c": "several inches",
+    "d": "several feet",
+    "e": "half an inch",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What insulates axons?",
+    "a": "microglia",
+    "b": "phospholipids",
+    "c": "myelin",
+    "d": "neuronal membrane",
+    "e": "Nodes of Ranvier",
+    "correct_answer": "c"
+  },
+  {
+    "question": "The purpose of myelination is to",
+    "a": "expedite signals that are sent down the axon",
+    "b": "increase membrane permeability",
+    "c": "restore neuronal membrane over time",
+    "d": "make dendrites more receptive to incoming signals",
+    "e": "inhibit unnecessary action potentials",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Nodes of Ranvier are",
+    "a": "sites of vesicle formation",
+    "b": "points where dendrites intersect with the soma",
+    "c": "points of neurotransmitter release",
+    "d": "receptors of a post-synaptic neuron",
+    "e": "gaps in the myelin sheath",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The axon meets the soma at the",
+    "a": "somatic junction",
+    "b": "axon hillock",
+    "c": "synapse",
+    "d": "Node of Ranvier",
+    "e": "axon terminal",
+    "correct_answer": "b"
+  },
+  {
+    "question": "At the axon terminal,",
+    "a": "the axon branches into multiple paths",
+    "b": "action potentials are initiated",
+    "c": "signals are received from the dendrite",
+    "d": "signals are released as neurotransmitters",
+    "e": "the postsynaptic neuron makes direct contact with the presynaptic neuron",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following parts is NOT found in almost all neurons?",
+    "a": "nucleus",
+    "b": "soma",
+    "c": "microglia",
+    "d": "axon",
+    "e": "dendrite",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Neuron morphology is mainly a result of the neuron's",
+    "a": "electrical potential",
+    "b": "membrane strength",
+    "c": "chemical composition",
+    "d": "activity",
+    "e": "function",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Most textbook diagrams of neurons do NOT show",
+    "a": "a single long axon",
+    "b": "branching dendrites",
+    "c": "a small cell body",
+    "d": "the morphology of an interneuron",
+    "e": "a central soma",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following tools is used to study the relationship between dendritic arbor structure and neuron function?",
+    "a": "computer modeling",
+    "b": "scanning electron microscopy (SEM)",
+    "c": "transmission electron microscopy (TEM)",
+    "d": "X-ray crystallography",
+    "e": "magnetic resonance imaging (MRI)",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Variations in neuron morphology BEST demonstrate the concept that",
+    "a": "structure fits function",
+    "b": "homeostasis is essential to life",
+    "c": "cells respond to stimuli",
+    "d": "size matters",
+    "e": "life is highly ordered",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following sets of characteristics BEST describes a typical motor neuron?",
+    "a": "soma at one end with many branching dendrites and a short axon",
+    "b": "central soma with one large set of short dendrites and a long axon in the opposite direction",
+    "c": "soma with a small set of dendrites and long axon",
+    "d": "central soma with one dendrite and one axon",
+    "e": "central soma with short dendrites and short axon",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following neuron types is most likely to have dendrites at both ends of the cell?",
+    "a": "motor neuron",
+    "b": "split-branch neuron",
+    "c": "interneuron",
+    "d": "sensory neuron",
+    "e": "mirror neuron",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The primary task of sensory neurons is to",
+    "a": "combine stimuli of all five senses into a complete picture",
+    "b": "respond to stimuli",
+    "c": "initiate emotions",
+    "d": "interpret visual signals",
+    "e": "transmit stimuli information to the brain",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The main job of an interneuron is to",
+    "a": "interpret information from the sensory neurons",
+    "b": "serve as a link between other neurons",
+    "c": "stimulate the formation of new neurons",
+    "d": "translate electrical signals into chemical signals",
+    "e": "develop into a specialized neuron",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Interneurons are best described as",
+    "a": "small",
+    "b": "curved",
+    "c": "complex",
+    "d": "round",
+    "e": "long",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Grey matter includes",
+    "a": "dendrites",
+    "b": "myelin",
+    "c": "cerebrospinal fluid",
+    "d": "meninges tissue",
+    "e": "the axon hillock",
+    "correct_answer": "a"
+  },
+  {
+    "question": "White matter does NOT contains",
+    "a": "myelin",
+    "b": "neurotransmitters",
+    "c": "nuclei",
+    "d": "Nodes of Ranvier",
+    "e": "neuronal membranes",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What causes the distinct appearances of grey and white matter?",
+    "a": "Light refraction causes grey matter to appear darker than white matter.",
+    "b": "Grey and white matter appear to be distinct in MRI scans due to their molecular makeup.",
+    "c": "Grey and white matter are only distinguishable on a microscopic level.",
+    "d": "Axons of neurons with a common function will face the same direction.",
+    "e": "Differences in blood vessel content cause grey and white matter to appear distinct.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Grey matter is most likely to be found",
+    "a": "lining the ventricles",
+    "b": "on the outside surfaces of the brain",
+    "c": "exclusively in the brain stem",
+    "d": "towards the center of the inside of the brain",
+    "e": "around the hippocampus",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following parts of the neuron is found just outside the spinal cord?",
+    "a": "cell body",
+    "b": "nuclear membrane",
+    "c": "myelinated axons",
+    "d": "dendrites",
+    "e": "soma",
+    "correct_answer": "c"
+  }
+]
+

@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Which of the following developments has MOST greatly contributed to the biggest recent breakthroughs in neuroscientific research?",
+    "a": "improvements in the quality of education",
+    "b": "greater public attention for the field of neuroscience",
+    "c": "an increase in workforce participation rates",
+    "d": "increases in government funding",
+    "e": "the development of new technology",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Scientists have historically studied the brain by lesioning the brains of",
+    "a": "cadavers",
+    "b": "consenting individuals",
+    "c": "animals",
+    "d": "incarcerated individuals",
+    "e": "comatose patients",
+    "correct_answer": "c"
+  },
+  {
+    "question": "A brain perturbation most nearly means a",
+    "a": "lesion that is not compatible with life",
+    "b": "deliberate manipulation of brainwaves",
+    "c": "de novo mutation",
+    "d": "sudden increase in cognitive power",
+    "e": "small, temporary stress",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which modern technology allows scientists to temporarily perturb regions of the brain?",
+    "a": "electroencephalograms",
+    "b": "BOLD imaging",
+    "c": "brain-machine interfaces",
+    "d": "transcranial direct current stimulation",
+    "e": "electrical brain stimulation",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How have scientists historically recorded data from the brain?",
+    "a": "using electrodes to record neural activity",
+    "b": "using magnetic fields to measure the flow of blood",
+    "c": "drilling a hole into the skull",
+    "d": "temporarily perturbing certain regions of the brain",
+    "e": "lesioning the brains of animals",
+    "correct_answer": "a"
+  },
+  {
+    "question": "An EEG can record neural activity through the skull by using",
+    "a": "photoplethysmography",
+    "b": "sound detectors",
+    "c": "electrodes",
+    "d": "litmus paper",
+    "e": "magnetic fields",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which tool can record the blood flow associated with neural activity?",
+    "a": "MRI",
+    "b": "EBS",
+    "c": "TMS",
+    "d": "tDCS",
+    "e": "EEG",
+    "correct_answer": "a"
+  },
+  {
+    "question": "How does an MRI record neural activity?",
+    "a": "pulse oximetry",
+    "b": "X-rays",
+    "c": "magnetic fields",
+    "d": "electrodes",
+    "e": "light sensors",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Brain-machine interfaces may be used in conjunction with technologies such as",
+    "a": "LED lights",
+    "b": "computers",
+    "c": "drones",
+    "d": "electrodes",
+    "e": "heart rate monitors",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Brain-machine interfaces rely on neural recordings to allow their users to",
+    "a": "measure their neural activity",
+    "b": "locate sites of injuries in their brain",
+    "c": "detect their risk for psychiatric conditions",
+    "d": "control machines using their thoughts",
+    "e": "track their sleep cycles",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Brain-machine interfaces will PRIMARILY help",
+    "a": "individuals with brain lesions",
+    "b": "individuals with limited mobility",
+    "c": "individuals with memory loss",
+    "d": "individuals with schizophrenia",
+    "e": "individuals with sleep disorders",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following technologies could MOST contribute to the advancement of prosthetic limbs?",
+    "a": "transcranial direct current stimulation",
+    "b": "electroencephalography",
+    "c": "brain-machine interfaces",
+    "d": "magnetic resonance imaging",
+    "e": "photoplethysmography",
+    "correct_answer": "c"
+  },
+  {
+    "question": "In recent years, scientists have created computational models of neurons to better understand",
+    "a": "the interaction of different parts of neurons",
+    "b": "neuronal interaction with other types of cells in the nervous systems",
+    "c": "the reactions that take place as neurons transmit signals",
+    "d": "the chemical composition of neurons",
+    "e": "neurons activity under different circumstances",
+    "correct_answer": "c"
+  },
+  {
+    "question": "How will scientists PRIMARILY use computational neuroscience in the future?",
+    "a": "to create extensive databases of MRI brain scans",
+    "b": "to promote better neurological healthcare to the general public",
+    "c": "to better assess neurological disorders and psychiatric conditions",
+    "d": "to create three-dimensional models of the components of the nervous system",
+    "e": "to communicate new findings with the scientific community",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following occupations will MOST likely use computational neuroscience in the future?",
+    "a": "clinicians",
+    "b": "ecologists",
+    "c": "engineers",
+    "d": "oncologists",
+    "e": "biochemists",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which principle states that a nerve signal is sent at the same intensity regardless of the intensity of the initial impulse?",
+    "a": "the gradual excitation principle",
+    "b": "the all-or-none principle",
+    "c": "the intensity modulation principle",
+    "d": "the threshold excitation principle",
+    "e": "the variable intensity principle",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Electrical potential is also known as",
+    "a": "capacitance",
+    "b": "resistance",
+    "c": "conductance",
+    "d": "current",
+    "e": "voltage",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which molecule causes the release of calcium ions from internal stores into the cytosol?",
+    "a": "cyclic guanosine monophosphate (cGMP)",
+    "b": "cyclic adenosine monophosphate (cAMP)",
+    "c": "adenylate cyclase",
+    "d": "inositol-1,4,5-triphosphate (IP3)",
+    "e": "diacylglycerol",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Millivolt is the unit measuring the",
+    "a": "concentration of ions in a solution",
+    "b": "difference in electrical charge across a membrane",
+    "c": "magnetic field strength around a wire carrying electric current",
+    "d": "rate of electron flow in a circuit",
+    "e": "electrical charge of an electron",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The N170 peak in electrical activity reflects the neural processing of",
+    "a": "faces",
+    "b": "sound",
+    "c": "emotions",
+    "d": "balance",
+    "e": "language",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following scientists provided evidence for the localization of speech and language in the brain’s left side?",
+    "a": "Paul Broca",
+    "b": "Ernest Weber",
+    "c": "Carl Wernicke",
+    "d": "Victor Leborgne",
+    "e": "John Fiske",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the relationship between cones and opsin?",
+    "a": "Cones produce opsin as a byproduct of their metabolic processes.",
+    "b": "Cones contain opsin that absorbs and transduces specific wavelengths or colors of light.",
+    "c": "Cones enhance the production of opsin in the retinal cells.",
+    "d": "Cones regulate the release of opsin into the bloodstream.",
+    "e": "Cones protect opsin from degradation by external factors.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The primary auditory cortex is located in the",
+    "a": "parietal lobe",
+    "b": "frontal lobe",
+    "c": "occipital lobe",
+    "d": "temporal lobe",
+    "e": "insular cortex",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What causes prosopagnosia is caused?",
+    "a": "exposure to certain environmental toxins",
+    "b": "traumatic brain injury or damage to specific brain regions",
+    "c": "genetic factors inherited from parents",
+    "d": "excessive use of electronic devices and screens",
+    "e": "aging and natural cognitive decline",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which type of neurons are MOST prevalent in the cerebral cortex?",
+    "a": "interneurons",
+    "b": "motor neurons",
+    "c": "sensory neurons",
+    "d": "pyramidal cells",
+    "e": "purkinje cells",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What are Schaffer collaterals?",
+    "a": "dendrites of neurons in the CA2 region",
+    "b": "axons of neurons in the entorhinal cortex",
+    "c": "axons of neurons in the CA3 region",
+    "d": "axons of neurons in the CA1 region",
+    "e": "dendrites of neurons in the entorhinal cortex",
+    "correct_answer": "c"
+  },
+  {
+    "question": "The neurotransmitter 5-hydroxytryptamine may also be called the",
+    "a": "GABA",
+    "b": "serotonin",
+    "c": "acetylcholine",
+    "d": "glutamate",
+    "e": "dopamine",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The visual cortex involved in processing visual information may also be called the",
+    "a": "primary somatosensory cortex",
+    "b": "parietal cortex",
+    "c": "striate cortex",
+    "d": "insular cortex",
+    "e": "prefrontal cortex",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the usual voltage range for the threshold of a neuron?",
+    "a": "-55 mV to -40 mV",
+    "b": "-65 mV to -50 mV",
+    "c": "-65 mV to -40 mV",
+    "d": "-80 mV to -65 mV",
+    "e": "-40 mV to -25 mV",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the role of Mg2+ ions in relation to the NMDA receptor?",
+    "a": "They delay the response of the NMDA receptor.",
+    "b": "They regulate the release of glutamate.",
+    "c": "They block the NMDA receptor.",
+    "d": "They enhance the binding of glutamate to the NMDA receptor.",
+    "e": "They modulate the activity of the NMDA receptor.",
+    "correct_answer": "c"
+  }
+]
+

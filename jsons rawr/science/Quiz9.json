@@ -1,0 +1,273 @@
+[
+    {
+        "question": "The main role of the nervous system and its cells is",
+        "a": "ion transportation",
+        "b": "protection",
+        "c": "waste disposal",
+        "d": "communication",
+        "e": "energy production",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which type of cells are responsible for sending action potentials?",
+        "a": "astrocytes",
+        "b": "neurons",
+        "c": "lymphocytes",
+        "d": "oligodendrocytes",
+        "e": "glia",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What type of signals are action potentials?",
+        "a": "nucleic signals",
+        "b": "modulatory signals",
+        "c": "chemical signals",
+        "d": "ionic signals",
+        "e": "electrical signals",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following statements about action potentials is TRUE?",
+        "a": "They can travel long distances.",
+        "b": "They play an important role in nearly every bodily system.",
+        "c": "They can be transported to adjacent cells through channels.",
+        "d": "They are primarily created in the brainstem.",
+        "e": "They are a type of chemical signal.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How can action potentials arise?",
+        "a": "from the movement of proteins across the cell membrane",
+        "b": "from differences in electrical charges across the cell membrane",
+        "c": "from the transfer of energy between adjacent cells",
+        "d": "from the release of dopamine within a cell",
+        "e": "from the binding of a neurotransmitter to the active site of a receptor",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Action potentials may arise because of differences in the concentrations of",
+        "a": "ions",
+        "b": "enzymes",
+        "c": "catecholamines",
+        "d": "acids",
+        "e": "proteins",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Channels in the cell allow for the movement of",
+        "a": "vitamins",
+        "b": "oxygen",
+        "c": "proteins",
+        "d": "energy",
+        "e": "ions",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Where in the cell are channels located?",
+        "a": "in the nucleus",
+        "b": "in the endoplasmic reticulum",
+        "c": "in the cell membrane",
+        "d": "in the cytoskeleton",
+        "e": "in the cytosol",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How can channels be opened or closed?",
+        "a": "by the reception of signals from neurotransmitters",
+        "b": "by catalysts that lower the activation energies of necessary chemical reactions",
+        "c": "by the transport of energy across the cell membrane",
+        "d": "by electrical differences between the inside and outside of the cell",
+        "e": "by the movement of ions within a cell",
+        "correct_answer": "a"
+    },
+    {
+        "question": "When a cell is NOT sending action potentials, it is in the",
+        "a": "resting state",
+        "b": "electronic state",
+        "c": "passive state",
+        "d": "ionic state",
+        "e": "inactive state",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Cells can translate action potentials into",
+        "a": "ionic signals",
+        "b": "chemical signals",
+        "c": "electrical signals",
+        "d": "neuromuscular signals",
+        "e": "magnetic signals",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Why do cells translate action potentials into other types of signals?",
+        "a": "to allow the brain to more easily read these signals",
+        "b": "to transport these signals to adjacent cells",
+        "c": "to reduce the amount of energy needed to transport these signals",
+        "d": "to allow these signals to bind to receptors",
+        "e": "to allow the body to more easily regulate these signals",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Dopamine, norepinephrine, and epinephrine are all examples of",
+        "a": "neurotransmitters",
+        "b": "ions",
+        "c": "enzymes",
+        "d": "pheromones",
+        "e": "amino acids",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following statements about neurotransmitters is FALSE?",
+        "a": "They come in a variety of types, each with a unique role.",
+        "b": "They can be received by specialized receptors.",
+        "c": "They can be translated into action potentials in order to send signals to other neurons.",
+        "d": "They are released during the process of exocytosis.",
+        "e": "They can be produced in the soma.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "How do neurotransmitters differ from action potentials?",
+        "a": "Neurotransmitters arise from electrical differences across the cell membrane.",
+        "b": "Neurotransmitters can travel through channels in the cell membrane.",
+        "c": "Neurotransmitters can travel long distances.",
+        "d": "Neurotransmitters can move across the space between cells.",
+        "e": "Neurotransmitters play an important role in both the nervous and circulatory systems.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which part of the eye converts light into an electrochemical signal?",
+        "a": "the cornea",
+        "b": "the pupil",
+        "c": "the optic disk",
+        "d": "the lens",
+        "e": "the retina",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following parts of the eye controls most of the eye’s refraction?",
+        "a": "the optic disk",
+        "b": "the lens",
+        "c": "the pupil",
+        "d": "the retina",
+        "e": "the cornea",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following phenomena is NOT a possible cause of farsightedness?",
+        "a": "inflexibility of the lens",
+        "b": "aging",
+        "c": "image focusing behind the retina",
+        "d": "abnormality in eyeball shape",
+        "e": "excessive contraction of the iris",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Why are the photoreceptor neurons located in the back of the eye?",
+        "a": "As light travels through the eye, the image becomes more refined.",
+        "b": "Light must pass through the thick fluid that fills the eye for it to be received properly.",
+        "c": "It is impossible for the cornea to refract light correctly onto photoreceptors at the front of the eye.",
+        "d": "The photoreceptors need to be located just behind the pigmented epithelium.",
+        "e": "The center of the eye contains several structures that light needs to pass through before it can be processed.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of these functions matches the purpose of the choroid?",
+        "a": "It helps carry electrical signals from the retina to the optic nerve.",
+        "b": "It brings oxygen and nutrients to photoreceptor cells.",
+        "c": "It purges old and defunct receptor cells from the retina.",
+        "d": "It absorbs excess light entering the eye to prevent scattering.",
+        "e": "It provides support and structure for the retina and surrounding layers.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following options does NOT describe a difference between rods and cones?",
+        "a": "Rods are better for clearer, high-acuity vision, while cones are used in peripheral vision.",
+        "b": "Rods use the opsin rhodopsin, while cones have different opsins that let them process color.",
+        "c": "Rods are located outside the center of the retina, while cones are found in the fovea.",
+        "d": "Rods have more disks on average than cones do.",
+        "e": "Rods are more sensitive to low-light conditions, while cones function better in bright light.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How many types of cones are present in primates?",
+        "a": "one",
+        "b": "six",
+        "c": "five",
+        "d": "three",
+        "e": "two",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which process causes the increased release of transmitters by photoreceptors?",
+        "a": "proprioception",
+        "b": "transduction",
+        "c": "induction",
+        "d": "depolarization",
+        "e": "hyperpolarization",
+        "correct_answer": "d"
+    },
+    {
+        "question": "When do photoreceptors send signals MOST often?",
+        "a": "in stressful conditions",
+        "b": "in conditions with little motion",
+        "c": "in daylight conditions",
+        "d": "in conditions with much motion",
+        "e": "in dark conditions",
+        "correct_answer": "e"
+    },
+    {
+        "question": "How does the opsin’s absorption of light affect the molecule inside?",
+        "a": "The molecule’s shape is altered.",
+        "b": "The molecule’s movement is accelerated.",
+        "c": "The molecule is split apart.",
+        "d": "The molecule is destroyed.",
+        "e": "The molecule is sent elsewhere.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of these proteins will prompt an opsin to activate phosphodiesterase?",
+        "a": "S protein",
+        "b": "R protein",
+        "c": "G protein",
+        "d": "N protein",
+        "e": "A protein",
+        "correct_answer": "c"
+    },
+    {
+        "question": "The enzyme phosphodiesterase breaks down which of the following molecules?",
+        "a": "inositol-1,4,5-triphosphate",
+        "b": "cyclic guanosine monophosphate",
+        "c": "glutamate",
+        "d": "diacylglycerol",
+        "e": "kinase C",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Cyclic GMP is responsible for",
+        "a": "aiding synapses between neurons",
+        "b": "keeping special ion channels open",
+        "c": "halting the absorption of light",
+        "d": "enabling transduction",
+        "e": "depolarizing photoreceptors",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which two elements depolarize receptor cells?",
+        "a": "potassium and phosphorus",
+        "b": "carbon and hydrogen",
+        "c": "sodium and calcium",
+        "d": "iron and potassium",
+        "e": "zinc and nitrogen",
+        "correct_answer": "c"
+    },
+    {
+        "question": "With which other group of cells do bipolar cells synapse with which other group of cells?",
+        "a": "amacrine cells",
+        "b": "horizontal cells",
+        "c": "other bipolar cells",
+        "d": "lateral cells",
+        "e": "retinal ganglion cells",
+        "correct_answer": "e"
+    }
+]
+

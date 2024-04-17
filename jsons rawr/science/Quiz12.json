@@ -1,0 +1,273 @@
+[
+    {
+        "question": "Unlike the visual system, the auditory system",
+        "a": "is more direct and straightforward",
+        "b": "bypasses the brainstem nuclei",
+        "c": "lacks alternative pathways connecting the nuclei",
+        "d": "keeps left and right ear input separate",
+        "e": "has more stops at different brainstem nuclei",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What happens to the inputs from the left and right ears in the auditory pathway?",
+        "a": "They are processed in different brainstem nuclei.",
+        "b": "They remain separate throughout the pathway.",
+        "c": "They converge in the visual cortex.",
+        "d": "They are entirely bypassed in the pathway.",
+        "e": "They mix together quickly after reaching the cochlear nerve.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How does the brainstem calculate the location of a sound in space?",
+        "a": "creating a spatial map in the cochlea",
+        "b": "detecting interaural time delay",
+        "c": "analyzing the interaural intensity",
+        "d": "bypassing the auditory nuclei in the brainstem",
+        "e": "relying on the visual system for spatial information",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What PRIMARY method does the cochlea use to organize sounds?",
+        "a": "analyzing the frequency",
+        "b": "analyzing the interaural intensity differences",
+        "c": "detecting the sound shadow",
+        "d": "creating a spatial map of the world",
+        "e": "analyzing the interaural time delay",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Where do all the ascending auditory pathways converge?",
+        "a": "inferior colliculus",
+        "b": "auditory cortex",
+        "c": "superior colliculus",
+        "d": "medial geniculate nucleus (MGN)",
+        "e": "thalamus",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which term refers to the auditory portion of the thalamus?",
+        "a": "inferior colliculus",
+        "b": "medial geniculate nucleus (MGN)",
+        "c": "auditory cortex",
+        "d": "superior colliculus",
+        "e": "visual system",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What is the role of the medial geniculate nucleus (MGN) in the auditory system?",
+        "a": "converging all ascending auditory pathways",
+        "b": "processing visual information",
+        "c": "enhancing sound localization",
+        "d": "transmitting auditory signals to the inferior colliculus",
+        "e": "influencing the direction and maintenance of attention",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Where is the primary auditory cortex (A1) located?",
+        "a": "insular cortex",
+        "b": "inferior colliculus",
+        "c": "frontal lobe",
+        "d": "temporal lobe",
+        "e": "parietal lobe",
+        "correct_answer": "d"
+    },
+    {
+        "question": "From which structure does the primary auditory cortex (A1) receive its input?",
+        "a": "visual cortex",
+        "b": "medial geniculate nucleus (MGN)",
+        "c": "frontal lobe",
+        "d": "inferior colliculus",
+        "e": "auditory nerve",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which layer of the cortex does the input from the MGN target in the primary auditory cortex (A1)?",
+        "a": "second layer",
+        "b": "fourth layer",
+        "c": "fifth layer",
+        "d": "third layer",
+        "e": "first layer",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which lobes of the brain surround the primary auditory cortex (A1)?",
+        "a": "temporal and parietal lobes",
+        "b": "frontal and temporal lobes",
+        "c": "parietal and occipital lobes",
+        "d": "occipital and frontal lobes",
+        "e": "frontal and parietal lobes",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which type of tuning do neurons in the primary auditory cortex (A1) have?",
+        "a": "texture tuning",
+        "b": "shape tuning",
+        "c": "color tuning",
+        "d": "motion tuning",
+        "e": "intensity tuning",
+        "correct_answer": "e"
+    },
+    {
+        "question": "The primary auditory cortex contains a(n)",
+        "a": "visual map",
+        "b": "gustatory map",
+        "c": "tonotopic map",
+        "d": "olfactory map",
+        "e": "somatosensory map",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which region of the cortex is better understood than the primary auditory cortex?",
+        "a": "motor cortex",
+        "b": "visual cortex (V1)",
+        "c": "somatosensory cortex",
+        "d": "olfactory cortex",
+        "e": "prefrontal cortex",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which region of the brain receives the auditory signal from the inferior colliculus?",
+        "a": "amygdala",
+        "b": "cerebellum",
+        "c": "hippocampus",
+        "d": "thalamus",
+        "e": "hypothalamus",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which senses are evolutionarily considered the oldest senses?",
+        "a": "smell and touch",
+        "b": "vision and touch",
+        "c": "vision and hearing",
+        "d": "taste and smell",
+        "e": "hearing and touch",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following types of receptors are present in the tongue?",
+        "a": "mechanoreceptors",
+        "b": "chemoreceptors",
+        "c": "thermoreceptors",
+        "d": "photoreceptors",
+        "e": "electromagnetic receptors",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The flavor 'umami' is found in foods rich in",
+        "a": "lauric acid",
+        "b": "fiber",
+        "c": "vitamins",
+        "d": "carbohydrates",
+        "e": "amino acid",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which scientist identified the taste umami?",
+        "a": "Isamu Akasaki",
+        "b": "Tasuku Honjo",
+        "c": "Hideki Yukawa",
+        "d": "Yoshinori Ohsumi",
+        "e": "Kikunae Ikeda",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Why are salty tastes important?",
+        "a": "They warn us away from potential allergens.",
+        "b": "They help maintain our body's homeostasis.",
+        "c": "They indicate a food source dense in calories.",
+        "d": "They provide essential vitamins and minerals.",
+        "e": "They indicate the presence of toxins.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which aspect of food is NOT based on the basic sense of taste?",
+        "a": "saltiness",
+        "b": "flavor",
+        "c": "temperature",
+        "d": "texture",
+        "e": "spiciness",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Where can taste buds be found?",
+        "a": "on the roof of the mouth",
+        "b": "on the back of the throat",
+        "c": "on the surface of the lips",
+        "d": "on the tongue's bumps",
+        "e": "inside the cheeks",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What are the bumps on the tongue called?",
+        "a": "taste buds",
+        "b": "sweet cells",
+        "c": "papillae",
+        "d": "taste cells",
+        "e": "receptors",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How are taste cells organized in relation to the five basic tastes?",
+        "a": "Taste cells contain receptors for complex flavors, not basic tastes.",
+        "b": "Each taste cell contains receptors for two or three tastes.",
+        "c": "Each taste cell contains receptors for all five tastes.",
+        "d": "Taste cells contain receptors for only one basic taste.",
+        "e": "Taste cells do not have specific receptors for any taste.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How do sour tastants depolarize taste cells?",
+        "a": "by binding to G-protein-coupled receptors",
+        "b": "by inhibiting potassium leak channels",
+        "c": "by entering via dedicated ion channels",
+        "d": "by triggering IP3 production",
+        "e": "by activating calcium channels",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the two basic tastes have the simplest transduction mechanism?",
+        "a": "sweet and salty",
+        "b": "sour and umami",
+        "c": "bitter and sour",
+        "d": "umami and salty",
+        "e": "salty and sour",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which pathway is triggered by umami tastants and some types of bitter tastants?",
+        "a": "IP3 pathway",
+        "b": "PLC pathway",
+        "c": "potassium pathway",
+        "d": "calcium pathway",
+        "e": "sodium pathway",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How many cranial nerves help carry taste information to the brain?",
+        "a": "four",
+        "b": "three",
+        "c": "two",
+        "d": "five",
+        "e": "six",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Where is the primary gustatory cortex located?",
+        "a": "parietal cortex",
+        "b": "pyriform cortex",
+        "c": "sensory cortex",
+        "d": "insular cortex",
+        "e": "entorhinal cortex",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What is the role of the gustatory nucleus in taste processing?",
+        "a": "It depolarizes taste cells in the tongue.",
+        "b": "It releases neurotransmitters to other brain regions.",
+        "c": "It carries information from cranial nerves to the brainstem.",
+        "d": "It triggers action potentials in secondary taste cells.",
+        "e": "It projects taste information to the thalamus.",
+        "correct_answer": "c"
+    }
+]
+

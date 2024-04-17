@@ -1,0 +1,318 @@
+[
+  {
+    "question": "The function of microglia is MOST similar to that of the",
+    "a": "endocrine system",
+    "b": "integumentary system",
+    "c": "reproductive system",
+    "d": "nervous system",
+    "e": "immune system",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following glia types myelinates nerves within skin tissue?",
+    "a": "microglia",
+    "b": "Schwann cells",
+    "c": "astrocytes",
+    "d": "oligodendrocytes",
+    "e": "soma cells",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Hyperactive microglia can cause",
+    "a": "Alzheimer’s disease",
+    "b": "Parkinson’s disease",
+    "c": "Huntington's disease",
+    "d": "Friedreich’s ataxia",
+    "e": "Lewy body disease",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Where are oligodendrocytes located?",
+    "a": "somatic nervous system",
+    "b": "parasympathetic nervous system",
+    "c": "peripheral nervous system",
+    "d": "central nervous system",
+    "e": "autonomic nervous system",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The central nervous system is composed of the",
+    "a": "skeletal system and internal organs",
+    "b": "internal organs and muscles",
+    "c": "brain and spinal cord",
+    "d": "spinal cord and skeletal system",
+    "e": "brain, muscles, and skin",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following types of cells is responsible for decreasing the flow of nutrients to the brain?",
+    "a": "oligodendrocytes",
+    "b": "Ranvier cells",
+    "c": "astrocytes",
+    "d": "microglia",
+    "e": "Schwann cells",
+    "correct_answer": "c"
+  },
+  {
+    "question": "A macrophage functions similarly to",
+    "a": "neurons",
+    "b": "platelets",
+    "c": "microglia",
+    "d": "astrocytes",
+    "e": "Schwann cells",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following actions do glial cells NOT conduct?",
+    "a": "carrying electrical impulses to neurons",
+    "b": "forming barriers around the brain",
+    "c": "clearing dead neurons",
+    "d": "nourishing neurons",
+    "e": "forming sheaths around axons",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Inflammation of the brain may be caused by",
+    "a": "microglia",
+    "b": "dendrites",
+    "c": "the soma",
+    "d": "oligodendrocytes",
+    "e": "the blood brain barrier",
+    "correct_answer": "a"
+  },
+  {
+    "question": "The central nervous system is isolated from the rest of the body due to",
+    "a": "astrocytes",
+    "b": "gray matter",
+    "c": "oligodendrocytes",
+    "d": "the myelin sheath",
+    "e": "microglia",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following cells are unable to replenish themselves?",
+    "a": "skin cells",
+    "b": "blood cells",
+    "c": "glia",
+    "d": "stem cells",
+    "e": "neurons",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Brain inflammation is likely due to glial cells being",
+    "a": "hyperactive",
+    "b": "missing",
+    "c": "damaged",
+    "d": "mutated",
+    "e": "underactive",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following actions is NOT a negative effect of the blood brain barrier?",
+    "a": "separating the immune system from the brain",
+    "b": "keeping foreign substances from traveling with bloodstream into the brain",
+    "c": "preventing drugs from entering the brain",
+    "d": "decreasing nourishment of neurons in the brain",
+    "e": "isolating the central nervous system from the rest of the body",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Schwann cells are a type of",
+    "a": "oligodendrocyte",
+    "b": "brain tissue",
+    "c": "myelinating glia",
+    "d": "neuron",
+    "e": "microglia",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following pairs of glial cells are MOST similar?",
+    "a": "astrocytes and oligodendrocytes",
+    "b": "oligodendrocytes and Schwann cells",
+    "c": "microglia and astrocytes",
+    "d": "Schwann cells and microglia",
+    "e": "microglia and oligodendrocytes",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The function of cells in the nervous system usually correlates directly with their",
+    "a": "location",
+    "b": "composition",
+    "c": "color",
+    "d": "shape",
+    "e": "size",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How many layers of meninges surround the central nervous system?",
+    "a": "four",
+    "b": "five",
+    "c": "two",
+    "d": "three",
+    "e": "six",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The brain and the spinal cord make up the",
+    "a": "parasympathetic nervous system",
+    "b": "peripheral nervous system",
+    "c": "somatic nervous system",
+    "d": "sympathetic nervous system",
+    "e": "central nervous system",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following tissues encases the parts of the central nervous system?",
+    "a": "blood",
+    "b": "cartilage",
+    "c": "fat",
+    "d": "bone",
+    "e": "lymph tissue",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How are central nervous system tissues directly protected from the outside?",
+    "a": "Protective bones directly connect to the tissues.",
+    "b": "Layers of meninges surround the central nervous system.",
+    "c": "The tissues are filled with cerebrospinal fluid.",
+    "d": "Muscle tissue below the skull helps protect the tissue.",
+    "e": "The spinal cord encases the tissues.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The three layers of the meninges are the",
+    "a": "dura mater, arachnoid mater, and pia mater",
+    "b": "epidural space, subdural space, pia mater",
+    "c": "arachnoid mater, epidural space, and subarachnoid space",
+    "d": "epidural space, subarachnoid space, and subdural space",
+    "e": "pia mater, epidural space, and dura mater",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Dura mater is Latin for",
+    "a": "caring mother",
+    "b": "tough mother",
+    "c": "gentle mother",
+    "d": "soft mother",
+    "e": "strong mother",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The dura mater is best described as",
+    "a": "thick and bristly",
+    "b": "thin and leathery",
+    "c": "thick and leathery",
+    "d": "thin and rough",
+    "e": "compact and rough",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following structures helps absorb shock from sudden blows to the head?",
+    "a": "subdural space",
+    "b": "dura mater",
+    "c": "cerebrospinal fluid",
+    "d": "arachnoid membrane",
+    "e": "epidural space",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The epidural space can be useful for",
+    "a": "detecting disease",
+    "b": "restoring oxygen levels",
+    "c": "observing brain waves",
+    "d": "injecting medications",
+    "e": "examining blood flow",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following statements is NOT true about the arachnoid membrane?",
+    "a": "It is located next to the dura mater.",
+    "b": "Its name originates from its web-like appearance.",
+    "c": "It is considered to be a meninge.",
+    "d": "It features long, stringy components.",
+    "e": "It delivers nutrients and oxygen to neurons.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The dura mater and the arachnoid membrane are immediately adjacent EXCEPT when",
+    "a": "medications are injected",
+    "b": "blood flow is limited",
+    "c": "there is trauma to the brain",
+    "d": "new neurons are created",
+    "e": "the brain lacks cerebrospinal fluid",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following structures does blood pool into to relieve pressure?",
+    "a": "subdural space",
+    "b": "pia mater",
+    "c": "subarachnoid space",
+    "d": "epidural space",
+    "e": "arachnoid membrane",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following structures is filled with cerebrospinal fluid?",
+    "a": "subarachnoid space",
+    "b": "arachnoid membrane",
+    "c": "subdural space",
+    "d": "dura mater",
+    "e": "epidural space",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Cerebrospinal fluid MAINLY functions to",
+    "a": "allow the brain to float",
+    "b": "facilitate plasticity of the brain",
+    "c": "soften the arachnoid membrane",
+    "d": "supply oxygen to neurons",
+    "e": "provide mobility to the spinal cord",
+    "correct_answer": "a"
+  },
+  {
+    "question": "To which of the following cell types do blood vessels in the subarachnoid space deliver nutrients?",
+    "a": "white blood cells",
+    "b": "cartilage",
+    "c": "muscle",
+    "d": "glial",
+    "e": "bone",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The thinness of the pia mater helps it",
+    "a": "connect directly to the arachnoid mater",
+    "b": "absorb shock from head trauma",
+    "c": "restrict the passing of blood vessels",
+    "d": "drain blood from the subdural space",
+    "e": "keep cerebrospinal fluid outside the brain",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The subdural space is directly between the",
+    "a": "bone of skull and epidural space",
+    "b": "dura mater and arachnoid mater",
+    "c": "dura mater and epidural space",
+    "d": "bone of skull and dura mater",
+    "e": "arachnoid mater and pia mater",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following layers of the meninges is Latin for 'gentle mother'?",
+    "a": "arachnoid mater",
+    "b": "subdural mater",
+    "c": "pia mater",
+    "d": "epidural mater",
+    "e": "dura mater",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following structures is nearest to the brain?",
+    "a": "dura mater",
+    "b": "arachnoid mater",
+    "c": "bone of skull",
+    "d": "subdural space",
+    "e": "subarachnoid space",
+    "correct_answer": "e"
+  }
+]
+

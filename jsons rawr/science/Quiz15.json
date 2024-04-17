@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Which categorization classifies the descending motor pathways?",
+    "a": "voluntary versus involuntary movement",
+    "b": "sensory versus motor information",
+    "c": "dorsal versus ventral pathway",
+    "d": "upper motor neuron versus lower motor neuron",
+    "e": "cortical versus subcortical pathways",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What determines the type of descending motor pathway used for muscle control?",
+    "a": "the location of the muscle in the body",
+    "b": "the size of the muscle being controlled",
+    "c": "the intensity of the motor command",
+    "d": "the origin of motor information",
+    "e": "the level of conscious awareness required",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which tracts are commonly referred to as the lateral motor system?",
+    "a": "rubrospinal tract and vestibulospinal tract",
+    "b": "corticospinal tract and rubrospinal tract",
+    "c": "corticospinal tract and corticobulbar tract",
+    "d": "corticobulbar tract and rubrospinal tract",
+    "e": "rubrospinal tract and tectospinal tract",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which system controls voluntary movement of the facial muscles?",
+    "a": "corticospinal system",
+    "b": "tectospinal system",
+    "c": "vestibulospinal system",
+    "d": "rubrospinal system",
+    "e": "corticobulbar system",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following sides of the medulla shows the presence of the corticospinal tract?",
+    "a": "ventral",
+    "b": "dorsal",
+    "c": "rostral",
+    "d": "lateral",
+    "e": "caudal",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which tract controls brainstem nuclei but is excluded from the spinal cord?",
+    "a": "vestibulospinal tract",
+    "b": "corticobulbar tract",
+    "c": "corticospinal tract",
+    "d": "rubrospinal tract",
+    "e": "tectospinal tract",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What type of pathway is the corticospinal tract?",
+    "a": "monosynaptic",
+    "b": "descending",
+    "c": "ascending",
+    "d": "polysynaptic",
+    "e": "bimodal",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is the main characteristic of the axons in the corticospinal tract?",
+    "a": "They originate in the red nucleus.",
+    "b": "They synapse directly on skeletal muscles.",
+    "c": "They are short in length.",
+    "d": "They do not decussate.",
+    "e": "They are the longest in the human body.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Where does the corticospinal tract pathway decussate?",
+    "a": "medulla",
+    "b": "spinal cord",
+    "c": "brainstem",
+    "d": "cerebral cortex",
+    "e": "midbrain",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What does the rubrospinal tract control in humans?",
+    "a": "muscle tone",
+    "b": "sensory processing",
+    "c": "reflexive movements",
+    "d": "voluntary limb movement",
+    "e": "balance and coordination",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which tract plays a larger role in other animals than in humans for carrying voluntary movement signals to the limbs?",
+    "a": "tectospinal tract",
+    "b": "corticobulbar tract",
+    "c": "vestibulospinal tract",
+    "d": "corticospinal tract",
+    "e": "rubrospinal tract",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What is the main function of the tectospinal tract?",
+    "a": "directing torso and trunk muscles",
+    "b": "controlling neck and back muscles",
+    "c": "maintaining balance",
+    "d": "extending leg muscles",
+    "e": "responding to visual and auditory stimuli",
+    "correct_answer": "e"
+  },
+  {
+    "question": "From which segment of the brainstem does the reticulospinal tract arise?",
+    "a": "cerebral cortex",
+    "b": "brainstem",
+    "c": "spinal cord",
+    "d": "medulla",
+    "e": "pons",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Damage to the ventromedial pathways PRIMARILY affects the",
+    "a": "limb muscles",
+    "b": "neck muscles",
+    "c": "core body muscles",
+    "d": "leg muscles",
+    "e": "facial muscles",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which structures are primarily considered to be motor structures?",
+    "a": "basal ganglia and cerebellum",
+    "b": "thalamus and basal ganglia",
+    "c": "cerebellum and thalamus",
+    "d": "motor cortex and cerebellum",
+    "e": "motor cortex and basal ganglia",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which brain structure is damaged in Parkinson's and Huntington's disease?",
+    "a": "hippocampus",
+    "b": "prefrontal cortex",
+    "c": "cerebellum",
+    "d": "basal ganglia",
+    "e": "amygdala",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which part of the brainstem is considered a functional part of the basal ganglia?",
+    "a": "substantia nigra",
+    "b": "medulla",
+    "c": "hippocampus",
+    "d": "cerebellum",
+    "e": "pons",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which region of the basal ganglia inhibits the inhibitory neuron in the globus pallidus in the direct pathway?",
+    "a": "substantia nigra",
+    "b": "putamen",
+    "c": "globus pallidus",
+    "d": "caudate",
+    "e": "subthalamic nucleus",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What is the function of the indirect pathway in the basal ganglia?",
+    "a": "to regulate memory formation",
+    "b": "to inhibit movement",
+    "c": "to activate the cortex",
+    "d": "to control sensory perception",
+    "e": "to coordinate emotional responses",
+    "correct_answer": "b"
+  },
+  {
+    "question": "How does the depolarization of direct pathway neurons contribute to movement?",
+    "a": "It decreases the release of dopamine, leading to movement impairment.",
+    "b": "It selectively activates excitatory neurons in the spinal cord.",
+    "c": "It promotes the release of GABA, which inhibits movement.",
+    "d": "It enhances the input to the cortex, facilitating movement.",
+    "e": "It inhibits the input to the cortex, resulting in movement suppression.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following types of dopamine receptors is present in indirect pathway neurons?",
+    "a": "D2",
+    "b": "D1",
+    "c": "D4",
+    "d": "D3",
+    "e": "D5",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the role of the substantia nigra in relation to the direct and indirect pathways?",
+    "a": "inhibiting the direct pathway only",
+    "b": "exciting the direct pathway only",
+    "c": "exciting the direct pathway and inhibiting the indirect pathway",
+    "d": "exciting the indirect pathway only",
+    "e": "inhibiting the indirect pathway only",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What percentage of the brain's volume does the cerebellum occupy?",
+    "a": "50%",
+    "b": "5%",
+    "c": "25%",
+    "d": "10%",
+    "e": "20%",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which part of the cerebellum contains almost all the neurons?",
+    "a": "flocculonodular lobe",
+    "b": "dentate nucleus",
+    "c": "cerebellar deep nuclei",
+    "d": "cerebellar cortex",
+    "e": "fastigial nucleus",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What type of information is processed by sections of the cerebellar cortex that connect to the fastigial nucleus?",
+    "a": "somatosensory information",
+    "b": "visual information",
+    "c": "auditory information",
+    "d": "vestibular information",
+    "e": "motor commands",
+    "correct_answer": "d"
+  },
+  {
+    "question": "To which output tracts do the fastigial nucleus and interposed nucleus project, respectively?",
+    "a": "vestibulospinal tract and reticulospinal tract",
+    "b": "corticospinal tract and rubrospinal tract",
+    "c": "reticulospinal tract and corticospinal tract",
+    "d": "rubrospinal tract and corticospinal tract",
+    "e": "rubrospinal tract and vestibulospinal tract",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the unique feature of the dendritic tree of Purkinje cells in the cerebellar cortex?",
+    "a": "lack of dendrites",
+    "b": "vertical orientation",
+    "c": "three-dimensional structure",
+    "d": "highly branched network",
+    "e": "spherical shape",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the main function of the cerebellar circuitry involving the Purkinje cells?",
+    "a": "memory formation",
+    "b": "motor learning",
+    "c": "emotional regulation",
+    "d": "emotional regulation",
+    "e": "visual processing",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What role does the cerebellum play in motor learning?",
+    "a": "controlling posture",
+    "b": "sensory processing",
+    "c": "fine-tuning movements",
+    "d": "language processing",
+    "e": "initiating movement",
+    "correct_answer": "c"
+  },
+  {
+    "question": "How does cerebellar damage affect a patient's ability to adapt to the prism goggles experiment?",
+    "a": "They remain accurate even after removing the goggles.",
+    "b": "Their accuracy remains low and does not improve.",
+    "c": "Their accuracy becomes too high, overshooting the target.",
+    "d": "Their accuracy increases due to enhanced visual input.",
+    "e": "Their accuracy fluctuates between high and low levels.",
+    "correct_answer": "e"
+  }
+]
+

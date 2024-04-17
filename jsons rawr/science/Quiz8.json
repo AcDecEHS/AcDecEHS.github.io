@@ -1,0 +1,273 @@
+[
+    {
+        "question": "Which term describes the area of the postsynaptic membrane by the synaptic cleft that is densely clustered with receptors and their attached molecular machinery?",
+        "a": "receptor conformation zone",
+        "b": "synaptic density zone",
+        "c": "neurotransmitter junction",
+        "d": "postsynaptic density",
+        "e": "membrane activation cluster",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What are the two main categories of postsynaptic receptors mentioned in the passage?",
+        "a": "ionotropic receptors and synaptic cleft receptors",
+        "b": "neurotransmitter-gated ion channels and G-protein coupled receptors",
+        "c": "ligand-gated ion channel receptors and G-protein coupled receptors",
+        "d": "metabotropic receptors and synaptic density receptors",
+        "e": "ligand-gated ion channel receptors and neurotransmitter receptors",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What is the name given to the brief and transient depolarization that occurs when positive ions flow in through an ionotropic receptor?",
+        "a": "excitatory postsynaptic potential",
+        "b": "temporal summation",
+        "c": "inhibitory postsynaptic potential",
+        "d": "action potential initiation",
+        "e": "spatial summation",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What determines whether an ionotropic receptor has an excitatory or inhibitory impact on the postsynaptic cell?",
+        "a": "the type of ions flowing through the receptor",
+        "b": "the location of the synapse on the dendrites of the neuron",
+        "c": "the duration of neurotransmitter binding to the receptor",
+        "d": "the number of neurotransmitter molecules bound to the receptor",
+        "e": "the type of neurotransmitter bound to the receptor",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which term describes the phenomenon where EPSPs and IPSPs from multiple synapses across the cell are added together?",
+        "a": "action potential initiation",
+        "b": "synaptic integration",
+        "c": "membrane hyperpolarization",
+        "d": "temporal summation",
+        "e": "spatial summation",
+        "correct_answer": "e"
+    },
+    {
+        "question": "At which of the following locations are summed inputs assessed to see if the overall changes in charge meet the threshold?",
+        "a": "dendrites",
+        "b": "synaptic cleft",
+        "c": "neurotransmitter receptors",
+        "d": "postsynaptic density",
+        "e": "axon hillock",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What is the main difference between ionotropic receptors and metabotropic receptors?",
+        "a": "Ionotropic receptors change the postsynaptic membrane potential, while metabotropic receptors alter the cell's metabolism.",
+        "b": "Ionotropic receptors are ligand-gated, while metabotropic receptors are voltage-gated.",
+        "c": "Ionotropic receptors have a more widespread effect, while metabotropic receptors have a localized effect.",
+        "d": "Ionotropic receptors work slowly, while metabotropic receptors work quickly.",
+        "e": "Ionotropic receptors activate proteins, while metabotropic receptors are themselves ion channels.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What is the role of G proteins in the metabotropic receptor pathway?",
+        "a": "They alter the cell's metabolism by phosphorylating molecules.",
+        "b": "They activate ion channels by binding to the cytosolic side of the receptor.",
+        "c": "They allow ions to flow into the cell by opening ligand-gated ion channels.",
+        "d": "They directly bind to neurotransmitter molecules.",
+        "e": "They split into subunits upon neurotransmitter binding.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which main characteristic of metabotropic receptors allows for more complex types of responses compared to ionotropic receptors?",
+        "a": "They activate G proteins in a series of steps.",
+        "b": "They are ligand-gated ion channels.",
+        "c": "They directly change the postsynaptic membrane potential.",
+        "d": "They phosphorylate molecules using protein kinase C (PKC).",
+        "e": "They open ion channels facing the cytosol.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which term describes the ligand-gated ion channel with its binding site inside the cell, facing the cytosol, and specific for a particular G protein subunit?",
+        "a": "ionotropic receptor",
+        "b": "metabotropic receptor",
+        "c": "phospholipase C (PLC)",
+        "d": "protein kinase C (PKC)",
+        "e": "inositol-1,4,5-triphosphate (IP3)",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following pathways involves the metabotropic activation of protein kinase C (PKC)?",
+        "a": "effector protein pathway",
+        "b": "metabolic cascade pathway",
+        "c": "protein phosphorylation pathway",
+        "d": "inositol-1,4,5-triphosphate (IP3) pathway",
+        "e": "phospholipase C (PLC) pathway",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What is the role of protein kinase C (PKC) in the metabotropic receptor pathway?",
+        "a": "It activates G proteins upon neurotransmitter binding.",
+        "b": "It splits phospholipase C (PLC) into IP3 and DAG molecules.",
+        "c": "It opens ligand-gated ion channels on the postsynaptic membrane.",
+        "d": "It alters the cell's metabolism by acting as an effector protein.",
+        "e": "It phosphorylates molecules, adding phosphate groups to them.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What is the role of IP3 in the metabotropic receptor pathway?",
+        "a": "It phosphorylates target proteins, impacting cell function.",
+        "b": "It facilitates the reuptake of neurotransmitters.",
+        "c": "It amplifies the activation of ion channels.",
+        "d": "It opens ligand-gated calcium channels on the endoplasmic reticulum.",
+        "e": "It diffuses away within the cytosol as a second messenger.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What is the function of DAG in the metabotropic receptor pathway?",
+        "a": "It promotes the breakdown of ATP into ADP.",
+        "b": "It binds to G-protein-coupled receptors.",
+        "c": "It increases the sensitivity of postsynaptic receptors.",
+        "d": "It enhances the synthesis of neurotransmitters.",
+        "e": "It activates protein kinase C (PKC).",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What is the advantage of the metabotropic receptor pathway compared to the ionotropic pathway?",
+        "a": "It involves ligand-gated calcium channels.",
+        "b": "It produces a quicker effect.",
+        "c": "It activates more ion channels.",
+        "d": "It amplifies the signal.",
+        "e": "It involves ligand-gated ion channels.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which part of the neural communication process do SSRIs affect?",
+        "a": "strength of the action potential",
+        "b": "neurotransmitter release",
+        "c": "timing of the refractory period",
+        "d": "neurotransmitter reuptake",
+        "e": "threshold potential",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following statements BEST describes the function of a competitive agonist?",
+        "a": "It binds to the same binding site as a neurotransmitter, amplifying its effect.",
+        "b": "It interferes with a neurotransmitter’s reuptake, amplifying its effect.",
+        "c": "It alters the conformation of a neurotransmitter receptor, inhibiting its effect.",
+        "d": "It reduces the amount of a neurotransmitter that is released, inhibiting its effect.",
+        "e": "It inhibits the synthesis of a neurotransmitter, inhibiting its effect.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What effect does an allosteric modulator have on neural communication?",
+        "a": "altering neurotransmitter production",
+        "b": "reducing neurons’ sensitivity to incoming signals",
+        "c": "blocking the function of reuptake transporters",
+        "d": "increasing the activity of a neurotransmitter",
+        "e": "reducing the amount of neurotransmitter released",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following substances is endogenous to the brain?",
+        "a": "competitive agonists",
+        "b": "acetylcholine",
+        "c": "Prozac",
+        "d": "L-DOPA",
+        "e": "partial agonists",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What condition is L-DOPA used to treat?",
+        "a": "Huntington’s disease",
+        "b": "Alzheimer’s disease",
+        "c": "Parkinson’s disease",
+        "d": "mood disorders",
+        "e": "schizophrenia",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What is the most common excitatory neurotransmitter in the brain?",
+        "a": "serotonin",
+        "b": "GABA",
+        "c": "dopamine",
+        "d": "glutamate",
+        "e": "norepinephrine",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What response is expected from the administration of a GABA agonist?",
+        "a": "an activation of the fight or flight response",
+        "b": "an increase in neuronal death",
+        "c": "an increase in EPSPs",
+        "d": "a calming effect",
+        "e": "an uplifting effect on mood",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What does excitotoxicity refer to?",
+        "a": "neuronal death occurring due to an excess of glutamate",
+        "b": "dysregulation of the reward system due to an excess of dopamine",
+        "c": "failure of the respiratory system due to an excess of acetylcholine",
+        "d": "weakening of the heart due to a prolonged stress reaction",
+        "e": "malfunctions of the blood-brain barrier",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What is another name for the neurotransmitter epinephrine?",
+        "a": "psilocybin",
+        "b": "adrenaline",
+        "c": "catecholamine",
+        "d": "glutamate",
+        "e": "norepinephrine",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What function does dopamine produced in the substantia nigra facilitate?",
+        "a": "reward responses",
+        "b": "memory consolidation",
+        "c": "seizure regulation",
+        "d": "auditory perception",
+        "e": "voluntary movement",
+        "correct_answer": "e"
+    },
+    {
+        "question": "The development of schizophrenia is associated with the dysregulation of",
+        "a": "GABA",
+        "b": "serotonin",
+        "c": "acetylcholine",
+        "d": "dopamine",
+        "e": "epinephrine",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following parts of the brain produces norepinephrine?",
+        "a": "ventral tegmental area",
+        "b": "adrenal glands",
+        "c": "locus coeruleus",
+        "d": "amygdala",
+        "e": "pituitary gland",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which neurotransmitter is produced in the raphe nuclei?",
+        "a": "dopamine",
+        "b": "norepinephrine",
+        "c": "glutamate",
+        "d": "serotonin",
+        "e": "GABA",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What effect would be MOST likely to occur due to exposure to Sarin gas, an acetylcholine dysregulator?",
+        "a": "disrupted melatonin production",
+        "b": "reduced capacity for complex reasoning",
+        "c": "improper function of the heart and lungs",
+        "d": "impaired visual processing",
+        "e": "violent mood swings",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following substances acts as a partial acetylcholine agonist?",
+        "a": "cocaine",
+        "b": "MDMA",
+        "c": "Zoloft",
+        "d": "nicotine",
+        "e": "methamphetamine",
+        "correct_answer": "d"
+    }
+]
+

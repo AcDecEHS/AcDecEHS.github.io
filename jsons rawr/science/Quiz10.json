@@ -1,0 +1,273 @@
+[
+  {
+    "question": "How do photoreceptors in the retina respond to light?",
+    "a": "depolarizing the receptor cell",
+    "b": "synthesizing G-proteins",
+    "c": "activating the ion channels",
+    "d": "triggering the neurotransmitter release",
+    "e": "hyperpolarizing the receptor cell",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What happens when the opsin encounters a G protein in photoreceptors?",
+    "a": "The G protein binds to the ion channels and opens them.",
+    "b": "The G protein initiates depolarization of the receptor cell.",
+    "c": "The G protein triggers neurotransmitter release.",
+    "d": "The opsin breaks down cyclic guanosine monophosphate (cyclic GMP).",
+    "e": "The opsin activates the enzyme phosphodiesterase.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the role of cyclic guanosine monophosphate (cyclic GMP) in photoreceptors?",
+    "a": "keeping the ion channels closed",
+    "b": "activating the opsin pigment",
+    "c": "promoting neurotransmitter release",
+    "d": "breaking down phosphodiesterase",
+    "e": "triggering hyperpolarization of the receptor cell",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What neurotransmitter do depolarized photoreceptor cells release in the dark?",
+    "a": "acetylcholine",
+    "b": "dopamine",
+    "c": "glutamate",
+    "d": "GABA",
+    "e": "serotonin",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which cells form connections between central rod or cone cells and other photoreceptors and bipolar cells?",
+    "a": "ganglion cells",
+    "b": "amacrine cells",
+    "c": "glial cells",
+    "d": "horizontal cells",
+    "e": "interneurons",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the purpose of center-surround receptive fields in the retina?",
+    "a": "stimulating the activity of horizontal cells",
+    "b": "inhibiting the stimulation of surrounding neurons",
+    "c": "facilitating neurotransmitter release in bipolar cells",
+    "d": "increasing the size of receptive fields in the fovea",
+    "e": "transmitting visual signals to the brain",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is the function of amacrine cells in the retina?",
+    "a": "distributing information from bipolar cells to multiple ganglion cells",
+    "b": "inhibiting the activity of photoreceptor cells",
+    "c": "amplifying the transmission of visual signals to the brain",
+    "d": "maintaining the constant release of neurotransmitter in the dark",
+    "e": "forming connections between central rod or cone cells and other photoreceptors",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the function of lateral inhibition in the retina?",
+    "a": "facilitating neurotransmitter release in photoreceptor cells",
+    "b": "enhancing the activity of neighboring neurons",
+    "c": "amplifying edges and borders in visual images",
+    "d": "suppressing the activity of center-surround receptive fields",
+    "e": "stimulating ganglion cells in the retina",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following pathways is the main pathway of vision?",
+    "a": "optic",
+    "b": "retinofugal",
+    "c": "optic nerve",
+    "d": "retinal",
+    "e": "visual",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What does the Latin word \"fugit\" mean?",
+    "a": "flees",
+    "b": "transduces",
+    "c": "inhibits",
+    "d": "simplifies",
+    "e": "accelerates",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which part of the brain receives visual information from the retinal ganglion cells?",
+    "a": "cerebellum",
+    "b": "amygdala",
+    "c": "hippocampus",
+    "d": "thalamus",
+    "e": "hypothalamus",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The axons that cross in the optic chiasm originate from the part of the retina closer to the",
+    "a": "rods",
+    "b": "ears",
+    "c": "nose",
+    "d": "cones",
+    "e": "forehead",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Where is the central portion of the visual field represented in the brain?",
+    "a": "only on the left side of the brain",
+    "b": "in the temporal lobe",
+    "c": "in the frontal lobe",
+    "d": "only on the right side of the brain",
+    "e": "on both sides of the brain",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which aspect of vision is based on comparing the appearance of an object between the left and right eye?",
+    "a": "object recognition",
+    "b": "depth perception",
+    "c": "peripheral vision",
+    "d": "motion perception",
+    "e": "color perception",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which term refers to the axons after crossing at the optic chiasm?",
+    "a": "optic chiasm",
+    "b": "retinal ganglion",
+    "c": "optic nerve",
+    "d": "optic tract",
+    "e": "binocular vision",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The lateral geniculate nucleus (LGN) processes visual information from the eyes by",
+    "a": "mixing information from both eyes",
+    "b": "sending visual information directly to the brain",
+    "c": "ignoring visual information during sleep",
+    "d": "amplifying edges falling onto receptive fields",
+    "e": "inhibiting visual information from the eyes",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What do the receptive fields in the lateral geniculate nucleus (LGN) have in common with the retinal ganglion cells?",
+    "a": "They have a center and a surround.",
+    "b": "They detect color and fine detail.",
+    "c": "They project to distinct areas of the primary visual cortex.",
+    "d": "They amplify edges falling onto receptive fields.",
+    "e": "They receive input from many other parts of the brain.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "How does the map of receptive fields in the lateral geniculate nucleus (LGN) compare to that in the retina?",
+    "a": "The map is larger in the lateral geniculate nucleus (LGN).",
+    "b": "The map is distorted in the lateral geniculate nucleus (LGN).",
+    "c": "The map is the same as in the retina.",
+    "d": "The map is rotated in the lateral geniculate nucleus (LGN).",
+    "e": "The map is inverted in the lateral geniculate nucleus (LGN).",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following brain lobes receives projections from the lateral geniculate nucleus (LGN)?",
+    "a": "occipital",
+    "b": "frontal",
+    "c": "temporal",
+    "d": "parietal",
+    "e": "limbic",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which layer of the primary visual cortex receives the majority of input from other regions of the brain?",
+    "a": "layer two",
+    "b": "layer three",
+    "c": "layer one",
+    "d": "layer five",
+    "e": "layer four",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which type of neurons in the primary visual cortex have long axons at the top and long dendrites?",
+    "a": "pyramidal cells",
+    "b": "spiny stellate neurons",
+    "c": "purkinje cells",
+    "d": "basket cells",
+    "e": "bipolar cells",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following types of neurons is predominantly found in layer 4C of the primary visual cortex?",
+    "a": "pyramidal",
+    "b": "spiny stellate",
+    "c": "basket",
+    "d": "purkinje",
+    "e": "bipolar",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Where do signals from different types of retinal ganglion cells synapse in the lateral geniculate nucleus (LGN)?",
+    "a": "central layers",
+    "b": "input layers",
+    "c": "peripheral layers",
+    "d": "superficial layers",
+    "e": "output layers",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What determines the varieties of non-input layers in V1?",
+    "a": "color information",
+    "b": "input from the lateral geniculate nucleus (LGN)",
+    "c": "shapes of dendrites",
+    "d": "direction of light movement",
+    "e": "depolarization of neurons",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following parts of the visual field is represented at the very back of V1?",
+    "a": "left",
+    "b": "upper",
+    "c": "lower",
+    "d": "peripheral",
+    "e": "central",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How is the retinotopic map represented in V1?",
+    "a": "right side up and forward",
+    "b": "rotated clockwise",
+    "c": "upside down and backward",
+    "d": "right side up and backward",
+    "e": "upside down and forward",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following hemispheres of V1 represents the right half of the visual field?",
+    "a": "right",
+    "b": "central",
+    "c": "occipital",
+    "d": "left",
+    "e": "frontal",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which feature of an object determines the number of neurons in the visual cortex responsible for processing it?",
+    "a": "the color",
+    "b": "the distance",
+    "c": "the location",
+    "d": "the size",
+    "e": "the orientation",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The extrastriate cortex includes areas of the",
+    "a": "temporal lobe",
+    "b": "limbic lobe",
+    "c": "occipital lobe",
+    "d": "frontal lobe",
+    "e": "parietal lobe",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following characteristics determine the flow of visual information from the primary visual cortex to other cortical areas?",
+    "a": "distance",
+    "b": "color",
+    "c": "type",
+    "d": "orientation",
+    "e": "size",
+    "correct_answer": "a"
+  }
+]
+

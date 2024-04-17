@@ -1,0 +1,273 @@
+[
+    {
+        "question": "Where is the olfactory epithelium located?",
+        "a": "surrounding the tongue",
+        "b": "covering the surface of the lungs",
+        "c": "lining the top and the back of the nasal cavity",
+        "d": "coating the bottom of the nasal cavity",
+        "e": "encasing the olfactory bulb",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What are the main components of the olfactory epithelium?",
+        "a": "olfactory receptors and taste buds",
+        "b": "support cells and taste buds",
+        "c": "olfactory receptors and blood vessels",
+        "d": "basal cells and support cells",
+        "e": "basal cells and blood vessels",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How do olfactory receptor neurons transduce odor stimuli?",
+        "a": "by producing odorant molecules",
+        "b": "by secreting mucus",
+        "c": "by activating taste receptors",
+        "d": "by releasing neurotransmitters",
+        "e": "by generating electrical signals",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Where are the receptors for smell particles or odorants located?",
+        "a": "nasal epithelium",
+        "b": "sensory epithelium",
+        "c": "olfactory bulb",
+        "d": "mucus layer",
+        "e": "sinus cavity",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How do odorants reach the olfactory receptors in the nasal cavity?",
+        "a": "They pass through the blood-brain barrier to reach the receptors.",
+        "b": "They dissolve in the mucus layer of the olfactory epithelium.",
+        "c": "They travel to the olfactory bulb.",
+        "d": "They are transduced in the nasal epithelium.",
+        "e": "They directly bind to the olfactory receptors.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which mammals have the largest known gene family encoding for odorant receptors?",
+        "a": "primates",
+        "b": "rodents",
+        "c": "bats",
+        "d": "felines",
+        "e": "canines",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which G protein is involved in olfactory receptor neuron signaling?",
+        "a": "G protein for Olfaction (Golf)",
+        "b": "G protein-coupled receptors (GPCR)",
+        "c": "G-protein receptor",
+        "d": "adenylyl cyclase",
+        "e": "cyclic adenosine monophosphate (cAMP)",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which second messenger does adenylyl cyclase produce in olfactory receptor neurons?",
+        "a": "calcium",
+        "b": "ATP",
+        "c": "G protein",
+        "d": "cyclic adenosine monophosphate (cAMP)",
+        "e": "chloride",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How does the depolarization of olfactory receptor neurons occur?",
+        "a": "Chloride ions flow out of the cell.",
+        "b": "Sodium and calcium ions flow out of the cell.",
+        "c": "Sodium and calcium ions flow into the cell.",
+        "d": "Potassium ions flow into the cell.",
+        "e": "Chloride ions flow into the cell.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which structures in the olfactory bulb serve as the termination points for olfactory receptor axons?",
+        "a": "granule cells",
+        "b": "cribriform plates",
+        "c": "periventricular cells",
+        "d": "mitral cells",
+        "e": "glomeruli",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which cranial nerve transmits olfactory signals from the olfactory bulb to the brain?",
+        "a": "cranial nerve four",
+        "b": "cranial nerve three",
+        "c": "cranial nerve five",
+        "d": "cranial nerve two",
+        "e": "cranial nerve one",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What is the role of the hippocampus in olfactory processing?",
+        "a": "localization of odor information",
+        "b": "perception of smell intensity",
+        "c": "memory related to smells",
+        "d": "emotional response to smells",
+        "e": "generation of action potentials",
+        "correct_answer": "c"
+    },
+    {
+        "question": "In taste perception, each axon carrying information to the brain",
+        "a": "represents a single-taste cell",
+        "b": "is specific to one type of flavor",
+        "c": "brings information from multiple taste cells",
+        "d": "mixes taste and smell information",
+        "e": "responds differently to different tastes",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Why is the mixing of taste information helpful?",
+        "a": "It prevents the loss of taste sensation.",
+        "b": "It provides a clearer perception of taste.",
+        "c": "It enhances the efficiency of taste processing.",
+        "d": "It allows for distinct coding of different tastes.",
+        "e": "It improves the coordination between taste and smell.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "How many possible smells can the thousand different odor receptors encode?",
+        "a": "a quadrillion",
+        "b": "a trillion",
+        "c": "a quintillion",
+        "d": "a billion",
+        "e": "a million",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following sensations is NOT a component of somatosensation?",
+        "a": "limb",
+        "b": "touch",
+        "c": "pain",
+        "d": "taste",
+        "e": "temperature",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which layer of the skin contains blood vessels, sweat glands, and hair follicles?",
+        "a": "epidermis",
+        "b": "subcutaneous tissue",
+        "c": "dermis",
+        "d": "stratum granulosum",
+        "e": "hypodermis",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What is the name of the fatty layer below the dermis?",
+        "a": "papillary layer",
+        "b": "reticular layer",
+        "c": "squamous cell layer",
+        "d": "subcutaneous layer",
+        "e": "basal cell layer",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which type of mechanoreceptor transduces information about low-frequency vibration?",
+        "a": "Meissner's corpuscles",
+        "b": "Pacinian corpuscles",
+        "c": "Merkel's disks",
+        "d": "Ruffini's corpuscles",
+        "e": "mechano-nociceptors",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Where are Merkel's discs most densely distributed in the body?",
+        "a": "feet and toes",
+        "b": "fingertips and lips",
+        "c": "back and shoulders",
+        "d": "elbows and knees",
+        "e": "scalp and forehead",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What triggers an action potential in mechanoreceptors?",
+        "a": "temperature changes",
+        "b": "chemical stimulation",
+        "c": "electrical impulses",
+        "d": "ligand binding",
+        "e": "mechanical deformation",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which mechanoreceptors have sharp and clearly defined receptive field borders?",
+        "a": "Pacinian corpuscles",
+        "b": "Merkel's discs",
+        "c": "Ruffini's endings",
+        "d": "mechano-nociceptors",
+        "e": "Meissner's corpuscles",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Two-point discrimination is the ability to",
+        "a": "perceive depth and distance",
+        "b": "discriminate between different textures",
+        "c": "differentiate between closely spaced stimuli",
+        "d": "sense pain and pressure",
+        "e": "distinguish between hot and cold temperatures",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How is two-point discrimination measured?",
+        "a": "by observing muscle contractions",
+        "b": "by applying pressure on adjacent points",
+        "c": "by assessing visual acuity",
+        "d": "by measuring the intensity of pain perception",
+        "e": "by testing taste sensitivity",
+        "correct_answer": "b"
+    },
+    {
+        "question": "How are axons from receptors in the body carried to the brain?",
+        "a": "by directly targeting the spinal cord",
+        "b": "via the cranial nerves",
+        "c": "via the spinal cord",
+        "d": "by directly targeting the frontal cortex",
+        "e": "by traveling through the limbs",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How many cervical spinal segments are there?",
+        "a": "ten",
+        "b": "four",
+        "c": "twelve",
+        "d": "eight",
+        "e": "six",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following reasons best explains why the spinal cord is segmented?",
+        "a": "to enhance the spinal cord flexibility",
+        "b": "to transmit signals through the skeletal system",
+        "c": "to match the segmented skin organization",
+        "d": "to protect the internal organs",
+        "e": "to control muscle coordination",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What is a dermatome?",
+        "a": "a segment of the spinal cord",
+        "b": "a type of skin rash",
+        "c": "a contagious skin condition",
+        "d": "a dormant virus in the spinal cord",
+        "e": "a pattern of skin innervation",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Why is there no C1 dermatome on the human skin?",
+        "a": "The C1 segment has no sensory input.",
+        "b": "The C1 segment is involved in motor output.",
+        "c": "The C1 segment is affected by cranial nerve dysfunction.",
+        "d": "The C1 segment is located in a different part of the body.",
+        "e": "The C1 segment is responsible for a specific skin condition.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Why does the dermatome map appear distorted and confusing?",
+        "a": "sensory overload",
+        "b": "evolutionary changes",
+        "c": "nerve damage",
+        "d": "anatomical anomaly",
+        "e": "genetic variations",
+        "correct_answer": "e"
+    }
+]
+

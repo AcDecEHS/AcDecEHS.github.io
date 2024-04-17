@@ -1,0 +1,273 @@
+[
+  {
+    "question": "The vagus nerve is also referred to as nerve",
+    "a": "X",
+    "b": "XI",
+    "c": "VII",
+    "d": "IX",
+    "e": "XII",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following systems is responsible for pupil constriction?",
+    "a": "parasympathetic",
+    "b": "endocrine",
+    "c": "enteric",
+    "d": "sympathetic",
+    "e": "circulatory",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Nerve VII begins in the",
+    "a": "frontal lobe",
+    "b": "occipital lobe",
+    "c": "brainstem",
+    "d": "cerebellum",
+    "e": "spinal cord",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following organs stimulates bile release?",
+    "a": "pancreas",
+    "b": "kidney",
+    "c": "lungs",
+    "d": "liver",
+    "e": "hypothalamus",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The kidneys are responsible for",
+    "a": "inhibiting secretion",
+    "b": "constricting bronchi",
+    "c": "accelerating heartbeat",
+    "d": "secreting noradrenaline",
+    "e": "stimulating bile release",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following functions is NOT a part of the parasympathetic nervous system?",
+    "a": "stimulating secretion",
+    "b": "constricting bronchi",
+    "c": "slowing heartbeat",
+    "d": "constricting the pupils",
+    "e": "inhibiting peristalsis",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The parasympathetic and sympathetic nervous systems are divisions of the",
+    "a": "central nervous system",
+    "b": "enteric nervous system",
+    "c": "autonomic nervous system",
+    "d": "somatic nervous system",
+    "e": "motor nervous system",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following glands is responsible for secreting hormones in the sympathetic nervous system?",
+    "a": "hypothalamus",
+    "b": "pineal",
+    "c": "adrenal",
+    "d": "pituitary",
+    "e": "thyroid",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following functions is NOT a part of the sympathetic nervous system?",
+    "a": "secreting adrenaline",
+    "b": "accelerating heartbeat",
+    "c": "dilating the pupils",
+    "d": "relaxing the bronchi",
+    "e": "stimulating the flow of saliva",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The primary function of neurons is to",
+    "a": "send signals over long distances",
+    "b": "inhibit hormone movement",
+    "c": "stimulate peristalsis",
+    "d": "accelerate cerebrum processing",
+    "e": "regulate blood flow",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Glial cells are most important in the formation of",
+    "a": "neural networks",
+    "b": "chemical energy",
+    "c": "blood cells",
+    "d": "neurotransmitters",
+    "e": "synapses",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following types of cells serves as support for the nervous system?",
+    "a": "glial",
+    "b": "cartilage",
+    "c": "nerve",
+    "d": "endothelial",
+    "e": "bone",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following structures is NOT part of the central nervous system?",
+    "a": "cerebellum",
+    "b": "spinal cord",
+    "c": "cerebrum",
+    "d": "brainstem",
+    "e": "ganglion",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The two primary structures of the central nervous system are the",
+    "a": "cerebrum and axons",
+    "b": "brain and axons",
+    "c": "cerebrum and brainstem",
+    "d": "brain and spinal cord",
+    "e": "cerebral cortex and skull",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following nervous systems includes all of the nerves that span the human body?",
+    "a": "autonomic",
+    "b": "central",
+    "c": "parasympathetic",
+    "d": "peripheral",
+    "e": "sympathetic",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Electrical neuron communication is mainly facilitated by the movement of",
+    "a": "ATP",
+    "b": "ions",
+    "c": "water",
+    "d": "cytosol",
+    "e": "glucose",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following units measures membrane potentials?",
+    "a": "faradays",
+    "b": "millivolts",
+    "c": "joules",
+    "d": "volts",
+    "e": "coulombs",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following descriptors refers to a neuron that is not sending electrical signals?",
+    "a": "dormant",
+    "b": "neutral",
+    "c": "at rest",
+    "d": "passive",
+    "e": "delayed",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Resting membrane potentials are determined by",
+    "a": "myelin sheaths and vesicles",
+    "b": "GABA, glutamate, and acetylcholine",
+    "c": "axon terminals and the dendritic arbor",
+    "d": "soma and axon hillock",
+    "e": "cytosol, extracellular fluid, and neuronal membrane",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The main component of cytosol is",
+    "a": "glucose",
+    "b": "sodium ions",
+    "c": "neurotransmitters",
+    "d": "water",
+    "e": "calcium ions",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What type of membrane is the neuronal membrane composed of?",
+    "a": "semipermeable phospholipid bilayer",
+    "b": "two permeable phospholipid bilayers",
+    "c": "permeable phospholipid monolayer",
+    "d": "impermeable phospholipid bilayer",
+    "e": "semipermeable phospholipid monolayer",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Why is membrane selectivity important to neuron membrane potentials?",
+    "a": "Selective permeability allows all glucose molecules to pass through the membrane.",
+    "b": "Neuronal membranes are mainly permeable to ATP, creating a steady supply of energy.",
+    "c": "A selective membrane maintains different ion concentrations on each side of the membrane.",
+    "d": "Membrane selectivity amplifies the effect of concentration gradients.",
+    "e": "A selective membrane only allows excitatory neurotransmitters to pass through.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Why are ion concentrations important to membrane potentials?",
+    "a": "Ion concentrations regulate the speed of cellular respiration to determine ATP availability.",
+    "b": "Differing ion concentrations affect the electrical charge on each side of the membrane.",
+    "c": "Ion concentrations inside the neuron affect the colligative properties of the cytosol.",
+    "d": "Ion concentrations one each side of the membrane facilitate neurotransmitter movement.",
+    "e": "Ion concentration affects the allosteric regulation of enzymes that affect membrane potential.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following adjectives best describes a membrane that will allow an ion to pass through?",
+    "a": "nonpolar",
+    "b": "permeable",
+    "c": "selective",
+    "d": "active",
+    "e": "porous",
+    "correct_answer": "b"
+  },
+  {
+    "question": "General membrane transport that does not require energy is best described as",
+    "a": "osmosis",
+    "b": "natural transport",
+    "c": "passive transport",
+    "d": "channel-mediated transport",
+    "e": "active transport",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Ionic concentration is to diffusion as electrical charge is to",
+    "a": "current",
+    "b": "potential",
+    "c": "voltage",
+    "d": "osmosis",
+    "e": "activity",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Ions move",
+    "a": "from areas of low energy to areas of high energy",
+    "b": "from areas of high energy to areas of low energy",
+    "c": "randomly, with no effect from concentration or energy",
+    "d": "from low concentration to high concentration",
+    "e": "from high concentration to low concentration",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What causes the dispersion of ions?",
+    "a": "activity from transport proteins",
+    "b": "currents in extracellular fluid and cytosol",
+    "c": "an orderly system of ion exchange",
+    "d": "movement by actin and myosin proteins",
+    "e": "natural random movement",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Change in concentration between two areas is best described as a",
+    "a": "disparity",
+    "b": "flow",
+    "c": "gap",
+    "d": "gradient",
+    "e": "potential",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Interactions between charged particles illustrate that",
+    "a": "charge outweighs concentration",
+    "b": "like repels like",
+    "c": "size determines strength",
+    "d": "movement is random",
+    "e": "like dissolves like",
+    "correct_answer": "b"
+  }
+]
+

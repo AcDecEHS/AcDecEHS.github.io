@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Which of the following statements is NOT true about ion channels?",
+    "a": "Many ion channels are specific to a certain ion.",
+    "b": "Ion channels are similar to specialized gates.",
+    "c": "Ion channels are composed of protein.",
+    "d": "Some ions allow several types of ions to pass through.",
+    "e": "Ion channels are only active with a positive membrane potential.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What term describes a channel opening due to a trigger?",
+    "a": "activation",
+    "b": "phosphorylation",
+    "c": "allosteric opening",
+    "d": "gating",
+    "e": "stimulated opening",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following explanations best describes how ligand-gated channels function?",
+    "a": "Ligand presence attracts ATP to generate enough energy for ions to travel against the concentration gradient.",
+    "b": "Ligand presence activates an enzyme that alters the pH of the surrounding environment, causing the channel to open.",
+    "c": "The channel opens when the membrane potential reaches the threshold voltage.",
+    "d": "Sufficient accumulation of lipids causes the nonpolar ends of the channel to open up, allowing ions through.",
+    "e": "The binding of a molecule causes a conformational change that allows ions to pass through.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Active transport is BEST characterized as ion transport",
+    "a": "with the electrical gradient",
+    "b": "using a vesicle",
+    "c": "through a membrane",
+    "d": "requiring energy",
+    "e": "with the concentration gradient",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The sodium-potassium pump exchanges",
+    "a": "one sodium ion for two potassium ions",
+    "b": "two sodium ions for one potassium ion",
+    "c": "two sodium ions for three potassium ions",
+    "d": "one sodium ion for three potassium ions",
+    "e": "three sodium ions for two potassium ions",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following molecules does the sodium-potassium pump use as an energy source?",
+    "a": "glucose",
+    "b": "cyclic AMP (cAMP)",
+    "c": "ADP",
+    "d": "GTP",
+    "e": "ATP",
+    "correct_answer": "e"
+  },
+  {
+    "question": "When the neuron is at rest,",
+    "a": "calcium concentration is greatest inside the cell",
+    "b": "magnesium concentration is greatest outside the cell",
+    "c": "chloride concentration is greatest inside the cell",
+    "d": "potassium concentration is greatest outside the cell",
+    "e": "sodium concentration is greatest outside the cell",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Relative to extracellular fluid, the resting potential of most neurons ranges from",
+    "a": "-100 mV to -80 mV",
+    "b": "-60 mV to -40 mV",
+    "c": "-20 mV to 0 mV",
+    "d": "-40 mV to -20 mV",
+    "e": "-80 mV to -60 mV",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The most important ion channel to a neuron at rest is the",
+    "a": "nonspecific cation channel",
+    "b": "calcium channel",
+    "c": "nonspecific anion channel",
+    "d": "sodium leak channel",
+    "e": "potassium leak channel",
+    "correct_answer": "e"
+  },
+  {
+    "question": "A membrane potential of zero means that",
+    "a": "the charge inside the cell is equal to that outside the cell",
+    "b": "there are zero ions inside the cell",
+    "c": "the net movement of ions into the cell is less than one",
+    "d": "the charge outside the cell is zero",
+    "e": "the charge inside the cell is zero",
+    "correct_answer": "a"
+  },
+  {
+    "question": "When potassium channels are open in a resting neuron,",
+    "a": "a negative charge builds up inside the neuron",
+    "b": "a positive charge builds up inside the neuron",
+    "c": "the membrane potential remains at zero",
+    "d": "the neuron takes in extracellular fluid",
+    "e": "an action potential is guaranteed to occur",
+    "correct_answer": "a"
+  },
+  {
+    "question": "When is a neuron at equilibrium?",
+    "a": "Sodium starts entering the cell.",
+    "b": "Membrane potential equals one.",
+    "c": "Net movement of ions has stopped.",
+    "d": "The sodium-potassium pump is at work.",
+    "e": "Electrical potential equals one.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "The equilibrium potential for potassium is best described as",
+    "a": "slightly positive",
+    "b": "very positive",
+    "c": "slightly negative",
+    "d": "very negative",
+    "e": "close to zero",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following equations calculates the equilibrium potential of a specific ion?",
+    "a": "Goldman equation",
+    "b": "Arrhenius equation",
+    "c": "Nernst equation",
+    "d": "Henderson-Hasselbach equation",
+    "e": "Anson equation",
+    "correct_answer": "c"
+  },
+  {
+    "question": "A limitation of the Nernst equation is that it",
+    "a": "only works for approximately half of all ions found in the neuron",
+    "b": "is more complicated than the Goldman equation",
+    "c": "does not consider environmental temperature",
+    "d": "only considers one ion at a time",
+    "e": "does not consider the charge on the ion",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The membrane potential of a neuron becomes more positive during",
+    "a": "the overshoot",
+    "b": "the rest phase",
+    "c": "the falling phase",
+    "d": "repolarization",
+    "e": "the rising phase",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What is the primary cause for neurons in the inner ear to generate action potentials?",
+    "a": "light exposure",
+    "b": "sound waves",
+    "c": "pressure changes",
+    "d": "chemical signals",
+    "e": "temperature changes",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following stimuli is NOT capable of triggering action potentials in neurons located in the skin?",
+    "a": "light",
+    "b": "heat",
+    "c": "pressure",
+    "d": "cold",
+    "e": "pain",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the specific term used to describe the membrane potential point that is slightly higher than the resting membrane potential?",
+    "a": "hyperpolarization",
+    "b": "resting potential",
+    "c": "repolarization",
+    "d": "repolarization",
+    "e": "threshold",
+    "correct_answer": "e"
+  },
+  {
+    "question": "At what approximate range of membrane potential does the threshold of a neuron occur?",
+    "a": "-60mV to -45mV",
+    "b": "-65mV to -50mV",
+    "c": "-70mV to -55mV",
+    "d": "-50mV to -35mV",
+    "e": "-90mV to -75mV",
+    "correct_answer": "c"
+  },
+  {
+    "question": "The all-or-none principle is best described as the principle that",
+    "a": "an action potential occurs with varying magnitudes",
+    "b": "action potentials occur at irregular intervals",
+    "c": "once the threshold is reached, an action potential occurs in its entirety",
+    "d": "the threshold potential can be modified based on external factors",
+    "e": "multiple action potentials can be triggered simultaneously",
+    "correct_answer": "c"
+  },
+  {
+    "question": "At what specific membrane potential does the voltage-gated sodium channels open in a neuron?",
+    "a": "-55mV",
+    "b": "-45mV",
+    "c": "-30mV",
+    "d": "-70mV",
+    "e": "-80mV",
+    "correct_answer": "a"
+  },
+  {
+    "question": "At what approximate range of membrane potential does the action potential peak?",
+    "a": "-40mV to -30mV",
+    "b": "+55mV to +70mV",
+    "c": "-70mV to -55mV",
+    "d": "+30mV to +40mV",
+    "e": "-90mV to -75mV",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is the primary distinction between closed voltage-gated sodium channels and inactivated voltage-gated sodium channels?",
+    "a": "Closed channels can open in response to stimuli, while inactivated channels do not open regardless of the cellular environment.",
+    "b": "Closed channels are voltage-insensitive, while inactivated channels are voltage-sensitive.",
+    "c": "Closed channels are fully blocked by Na+ ions, whereas inactivated channels have partial blockage.",
+    "d": "Closed channels remain closed during the entire action potential, while inactivated channels open and close rapidly.",
+    "e": "Closed channels are specific to the repolarization phase of the action potential, while inactivated channels are involved in the rising phase.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "The period in which neurons cannot generate another action potential is referred to as the",
+    "a": "absolute refractory period",
+    "b": "rising phase",
+    "c": "relative refractory period",
+    "d": "falling phase",
+    "e": "afterhyperpolarization",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Voltage-gated potassium channels fully open",
+    "a": "before the sodium channels become inactivated",
+    "b": "at the beginning of the action potential",
+    "c": "as soon as the neuron reaches threshold",
+    "d": "during the depolarization phase",
+    "e": "after the neuron has depolarized to its peak potential",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What occurs during the falling phase of the action potential?",
+    "a": "Potassium ions flow into the cell.",
+    "b": "All movement of ions stops.",
+    "c": "Potassium ions flow out of the cell.",
+    "d": "Negative ions flow out of the cell.",
+    "e": "Sodium ions flow into the cell.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "After the action potential, what is the membrane potential of the neuron?",
+    "a": "-80 mV",
+    "b": "-30 mV",
+    "c": "+30 mV",
+    "d": "-55 mV",
+    "e": "+40 mV",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The term delayed rectifier refers to channels that",
+    "a": "open rapidly during an action potential",
+    "b": "primarily regulate the resting potential",
+    "c": "are responsible for depolarizing the cell membrane",
+    "d": "contribute to the afterhyperpolarization phase",
+    "e": "are closed during the refractory period",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the relative refractory period?",
+    "a": "The period when the membrane potential is at its highest level.",
+    "b": "The period when membrane potential remains constant at the resting membrane potential.",
+    "c": "The period when the membrane potential is more negative than the usual resting potential.",
+    "d": "The period when it is easier to initiate an action potential than usual.",
+    "e": "The period in which the membrane potential is slightly lower than the peak membrane potential.",
+    "correct_answer": "e"
+  }
+]
+

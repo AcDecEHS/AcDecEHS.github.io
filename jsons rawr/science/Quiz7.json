@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Where does the action potential signal initiate within a neuron?",
+    "a": "axon terminal",
+    "b": "dendrites",
+    "c": "axon hillock",
+    "d": "Nodes of Ranvier",
+    "e": "myelin sheath",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What allows the propagation of action potential down the axon?",
+    "a": "opening and closing of voltage-gated channels",
+    "b": "activation of glial cells",
+    "c": "diffusion in the extracellular fluid",
+    "d": "direct transmission through the myelin sheath",
+    "e": "backward diffusion of sodium ions",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Why is an action potential continuously regenerated along the axon?",
+    "a": "to protect the myelin sheath from damage",
+    "b": "to propagate the signal faster",
+    "c": "to allow the signal to spread in both directions simultaneously",
+    "d": "to block the influx of sodium ions with potassium channels",
+    "e": "to prevent signal degradation or decrease in strength",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Where does action potential regeneration occur in myelinated axons?",
+    "a": "at the dendrites",
+    "b": "throughout the entire length of the axon",
+    "c": "in the myelin sheath",
+    "d": "at the Nodes of Ranvier",
+    "e": "in the extracellular fluid",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following processes prevents the signal from degrading as it spreads down the axon?",
+    "a": "potassium diffusion",
+    "b": "myelin insulation",
+    "c": "sodium diffusion",
+    "d": "axon terminal regeneration",
+    "e": "dendritic reception",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Why can voltage-gated sodium channels not be triggered to open behind the action potential wave?",
+    "a": "They are blocked by myelin.",
+    "b": "They have been inactivated.",
+    "c": "They are triggered by extracellular fluid.",
+    "d": "They are too far away from the influx of sodium.",
+    "e": "They require the presence of potassium ions.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following conditions describes the absolute refractory period?",
+    "a": "The sodium ions diffuse backward within the axon.",
+    "b": "The action potential reaches the axon hillock.",
+    "c": "The sodium channels open.",
+    "d": "The potassium ions enter the cell.",
+    "e": "The voltage-gated sodium channels are inactivated.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following descriptions best describes the direction of action potential propagation?",
+    "a": "from the soma to the dendrites",
+    "b": "from the Node of Ranvier to the nucleus",
+    "c": "from the axon terminal to the dendrites",
+    "d": "from the soma to the axon terminal",
+    "e": "from the soma to the nucleus",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Why is myelination important for speeding up action potential conduction?",
+    "a": "It insulates the axon.",
+    "b": "It increases the refractory period.",
+    "c": "It strengthens individual propagation of action potentials.",
+    "d": "It opens voltage-gated potassium channels.",
+    "e": "It increases the number of sodium channels.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "The term \"saltatory conduction\" refers to the conduction",
+    "a": "without the involvement of potassium ions",
+    "b": "in the reverse direction",
+    "c": "without the involvement of sodium ions",
+    "d": "that occurs in both directions simultaneously",
+    "e": "that jumps from node to node",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What is the function of mitochondria in the axon terminal?",
+    "a": "maintenance of the synaptic cleft",
+    "b": "regulation of neurotransmitter release",
+    "c": "storage of neurotransmitters",
+    "d": "production of ATP",
+    "e": "formation of gap junctions",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What are the two main types of synapses in the central nervous system?",
+    "a": "axonal and dendritic",
+    "b": "myelinated and unmyelinated",
+    "c": "excitatory and inhibitory",
+    "d": "electrical and chemical",
+    "e": "presynaptic and postsynaptic",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The primary function of gap junctions in electrical synapses is",
+    "a": "enhancing synaptic transmission speed",
+    "b": "preventing the flow of positive ions",
+    "c": "separating presynaptic and postsynaptic cells",
+    "d": "regulating the release of neurotransmitters",
+    "e": "allowing for alteration of the synaptic signal",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Why are electrical synapses limiting compared to chemical synapses?",
+    "a": "They are slower in synaptic transmission.",
+    "b": "They cannot alter or change the signal.",
+    "c": "They are less common in the brain.",
+    "d": "They require a higher energy demand.",
+    "e": "They lack microtubules in the axon terminal.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What makes chemical synapses more complex than electrical synapses?",
+    "a": "the activation of voltage-gated channels",
+    "b": "the involvement of multiple neurotransmitters",
+    "c": "the presence of microtubules in the axon terminal",
+    "d": "the need for precise alignment of presynaptic and postsynaptic cells",
+    "e": "the requirement of ATP production",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is the role of the presynaptic cell in neurotransmission?",
+    "a": "receiving neurotransmitters from the postsynaptic cell",
+    "b": "transmitting signals across the synaptic cleft",
+    "c": "generating action potentials",
+    "d": "transforming electrical signals into chemical signals",
+    "e": "regulating voltage-gated calcium channels",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which type of conduction is the primary mode of neurotransmission between neurons?",
+    "a": "electrostatic",
+    "b": "synaptic",
+    "c": "electrical",
+    "d": "electrochemical",
+    "e": "chemical",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What is the function of calcium ions in neurotransmission?",
+    "a": "repolarizing the postsynaptic membrane",
+    "b": "maintaining the electrical gradient across the synaptic cleft",
+    "c": "triggering the release of neurotransmitters",
+    "d": "modulating the activity of neurotransmitters",
+    "e": "initiating the opening of voltage-gated calcium channels",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the function of neurotransmitters in synaptic communication?",
+    "a": "generating action potentials in the postsynaptic neuron",
+    "b": "regulating voltage-gated ion channels",
+    "c": "maintaining the resting membrane potential",
+    "d": "initiating the release of calcium ions.",
+    "e": "carrying the signal across the synaptic cleft",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How are neurotransmitters transported from the soma to the axon terminal?",
+    "a": "through the dendrites",
+    "b": "by osmosis",
+    "c": "by diffusion",
+    "d": "across the synaptic cleft",
+    "e": "via microtubules of the axon",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Where are neurotransmitters generally produced?",
+    "a": "synaptic cleft",
+    "b": "myelin sheath",
+    "c": "axon terminal",
+    "d": "soma",
+    "e": "node of Ranvier",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following actions occur to neurotransmitters in preparation for release?",
+    "a": "They diffuse freely in the cytoplasm.",
+    "b": "They bind to SNARE proteins.",
+    "c": "They form complexes with membrane proteins.",
+    "d": "They attach to microtubules.",
+    "e": "They are encapsulated in vesicles.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What is the role of SNARE proteins in neurotransmitter release?",
+    "a": "They bind to calcium ions.",
+    "b": "They form complexes with neurotransmitters.",
+    "c": "They facilitate the trafficking of vesicles.",
+    "d": "They maintain the structure of the synaptic cleft.",
+    "e": "They dock vesicles at the membrane.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "SNARE proteins cause the fusion of",
+    "a": "synaptotagmin and synaptic cleft",
+    "b": "synaptotagmin and calcium ions",
+    "c": "synaptic cleft and cytosol",
+    "d": "vesicles and calcium ions",
+    "e": "vesicles and the neuronal membrane",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What is the function of synaptotagmin in neurotransmitter release?",
+    "a": "encapsulating neurotransmitters in vesicles",
+    "b": "regulating calcium influx",
+    "c": "changing the SNARE complex structure",
+    "d": "docking vesicles at the membrane",
+    "e": "facilitating microtubule trafficking",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Where does neurotransmitter diffusion occur after release?",
+    "a": "neurotransmitter receptors",
+    "b": "active zones",
+    "c": "presynaptic neurons",
+    "d": "synaptic clefts",
+    "e": "synaptic vesicles",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following processes is NOT a mechanism for neurotransmitter clearance from the synaptic cleft?",
+    "a": "diffusion over time",
+    "b": "exocytosis",
+    "c": "reuptake by transporter proteins",
+    "d": "uptake by glial cells",
+    "e": "enzymatic degradation",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Why is it necessary to clear neurotransmitters from the synaptic cleft?",
+    "a": "to promote repolarization",
+    "b": "to maintain a consistent membrane size",
+    "c": "to initiate enzymatic degradation",
+    "d": "to prevent endocytosis",
+    "e": "to create a blank slate for new signals",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How do transporter proteins clear neurotransmitters from the synaptic cleft?",
+    "a": "bringing the neurotransmitters back into the vesicles",
+    "b": "preventing the release of neurotransmitters",
+    "c": "clearing the neurotransmitters from the synaptic cleft",
+    "d": "enhancing the diffusion of neurotransmitters",
+    "e": "degrading the neurotransmitters enzymatically",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following processes ensures that the overall neuronal membrane maintains a consistent size after exocytosis?",
+    "a": "reuptake",
+    "b": "diffusion",
+    "c": "repolarization",
+    "d": "endocytosis",
+    "e": "osmosis",
+    "correct_answer": "d"
+  }
+]
+

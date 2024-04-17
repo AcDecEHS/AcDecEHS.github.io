@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Which two brain cortexes are responsible for processing spatial orientation?",
+    "a": "parietal and occipital",
+    "b": "temporal and frontal",
+    "c": "frontal and ventral",
+    "d": "temporal and occipital",
+    "e": "ventral and occipital",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following aspects of vision do the higher-order visual regions of the brain cortex process?",
+    "a": "color perception and object recognition",
+    "b": "visual memory and attention",
+    "c": "depth perception and spatial orientation",
+    "d": "facial recognition and language",
+    "e": "text and symbol processing",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which stream of information from V1 processes information about the 'where' of visual stimuli?",
+    "a": "ventral stream",
+    "b": "parietal stream",
+    "c": "dorsal stream",
+    "d": "temporal stream",
+    "e": "frontal stream",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What visual experience may people with akinetopsia have?",
+    "a": "complete blindness",
+    "b": "inability to recognize objects",
+    "c": "inability to perceive color",
+    "d": "rapidly shifting still frames of moving objects",
+    "e": "loss of depth perception",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What types of visual inputs do the bottom parts of the occipital cortex process?",
+    "a": "sound and language",
+    "b": "color and form",
+    "c": "brightness and contrast",
+    "d": "location and motion",
+    "e": "spatial orientation and depth perception",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which region of the brain is responsible for facial recognition?",
+    "a": "parietal cortex",
+    "b": "frontal cortex",
+    "c": "occipital cortex",
+    "d": "striate cortex",
+    "e": "temporal cortex",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What can result from the damage of the ventral visual stream?",
+    "a": "loss of spatial orientation",
+    "b": "difficulty recognizing visual objects",
+    "c": "inability to perceive colors",
+    "d": "impaired motion perception",
+    "e": "difficulty with depth perception",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What may be a challenge for people with visual agnosia?",
+    "a": "understanding the relative sizes of objects",
+    "b": "recognizing familiar faces",
+    "c": "copying drawings accurately",
+    "d": "identifying objects from different angles",
+    "e": "matching objects with their appropriate colors",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which part of the brain is involved in processing object recognition?",
+    "a": "occipital lobe",
+    "b": "frontal cortex",
+    "c": "temporal lobe",
+    "d": "cerebellum",
+    "e": "parietal lobe",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following senses do people with visual agnosia MOST often use to help identify objects?",
+    "a": "taste",
+    "b": "touch",
+    "c": "proprioception",
+    "d": "hearing",
+    "e": "smell",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following conditions is associated with prosopagnosia?",
+    "a": "inability to perceive motion",
+    "b": "impaired recognition of faces",
+    "c": "difficulty naming colors",
+    "d": "loss of spatial orientation",
+    "e": "inability to detect brightness",
+    "correct_answer": "b"
+  },
+  {
+    "question": "On what cues do individuals with prosopagnosia rely?",
+    "a": "sounds of voices",
+    "b": "eye contacts",
+    "c": "hand gestures",
+    "d": "facial expressions",
+    "e": "body languages",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the most common type of agnosia?",
+    "a": "visual agnosia",
+    "b": "color agnosia",
+    "c": "prosopagnosia",
+    "d": "semantic agnosia",
+    "e": "auditory agnosia",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is parallel processing in the visual system?",
+    "a": "segregating features in separate information channels",
+    "b": "processing multiple sensory inputs simultaneously",
+    "c": "processing color and shape in separate brain regions",
+    "d": "processing sensory information in sequence",
+    "e": "integrating sensory inputs from different modalities",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following stimulus features are analyzed via parallel processing?",
+    "a": "taste and smell",
+    "b": "pitch and volume",
+    "c": "depth and distance",
+    "d": "texture and temperature",
+    "e": "color and contrast",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What can cause temporary hearing loss by impeding the movement of the ossicles?",
+    "a": "narrowing of the eustachian tube",
+    "b": "blockage of the auditory canal",
+    "c": "infection of the semicircular canals",
+    "d": "congestion of the pinnae",
+    "e": "inflammation of the cochlea",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which part of the ear amplifies sound waves to transfer them to the thicker fluid of the inner ear?",
+    "a": "cochlea",
+    "b": "tympanic membrane",
+    "c": "auditory canal",
+    "d": "ossicles",
+    "e": "pinna",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which part of the ear converts sound waves into physical movements in the middle ear?",
+    "a": "tympanic membrane",
+    "b": "auditory canal",
+    "c": "cochlea",
+    "d": "pinna",
+    "e": "semicircular canals",
+    "correct_answer": "a"
+  },
+  {
+    "question": "The two main sections of the inner ear are the cochlea and the",
+    "a": "semicircular canals",
+    "b": "saccule",
+    "c": "eustachian tube",
+    "d": "helix",
+    "e": "utricle",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the function of the cochlea in the inner ear?",
+    "a": "maintenance of balance",
+    "b": "transduction of sound",
+    "c": "detection of head movements",
+    "d": "protection of the inner ear structures",
+    "e": "amplification of sound waves",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The purpose of round window in the cochlea is to",
+    "a": "relieve the pressure within the cochlea",
+    "b": "house the organ of Corti",
+    "c": "separate the scala vestibuli from the scala tympani",
+    "d": "encase the cochlea in bone",
+    "e": "facilitate auditory transduction",
+    "correct_answer": "a"
+  },
+  {
+    "question": "How many fluid-filled cavities does the cochlea have?",
+    "a": "three",
+    "b": "two",
+    "c": "five",
+    "d": "four",
+    "e": "one",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Where does auditory transduction take place in the cochlea?",
+    "a": "round window",
+    "b": "tympanic membrane",
+    "c": "organ of Corti",
+    "d": "oval window",
+    "e": "basilar membrane",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which chamber in the cochlea contains the organ of Corti?",
+    "a": "oval window cavity",
+    "b": "scala vestibuli",
+    "c": "tympanic cavity",
+    "d": "scala tympani",
+    "e": "scala media",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Where in the cochlea is the basilar membranes stiffer and narrower?",
+    "a": "at the center of the spiral",
+    "b": "at the entrance port",
+    "c": "along the scala tympani",
+    "d": "along the scala vestibuli",
+    "e": "at the apex of the spiral",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What determines the pitch or frequency of a sound based on the basilar membrane?",
+    "a": "the location along the basilar membrane",
+    "b": "the width of the basilar membrane",
+    "c": "the stiffness of the basilar membrane",
+    "d": "the interaction with the tectorial membrane",
+    "e": "the amplitude of the sound wave",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which fluid bathes the hair cells and the organ of Corti in the cochlea?",
+    "a": "endolymph",
+    "b": "cerebrospinal fluid",
+    "c": "perilymph",
+    "d": "interstitial fluid",
+    "e": "lymphatic fluid",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the role of hair cells within the organ of Corti?",
+    "a": "to vibrate in response to sound waves",
+    "b": "to amplify sound signals",
+    "c": "to regulate fluid pressure in the cochlea",
+    "d": "to transmit electrical signals to the brain",
+    "e": "to protect the basilar membrane",
+    "correct_answer": "a"
+  },
+  {
+    "question": "How are ion channels opened and closed in hair cells?",
+    "a": "via tip links",
+    "b": "by endolymph movement",
+    "c": "by the influx of sodium ions",
+    "d": "through stereocilia bending",
+    "e": "through depolarization",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How do the outer hair cells affect the response of the inner hair cells?",
+    "a": "They decrease the response of the inner hair cells to all frequencies.",
+    "b": "They delay the response of the inner hair cells to lower frequencies.",
+    "c": "They dampen the response of the inner hair cells to certain frequencies.",
+    "d": "They sharpen the response of the inner hair cells to certain frequencies.",
+    "e": "They amplify the response of the inner hair cells to all frequencies.",
+    "correct_answer": "e"
+  }
+]
+

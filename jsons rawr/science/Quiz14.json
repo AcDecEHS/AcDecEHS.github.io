@@ -1,0 +1,273 @@
+[
+  {
+    "question": "What is the temperature range that activates low-threshold thermoreceptors?",
+    "a": "below 0 °C",
+    "b": "below 15 °C",
+    "c": "above 45 °C",
+    "d": "between 45 and 70°C",
+    "e": "between 15 and 45 °C",
+    "correct_answer": "e"
+  },
+  {
+    "question": "When capsaicin is encountered, the perception of heat is produced by",
+    "a": "numbing the nerve endings that mimic chemoreceptors",
+    "b": "activating the protein receptors that mimic warm thermoreceptors",
+    "c": "directly damaging nerve endings that mimic mechanoreceptors",
+    "d": "interfering with the body's pain-blocking mechanisms",
+    "e": "altering the body's temperature regulation that reduces pain",
+    "correct_answer": "b"
+  },
+  {
+    "question": "To what does the term hyperalgesia refer?",
+    "a": "the cognitive perception of discomfort caused by tissue damage",
+    "b": "the transmission of pain signals through unmyelinated axons",
+    "c": "the loss of sense of pain via desensitization of normal tissues",
+    "d": "the excessive sensitivity to touch by enhanced thermoreceptors",
+    "e": "the temporary reduction of pain threshold in a damaged area of tissue",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What are the consequences of congenital analgesia?",
+    "a": "impaired connection of axons to the brain, causing insensitivity to temperature",
+    "b": "excessive release of chemicals triggering inflammation in the body",
+    "c": "enhanced sensitivity to harmless stimuli that mimic damaging stimuli",
+    "d": "activation of free nerve endings and heightened pain perception",
+    "e": "accumulation of wounds, bruises, broken bones, and major injuries",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which neurons are referred to as efferents?",
+    "a": "motor pathway axons",
+    "b": "mechanoreceptors",
+    "c": "cerebral cortex neurons",
+    "d": "motor pathway axons",
+    "e": "sensory neurons",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Where do somatosensory pathways decussate?",
+    "a": "spinal cord",
+    "b": "skin",
+    "c": "cerebral cortex",
+    "d": "thalamus",
+    "e": "dorsal root ganglion (DRG)",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What is the role of the thalamus in somatosensation?",
+    "a": "It is the site of mechanoreceptor activation.",
+    "b": "It is the location of sensory neuron cell bodies.",
+    "c": "It is responsible for proprioception processing.",
+    "d": "It is the location at which somatosensory pathways decussate.",
+    "e": "It relays information from the peripheral neurons to the cerebral cortex.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Through which pathway do touch and proprioception signals travel to the brain?",
+    "a": "ventral posterior lateral (VPL) pathway",
+    "b": "dorsal column medial lemniscal (DCML) pathway",
+    "c": "somatosensory processing pathway",
+    "d": "gracile and cuneate pathway",
+    "e": "medial lemniscus pathway",
+    "correct_answer": "b"
+  },
+  {
+    "question": "How is information from the upper and lower body kept separate within the spinal cord?",
+    "a": "by crossing to the other side of the brainstem",
+    "b": "by synapsing in the cuneate nucleus",
+    "c": "by synapsing in the dorsal column nuclei",
+    "d": "by traveling through the medial lemniscus pathway",
+    "e": "by entering through the dorsal root",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What happens to the axons after synapsing in the dorsal column nuclei?",
+    "a": "They enter the spinal cord to create neural circuits.",
+    "b": "They merge with motor pathway axons.",
+    "c": "They cross to the other side of the brainstem.",
+    "d": "They travel to the thalamus.",
+    "e": "They reach the primary somatosensory cortex.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Where does somatosensation processing primarily take place?",
+    "a": "primary somatosensory cortex",
+    "b": "thalamus",
+    "c": "medulla",
+    "d": "dorsal column nuclei",
+    "e": "ventral posterior lateral (VPL) nuclei",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Where do the axons of the anterolateral spinothalamic system synapse before reaching the thalamus?",
+    "a": "dorsal root ganglion",
+    "b": "primary somatosensory cortex",
+    "c": "ventral posterior lateral (VPL) nuclei",
+    "d": "medulla",
+    "e": "grey matter within the spinal cord",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Where do sensory axons synapse onto the second neuron in the anterolateral spinothalamic system?",
+    "a": "grey matter within the spinal cord",
+    "b": "primary somatosensory cortex",
+    "c": "dorsal root",
+    "d": "ventral posterior lateral (VPL) nucleus",
+    "e": "medulla",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What does the name 'anterolateral tract' emphasize about the spinal cord pathway?",
+    "a": "It suggests that the pathway is responsible for fine motor coordination.",
+    "b": "It indicates the location in the central part of the spinal cord.",
+    "c": "It indicates the location and direction.",
+    "d": "It indicates that the pathway is primarily involved in sensory processing rather than motor control.",
+    "e": "It highlights the involvement of the autonomic nervous system.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How do the axons of the second neuron in the anterolateral spinothalamic system cross to the other side?",
+    "a": "They decussate in the dorsal root ganglion.",
+    "b": "They weave through the brainstem.",
+    "c": "They travel in the dorsal columns of the spinal cord.",
+    "d": "They synapse in the VPL nucleus of the thalamus.",
+    "e": "They enter the grey matter of the spinal cord.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Why is the layout of the primary somatosensory cortex and primary motor cortex advantageous?",
+    "a": "They enhance memory and learning functions.",
+    "b": "They support coordination between sensory perception and motor responses.",
+    "c": "They facilitate visual processing and auditory perception.",
+    "d": "They control involuntary movements and reflexes.",
+    "e": "They regulate emotional and social behaviors.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which term describes the representation of the entire opposite side of the body in the somatotopic map?",
+    "a": "contralateral mapping",
+    "b": "homunculus mapping",
+    "c": "somatosensory mapping",
+    "d": "sensory mapping",
+    "e": "spatial mapping",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which term describes the representation of the human body in the primary somatosensory cortex?",
+    "a": "cortical representation",
+    "b": "motor mapping",
+    "c": "somatotopic magnification",
+    "d": "sensory homunculus",
+    "e": "mechanoreceptor density",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which parts of the body are overrepresented in the somatotopic map of the primary somatosensory cortex?",
+    "a": "torso and abdomen",
+    "b": "feet and toes",
+    "c": "head and face",
+    "d": "hands and fingers",
+    "e": "arms and shoulders",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is the main difference between involuntary movement and voluntary movement?",
+    "a": "Involuntary movement triggers a reflex response, while voluntary movement is carefully planned out.",
+    "b": "Involuntary movement requires conscious effort, while voluntary movement does not.",
+    "c": "Involuntary movement is controlled by upper motor neurons, while voluntary movement is controlled by lower motor neurons.",
+    "d": "Involuntary movement begins in the brain, while voluntary movement starts with a sensory stimulus.",
+    "e": "Involuntary movement involves the brainstem or spinal cord, while voluntary movement involves the muscles directly.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which neurotransmitter is released by lower motor neurons at the neuromuscular junction?",
+    "a": "serotonin",
+    "b": "glutamate",
+    "c": "acetylcholine",
+    "d": "dopamine",
+    "e": "GABA",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is the role of somatosensory input in directing voluntary movement?",
+    "a": "It activates upper motor neurons in the cerebral cortex.",
+    "b": "It sends information to lower motor neurons in the spinal cord.",
+    "c": "It triggers involuntary reflexes.",
+    "d": "It releases acetylcholine into the neuromuscular junction.",
+    "e": "It causes the myofilaments inside muscle cells to slide past each other.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Where are the cell bodies of lower motor neurons usually found?",
+    "a": "muscle spindles",
+    "b": "spinal cord",
+    "c": "cerebral cortex",
+    "d": "brainstem",
+    "e": "peripheral nervous system",
+    "correct_answer": "b"
+  },
+  {
+    "question": "A reflex circuit is a circuit that",
+    "a": "produces voluntary movement",
+    "b": "involves communication with the brain",
+    "c": "triggers muscle contraction without involving the brain",
+    "d": "allows for conscious control of movement",
+    "e": "involves direct communication between upper and lower motor neurons",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which reflex is triggered by tapping the tendon connected to the quadriceps muscle?",
+    "a": "stretch reflex",
+    "b": "withdrawal reflex",
+    "c": "crossed extensor reflex",
+    "d": "babinski reflex",
+    "e": "knee jerk reflex",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What is the main function of the primary motor cortex (M1) and associated cortical areas?",
+    "a": "to coordinate involuntary movements",
+    "b": "to process somatosensory input",
+    "c": "to prevent lower motor neurons from acting independently",
+    "d": "to plan and execute voluntary actions",
+    "e": "to generate conscious awareness of movement",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What does the motor homunculus in the cortex represent?",
+    "a": "neuronal activity during motor planning",
+    "b": "sensory feedback during movement",
+    "c": "execution of involuntary reflexes",
+    "d": "coordinated movements of body parts",
+    "e": "distinct muscles in the body",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which areas work together with the primary motor cortex to plan movements?",
+    "a": "primary somatosensory cortex and prefrontal cortex",
+    "b": "supplementary motor cortex and premotor cortex",
+    "c": "primary somatosensory cortex and premotor cortex",
+    "d": "supplementary motor cortex and primary somatosensory cortex",
+    "e": "supplementary motor cortex and prefrontal cortex",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following topics would scientists studying motor areas of the brain research?",
+    "a": "sensory representation in the supplementary motor cortex",
+    "b": "motor execution during movement",
+    "c": "sensory integration in the premotor cortex",
+    "d": "predicting an organism's behavior before it occurs",
+    "e": "the role of motor homunculus in sensory feedback",
+    "correct_answer": "b"
+  },
+  {
+    "question": "When are neurons in associated motor areas MOST highly active?",
+    "a": "after movements are completed",
+    "b": "during movement execution",
+    "c": "when processing somatosensory feedback",
+    "d": "during motor planning in the premotor cortex",
+    "e": "before any movements are initiated",
+    "correct_answer": "b"
+  }
+]
+

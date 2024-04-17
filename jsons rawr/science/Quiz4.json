@@ -1,0 +1,273 @@
+[
+  {
+    "question": "The two main parts of the central nervous system are the brain and the",
+    "a": "skull",
+    "b": "spinal cord",
+    "c": "meninges",
+    "d": "eyes",
+    "e": "corpus callosum",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The brain is to the skull as the spinal cord is to the",
+    "a": "meninges",
+    "b": "skin",
+    "c": "vertebrae",
+    "d": "ribs",
+    "e": "sternum",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following types of information does NOT travel through the spinal cord?",
+    "a": "body position",
+    "b": "vision",
+    "c": "pain",
+    "d": "touch",
+    "e": "temperature",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Grey matter inside the spinal cord forms the shape of a",
+    "a": "heart",
+    "b": "oval",
+    "c": "circle",
+    "d": "butterfly",
+    "e": "star",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What controls most body reflexes?",
+    "a": "white matter in the brain",
+    "b": "grey matter in the brain",
+    "c": "grey matter in the spinal cord",
+    "d": "the cerebellum",
+    "e": "peripheral nerves",
+    "correct_answer": "c"
+  },
+  {
+    "question": "From top to bottom, the order of parts of the spinal cord in the human body is",
+    "a": "cervical, lumbar, sacral, thoracic",
+    "b": "sacral, lumbar, thoracic, cervical",
+    "c": "thoracic, lumbar, sacral, cervical",
+    "d": "thoracic, sacral, lumbar, cervical",
+    "e": "cervical, thoracic, lumbar, sacral",
+    "correct_answer": "e"
+  },
+  {
+    "question": "With regard to different parts of the body, the spinal cord’s primary task is to",
+    "a": "myelinate",
+    "b": "inhibit",
+    "c": "amplify",
+    "d": "isolate",
+    "e": "innervate",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following statements is NOT true about the spinal cord?",
+    "a": "The spinal cord does not have any physical sections.",
+    "b": "Scientists use sections of the spinal cord to make discussion easier.",
+    "c": "The thoracic spinal cord affects the neck.",
+    "d": "The cervical spinal cord affects the arms and shoulders.",
+    "e": "The lumbar spinal cord affects the fronts of legs.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following descriptions is an accurate description of size differences in spinal cord sections?",
+    "a": "The sacral spinal cord is larger than the lumbar spinal cord.",
+    "b": "The cervical spinal cord is larger than the thoracic spinal cord.",
+    "c": "The sacral spinal cord is larger than the cervical spinal cord.",
+    "d": "The thoracic spinal cord is larger than the cervical spinal cord.",
+    "e": "The thoracic spinal cord is larger than the lumbar spinal cord.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The ventricles contain",
+    "a": "air",
+    "b": "water",
+    "c": "cerebrospinal fluid (CSF)",
+    "d": "blood",
+    "e": "neurotransmitter solutions",
+    "correct_answer": "c"
+  },
+  {
+    "question": "How many lateral ventricles does a human brain contain?",
+    "a": "one",
+    "b": "five",
+    "c": "two",
+    "d": "four",
+    "e": "three",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following parts of the ventricular system is found near the pons?",
+    "a": "third ventricle",
+    "b": "lateral ventricle",
+    "c": "cerebral aqueduct",
+    "d": "fourth ventricle",
+    "e": "central canal",
+    "correct_answer": "d"
+  },
+  {
+    "question": "New CSF is produced by the",
+    "a": "corpus callosum",
+    "b": "meninges",
+    "c": "choroid plexus",
+    "d": "lateral ventricle",
+    "e": "skull’s bone marrow",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following parts of the brain absorbs old CSF?",
+    "a": "medulla",
+    "b": "central canal",
+    "c": "cerebral cortex",
+    "d": "cerebellum",
+    "e": "meninges",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following functions is NOT a responsibility of CSF?",
+    "a": "inhibition of brain damage from resting on the skull’s surface",
+    "b": "mitigation of damage from impact force",
+    "c": "supplementation of nutrients and oxygen",
+    "d": "prevention of molecule buildup",
+    "e": "removal of infectious particles",
+    "correct_answer": "c"
+  },
+  {
+    "question": "The peripheral nervous system does NOT contain",
+    "a": "the spinal cord",
+    "b": "axons",
+    "c": "cell bodies",
+    "d": "ganglia",
+    "e": "nerves",
+    "correct_answer": "a"
+  },
+  {
+    "question": "How do the central and peripheral nervous systems MOST differ?",
+    "a": "The central nervous system can more easily regenerate.",
+    "b": "The peripheral nervous system is not protected by bone.",
+    "c": "The central nervous system is more easily damaged.",
+    "d": "Only the central nervous systems contain ganglia.",
+    "e": "The peripheral nervous system can better resist infection and toxins.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following nervous systems is composed of axons that bring information to and from body tissues?",
+    "a": "somatic",
+    "b": "parasympathetic",
+    "c": "autonomic",
+    "d": "central",
+    "e": "sympathetic",
+    "correct_answer": "a"
+  },
+  {
+    "question": "The somatic nervous system is MOST correlated with",
+    "a": "immune responses",
+    "b": "flight or flight response",
+    "c": "sweat production",
+    "d": "voluntary movement",
+    "e": "unconscious response",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The name for the autonomic nervous system originates from the Greek word meaning",
+    "a": "“unconscious”",
+    "b": "“liberty”",
+    "c": "“instinctive”",
+    "d": "“independence”",
+    "e": "“authority”",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following nervous systems regulates smooth muscle?",
+    "a": "parasympathetic",
+    "b": "somatic",
+    "c": "sympathetic",
+    "d": "ventricular",
+    "e": "autonomic",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which structure activates the flight-or-flight response?",
+    "a": "pituitary gland",
+    "b": "adrenal gland",
+    "c": "hypothalamus",
+    "d": "thyroid gland",
+    "e": "pancreas",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In which of the following areas of the spinal cord can the starting neurons of sympathetic division circuits be found?",
+    "a": "cervical",
+    "b": "sacrum",
+    "c": "lumbar",
+    "d": "lateral",
+    "e": "coccyx",
+    "correct_answer": "c"
+  },
+  {
+    "question": "The sympathetic chain is MOST essential for",
+    "a": "digesting food",
+    "b": "producing stress response",
+    "c": "interpreting motor commands",
+    "d": "sending signals quickly",
+    "e": "regulating endocrine glands",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following body parts is NOT a primary target of sympathetic neurons?",
+    "a": "secretory glands",
+    "b": "lungs",
+    "c": "heart",
+    "d": "eyes",
+    "e": "ears",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Bodily changes to the sympathetic neurons result in less focus on",
+    "a": "hormone production",
+    "b": "energy storage",
+    "c": "digestive system needs",
+    "d": "general body maintenance",
+    "e": "impending danger",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following phrases best describes the parasympathetic nervous system?",
+    "a": "balance and mobility",
+    "b": "sleep and mindfulness",
+    "c": "rest and digest",
+    "d": "recovery and repair",
+    "e": "fight and flight",
+    "correct_answer": "c"
+  },
+  {
+    "question": "The parasympathetic nervous system does NOT focus on",
+    "a": "cell growth",
+    "b": "digesting food",
+    "c": "immune responses",
+    "d": "heart rate",
+    "e": "energy storage",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The sympathetic nervous system helps",
+    "a": "the body act unconsciously",
+    "b": "the body digest food",
+    "c": "coordinate the body’s movement",
+    "d": "prepare the body for action",
+    "e": "the body relax",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following pairs of nervous systems are considered inhibitory?",
+    "a": "autonomic and somatic",
+    "b": "central and peripheral",
+    "c": "sympathetic and peripheral",
+    "d": "somatic and parasomatic",
+    "e": "sympathetic and parasympathetic",
+    "correct_answer": "e"
+  }
+]
+

@@ -1,0 +1,273 @@
+[
+  {
+    "question": "Which of the following brain regions is MOST often associated with memory?",
+    "a": "amygdala",
+    "b": "hypothalamus",
+    "c": "cingulate gyrus",
+    "d": "sensory cortex",
+    "e": "hippocampus",
+    "correct_answer": "e"
+  },
+  {
+    "question": "An example of an individual using short term memory could be remembering",
+    "a": "the lyrics to a song",
+    "b": "a fact from history",
+    "c": "a verification code for an app",
+    "d": "a past birthday",
+    "e": "how to prepare a sandwich",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following actions is NOT an example of the brain’s plasticity in action?",
+    "a": "plateauing of neuron behavior over time",
+    "b": "changing the strength of synapses",
+    "c": "encoding long term memory",
+    "d": "learning new information",
+    "e": "creating short term memory",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which of the following memory types is NOT a form of long term memory?",
+    "a": "echoic memory",
+    "b": "habitual memory",
+    "c": "procedural memory",
+    "d": "semantic memory",
+    "e": "episodic memory",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Classical conditioning is a form of",
+    "a": "short term memory",
+    "b": "explicit memory",
+    "c": "semantic memory",
+    "d": "implicit memory",
+    "e": "declarative memory",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following brain areas is NOT associated with plasticity?",
+    "a": "the entorhinal cortex",
+    "b": "the hippocampus",
+    "c": "the sensory cortex",
+    "d": "the dendrites",
+    "e": "the synapse",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Long term potentiation is the",
+    "a": "interference of ions with polarization",
+    "b": "strengthening of synapses",
+    "c": "creating of flashbulb memories in the amygdala",
+    "d": "consolidation of information",
+    "e": "storing of memories in the hippocampus",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Memory is encoded using",
+    "a": "the amygdala",
+    "b": "the sensory cortex",
+    "c": "the entorhinal cortex",
+    "d": "synaptic plasticity",
+    "e": "desensitization",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following scenarios demonstrates episodic memory?",
+    "a": "Pablo remembers how to bake a cake without a recipe.",
+    "b": "Sammy remembers an image that was flashed on the screen for 15 seconds.",
+    "c": "Emma remembers the smell of the room where she was when the 9/11 attacks happened.",
+    "d": "Julie remembers when she went to the park with her brother 3 years ago.",
+    "e": "Bobby remembers the names and birthdays of his extended family.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Phantom limb syndrome is an example of plasticity in the",
+    "a": "hypothalamus",
+    "b": "hippocampus",
+    "c": "motor cortex",
+    "d": "cingulate gyrus",
+    "e": "sensory cortex",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The hippocampus is LEAST related to",
+    "a": "procedural memory",
+    "b": "habitual memory",
+    "c": "episodic memory",
+    "d": "implicit memory",
+    "e": "short term memory",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following types of memory is unconscious?",
+    "a": "short term memory",
+    "b": "episodic memory",
+    "c": "semantic memory",
+    "d": "explicit memory",
+    "e": "procedural memory",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Long term depression is MOST closely associated with",
+    "a": "emotional, behavioral, and cognitive changes",
+    "b": "weakened synaptic connections",
+    "c": "the decreased ability to make associations",
+    "d": "interference with memory encoding",
+    "e": "the increased failure of recall over time",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following phenomena is studied MOST in neuroscience?",
+    "a": "memory",
+    "b": "plasticity",
+    "c": "cognition",
+    "d": "learning",
+    "e": "behavior",
+    "correct_answer": "a"
+  },
+  {
+    "question": "An example of habituation would be",
+    "a": "failing to discriminate two stimuli from each other",
+    "b": "associating a neutral item with a specific stimulus",
+    "c": "encoding an experience into long term memory",
+    "d": "recalling an experience from episodic memory",
+    "e": "responding to a stimulus less over time",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which term refers to a part of the brain that is removed to observe changes in an organism’s actions?",
+    "a": "lesion",
+    "b": "transplantation",
+    "c": "augmentation",
+    "d": "activation",
+    "e": "excision",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which specific functions did Paul Broca localize to the left side of the brain?",
+    "a": "emotional processing and regulation",
+    "b": "memory and cognition",
+    "c": "speech and language",
+    "d": "motor control and coordination",
+    "e": "vision and perception",
+    "correct_answer": "c"
+  },
+  {
+    "question": "‘Patient Tan’ had a brain lesion on the left side of his",
+    "a": "hippocampus",
+    "b": "cerebral cortex",
+    "c": "thalamus",
+    "d": "cerebellum",
+    "e": "amygdala",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following methods has been used to study the cerebral cortex?",
+    "a": "chemogenetics",
+    "b": "optogenetics",
+    "c": "electrical brain stimulation",
+    "d": "deep brain stimulation",
+    "e": "electroshock therapy",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following therapies is used to treat Parkinson’s Disease?",
+    "a": "electroshock therapy",
+    "b": "electrical brain stimulation",
+    "c": "deep brain stimulation",
+    "d": "transcranial magnetic stimulation",
+    "e": "optogenetics",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following therapies is used to treat major depression?",
+    "a": "electrical brain stimulation",
+    "b": "chemogenetics",
+    "c": "deep brain stimulation",
+    "d": "electroshock therapy",
+    "e": "optogenetics",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which types of electrodes are used in transcranial direct current stimulation?",
+    "a": "positive and neutral electrodes",
+    "b": "positive and negative electrodes",
+    "c": "positive and ground electrodes",
+    "d": "bipolar and monopolar electrodes",
+    "e": "active and reference electrodes",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following therapies is inexpensive and is shown to have little effect on the human brain?",
+    "a": "electrical brain stimulation",
+    "b": "transcranial magnetic stimulation",
+    "c": "deep brain stimulation",
+    "d": "electroshock therapy",
+    "e": "transcranial direct current stimulation",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Where was ChR2 discovered?",
+    "a": "United States",
+    "b": "France",
+    "c": "Spain",
+    "d": "England",
+    "e": "Germany",
+    "correct_answer": "e"
+  },
+  {
+    "question": "ChR2 was originally found in",
+    "a": "human cells",
+    "b": "animal cells",
+    "c": "fungal cells",
+    "d": "algae cells",
+    "e": "plant cells",
+    "correct_answer": "d"
+  },
+  {
+    "question": "ChR2 is sensitive to",
+    "a": "red wavelengths of light",
+    "b": "green wavelengths of light",
+    "c": "violet wavelengths of light",
+    "d": "yellow wavelengths of light",
+    "e": "blue wavelengths of light",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How do precisely timed pulses of light in optogenetics research help researchers?",
+    "a": "They aid in the growth and development of neuronal cells.",
+    "b": "They promote the regeneration of damaged neural tissue.",
+    "c": "They allow researchers to study energy usage.",
+    "d": "They allow researchers to study the structural changes in the brain.",
+    "e": "They enable researchers to control the firing of specific neurons.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following effects comes from transcranial magnetic stimulation?",
+    "a": "promotion of synaptic growth",
+    "b": "induction of neurogenesis",
+    "c": "facilitation of neuroplasticity",
+    "d": "inhibition of neuronal communication",
+    "e": "permanent alteration of neuronal structure",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is one primary purpose for which scientists use transcranial magnetic stimulation?",
+    "a": "to modulate cortical excitability in healthy individuals",
+    "b": "to confirm the necessity of specific brain regions for tasks",
+    "c": "to analyze brain activity during sleep",
+    "d": "to enhance cognitive performance in healthy individuals",
+    "e": "to induce long-lasting changes in brain structure",
+    "correct_answer": "a"
+  },
+  {
+    "question": "The FDA approved transcranial magnetic stimulation to treat",
+    "a": "epilepsy",
+    "b": "schizophrenia",
+    "c": "depression",
+    "d": "Alzheimer’s disease",
+    "e": "Parkinson’s disease",
+    "correct_answer": "c"
+  }
+]
+

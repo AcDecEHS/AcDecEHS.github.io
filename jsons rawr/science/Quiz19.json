@@ -1,0 +1,273 @@
+[
+    {
+        "question": "What pseudoscientific neuroimaging technique did Franz Joseph Gall develop?",
+        "a": "angiography",
+        "b": "phrenology",
+        "c": "morphology",
+        "d": "trepanation",
+        "e": "lobotomy",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The idea that specific areas of the brain have specific functions is the theory of",
+        "a": "localization",
+        "b": "specialization",
+        "c": "function",
+        "d": "neuroscience",
+        "e": "position",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Why is EEG often used in sleep studies?",
+        "a": "EEG is more cost-effective for sleep studies compared to other neuroimaging techniques.",
+        "b": "Study participants prefer EEG because it is quieter and less likely to disturb sleep than other neuroimaging methods.",
+        "c": "Less equipment is needed for EEG compared to other sleep study methods.",
+        "d": "EEG enables researchers to collect data for long-term sleep studies, unlike other methods that only allow for short-term data collection.",
+        "e": "EEG allows researchers to study the differences between stages of sleep, unlike other methods that do not distinguish between different sleep phases.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "In which decade did scientists use computer analysis of EEG recordings to study event-related potentials?",
+        "a": "1960s",
+        "b": "1950s",
+        "c": "1970s",
+        "d": "1990s",
+        "e": "1980s",
+        "correct_answer": "c"
+    },
+    {
+        "question": "When participants are shown a human face, EEG outputs show a negative peak called the",
+        "a": "N150",
+        "b": "N170",
+        "c": "N110",
+        "d": "N190",
+        "e": "N130",
+        "correct_answer": "b"
+    },
+    {
+        "question": "A shortcoming of EEG recording is that EEG",
+        "a": "requires invasive surgery on study participants",
+        "b": "is ethically controversial",
+        "c": "has poor spatial resolution",
+        "d": "is very expensive",
+        "e": "cannot record the outside layers of the brain",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following uses is NOT a function of MRI?",
+        "a": "measure electrical activity",
+        "b": "detect abnormalities",
+        "c": "track disease progression",
+        "d": "diagnose injury",
+        "e": "observe many areas of the body",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Hydrogen atom positioning in an MRI before a radio frequency (RF) pulse is analogous to",
+        "a": "scattered sand",
+        "b": "electron flow in a galvanic cell",
+        "c": "hurricane wind patterns",
+        "d": "water molecules in cytosol",
+        "e": "iron filings near a magnet",
+        "correct_answer": "e"
+    },
+    {
+        "question": "How does fMRI show the level of brain activity in particular areas?",
+        "a": "determining which areas of the brain are more active by measuring the strength of electrical signals from different regions.",
+        "b": "measuring the strength of the radio signals emitted not just by hydrogen atoms, but also by ions involved in neural activity.",
+        "c": "distinguishing between active areas of the brain with more oxygenated blood and inactive regions with more deoxygenated blood.",
+        "d": "recording stronger radio signals from active areas of the brain that contain more water, and therefore more hydrogen atoms, due to their activity.",
+        "e": "labeling areas of the brain with faster blood circulation as more active, and those with slower circulation as inactive.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What region of the brain was discovered in the late 1990s using fMRI?",
+        "a": "Broca’s area",
+        "b": "substantia nigra",
+        "c": "fusiform face area",
+        "d": "Wernicke’s area",
+        "e": "thalamus",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What is NOT a drawback of using MRI?",
+        "a": "MRI produces a low-resolution image.",
+        "b": "People with metal in their bodies cannot undergo MRI.",
+        "c": "MRI is typically only found in hospitals and research labs.",
+        "d": "MRI can only scan the outermost parts of the brain.",
+        "e": "MRI is highly expensive to use.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Between fMRI and EEG, fMRI",
+        "a": "requires less training",
+        "b": "has lower spatial resolution",
+        "c": "has lower temporal resolution",
+        "d": "is more portable",
+        "e": "is more cost-effective",
+        "correct_answer": "c"
+    },
+    {
+        "question": "In which decade did research on brain-machine interfaces begin in the United States?",
+        "a": "1950s",
+        "b": "1980s",
+        "c": "1960s",
+        "d": "1990s",
+        "e": "1970s",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What was the purpose of a neuroprosthetic developed by researchers at the University of California, San Francisco?",
+        "a": "to translate neural activity into speech",
+        "b": "to move prosthetics based on brain activity",
+        "c": "to control smartphones without touch",
+        "d": "to move a wheelchair through thought",
+        "e": "to create pictures based on mental images",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following fields is MOST critical to the development of brain-machine interface devices?",
+        "a": "cognitive neuroscience",
+        "b": "neuroimaging",
+        "c": "neuropsychiatry",
+        "d": "translational neuroscience",
+        "e": "computational neuroscience",
+        "correct_answer": "e"
+    },
+    {
+        "question": "When was the term 'computational neuroscience' first used?",
+        "a": "1960s",
+        "b": "1990s",
+        "c": "2000s",
+        "d": "1970s",
+        "e": "1980s",
+        "correct_answer": "b"
+    },
+    {
+        "question": "In the context of computational neuroscience, the term 'experimentalist' refers to",
+        "a": "neuroimaging researchers who use brain imaging techniques",
+        "b": "geneticists who study the role of genes in brain development",
+        "c": "scientists who work with actual neurons and brains",
+        "d": "psychologists who specialize in cognitive processes",
+        "e": "physicists who study the principles of neural network dynamics",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What is the primary purpose of computational neuronal modeling in neuroscience?",
+        "a": "investigating the role of emotions in neural processing",
+        "b": "simulating quantum interactions in the brain",
+        "c": "analyzing the impact of diet and lifestyle choices on brain health",
+        "d": "modeling the behavior of neurons and studying their processes",
+        "e": "understanding the genetic factors influencing neurodevelopment",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What is the primary purpose of a neural network model in computational neuronal modeling?",
+        "a": "investigating the behavior of large-scale biophysical models",
+        "b": "analyzing the structural characteristics of individual neurons",
+        "c": "simulating the activity of entire brain regions",
+        "d": "studying the processes of multiple neurons in isolation",
+        "e": "replicating the detailed behavior of individual neurons",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following is NOT a use of neural network models?",
+        "a": "developing new treatments",
+        "b": "studying neural processes",
+        "c": "analyzing neuronal genetic mutations",
+        "d": "creating brain-like AI",
+        "e": "testing mechanical theories",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What aspect of the human mind needs further study to create true artificial intelligence using neuroscientific principles?",
+        "a": "the structure of neurons in the brain",
+        "b": "the scientific nature of consciousness and cognition",
+        "c": "the role of neurotransmitters in neural communication",
+        "d": "the impact of environmental factors on brain function",
+        "e": "the influence of genetics on neural development",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following tasks can artificial intelligence NOT accomplish using Artificial Neural Networks?",
+        "a": "distinguishing an image of a cat from one of a coconut",
+        "b": "using common sense in everyday scenarios",
+        "c": "recognizing and responding to certain spoken words",
+        "d": "translating text between multiple languages",
+        "e": "spotting pedestrians on the road to avoid collisions in self-driving cars",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The nodes used in Artificial Neural Networks are analogous to",
+        "a": "astrocytes",
+        "b": "synapses",
+        "c": "neurons",
+        "d": "action potentials",
+        "e": "glial cells",
+        "correct_answer": "c"
+    },
+    {
+        "question": "The mathematical weights connecting nodes in Artificial Neural Networks are analogous to",
+        "a": "synapses",
+        "b": "axon terminals",
+        "c": "myelin sheaths",
+        "d": "Nodes of Ranvier",
+        "e": "Schwann Cells",
+        "correct_answer": "a"
+    },
+    {
+        "question": "In 2015, a deep neural network defeated a professional player in the game",
+        "a": "chess",
+        "b": "sudoku",
+        "c": "checkers",
+        "d": "Go",
+        "e": "bridge",
+        "correct_answer": "d"
+    },
+    {
+        "question": "In 1996, a deep neural network defeated a professional player in the game",
+        "a": "chess",
+        "b": "bridge",
+        "c": "checkers",
+        "d": "Go",
+        "e": "sudoku",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How many possible options for each move are there in Go?",
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "e": "",
+        "correct_answer": ""
+    },
+    {
+        "question": "For diagnosis, psychiatry PRIMARILY relies on",
+        "a": "neuroimaging techniques and brain scans",
+        "b": "objective laboratory tests and biomarkers",
+        "c": "genetic analysis and molecular profiling",
+        "d": "family history and social background",
+        "e": "behavioral analysis and assessments",
+        "correct_answer": "e"
+    },
+    {
+        "question": "How are computer algorithms MOST useful in the field of computational psychiatry?",
+        "a": "by eliminating the need for behavioral testing",
+        "b": "by measuring the effectiveness of medicines",
+        "c": "by enabling direct visualization of brain activity",
+        "d": "by determining the root causes of psychiatric disorders",
+        "e": "by providing more extensive data to improve diagnoses",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following goals is NOT an aim of computational psychiatry?",
+        "a": "to improve psychiatrist’s understandings of treatments",
+        "b": "to improve the patients’ recoveries overall",
+        "c": "to improve the accuracy of diagnoses",
+        "d": "to improve patients’ responses to treatments and drugs",
+        "e": "to improve patients’ medication consistency",
+        "correct_answer": "b"
+    }
+]
+
