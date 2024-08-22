@@ -1,0 +1,137 @@
+[
+    {
+        "question": "The materials of clay, stone, and wood have been essential to",
+        "a": "engraving metal surfaces",
+        "b": "painting on canvas",
+        "c": "creating sculptures",
+        "d": "making pottery pieces",
+        "e": "designing buildings",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which culture’s artists FIRST depicted land as the subject of paintings?",
+        "a": "English",
+        "b": "Portuguese",
+        "c": "Mexican",
+        "d": "Dutch",
+        "e": "Japanese",
+        "correct_answer": "d"
+    },
+    {
+        "question": "In which artistic period did painters FIRST experiment with new techniques to emphasize the uniqueness of their landscapes?",
+        "a": "Romantic",
+        "b": "Renaissance",
+        "c": "Modern",
+        "d": "Neoclassical",
+        "e": "Baroque",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following ideas BEST describes the concept of Manifest Destiny?",
+        "a": "that American settlers should respect and preserve indigenous cultures",
+        "b": "that the United States should eventually occupy Canada and Mexico",
+        "c": "that American settlers were predestined by God to expand west",
+        "d": "that the West was a land full of economic opportunities",
+        "e": "that English culture should dominate in the United States",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Notions of Manifest Destiny MOST disregarded",
+        "a": "women",
+        "b": "European settlers",
+        "c": "indigenous peoples",
+        "d": "immigrants",
+        "e": "urban residents",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Compared to Euro-American artists of the past, contemporary artists place more value on",
+        "a": "picturesque views",
+        "b": "famous natural wonders",
+        "c": "hidden landscapes",
+        "d": "industrial scenes",
+        "e": "historical landmarks",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Who painted Among the Sierra Nevada, California?",
+        "a": "Albert Bierstadt",
+        "b": "Sanford Robinson Gifford",
+        "c": "Thomas Moran",
+        "d": "Asher B. Durand",
+        "e": "Frederic Edwin Church",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following terms is NOT used to describe inhabitants of North America before European colonization?",
+        "a": "Aboriginal",
+        "b": "Colonials",
+        "c": "Indian",
+        "d": "Indigenous",
+        "e": "First Nations",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The term 'Indigenous' more generally refers to the",
+        "a": "Native Americans who live on reservations",
+        "b": "first inhabitants of a territory",
+        "c": "people whom Christopher Columbus encountered",
+        "d": "tribes who have federal recognition",
+        "e": "people whose culture originates from a specific place",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following terms refers to the first inhabitants of a territory and is more commonly used in Canada than the United States?",
+        "a": "Indigenous",
+        "b": "Aboriginal",
+        "c": "Indian",
+        "d": "First Nations",
+        "e": "Native American",
+        "correct_answer": "b"
+    },
+    {
+        "question": "In which of the following decades did the term 'Native American' initially gain popularity through political movements?",
+        "a": "1910s",
+        "b": "1960s",
+        "c": "1860s",
+        "d": "1940s",
+        "e": "1810s",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Why is the term 'Indian' different from other commonly used terms for describing the first inhabitants of North America?",
+        "a": "It is the most recent term to be adopted.",
+        "b": "It is more appropriate in Canada.",
+        "c": "It describes people whose culture can be traced back to a particular place.",
+        "d": "It carries legal standing in the United States.",
+        "e": "It is the preferred term in international law.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How do traditional and contemporary artists differ in their methodology of landscape representation?",
+        "a": "Traditional artists focus on the picturesque, while contemporary artists emphasize political issues.",
+        "b": "Traditional artists celebrate technological advancements, while contemporary artists focus on untouched nature.",
+        "c": "Traditional artists emphasize rural scenes, while contemporary artists focus on urban settings.",
+        "d": "Traditional artists avoid historical contexts, while contemporary artists highlight notable historical events.",
+        "e": "Traditional artists use classical techniques, while contemporary artists prefer abstract forms.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following artists experimented with new landscape techniques in the Romantic period?",
+        "a": "Asher B. Durand",
+        "b": "John Constable",
+        "c": "Gilbert Stuart",
+        "d": "Thomas Gainsborough",
+        "e": "Joshua Reynolds",
+        "correct_answer": "b"
+    },
+    {
+        "question": "A consequence of the belief in Manifest Destiny was",
+        "a": "increased stability for the United States government",
+        "b": "the displacement of original inhabitants",
+        "c": "increased interest in Indigenous cultures",
+        "d": "preservation of native lands and cultures",
+        "e": "reduction in westward migration",
+        "correct_answer": "b"
+    }
+]

@@ -1,0 +1,272 @@
+[
+    {
+        "question": "Of which indigenous nation is Bonnie Devine a member?",
+        "a": "Ojibwa",
+        "b": "Mohawk",
+        "c": "Algonquin",
+        "d": "Haudenosaunee",
+        "e": "Seneca",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Where did Bonnie Devine create several installations as part of her Reclamation Project?",
+        "a": "Yukon",
+        "b": "Quebec",
+        "c": "Ontario",
+        "d": "British Columbia",
+        "e": "Manitoba",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How is Bonnie Devine’s art similar to that of Rebecca Belmore and Ana Mendieta?",
+        "a": "Devine’s works incorporate large-scale installations in urban areas.",
+        "b": "Devine’s art frequently uses vibrant colors and abstract patterns.",
+        "c": "Devine’s site performances are meant to be temporary.",
+        "d": "Devine’s pieces often use advanced digital technology.",
+        "e": "Devine’s performances feature extensive audience participation.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which traditional indigenous art-making technique did Devine use in some of her earlier works?",
+        "a": "beadwork",
+        "b": "quillwork",
+        "c": "carving",
+        "d": "weaving",
+        "e": "sewing",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Stories from the Shield used all of the following materials EXCEPT",
+        "a": "tree stumps",
+        "b": "rocks",
+        "c": "silk threads",
+        "d": "flowers",
+        "e": "paper",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Devine created Stories from the Shield to comment on the",
+        "a": "environmental impact of uranium mining",
+        "b": "legal battles over indigenous territories and land rights",
+        "c": "erosion of indigenous languages and traditions",
+        "d": "exploitation of natural resources by early colonial settlers",
+        "e": "pollution of rivers and lakes in indigenous territories",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which art historian commented on the topics addressed in Devine’s MFA thesis?",
+        "a": "Jack Burnham",
+        "b": "Cynthia Fowler",
+        "c": "Mark Cheetham",
+        "d": "Kent Monkman",
+        "e": "William Beebe",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Battle for the Woodlands includes all of the following components EXCEPT",
+        "a": "interactive digital projections",
+        "b": "decorated animal hides",
+        "c": "a colonial map",
+        "d": "symbolic paintings of animals",
+        "e": "freestanding sculptures",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following pigments does Devine use in Battle for the Woodlands?",
+        "a": "cobalt blue",
+        "b": "red oxide",
+        "c": "yellow ochre",
+        "d": "vermilion",
+        "e": "burnt sienna",
+        "correct_answer": "b"
+    },
+    {
+        "question": "In Battle for the Woodlands, Devine uses beads to highlight",
+        "a": "regions threatened by deforestation and habitat loss",
+        "b": "migration patterns of local wildlife",
+        "c": "historical trade routes and exchange networks",
+        "d": "the forced displacement of indigenous communities",
+        "e": "borderlines once established by treaties that were later broken",
+        "correct_answer": "e"
+    },
+    {
+        "question": "In Battle for the Woodlands, Devine sought to depict the Great Lakes as",
+        "a": "economic resources",
+        "b": "cultural symbols",
+        "c": "navigational obstacles",
+        "d": "spiritual beings",
+        "e": "contamination hotspots",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following animals does Devine NOT depict in Battle for the Woodlands?",
+        "a": "rabbits",
+        "b": "bears",
+        "c": "wolves",
+        "d": "bison",
+        "e": "deer",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Battle for the Woodlands depicts dozens of animals engaging in the action of",
+        "a": "fighting for territory",
+        "b": "gathering food for the winter",
+        "c": "building nests and dens",
+        "d": "hiding from predators",
+        "e": "fleeing to the West",
+        "correct_answer": "e"
+    },
+    {
+        "question": "According to Devine, Stories from the Shield primarily explores the relationship between",
+        "a": "urbanization and nature",
+        "b": "humans and wildlife",
+        "c": "tradition and modernity",
+        "d": "color and emotion",
+        "e": "land and consciousness",
+        "correct_answer": "e"
+    },
+    {
+        "question": "In Battle for the Woodlands, how does Devine’s perspective differ from traditional colonial viewpoints?",
+        "a": "Devine highlights both benefits and harms of colonial expansion into indigenous territories.",
+        "b": "Devine emphasizes a peaceful coexistence between mankind and the natural environment.",
+        "c": "Devine encourages indigenous peoples to assimilate into colonial societies.",
+        "d": "Devine suggests the cultural superiority of indigenous nations over colonial settlers.",
+        "e": "Devine portrays indigenous cultures as incompatible with modernity.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "To which Native American group does Will Wilson belong?",
+        "a": "Nez Perce",
+        "b": "Diné",
+        "c": "Pueblo",
+        "d": "Caddo",
+        "e": "Apache",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Will Wilson has NOT been affiliated with",
+        "a": "University of Texas at Austin",
+        "b": "Oberlin College",
+        "c": "Santa Fe Community College",
+        "d": "University of Arizona",
+        "e": "University of New Mexico",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What is the name of the traditional homeland of the Navajo people?",
+        "a": "Dookʼoʼoosłííd",
+        "b": "Naabeehó",
+        "c": "Dinétah",
+        "d": "Tsoodził",
+        "e": "Diné Bikéyah",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What is the purpose of Will Wilson’s photographic series “Survey”?",
+        "a": "documenting contaminated lands within the Navajo homeland",
+        "b": "immortalizing the landscape of the Navajo homeland through photography",
+        "c": "providing an alternative view of Native society to oppose Edward S. Curtis’ photographs",
+        "d": "investigating the effects of pollution on Navajo individuals",
+        "e": "chronicling the aftermath of the Three Mile Island spill",
+        "correct_answer": "a"
+    },
+    {
+        "question": "From which of the following perspectives is Church Rock Spill Evaporation Ponds shot?",
+        "a": "aerial",
+        "b": "frontal",
+        "c": "worm’s eye",
+        "d": "forced",
+        "e": "isometric",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which river experienced pollution from the Church Rock spill?",
+        "a": "Pecos",
+        "b": "Mancos",
+        "c": "Gila",
+        "d": "Puerco",
+        "e": "Animas",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following pollutants is NOT common in abandoned mineshafts on Navajo lands?",
+        "a": "radioactive waste",
+        "b": "radon",
+        "c": "heavy metals",
+        "d": "uranium",
+        "e": "radium",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which United States government bureau acknowledged the environmental pollution that exists on Navajo lands?",
+        "a": "United States Environmental Protection Agency",
+        "b": "United States Council on Environmental Quality",
+        "c": "United States Administration for Native Americans",
+        "d": "United States Department of Energy",
+        "e": "United States Government Accountability Office",
+        "correct_answer": "e"
+    },
+    {
+        "question": "In what state did the Three Mile Island spill occur?",
+        "a": "California",
+        "b": "Texas",
+        "c": "Connecticut",
+        "d": "Delaware",
+        "e": "Pennsylvania",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Why have desert regions in the American West typically been chosen for toxic activities like nuclear weapons testing?",
+        "a": "The ecosystems in these areas are already degraded.",
+        "b": "The Navajo tribe sold land to the United States government.",
+        "c": "The sites are perceived to be uninhabited.",
+        "d": "The soil in desert regions is more tolerant to toxic chemicals.",
+        "e": "Few Native Americans live in these areas.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following reasons BEST explains why Will Wilson dislikes Edward S. Curtis’s photographs?",
+        "a": "Curtis only took photographs of one Native tribe.",
+        "b": "They isolate Native Americans to one era in time.",
+        "c": "They are stereotyped portraits that do not accurately represent Native culture.",
+        "d": "Curtis took the photographs without the consent of his subjects.",
+        "e": "They are created by a non-Native artist.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What material did Will Wilson use for his photographic negatives?",
+        "a": "paper",
+        "b": "aluminum",
+        "c": "glass",
+        "d": "copper",
+        "e": "pewter",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which photographic medium did Will Wilson commonly use for his portrait photographs?",
+        "a": "instant film",
+        "b": "wet plate collodion",
+        "c": "digital photography",
+        "d": "Daguerreotype",
+        "e": "35 millimeter negative",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Will Wilson’s approach to portrait photography is MOST similar to the work of",
+        "a": "Agnes Denes",
+        "b": "Subhankar Banerjee",
+        "c": "Arthur Schott",
+        "d": "Newton Harrison",
+        "e": "LaToya Ruby Frazier",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following people has NOT photographed Native American peoples or their lands?",
+        "a": "Judy Pasternak",
+        "b": "Will Wilson",
+        "c": "Arthur Schott",
+        "d": "Timothy O’Sullivan",
+        "e": "Edward S. Curtis",
+        "correct_answer": "a"
+    }
+]
