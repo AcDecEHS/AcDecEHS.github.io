@@ -1,0 +1,272 @@
+[
+    {
+        "question": "Which layer of Earth’s atmosphere is experiencing warmer temperatures due to climate change?",
+        "a": "mesosphere",
+        "b": "troposphere",
+        "c": "exosphere",
+        "d": "stratosphere",
+        "e": "thermosphere",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following statements correctly summarizes the effects of carbon dioxide on the layers of the atmosphere?",
+        "a": "Carbon dioxide causes warming in the troposphere and cooling at higher layers.",
+        "b": "Carbon dioxide causes lower temperatures in the troposphere but warming in the stratosphere.",
+        "c": "Carbon dioxide causes the greenhouse effect only in the troposphere.",
+        "d": "At every layer of the atmosphere, carbon dioxide causes warmer temperatures.",
+        "e": "Carbon dioxide depletes the ozone layer in the stratosphere.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Approximately how thick is the troposphere in miles?",
+        "a": "twelve",
+        "b": "seven",
+        "c": "six",
+        "d": "three",
+        "e": "five",
+        "correct_answer": "b"
+    },
+    {
+        "question": "In which layer of the Earth’s atmosphere does weather occur?",
+        "a": "stratosphere",
+        "b": "troposphere",
+        "c": "thermosphere",
+        "d": "exosphere",
+        "e": "mesosphere",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What word BEST describes the effect of diverging temperatures between layers of the atmosphere?",
+        "a": "instability",
+        "b": "cooling",
+        "c": "warming",
+        "d": "pollution",
+        "e": "storms",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following statements BEST summarizes Eunice Newton Foote’s hypothesis concerning Earth’s atmosphere?",
+        "a": "Higher carbon dioxide levels in the troposphere could lead to increased surface temperatures.",
+        "b": "Water vapor, carbon dioxide, and solar rays could combine to raise the Earth’s temperature.",
+        "c": "Fossil fuels are the main contributor to climate change.",
+        "d": "Higher rates of fossil fuel consumption in wealthy cities leads to a worsening air quality.",
+        "e": "Depletion of ozone in the stratosphere could cause harmful ultraviolet rays to reach Earth’s surface.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What nationality was Eunice Newton Foote?",
+        "a": "English",
+        "b": "Canadian",
+        "c": "French",
+        "d": "American",
+        "e": "German",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What year was Eunice Newton Foote born?",
+        "a": "1819",
+        "b": "1837",
+        "c": "1930",
+        "d": "1918",
+        "e": "1902",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What three countries have the largest share of the total world oil production?",
+        "a": "United States, Saudi Arabia, and Russia",
+        "b": "Canada, Russia, and Iraq",
+        "c": "United States, Saudi Arabia, and Iraq",
+        "d": "United States, Canada, and Saudi Arabia",
+        "e": "Saudi Arabia, Iraq, and Russia",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What is the difference between the troposphere and the higher layers of the atmosphere?",
+        "a": "The air is thinner at higher layers of the atmosphere.",
+        "b": "The troposphere has cooler temperatures than the higher layers of the atmosphere.",
+        "c": "The higher layers of the atmosphere are more polluted than the troposphere.",
+        "d": "The troposphere is the only layer that contains oxygen.",
+        "e": "Higher layers of the atmosphere have more nitrogen than the troposphere.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What percentage of the world total oil does the United States produce?",
+        "a": "twenty",
+        "b": "eighteen",
+        "c": "twelve",
+        "d": "thirty",
+        "e": "fifteen",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How many barrels of oil (in millions) did the United States produce in 2022?",
+        "a": "18.38",
+        "b": "12.14",
+        "c": "28.36",
+        "d": "20.21",
+        "e": "10.94",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What is the PRIMARY result of higher greenhouse gas concentrations in the atmosphere?",
+        "a": "decreasing oxygen levels in the stratosphere",
+        "b": "rising temperatures in the troposphere",
+        "c": "colder temperatures in the thermosphere",
+        "d": "ocean acidification at the poles",
+        "e": "colder temperatures in the southern hemisphere",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which country contributes twelve percent of the world’s total oil?",
+        "a": "Russia",
+        "b": "China",
+        "c": "Saudi Arabia",
+        "d": "Canada",
+        "e": "Iraq",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What word BEST describes the state of scientific investigation into climate change at this moment?",
+        "a": "surface-level",
+        "b": "established",
+        "c": "unexplored",
+        "d": "diminishing",
+        "e": "developing",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which fossil fuel was used FIRST during the Industrial Revolution?",
+        "a": "gasoline",
+        "b": "coal",
+        "c": "crude oil",
+        "d": "natural gas",
+        "e": "kerosene",
+        "correct_answer": "b"
+    },
+    {
+        "question": "In the twenty-first century, coal is MOST often used in",
+        "a": "trains",
+        "b": "power plants",
+        "c": "home generators",
+        "d": "heavy machinery",
+        "e": "steam engines",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following concerns was LEAST important to Europeans when colonizing oil-rich areas?",
+        "a": "building imperial power",
+        "b": "extracting wealth",
+        "c": "supporting democracy",
+        "d": "exerting force",
+        "e": "accessing oil",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What factor PRIMARILY determines where fossil fuels are used?",
+        "a": "size of the country",
+        "b": "fossil fuel reserves",
+        "c": "climate",
+        "d": "proximity to trade routes",
+        "e": "wealth",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following countries was both the top producer and consumer of oil in the early 2020s?",
+        "a": "United States",
+        "b": "Russia",
+        "c": "India",
+        "d": "Saudi Arabia",
+        "e": "China",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How many millions of barrels of oil per day does the United States consume?",
+        "a": "19.89",
+        "b": "20.47",
+        "c": "13.72",
+        "d": "17.43",
+        "e": "23.18",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which Iraqi city did British colonial influence impact after the discovery of oil there?",
+        "a": "Kirkuk",
+        "b": "Mosul",
+        "c": "Hillah",
+        "d": "Karbala",
+        "e": "Amarah",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What year was oil first discovered in Iraq?",
+        "a": "1910",
+        "b": "1927",
+        "c": "1936",
+        "d": "1912",
+        "e": "1931",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which word BEST describes the city of Kirkuk before the British arrived?",
+        "a": "profitable",
+        "b": "unknown",
+        "c": "diverse",
+        "d": "wealthy",
+        "e": "homogenous",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What is a similarity between early stages of the Industrial Revolution and the oil industry today?",
+        "a": "The oil industry hides its knowledge of climate change.",
+        "b": "The oil industry drives new infrastructure progress.",
+        "c": "The oil industry is centered in the Middle East.",
+        "d": "The oil industry makes a profit.",
+        "e": "The oil industry invests in research.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following countries has never been under European control or influence?",
+        "a": "Japan",
+        "b": "Morocco",
+        "c": "New Zealand",
+        "d": "Saudi Arabia",
+        "e": "Chile",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which gas has the second highest greenhouse gas emissions in the United States?",
+        "a": "methane",
+        "b": "coal",
+        "c": "oil",
+        "d": "kerosene",
+        "e": "nitrous oxide",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which year had the highest amount of greenhouse gas emissions in Europe from 1990 to 2017?",
+        "a": "2009",
+        "b": "1995",
+        "c": "1990",
+        "d": "2005",
+        "e": "2017",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which word BEST describes the goals of the oil industry?",
+        "a": "profitability",
+        "b": "innovation",
+        "c": "continuity",
+        "d": "sustainability",
+        "e": "tradition",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Oil is also known as",
+        "a": "dark diamonds",
+        "b": "black gold",
+        "c": "fossil funds",
+        "d": "oil capital",
+        "e": "golden petroleum",
+        "correct_answer": "b"
+    }
+]

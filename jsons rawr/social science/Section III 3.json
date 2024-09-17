@@ -1,0 +1,273 @@
+[
+    {
+      "question": "Why did European empires PRIMARILY begin to establish colonies?",
+      "a": "to extract natural resources and human labor",
+      "b": "to spread knowledge of European cultural traditions",
+      "c": "to find new areas for scientific research and exploration",
+      "d": "to escape overcrowding in European cities",
+      "e": "to seek refuge from religious persecution and political upheavals",
+      "correct_answer": "a"
+    },
+    {
+      "question": "What percentage of the world’s Gross Domestic Product consists of China and the United States?",
+      "a": "22%",
+      "b": "42%",
+      "c": "37%",
+      "d": "56%",
+      "e": "71%",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Which industry makes up roughly 25% of China’s Gross Domestic Product?",
+      "a": "tourism",
+      "b": "agriculture",
+      "c": "transportation",
+      "d": "energy",
+      "e": "manufacturing",
+      "correct_answer": "e"
+    },
+    {
+      "question": "The United States’s Gross Domestic Product is closest to",
+      "a": "$15 trillion",
+      "b": "$17 trillion",
+      "c": "$23 trillion",
+      "d": "$12 trillion",
+      "e": "$20 trillion",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Which of the following statements accurately compares the United States and China’s CO2 emissions over time?",
+      "a": "The United States emitted one quarter as much CO2 as China in 1940.",
+      "b": "The United States emitted twice as much CO2 as China in 1920.",
+      "c": "The United States emitted one third as much CO2 as China in 1960.",
+      "d": "The United States emitted five times as much CO2 as China in 1980.",
+      "e": "The United States emitted half as much CO2 as China in 2020.",
+      "correct_answer": "e"
+    },
+    {
+      "question": "Which of the following locations likely consumed the MOST fossil fuels in the 19th century?",
+      "a": "Egypt",
+      "b": "Great Britain",
+      "c": "China",
+      "d": "Saudi Arabia",
+      "e": "India",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Traditional narratives typically label non-industrialized countries as",
+      "a": "primitive",
+      "b": "Western",
+      "c": "transitional",
+      "d": "sustainable",
+      "e": "developing",
+      "correct_answer": "e"
+    },
+    {
+      "question": "Which PRIMARY measure have Western European countries taken to address global warming?",
+      "a": "implementing carbon taxes and cap-and-trade systems",
+      "b": "investing in technology to reduce emissions",
+      "c": "establishing protected areas and conservation centers",
+      "d": "educating the public about climate change",
+      "e": "spearheading international climate agreements",
+      "correct_answer": "b"
+    },
+    {
+      "question": "When did the United States begin to reduce its greenhouse gas emissions?",
+      "a": "2000s",
+      "b": "1980s",
+      "c": "1990s",
+      "d": "1960s",
+      "e": "1970s",
+      "correct_answer": "a"
+    },
+    {
+      "question": "How have India’s CO2 emissions changed from 1990 to 2020?",
+      "a": "They increased by a factor of eight.",
+      "b": "They quadrupled.",
+      "c": "They increased by a factor of five.",
+      "d": "They doubled.",
+      "e": "They tripled.",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Which country emits the MOST CO2 emissions today?",
+      "a": "the UK",
+      "b": "Russia",
+      "c": "the United States",
+      "d": "India",
+      "e": "China",
+      "correct_answer": "e"
+    },
+    {
+      "question": "How do China’s annual CO2 emissions per capita compare to those of the United States?",
+      "a": "China emits half as much CO2 per capita.",
+      "b": "China emits one tenth as much CO2 per capita.",
+      "c": "China emits twice as much CO2 per capita.",
+      "d": "China emits four times as much CO2 per capita.",
+      "e": "China emits one third as much CO2 per capita.",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Approximately how much CO2 did the United States emit in 2019?",
+      "a": "10,000 megatonnes",
+      "b": "5,000 megatonnes",
+      "c": "11,500 megatonnes",
+      "d": "4,000 megatonnes",
+      "e": "2,500 megatonnes",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Which country emitted twice as much CO2 per capita as the EU in 2019?",
+      "a": "the United States",
+      "b": "Russia",
+      "c": "Mexico",
+      "d": "Indonesia",
+      "e": "South Korea",
+      "correct_answer": "b"
+    },
+    {
+      "question": "How do China’s cumulative CO2 emissions since 1750 compare to those of Western nations?",
+      "a": "China has emitted four times as much CO2.",
+      "b": "China has emitted one tenth as much CO2.",
+      "c": "China has emitted half as much CO2.",
+      "d": "China has emitted twice as much CO2.Indonesia",
+      "e": "China has emitted one quarter as much CO2.",
+      "correct_answer": "e"
+    },
+    {
+      "question": "Which major historical development occurred around 1500?",
+      "a": "the defeat of the Spanish Armada",
+      "b": "the start of the Hundred Years’ War",
+      "c": "the establishment of the first European colonies",
+      "d": "the fall of the Byzantine Empire",
+      "e": "the beginning of the Renaissance",
+      "correct_answer": "c"
+    },
+    {
+      "question": "When did industrialization begin in the United States and England?",
+      "a": "c. 1900",
+      "b": "c. 1700",
+      "c": "c. 1750",
+      "d": "c. 1800",
+      "e": "c. 1850",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Which quantity measures the total market value of final goods and services produced in a country during a given year?",
+      "a": "fiscal output",
+      "b": "consumer price index",
+      "c": "gross domestic product",
+      "d": "total factor productivity",
+      "e": "aggregate supply",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Which of the following countries has the GREATEST GDP?",
+      "a": "the United States",
+      "b": "Germany",
+      "c": "China",
+      "d": "Japan",
+      "e": "India",
+      "correct_answer": "a"
+    },
+    {
+      "question": "How many countries possess a greater than 1% share of the world economy?",
+      "a": "fifteen",
+      "b": "twelve",
+      "c": "eighteen",
+      "d": "nine",
+      "e": "five",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Which of the following statements accurately describes the United States’ CO2 emissions over time?",
+      "a": "Emissions remained stagnant from 1900 to 1950.",
+      "b": "Emissions tripled from 1950 to 2000.",
+      "c": "Emissions began to decline in 1950.",
+      "d": "Emissions quadrupled from 1900 to 1920.",
+      "e": "Emissions halved from 1980 to 2000.",
+      "correct_answer": "b"
+    },
+    {
+      "question": "When did China’s annual CO2 emissions reach 10 billion tonnes per year?",
+      "a": "1990",
+      "b": "1980",
+      "c": "2000",
+      "d": "2020",
+      "e": "1960",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Why did Western powers maintain colonial relationships in the nineteenth century?",
+      "a": "to obtain natural resources for manufacturing",
+      "b": "to facilitate religious missionary work and conversions",
+      "c": "to spread democratic ideals and governance systems",
+      "d": "to encourage economic developments and industrialization",
+      "e": "to ensure stability and security in conflict-prone regions",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Which of the following characteristics is MOST often used to define modern nations?",
+      "a": "the use of fossil fuels",
+      "b": "democratic governance",
+      "c": "high literacy rates",
+      "d": "access to healthcare",
+      "e": "economic globalization",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Which type of fuel accounts for the LARGEST portion of India’s CO2 emissions?",
+      "a": "coal",
+      "b": "diesel",
+      "c": "biomass",
+      "d": "natural gas",
+      "e": "petroleum",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Which statement about recent greenhouse gas emissions is TRUE?",
+      "a": "The EU has increased their emissions.",
+      "b": "China has increased their emissions.",
+      "c": "Russia has reduced their emissions.",
+      "d": "The US has increased their emissions.",
+      "e": "India has reduced their emissions.",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Which of the following countries emits the MOST CO2 emissions per capita?",
+      "a": "China",
+      "b": "the UK",
+      "c": "the US",
+      "d": "India",
+      "e": "Russia",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Approximately how much CO2 did the European Union emit in 2019?",
+      "a": "3,000 megatonnes",
+      "b": "4,500 tonnes",
+      "c": "1,500 tonnes",
+      "d": "6,000 tonnes",
+      "e": "7,500 tonnes",
+      "correct_answer": "a"
+    },
+    {
+      "question": "How do India’s CO2 emissions per capita compare to those of the US?",
+      "a": "India emits one tenth as much CO2 per capita.",
+      "b": "India emits twice as much CO2 per capita.",
+      "c": "India emits five times as much CO2 per capita.",
+      "d": "India emits one seventh as much CO2 per capita.",
+      "e": "India emits half as much CO2 per capita.",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Which of the following factors contributes MOST to China’s CO2 emissions?",
+      "a": "exports",
+      "b": "waste management",
+      "c": "residential homes",
+      "d": "transportation",
+      "e": "agriculture",
+      "correct_answer": "a"
+    }
+  ]
+  

@@ -1,0 +1,137 @@
+[
+    {
+        "question": "The term “Anthropocene” BEST reflects that",
+        "a": "humans have contributed to climate change",
+        "b": "climate is a major factor in human civilization",
+        "c": "technology has shaped modern society",
+        "d": "ecosystems have adapted to human influence",
+        "e": "natural disasters have shaped the Earth",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How did climatic conditions in the Early Holocene differ from the Anthropocene?",
+        "a": "Global weather patterns fluctuated more severely.",
+        "b": "The planet experienced global cooling conditions.",
+        "c": "The climate changed more rapidly.",
+        "d": "Climate change disrupted ecosystems more intensely.",
+        "e": "The effects of climate change were less evenly distributed.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which historical event have many scholars linked to the start of the Anthropocene?",
+        "a": "the Industrial Revolution",
+        "b": "the start of the Cold War",
+        "c": "the invention of the atomic bomb",
+        "d": "the end of World War II",
+        "e": "the Great Depression",
+        "correct_answer": "a"
+    },
+    {
+        "question": "When do most scholars agree that the Anthropocene began?",
+        "a": "1950",
+        "b": "1800",
+        "c": "1750",
+        "d": "1850",
+        "e": "1900",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which term do scholars use to describe the start of the Anthropocene?",
+        "a": "the Green Revolution",
+        "b": "the Mid-Holocene Transition",
+        "c": "the Great Acceleration",
+        "d": "the Technological Revolution",
+        "e": "the Industrial Revolution",
+        "correct_answer": "c"
+    },
+    {
+        "question": "All of the following factors contributed to the rise of the Anthropocene EXCEPT",
+        "a": "the rise of the oil industry",
+        "b": "rapid population growth",
+        "c": "greenhouse gas emissions",
+        "d": "conflicts between rival nations",
+        "e": "rising global temperatures",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which human activity MOST greatly contributes to greenhouse gas emissions?",
+        "a": "deforestation",
+        "b": "fossil fuel consumption",
+        "c": "agricultural production",
+        "d": "waste management",
+        "e": "industrial manufacturing",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following regions has played the LARGEST role in the history of oil extraction?",
+        "a": "the Caribbean",
+        "b": "the Middle East",
+        "c": "the Balkans",
+        "d": "the Andes Mountains",
+        "e": "the Arctic Circle",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Where, broadly, has fossil fuel consumption been MOST prevalent?",
+        "a": "the Mediterranean",
+        "b": "the Western world",
+        "c": "East Asia",
+        "d": "the Southern hemisphere",
+        "e": "the Middle East",
+        "correct_answer": "b"
+    },
+    {
+        "question": "How have many Western European countries PRIMARILY responded to the climate crisis?",
+        "a": "by investing in new technologies to reduce emissions",
+        "b": "by establishing carbon capture and storage projects",
+        "c": "by adopting strict carbon pricing mechanisms",
+        "d": "by educating the general public about sustainability",
+        "e": "by implementing biodiversity conservation initiatives",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Modernization is MOST strongly associated with the",
+        "a": "the establishment of democratic governance",
+        "b": "the use of animal power",
+        "c": "the adoption of digital technologies",
+        "d": "the use of fossil fuels to produce energy",
+        "e": "the expansion of urban infrastructure",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which country currently produces the MOST carbon emissions?",
+        "a": "the United Kingdom",
+        "b": "the US",
+        "c": "India",
+        "d": "China",
+        "e": "South Korea",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What BEST expresses a challenge that many non-Western countries face in reducing their emissions?",
+        "a": "They face cultural barriers to implementing environmental policies.",
+        "b": "They are more susceptible to political instability and governance issues.",
+        "c": "They rely heavily on fossil fuel extraction and exports to sustain their economies.",
+        "d": "They have larger populations to accommodate.",
+        "e": "They lacked the West’s historical opportunities for industrialization.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which framework describes the impacts of environmental changes?",
+        "a": "Earth System Science",
+        "b": "the triple planetary crisis",
+        "c": "the climate justice framework",
+        "d": "sustainability science",
+        "e": "climate determinism",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following aspects of human life has climate change affected LEAST?",
+        "a": "cultural traditions",
+        "b": "mental health",
+        "c": "finances",
+        "d": "physical health",
+        "e": "migration",
+        "correct_answer": "a"
+    }
+]

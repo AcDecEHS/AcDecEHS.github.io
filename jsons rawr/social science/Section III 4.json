@@ -1,0 +1,272 @@
+[
+    {
+        "question": "How does India’s carbon dioxide emissions per person compare to the United States’ emissions per capita per person?",
+        "a": "around one-fifth of United States emissions",
+        "b": "around one-fourth of United States emissions",
+        "c": "more than one-half of United States emissions",
+        "d": "more than three-fourths of United States emissions",
+        "e": "less than one-seventh of United States emissions",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Since 1750, what percentage of the cumulative CO2 emissions from Western nations has China produced?",
+        "a": "50%",
+        "b": "75%",
+        "c": "25%",
+        "d": "100%",
+        "e": "10%",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Along with climate change and air pollution, which other development is a component of the triple planetary crisis?",
+        "a": "soil erosion",
+        "b": "water scarcity",
+        "c": "ozone depletion",
+        "d": "biodiversity loss",
+        "e": "urban sprawl",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which country had a heat index of 158 degrees Fahrenheit in the summer of 2023?",
+        "a": "India",
+        "b": "Brazil",
+        "c": "Iran",
+        "d": "Chile",
+        "e": "Venezuela",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which area has NOT had to deal with abnormally severe fires in the past few years?",
+        "a": "Canada",
+        "b": "Germany",
+        "c": "Australia",
+        "d": "Greece",
+        "e": "Hawaii",
+        "correct_answer": "b"
+    },
+    {
+        "question": "How do warmer temperatures cause severe fires?",
+        "a": "They cause more lightning strikes.",
+        "b": "They eliminate all moisture from the air.",
+        "c": "They weaken Earth’s magnetic field.",
+        "d": "They increase the amount of oxygen in the air.",
+        "e": "They intensify dry and windy conditions.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following factors contributes to floods and is made worse by climate change?",
+        "a": "mid-ocean volcanic eruptions",
+        "b": "deforestation",
+        "c": "solar flares",
+        "d": "tidal changes",
+        "e": "snowmelt",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which disasters have the NOAA warned are now more than 900% more frequent than 50 years ago?",
+        "a": "earthquakes",
+        "b": "forest fires",
+        "c": "high-tide floods",
+        "d": "tropical cyclones",
+        "e": "drought",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following developments is an effect of coastal erosion?",
+        "a": "an increase in inland storm surge flooding",
+        "b": "an increase in agricultural productivity inland",
+        "c": "an improvement in air quality",
+        "d": "a decrease in marine biodiversity",
+        "e": "an increase in the amount of freshwater",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which state did Hurricane Ian affect?",
+        "a": "South Carolina",
+        "b": "Virginia",
+        "c": "Louisiana",
+        "d": "Texas",
+        "e": "Florida",
+        "correct_answer": "e"
+    },
+    {
+        "question": "How much damage in dollars did Hurricane Ian cause?",
+        "a": "$310 million dollars",
+        "b": "$56 billion dollars",
+        "c": "$964 million dollars",
+        "d": "$578 million dollars",
+        "e": "$112 billion dollars",
+        "correct_answer": "e"
+    },
+    {
+        "question": "How do warmer temperatures over large bodies of water affect the Earth?",
+        "a": "lowered sea levels",
+        "b": "decreased likelihood of storms",
+        "c": "decreased humidity",
+        "d": "increased precipitation",
+        "e": "increased air pressure",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which area is a hundred times more likely to experience drought due to climate change?",
+        "a": "the Mediterranean",
+        "b": "the Korean Peninsula",
+        "c": "the Horn of Africa",
+        "d": "the Midwest United States",
+        "e": "the Gulf Coast",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which region of the United States is MOST prone to drought?",
+        "a": "Central United States",
+        "b": "Eastern United States",
+        "c": "Southern United States",
+        "d": "Western United States",
+        "e": "Northern United States",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following weather events will MOST affect food production?",
+        "a": "drought",
+        "b": "flood",
+        "c": "hurricane",
+        "d": "blizzard",
+        "e": "fire",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which proportion of the US experienced droughts in the summer of 2021?",
+        "a": "70%",
+        "b": "40%",
+        "c": "55%",
+        "d": "25%",
+        "e": "10%",
+        "correct_answer": "b"
+    },
+    {
+        "question": "How are the ecological impacts of droughts different from the agricultural impacts?",
+        "a": "Ecological impacts only affect wildlife.",
+        "b": "Ecological impacts create more damage to the economy.",
+        "c": "Ecological impacts typically last longer than six months.",
+        "d": "Ecological impacts are easier to mitigate and resolve.",
+        "e": "Ecological impacts tend to be localized to specific regions.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Each of the following states experienced droughts in August 2021 EXCEPT",
+        "a": "Oregon",
+        "b": "Florida",
+        "c": "Arizona",
+        "d": "Wyoming",
+        "e": "Minnesota",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following states experienced the MOST severe droughts in August 2021?",
+        "a": "Alaska",
+        "b": "New York",
+        "c": "California",
+        "d": "Texas",
+        "e": "Hawaii",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which statement correctly describes the impacts of drought in specific regions of the United States?",
+        "a": "Kansas primarily experienced long-term impacts.",
+        "b": "Virginia experienced both short- and long-term impacts.",
+        "c": "Washington primarily experienced long-term impacts.",
+        "d": "Nevada experienced both short- and long-term impacts.",
+        "e": "Texas primarily experienced short-term impacts.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which populations are MOST susceptible to disrupted weather conditions?",
+        "a": "those that lack cooling and heating infrastructure",
+        "b": "those that live in densely populated urban areas",
+        "c": "those that live in areas threatened by wildfires",
+        "d": "those that rely on agriculture for their livelihoods",
+        "e": "those that lack adequate sanitation infrastructure",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Who issued a report identifying health risks associated with climate change in 2017?",
+        "a": "the Centers for Disease Control and Prevention",
+        "b": "the American Public Health Association",
+        "c": "the Environmental Protection Agency",
+        "d": "the World Health Organization",
+        "e": "the United Nations",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What is one way that climate change affects the spread of diseases?",
+        "a": "by disrupting natural disease control mechanisms",
+        "b": "by increasing the prevalence of disease vectors",
+        "c": "by promoting the evolution of drug-resistant strains",
+        "d": "by compromising healthcare infrastructure and access",
+        "e": "by expanding geographical range of many diseases",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which types of diseases are the MOST sensitive to climate conditions?",
+        "a": "vector-borne diseases",
+        "b": "foodborne diseases",
+        "c": "airborne diseases",
+        "d": "waterborne diseases",
+        "e": "zoonotic diseases",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which health risk is MOST strongly associated with both floods and drought?",
+        "a": "mental health issues",
+        "b": "infectious diseases",
+        "c": "waterborne illness",
+        "d": "malnutrition",
+        "e": "injury and trauma",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Climatic conditions often drive insurance companies to",
+        "a": "decrease premiums in high-risk areas",
+        "b": "stop insuring property in disaster-prone regions",
+        "c": "offer new types of coverage for climate-related risks",
+        "d": "reassess their risk models and strategies",
+        "e": "diversify their investment portfolios",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which industries face the GREATEST threat from climate change?",
+        "a": "manufacturing and technology",
+        "b": "entertainment and tourism",
+        "c": "energy and utilities",
+        "d": "transportation and housing",
+        "e": "fishing and farming",
+        "correct_answer": "e"
+    },
+    {
+        "question": "How many Americans move their homes because of extreme weather events every year?",
+        "a": "75 million",
+        "b": "60 million",
+        "c": "45 million",
+        "d": "15 million",
+        "e": "30 million",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Scientists constantly revise their models of climate change in response to new data about",
+        "a": "atmospheric pressure",
+        "b": "ocean acidification",
+        "c": "habitat loss",
+        "d": "greenhouse gas emissions",
+        "e": "precipitation patterns",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which feelings are MOST strongly associated with climatic conditions in the Anthropocene?",
+        "a": "complacency and acceptance",
+        "b": "dread and apathy",
+        "c": "resolution and resolve",
+        "d": "hope and optimism",
+        "e": "empathy and compassion",
+        "correct_answer": "b"
+    }
+]

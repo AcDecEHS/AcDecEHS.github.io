@@ -1,0 +1,272 @@
+[
+    {
+        "question": "The Anthropocene is best defined as the",
+        "a": "area of land occupied by human settlement",
+        "b": "overall human effort to preserve natural ecosystems",
+        "c": "geological era marked by human activity",
+        "d": "biological period since the advent of humanity",
+        "e": "sum of all pollution from human activity",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What radioisotope can be found in core sediment samples as a result of nuclear weapons testing?",
+        "a": "Xe-135",
+        "b": "Cs-137",
+        "c": "Sr-90",
+        "d": "Pu-239",
+        "e": "U-238",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which geological period immediately preceded the current one?",
+        "a": "Holocene",
+        "b": "Paleocene",
+        "c": "Miocene",
+        "d": "Pleistocene",
+        "e": "Oligocene",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The First Industrial Revolution was characterized by the invention of the",
+        "a": "steam engine",
+        "b": "telegraph",
+        "c": "computer",
+        "d": "light bulb",
+        "e": "radio",
+        "correct_answer": "a"
+    },
+    {
+        "question": "When was the term “Anthropocene” first used?",
+        "a": "1951",
+        "b": "1914",
+        "c": "2000",
+        "d": "1976",
+        "e": "2017",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which event coincides with the beginning of the Anthropocene?",
+        "a": "The First Industrial Revolution",
+        "b": "The Agricultural Revolution",
+        "c": "The Second Industrial Revolution",
+        "d": "The Great Acceleration",
+        "e": "The Little Ice Age",
+        "correct_answer": "d"
+    },
+    {
+        "question": "All of the following effects of the Anthropocene are recognized by the Anthropocene Working Group EXCEPT",
+        "a": "carbon cycle disruptions",
+        "b": "oceanic dead zones",
+        "c": "widespread habitat loss",
+        "d": "invasive species",
+        "e": "presence of radioisotopes in sediment",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What PRIMARILY caused the Little Ice Age?",
+        "a": "glacial drift",
+        "b": "axial tilt",
+        "c": "volcanic eruptions",
+        "d": "anthropogenic interference",
+        "e": "sulfur releases",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Approximately how long ago did the Holocene begin?",
+        "a": "6,000 years",
+        "b": "32,000 years",
+        "c": "12,000 years",
+        "d": "20,000 years",
+        "e": "100,000 years",
+        "correct_answer": "c"
+    },
+    {
+        "question": "The Earth’s natural glacial cycles are MOST related to",
+        "a": "oceanic drift",
+        "b": "the carbon cycle",
+        "c": "atmospheric density",
+        "d": "tectonic shifts",
+        "e": "orbital patterns",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following phenomena is a feature of climate change during the Anthropocene?",
+        "a": "global synchrony",
+        "b": "erratic temperature fluctuation",
+        "c": "decreased storm frequency",
+        "d": "falling sea levels",
+        "e": "seismic activity",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which author famously wrote about child labor during the Industrial Revolution?",
+        "a": "Charles Dickens",
+        "b": "Nathaniel Hawthorne",
+        "c": "Henry David Thoreau",
+        "d": "F. Scott Fitzgerald",
+        "e": "Mark Twain",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which story did the author of Oliver Twist also write?",
+        "a": "War of the Worlds",
+        "b": "The Count of Monte Cristo",
+        "c": "Dracula",
+        "d": "Tom Sawyer",
+        "e": "A Christmas Carol",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What type of fuel did James Watt’s original steam engine use?",
+        "a": "coal",
+        "b": "crude oil",
+        "c": "gasoline",
+        "d": "kerosene",
+        "e": "wood",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which theme is common in traditional narratives of the industrial revolution?",
+        "a": "human hubris",
+        "b": "social inequality",
+        "c": "perpetual growth",
+        "d": "economic devastation",
+        "e": "ecosystemic degradation",
+        "correct_answer": "c"
+    },
+    {
+        "question": "During which time period did human activity impacting the Earth system increase the MOST?",
+        "a": "late 1700s",
+        "b": "mid-1800s",
+        "c": "early 1900s",
+        "d": "mid-1900s",
+        "e": "late 1800s",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following people coined the phrase “Great Acceleration?”",
+        "a": "Peter Engelke",
+        "b": "Eugene F. Stoermer",
+        "c": "Paul J. Crutzen",
+        "d": "Dagomar Degroot",
+        "e": "J.R. McNeill",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following factors was MOST important in causing the Great Acceleration?",
+        "a": "invention of the steam engine",
+        "b": "rise in human population",
+        "c": "increase in greenhouse gasses",
+        "d": "emergence of the Industrial Revolution",
+        "e": "creation of gas-powered cars",
+        "correct_answer": "b"
+    },
+    {
+        "question": "By what factor did the human population change between 1780 and 1930?",
+        "a": "3",
+        "b": "5",
+        "c": "4",
+        "d": "2",
+        "e": "6",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Why is the period since 1950 unique in human history?",
+        "a": "Some animal species have gone extinct.",
+        "b": "Rail transportation ballooned in popularity.",
+        "c": "The average temperature has changed.",
+        "d": "The field of environmental history has gained popularity.",
+        "e": "Humans have quickly impacted the Earth.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "During what era did humans first leave recognizable impacts on the Earth?",
+        "a": "Calabrian",
+        "b": "Anthropocene",
+        "c": "Holocene",
+        "d": "Neogene",
+        "e": "Pleistocene",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following socio-economic trends has NOT increased during the Great Enrichment?",
+        "a": "urban population",
+        "b": "local trade",
+        "c": "fertilizer consumption",
+        "d": "foreign direct investment",
+        "e": "real GDP",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What has been the trend in carbon dioxide concentration from 1750 to 2010?",
+        "a": "The concentration gradually increased from 1750 to 1950 then rapidly increased from 1950 to 2010.",
+        "b": "The concentration slowly increased from 1750 to 2010.",
+        "c": "The concentration decreased from 1750 to 1850 and then increased rapidly from 1850 to 2010.",
+        "d": "The concentration gradually increased from 1750 to 1800 then slowly increased from 1800 to 2010.",
+        "e": "The concentration rapidly increased from 1750 to 1950 then gradually increased from 1950 to 2010.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What was the approximate human population in 1780?",
+        "a": "about 2.5 billion",
+        "b": "about two billion",
+        "c": "about 1.5 billion",
+        "d": "about three billion",
+        "e": "less than a billion",
+        "correct_answer": "e"
+    },
+    {
+        "question": "About how many years ago did the Holocene begin?",
+        "a": "13,500",
+        "b": "15,000",
+        "c": "7,500",
+        "d": "9,000",
+        "e": "12,000",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What change occurred during the Holocene that led to humans creating long-lasting impacts on the Earth?",
+        "a": "Humans first constructed monuments.",
+        "b": "Societies formed around the use of fossil fuel.",
+        "c": "Large land empires increased in power.",
+        "d": "The Industrial Revolution occurred.",
+        "e": "Concrete and ashlar masonry was invented.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Around what year did temperatures first rise over the twentieth-century average?",
+        "a": "1970",
+        "b": "1890",
+        "c": "1950",
+        "d": "2000",
+        "e": "2020",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What is the profession of J. R. McNeill?",
+        "a": "environmental historian",
+        "b": "environmental scientist",
+        "c": "atmospheric scientist",
+        "d": "geologist",
+        "e": "ecologist",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What is the approximate human population today?",
+        "a": "7.5 billion",
+        "b": "8 billion",
+        "c": "7 billion",
+        "d": "8.5 billion",
+        "e": "9 billion",
+        "correct_answer": "b"
+    },
+    {
+        "question": "In which layer of the Earth’s atmosphere has ozone concentration increased in the period from 1950 to 2010?",
+        "a": "stratosphere",
+        "b": "thermosphere",
+        "c": "troposphere",
+        "d": "mesosphere",
+        "e": "exosphere",
+        "correct_answer": "a"
+    }
+]
