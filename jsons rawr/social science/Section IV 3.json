@@ -1,0 +1,272 @@
+[
+    {
+        "question": "What year was Merchants of Doubt published?",
+        "a": "2001",
+        "b": "2010",
+        "c": "2005",
+        "d": "2008",
+        "e": "1999",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The authors of Merchants of Doubt are",
+        "a": "journalists",
+        "b": "politicians",
+        "c": "climatologists",
+        "d": "historians",
+        "e": "novelists",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Who retired from a directorial position at the Scripps Institute of Oceanography?",
+        "a": "Bush",
+        "b": "Conway",
+        "c": "Neumann",
+        "d": "Marshall",
+        "e": "Nierenberg",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What was the initial political agenda of the George C. Marshall Institute?",
+        "a": "denying climate change",
+        "b": "advancing climate change research",
+        "c": "opposing military spending",
+        "d": "supporting environmental regulations",
+        "e": "defending Cold War policies",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which significant event occurred in Europe in 1989?",
+        "a": "The Soviet Union joined the United Nations.",
+        "b": "The Kyoto Protocol was passed.",
+        "c": "The Marshall Papers were published.",
+        "d": "The Berlin Wall fell.",
+        "e": "Clinton ratified the Kyoto Protocol.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What did the Marshall Institute argue was causing global warming?",
+        "a": "greenhouse gases",
+        "b": "the Earth’s magnetic field",
+        "c": "shifts in the Earth’s spin",
+        "d": "volcanic activity",
+        "e": "solar energy variability",
+        "correct_answer": "e"
+    },
+    {
+        "question": "President H. W. Bush's initial position on climate change can BEST be described as",
+        "a": "doubtful",
+        "b": "wholehearted",
+        "c": "indifferent",
+        "d": "receptive",
+        "e": "dismissive",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How did the Marshall Institute influence public perception of climate change in the 1990s?",
+        "a": "by lobbying against environmental legislation.",
+        "b": "by criticizing lead climate scientists",
+        "c": "by funding climate denying research",
+        "d": "by suggesting another cause of climate change",
+        "e": "by critiquing renewable energy solutions",
+        "correct_answer": "d"
+    },
+    {
+        "question": "The Marshall Institute’s paper can BEST be described as",
+        "a": "flawed",
+        "b": "comprehensive",
+        "c": "deceitful",
+        "d": "neutral",
+        "e": "groundbreaking",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which publication did the Marshall Institute use to address the public?",
+        "a": "the Washington Post",
+        "b": "the Chicago Tribune",
+        "c": "the Los Angeles Times",
+        "d": "the Wall Street Journal",
+        "e": "the New York Times",
+        "correct_answer": "d"
+    },
+    {
+        "question": "When was the United Nations Framework Convention on Climate Change held?",
+        "a": "2002",
+        "b": "1957",
+        "c": "1992",
+        "d": "1990",
+        "e": "1999",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which President signed the Kyoto Protocol as a gesture of support?",
+        "a": "Barack Obama",
+        "b": "George H. W. Bush",
+        "c": "Ronald Reagan",
+        "d": "Bill Clinton",
+        "e": "George W. Bush",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What was one of the reasons for the United States Senate’s decision regarding the Kyoto Protocol?",
+        "a": "It mandated emissions reductions only for developing countries.",
+        "b": "It required immediate economic sacrifices from the United States.",
+        "c": "It forced the United States to eliminate its fossil fuel consumption.",
+        "d": "It lacked support from the scientific community.",
+        "e": "It was seen as unfair to developing countries.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Who ran against George W. Bush in the 2000 presidential election with a focus on combating climate change?",
+        "a": "William Nierenberg",
+        "b": "Naomi Oreskes",
+        "c": "George H. W. Bush",
+        "d": "Al Gore",
+        "e": "Bill Clinton",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which state’s disputed vote count led to George W. Bush’s win?",
+        "a": "California",
+        "b": "Wisconsin",
+        "c": "New York",
+        "d": "Florida",
+        "e": "Texas",
+        "correct_answer": "d"
+    },
+    {
+        "question": "The Kyoto Protocol called for",
+        "a": "protecting endangered species",
+        "b": "regulating internal combustion engine",
+        "c": "limiting the use of ozone-depleting substances",
+        "d": "reducing greenhouse gas emissions",
+        "e": "protecting wetlands and its ecosystem",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following statements BEST summarizes the United States’ response to the Kyoto Protocol?",
+        "a": "The United States Senate did not ratify it.",
+        "b": "The United States pressured countries into supporting the treaty.",
+        "c": "Politicians of both aisles advocated it.",
+        "d": "The majority of voters did not support it.",
+        "e": "The Clinton administration repeatedly rejected the Protocol.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What proviso did the resolution passed by the Senate on July 25, 1997 contain?",
+        "a": "The government would support the development of green infrastructure in urban areas.",
+        "b": "The United States would commit to climate action after other countries with less wealth do first.",
+        "c": "The United States would take part in the United Nations Framework Convention on Climate Change.",
+        "d": "Oil industries would be getting tax benefits as a part of the government’s policy of boosting the economy.",
+        "e": "Air and Water pollution will be monitored, and stricter regulations will be implemented.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which president signed the Kyoto Protocol?",
+        "a": "Barack Obama",
+        "b": "George W. Bush",
+        "c": "Bill Clinton",
+        "d": "Jimmy Carter",
+        "e": "Ronald Reagan",
+        "correct_answer": "c"
+    },
+    {
+        "question": "During the 2000 presidential campaign, Al Gore pledged to",
+        "a": "impose tariffs on goods from countries that does not have climate regulations",
+        "b": "provide government funding for climate science research centers",
+        "c": "hold the developed countries accountable for producing greenhouse gas in the past",
+        "d": "not let climate policies hinder the economic growth of the United States",
+        "e": "be more proactive about combating climate change",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Al Gore lost the 2000 presidential election after a legal battle about vote counts in the state of",
+        "a": "Oklahoma",
+        "b": "California",
+        "c": "Florida",
+        "d": "Ohio",
+        "e": "Virginia",
+        "correct_answer": "c"
+    },
+    {
+        "question": "George W. Bush pursued a policy of",
+        "a": "forcing other nations to cut back on greenhouse gas emissions",
+        "b": "stabilizing the global oil market",
+        "c": "developing renewable energy sources",
+        "d": "strengthening the United States’ voice in the Paris Agreement",
+        "e": "expanding global oil production",
+        "correct_answer": "e"
+    },
+    {
+        "question": "The oil industry’s attitude towards climate science can be BEST described as",
+        "a": "adaptive",
+        "b": "cynical",
+        "c": "suppressive",
+        "d": "indifferent",
+        "e": "encouraging",
+        "correct_answer": "c"
+    },
+    {
+        "question": "In the 2020s, a climate skeptic would be LEAST likely to",
+        "a": "believe that climate change does not warrant drastic measures",
+        "b": "keep up with new scientific discoveries",
+        "c": "refuse climate action on the basis of economic progress",
+        "d": "claim that natural phenomena cause climate change",
+        "e": "deny that climate change is occurring",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What year has been the most profitable for big Western oil companies?",
+        "a": "2018",
+        "b": "2016",
+        "c": "2014",
+        "d": "2020",
+        "e": "2022",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following companies is NOT part of the Western Big Oil?",
+        "a": "Equinor",
+        "b": "Aramco",
+        "c": "BP",
+        "d": "Shell",
+        "e": "TotalEnergies",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following companies produced the concept of “carbon footprint” with a hired marketing company?",
+        "a": "Chevron",
+        "b": "Standard Oil",
+        "c": "ExxonMobil",
+        "d": "British Petroleum",
+        "e": "Eni",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What is the United States Chamber of Commerce?",
+        "a": "a lobbying group that advocates on behalf of the interests of business",
+        "b": "a federation of labor unions advocating for worker’s rights and benefits",
+        "c": "a senate advisory committee on matters regarding the economy and trade",
+        "d": "a coalition of businessmen advocating for better working conditions",
+        "e": "a government agency responsible for regulating trade and commerce",
+        "correct_answer": "a"
+    },
+    {
+        "question": "When did the United States Chamber of Commerce officially recognize that human activity contributes to climate change?",
+        "a": "2023",
+        "b": "2015",
+        "c": "2021",
+        "d": "2019",
+        "e": "2017",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How many times did the United States Chamber of Commerce act against climate action in 2022?",
+        "a": "25",
+        "b": "5",
+        "c": "0",
+        "d": "20",
+        "e": "20",
+        "correct_answer": "a"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "question": "What resource makes up the Earth’s geosphere?",
+        "a": "ice",
+        "b": "organisms",
+        "c": "rock",
+        "d": "air",
+        "e": "water",
+        "correct_answer": "c"
+    },
+    {
+        "question": "The cryosphere is part of the",
+        "a": "biosphere",
+        "b": "geosphere",
+        "c": "lithosphere",
+        "d": "atmosphere",
+        "e": "hydrosphere",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which atmospheric layer is CLOSEST to Earth’s surface?",
+        "a": "stratosphere",
+        "b": "thermosphere",
+        "c": "exosphere",
+        "d": "mesosphere",
+        "e": "troposphere",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Certain gases cause the greenhouse gas effect because they are",
+        "a": "transparent",
+        "b": "abundant",
+        "c": "reflective",
+        "d": "dense",
+        "e": "absorbent",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which external energy source is MOST vital to Earth?",
+        "a": "tidal",
+        "b": "solar",
+        "c": "hydroelectric",
+        "d": "wind",
+        "e": "geothermal",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Most interactions between the geosphere and other subsystems take place within the Earth’s",
+        "a": "inner core",
+        "b": "lower mantle",
+        "c": "outer core",
+        "d": "upper mantle",
+        "e": "crust",
+        "correct_answer": "e"
+    },
+    {
+        "question": "The term “lithosphere” incorporates the Greek word for",
+        "a": "stone",
+        "b": "soil",
+        "c": "glacier",
+        "d": "mist",
+        "e": "breeze",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following natural cycles has faced rapid acceleration from the use of fossil fuels?",
+        "a": "phosphorous",
+        "b": "carbon",
+        "c": "nitrogen",
+        "d": "water",
+        "e": "sulfur",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What scientific approach views the Earth's land, oceans, and atmosphere as a single structure?",
+        "a": "atmospheric science",
+        "b": "environmental science",
+        "c": "geospatial science",
+        "d": "earth system science",
+        "e": "oceanography",
+        "correct_answer": "d"
+    },
+    {
+        "question": "A meteorological rocket would MOST likely be found in the",
+        "a": "troposphere",
+        "b": "stratosphere",
+        "c": "exosphere",
+        "d": "mesosphere",
+        "e": "thermosphere",
+        "correct_answer": "d"
+    },
+    {
+        "question": "To which of the following subsystems would a fossilized human belong?",
+        "a": "atmosphere",
+        "b": "hydrosphere",
+        "c": "geosphere",
+        "d": "biosphere",
+        "e": "cryosphere",
+        "correct_answer": "c"
+    },
+    {
+        "question": "All of the following aspects of climate change focus on the hydrosphere EXCEPT",
+        "a": "air moisture depletion",
+        "b": "sea level rise",
+        "c": "severe droughts",
+        "d": "melting ice",
+        "e": "warming oceans",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Scientists label feedbacks as either",
+        "a": "internal or external",
+        "b": "linear or exponential",
+        "c": "constructive or destructive",
+        "d": "dynamic or static",
+        "e": "positive or negative",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following items would MOST likely appear in the troposphere?",
+        "a": "radiosonde",
+        "b": "spaceship",
+        "c": "hot air balloon",
+        "d": "satellite",
+        "e": "aurora",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which term refers to factors that influence climate change?",
+        "a": "perturbations",
+        "b": "alterations",
+        "c": "fluctuations",
+        "d": "modifiers",
+        "e": "forcings",
+        "correct_answer": "e"
+    }
+]

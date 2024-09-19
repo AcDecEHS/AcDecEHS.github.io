@@ -1,0 +1,137 @@
+[
+    {
+        "question": "The Holocene dates from",
+        "a": "6,750 years ago",
+        "b": "4,250 years ago",
+        "c": "11,700 years ago",
+        "d": "14,500 years ago",
+        "e": "8,236 years ago",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which event coincided with the beginning of the Holocene?",
+        "a": "the rise of the first civilizations",
+        "b": "the migration of early hominids out of Africa",
+        "c": "the eruption of Mount Vesuvius",
+        "d": "the end of the last ice age",
+        "e": "the invention of agriculture",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following statements BEST describes human society at the beginning of the Holocene?",
+        "a": "Humans had begun to domesticate animals.",
+        "b": "Humans had established early trade networks.",
+        "c": "Humans had migrated around the world.",
+        "d": "Humans had developed complex social hierarchies.",
+        "e": "Humans had begun to settle in permanent civilizations.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How many stages of the Holocene have historians designated?",
+        "a": "six",
+        "b": "five",
+        "c": "two",
+        "d": "four",
+        "e": "three",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Approximately how long did the first stage of the Holocene last?",
+        "a": "4,250 years",
+        "b": "4,000 years",
+        "c": "2,500 years",
+        "d": "2,750 years",
+        "e": "3,500 years",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which stage of the Holocene lasted the LONGEST?",
+        "a": "the Proto-Holocene",
+        "b": "the Neo-Holocene",
+        "c": "the Early Holocene",
+        "d": "the Middle Holocene",
+        "e": "the Late Holocene",
+        "correct_answer": "e"
+    },
+    {
+        "question": "When did the Late Holocene begin?",
+        "a": "5,000 years ago",
+        "b": "1,500 years ago",
+        "c": "4,250 years ago",
+        "d": "3,500 years ago",
+        "e": "2,250 years ago",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which event occurred during the Late Holocene?",
+        "a": "the Antarctic Cold Reversal",
+        "b": "the Younger Dryas Period",
+        "c": "the Last Glacial Maximum",
+        "d": "the collapse of the Laurentide Ice Sheet",
+        "e": "the Little Ice Age",
+        "correct_answer": "e"
+    },
+    {
+        "question": "At the end of the Middle Holocene, humans had",
+        "a": "developed early writing systems",
+        "b": "formed large agrarian societies",
+        "c": "developed religious and philosophical ideologies",
+        "d": "expanded maritime trade routes",
+        "e": "established early democratic institutions",
+        "correct_answer": "b"
+    },
+    {
+        "question": "It is unclear whether the climate played a major role in the",
+        "a": "fall of the Roman Empire",
+        "b": "decline of the Ancestral Pueblo culture",
+        "c": "rise of settled agriculture",
+        "d": "conquests of Alexander the Great",
+        "e": "expansion of the Sahara Desert",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which development offers opportunities for fresh historical perspectives in understanding the climate?",
+        "a": "integrating climate history into human history",
+        "b": "analyzing geological records for climate patterns",
+        "c": "estimating the role of human activity in driving the climate crisis",
+        "d": "assessing the effectiveness of new climate policies",
+        "e": "exploring the ethical implications of climate change",
+        "correct_answer": "a"
+    },
+    {
+        "question": "When did the Little Ice Age end?",
+        "a": "1300",
+        "b": "1450",
+        "c": "1750",
+        "d": "1850",
+        "e": "1600",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How long did the Little Ice Age last?",
+        "a": "700 years",
+        "b": "250 years",
+        "c": "550 years",
+        "d": "400 years",
+        "e": "100 years",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How did humans MOST likely survive the hardships of the Little Ice Age?",
+        "a": "by forming alliances with rival societies",
+        "b": "by expanding trade networks",
+        "c": "by migrating to warmer regions",
+        "d": "by building modern states",
+        "e": "by engineering new technologies",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which recent development has complicated historians’ view of the Little Ice Age?",
+        "a": "current conditions of the Anthropocene",
+        "b": "debates over biases in climate history",
+        "c": "newly discovered archaeological findings",
+        "d": "cultural shifts in understanding climate history",
+        "e": "novel methods for analyzing climate data",
+        "correct_answer": "a"
+    }
+]

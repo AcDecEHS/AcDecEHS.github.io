@@ -1,0 +1,137 @@
+[
+    {
+        "question": "Which Native American tribe protested to halt construction of the Dakota Access Pipeline?",
+        "a": "St. Regis Mohawk",
+        "b": "Spirit Lake",
+        "c": "Tohono O’odham",
+        "d": "Tule River Yokut",
+        "e": "Standing Rock Sioux",
+        "correct_answer": "e"
+    },
+    {
+        "question": "The Dakota Access Pipeline was PRIMARILY built to transport?",
+        "a": "coal",
+        "b": "natural gas",
+        "c": "water",
+        "d": "chemicals",
+        "e": "oil",
+        "correct_answer": "e"
+    },
+    {
+        "question": "In which North Dakotan county did the Backwater Bridge clash over the Dakota Access Pipeline take place?",
+        "a": "Emmons County",
+        "b": "Carson County",
+        "c": "Morton County",
+        "d": "Grant County",
+        "e": "Sioux County",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which danger did completion of the Dakota Access Pipeline NOT pose?",
+        "a": "damage to indigenous religious sites",
+        "b": "increased emissions of greenhouse gases",
+        "c": "interruption of local transportation",
+        "d": "disruption of local ecosystems",
+        "e": "contamination of local drinking water",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which ethical question did the Dakota pipeline protest raise?",
+        "a": "Should natural features be granted legal rights?",
+        "b": "Which groups are most affected by changing climate conditions?",
+        "c": "Does economic growth justify damage to the environment?",
+        "d": "Who should determine what humanity is allowed to do to the Earth?",
+        "e": "Which people should be responsible for slowing climate change?",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Law enforcement argued that climate protests in the Dakota pipeline case unlawfully blocked?",
+        "a": "telephone lines",
+        "b": "storefront businesses",
+        "c": "suburban homes",
+        "d": "public roadways",
+        "e": "legislative buildings",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which president ordered the construction on the Dakota Access Pipeline to continue?",
+        "a": "George W. Bush",
+        "b": "Bill Clinton",
+        "c": "Ronald Reagan",
+        "d": "Joe Biden",
+        "e": "Donald Trump",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which climate activist was a leader in the movement of the Sawré Muybu Indigenous Territory?",
+        "a": "Tori Tsui",
+        "b": "John Paul Jose",
+        "c": "Fatou Jeng",
+        "d": "Dominique Palmer",
+        "e": "Alessandra Korap Munduruku",
+        "correct_answer": "e"
+    },
+    {
+        "question": "With which company did the Sawré Muybu territory’s indigenous groups dispute?",
+        "a": "Newmont Mining",
+        "b": "De Beers Group",
+        "c": "Anglo American",
+        "d": "United Fruit",
+        "e": "Guinea Company",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Deforestation of Brazilian rainforests took place under the presidency of?",
+        "a": "Tancredo Neves",
+        "b": "Fernando Henrique Cardoso",
+        "c": "Michel Temer",
+        "d": "Jair Bolsonaro",
+        "e": "Ernesto Geisel",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Who founded the Fridays for Future climate movement?",
+        "a": "Greta Thunberg",
+        "b": "Rachel Carson",
+        "c": "Bob Hunter",
+        "d": "Alessandra Korap Munduruku",
+        "e": "Irving Stowe",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How did members of the Fridays for Future movement PRIMARILY protest governmental climate inaction?",
+        "a": "blocking infrastructure",
+        "b": "skipping school",
+        "c": "petitioning legislators",
+        "d": "advertising online",
+        "e": "criticizing industrial lobbying",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What irony of climate inaction did Greta Thunberg emphasize?",
+        "a": "Less developed countries will be most affected by climate change.",
+        "b": "Renewable energy is more efficient than fossil fuels.",
+        "c": "Most political leaders in office will be largely unaffected by climate change in their lifetime.",
+        "d": "Children are willing to act on climate while adults are not.",
+        "e": "Most countries have made little contribution to global climate goals.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which climate activist connected the equalization of climate justice to the teachings of Jesus Christ?",
+        "a": "Luisa Neubauer",
+        "b": "Nyombi Morris",
+        "c": "Vanessa Nakate",
+        "d": "Nemonte Nenquimo",
+        "e": "Katherine Hayhoe",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What is the nationality of Vanessa Nakate?",
+        "a": "Moroccan",
+        "b": "Nigerian",
+        "c": "Kenyan",
+        "d": "Ghanaian",
+        "e": "Ugandan",
+        "correct_answer": "e"
+    }
+]

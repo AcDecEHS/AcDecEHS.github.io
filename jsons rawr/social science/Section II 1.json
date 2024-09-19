@@ -1,0 +1,272 @@
+[
+    {
+        "question": "The Early Holocene is also known as the",
+        "a": "Icelandic Stage/Age",
+        "b": "Siberian Stage/Age",
+        "c": "Frisian Stage/Age",
+        "d": "Sumerian Stage/Age",
+        "e": "Greenlandian Stage/Age",
+        "correct_answer": "e"
+    },
+    {
+        "question": "The Early Holocene lasted from about 9700 BCE through about",
+        "a": "4000 BCE",
+        "b": "7800 BCE",
+        "c": "6200 BCE",
+        "d": "4700 BCE",
+        "e": "5400 BCE",
+        "correct_answer": "c"
+    },
+    {
+        "question": "The demarcation point between the Early and Middle Holocene Epochs was the collapse of an ice sheet in modern-day",
+        "a": "Iceland",
+        "b": "Canada",
+        "c": "Finland",
+        "d": "Norway",
+        "e": "Russia",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Scientists dated the beginning of the Early Holocene through examining",
+        "a": "sediment levels",
+        "b": "petrified fossils",
+        "c": "igneous boulders",
+        "d": "ice cores",
+        "e": "tree rings",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following statements about humans during the Early Holocene is TRUE?",
+        "a": "Humans had not reached Australia by the time that the Early Holocene began.",
+        "b": "The wide majority of Early Holocene humans lived in agricultural societies.",
+        "c": "Humans had reached South America by the time that the Early Holocene began.",
+        "d": "The Early Holocene Epoch witnessed the birth of literacy.",
+        "e": "No Early Holocene human communities developed agricultural practices.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "The Early Holocene in North America was a time of extinction for many species of",
+        "a": "freshwater fish",
+        "b": "unicellular bacteria",
+        "c": "flowering plants",
+        "d": "large mammals",
+        "e": "flightless birds",
+        "correct_answer": "d"
+    },
+    {
+        "question": "The Middle Holocene is alternatively referred to as the",
+        "a": "Icelandic Stage/Age",
+        "b": "Northgrippian Stage/Age",
+        "c": "Century Stage/Age",
+        "d": "Renland Stage/Age",
+        "e": "Meghalayan Stage/Age",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following statements BEST defines the Mid-Holocene Transition?",
+        "a": "The Mid-Holocene Transition was a period of declining solar energy intensity that led to a drop in global temperatures.",
+        "b": "The Mid-Holocene Transition marked the advent of organized religion within farming communities.",
+        "c": "The Mid-Holocene Transition was the process by which the majority of human groups adopted agricultural practices.",
+        "d": "The Mid-Holocene Transition was a period in which consistent volcanic eruptions damaged crop yields.",
+        "e": "The Mid-Holocene Transition was a series of natural disasters that demarcated the Middle and Late Holocene Epochs.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following ice sheets’ collapses precipitated the beginning of the Middle Holocene?",
+        "a": "the Petrograd Ice Sheet",
+        "b": "the Helsinki Ice Sheet",
+        "c": "the Halverson Ice Sheet",
+        "d": "the Laurentide Ice Sheet",
+        "e": "the Guillard Ice Sheet",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following statements about the Middle Holocene is TRUE?",
+        "a": "The Middle Holocene was generally a period of rising temperatures.",
+        "b": "Social stratification substantially intensified during the Middle Holocene.",
+        "c": "The Middle Holocene lasted roughly 2,000 years.",
+        "d": "No metalworking took place during the Middle Holocene.",
+        "e": "Human societies entered the Iron Age during the Middle Holocene.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The Late Holocene is alternatively referred to as the",
+        "a": "Renland Stage/Age",
+        "b": "Northgrippian Stage/Age",
+        "c": "Greenlandian Stage/Age",
+        "d": "Meghalayan Stage/Age",
+        "e": "Petrograd Stage/Age",
+        "correct_answer": "d"
+    },
+    {
+        "question": "The series of abrupt climatic changes which mark the boundary between the Middle and Late Holocene Epochs are also known as the Holocene",
+        "a": "Border",
+        "b": "Turnover",
+        "c": "Eruption",
+        "d": "Disruption",
+        "e": "Translation",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Proponents of an official Anthropocene often date its starting point to",
+        "a": "1850",
+        "b": "1900",
+        "c": "1950",
+        "d": "1800",
+        "e": "1750",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following statements BEST describes the response of the International Union of Geological Sciences to a proposal for the official designation of an Anthropocene?",
+        "a": "The Union rejected the proposal to create an officially recognized Anthropocene.",
+        "b": "The Union postponed a discussion on the issue until the year 2030.",
+        "c": "The Union split into two rival factions over this contentious issue of geological dating.",
+        "d": "The Union responded with their own proposal for an alternative system of geological dating.",
+        "e": "The Union accepted the designation of an Anthropocene but rejected the demarcation date set out in the proposal.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "A glacier collapse creates a massive influx of cold water to the ocean known as a(n)",
+        "a": "channeling system",
+        "b": "hydraulic intensification",
+        "c": "meltdown event",
+        "d": "desalinization moment",
+        "e": "marine unbalancing",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How do climatologists mark the dates of past events?",
+        "a": "They use Earth’s creation 4 billion years ago as year 0 and count up from there.",
+        "b": "They mark the end of the Ice Age as year 0 and use BCE and CE to distinguish the years before and after year 0.",
+        "c": "They mark the beginning of the Pleistocene era as the present and count how many years before the beginning of the Pleistocene era the event occurred.",
+        "d": "They use 2000 CE to mark the present and count how many years before 2000 CE the event occurred.",
+        "e": "They mark the year Jesus Christ was born as year 0 and use BCE and CE to distinguish the years before and after year 0.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which event is meant to correspond with year 0 on the Western calendar?",
+        "a": "the invention of writing",
+        "b": "the founding of Rome",
+        "c": "the end of the Ice Age",
+        "d": "the birth of Alexander the Great",
+        "e": "the birth of Jesus Christ",
+        "correct_answer": "e"
+    },
+    {
+        "question": "When did the Late Holocene era begin?",
+        "a": "6,000 years ago",
+        "b": "3,950 years ago",
+        "c": "5,100 years ago",
+        "d": "4,250 years ago",
+        "e": "4,950 years ago",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How long was the Pleistocene era?",
+        "a": "7.8 million years",
+        "b": "1.3 million years",
+        "c": "5.1 million years",
+        "d": "3.5 million years",
+        "e": "2.6 million years",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following dates do climatologists use as a marker for the present?",
+        "a": "1900 CE",
+        "b": "1850 CE",
+        "c": "1950 CE",
+        "d": "1800 CE",
+        "e": "2050 CE",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Agrarian societies FIRST emerged in the Near East nearest to modern-day",
+        "a": "Turkey",
+        "b": "Iraq and Iran",
+        "c": "Egypt",
+        "d": "Syria and Israel",
+        "e": "Azerbaijan",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which year marks the start of civilization in Mesopotamia?",
+        "a": "3000 BCE",
+        "b": "2500 BCE",
+        "c": "4000 BCE",
+        "d": "2000 BCE",
+        "e": "3500 BCE",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Where is Mesopotamia located?",
+        "a": "Western Europe",
+        "b": "South Asia",
+        "c": "Eastern Europe",
+        "d": "Middle East",
+        "e": "Central Asia",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which date is generally considered part of the late Middle Ages?",
+        "a": "around 1550 BCE",
+        "b": "around 1500 CE",
+        "c": "around 1350 CE",
+        "d": "around 500 BCE",
+        "e": "around 500 CE",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which climate event happened around the late Middle Ages?",
+        "a": "the Medieval Warm Period",
+        "b": "the Younger Dryas",
+        "c": "the Paleocene- Eocene Thermal Maximum",
+        "d": "the Little Ice Age",
+        "e": "the Holocene Climate Optimum",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Early agrarian societies initially developed written language for",
+        "a": "religion",
+        "b": "education",
+        "c": "recordkeeping",
+        "d": "storytelling",
+        "e": "mass communication",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following rivers supplied water to Mesopotamia?",
+        "a": "Tiber River",
+        "b": "Nile River",
+        "c": "Indus River",
+        "d": "Tigris River",
+        "e": "Ganges River",
+        "correct_answer": "d"
+    },
+    {
+        "question": "From 3600 BCE to 3300 BCE, the dominant group in Mesopotamia was the",
+        "a": "Kassites",
+        "b": "Hittites",
+        "c": "Sumerians",
+        "d": "Chaldeans",
+        "e": "Babylonians",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which group of people lived in Mesopotamia at one point?",
+        "a": "the Mayans",
+        "b": "the Aztecs",
+        "c": "the Mughals",
+        "d": "the Byzantines",
+        "e": "the Assyrians",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which empire ruled the area of Mesopotamia during the abrupt climate changes in 2250 BCE?",
+        "a": "the Assyrian Empire",
+        "b": "the Babylonian Empire",
+        "c": "the Akkadian Empire",
+        "d": "the Sumerian Empire",
+        "e": "the Persian Empire",
+        "correct_answer": "c"
+    }
+]

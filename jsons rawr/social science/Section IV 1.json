@@ -1,0 +1,272 @@
+[
+    {
+        "question": "Which of the following statements is MOST accurate?",
+        "a": "Scientists can link specific weather events to climate change.",
+        "b": "Extreme weather patterns can be predicted months in advance with current models.",
+        "c": "Evidence suggests that extreme weather events are occurring more frequently.",
+        "d": "Years of data suggest that humans first affected the climate in the Early Modern Period.",
+        "e": "Technological advances have mitigated the impact of climate change on some weather events.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following changes is NOT an Earth System change?",
+        "a": "ice sheet loss",
+        "b": "increased sunspot activity",
+        "c": "sea levels rising",
+        "d": "local ecological disruptions",
+        "e": "warmer ocean temperatures",
+        "correct_answer": "b"
+    },
+    {
+        "question": "When did people FIRST systematically measure carbon dioxide levels in the Earth’s atmosphere?",
+        "a": "in the late 1950s",
+        "b": "in the mid-1800s",
+        "c": "in the early 1900s",
+        "d": "in the late 1960s",
+        "e": "in the late 2000s",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which nineteenth-century scientist realized the temperature-raising potential of carbon dioxide?",
+        "a": "Paul Crutzen",
+        "b": "Charles Darwin",
+        "c": "Charles Keeling",
+        "d": "Lloyd Berkner",
+        "e": "Eunice Foote",
+        "correct_answer": "e"
+    },
+    {
+        "question": "A founding goal of the United Nations was to",
+        "a": "prevent international conflict",
+        "b": "regulate global trade",
+        "c": "take climate action",
+        "d": "protect national sovereignty",
+        "e": "promote world democracy",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What is the name of the trend shown in the CO2 concentrations?",
+        "a": "the Mauna Loa Curve",
+        "b": "the San Diego Curve",
+        "c": "the Keeling Curve",
+        "d": "the CO2 Curve",
+        "e": "the Carson Curve",
+        "correct_answer": "c"
+    },
+    {
+        "question": "The Charter of the United Nations is a(n)",
+        "a": "bilateral accord",
+        "b": "international treaty",
+        "c": "political declaration",
+        "d": "economic agreement",
+        "e": "social contract",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What role does the United Nations play in addressing climate change?",
+        "a": "attempts to prevent the spread of misinformation",
+        "b": "facilitates international cooperation",
+        "c": "encourages the adoption of the Anthropocene Epoch",
+        "d": "works to find evidence of climate change",
+        "e": "promotes the usage of alternative fuels",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The United Nations was established immediately after",
+        "a": "World War I",
+        "b": "the Great Depression",
+        "c": "the Cold War",
+        "d": "World War II",
+        "e": "the Vietnam War",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What year was Sputnik launched?",
+        "a": "1969",
+        "b": "1957",
+        "c": "1991",
+        "d": "1948",
+        "e": "1958",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Why was Sputnik’s successful launch a major accomplishment?",
+        "a": "It proved the existence of the troposphere.",
+        "b": "It established the first global communication network.",
+        "c": "It showed that intercontinental missiles were possible.",
+        "d": "It sent back key climate data.",
+        "e": "It marked the beginning of space exploration.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which country launched Sputnik?",
+        "a": "Italy",
+        "b": "France",
+        "c": "Soviet Union",
+        "d": "Japan",
+        "e": "Germany",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How did NASA’s founding MOST directly contribute to climate science?",
+        "a": "It provided a framework for international treaties.",
+        "b": "It increased interdisciplinary collaboration.",
+        "c": "It identified climate as a key issue of the late twentieth century.",
+        "d": "It lobbied politicians to take climate action.",
+        "e": "It brought in funding from the oil industry.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What institution was founded in 1958?",
+        "a": "the Earth System Science field",
+        "b": "the Mauna Loa Observatory",
+        "c": "the International Peace Organization",
+        "d": "UC San Diego",
+        "e": "the National Aeronautics and Space Administration",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which field emerged from the MOST interdisciplinary scientific collaboration?",
+        "a": "astronomy",
+        "b": "the Earth System Science",
+        "c": "international relations",
+        "d": "biochemistry",
+        "e": "astrophysics",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which organization launched a systematic study of global geophysical activities during the 1950s?",
+        "a": "the International Astronomical Union",
+        "b": "the World Meteorological Organization",
+        "c": "the International Council for Science",
+        "d": "the American Geophysical Union",
+        "e": "the European Space Agency",
+        "correct_answer": "c"
+    },
+    {
+        "question": "When did the International GeoPhysical Year take place?",
+        "a": "1965-66",
+        "b": "1945-46",
+        "c": "1957-58",
+        "d": "1962-63",
+        "e": "1953-54",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How long does a sunspot cycle last?",
+        "a": "twelve years",
+        "b": "seven years",
+        "c": "eleven years",
+        "d": "fifteen years",
+        "e": "eight years",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which later development built off of the foundations of the International GeoPhysical Year?",
+        "a": "the establishment of the National Aeronautics and Space Administration",
+        "b": "the implementation of the Global Positioning System",
+        "c": "the development of the World Climate Research Programme",
+        "d": "the founding of the Environmental Protection Agency",
+        "e": "the ratification of the Kyoto Protocol",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Where did research about atmospheric carbon dioxide take place?",
+        "a": "Alaska",
+        "b": "Hawaii",
+        "c": "Brazil",
+        "d": "Canada",
+        "e": "Norway",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Who proved that CO2 levels were rising over time?",
+        "a": "Hans Suess",
+        "b": "Gilbert Plass",
+        "c": "Bert Bolin",
+        "d": "Svante Arrhenius",
+        "e": "Charles David Keeling",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which nationality did Bert Bolin possess?",
+        "a": "Swedish",
+        "b": "Dutch",
+        "c": "British",
+        "d": "German",
+        "e": "Canadian",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Why did Bert Bolin travel to the United States in 1959?",
+        "a": "to discuss climate policy initiatives with United Nations representatives",
+        "b": "to collaborate with NASA scientists on a satellite mission",
+        "c": "to consult with policymakers about the dangers of nuclear testing",
+        "d": "to receive an award from the American Geophysical Union",
+        "e": "to warn the National Academy of Sciences about rising CO2 levels",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Who became the first chair of the ICSU’s committee on atmospheric sciences?",
+        "a": "Harry Wexler",
+        "b": "Charles David Keeling",
+        "c": "John Sawyer",
+        "d": "Bert Bolin",
+        "e": "Helmut Landsberg",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which climate agency did the United Nations establish in 1950?",
+        "a": "the United Nations Development Programme",
+        "b": "the Global Climate Observing System",
+        "c": "the Intergovernmental Panel on Climate Change",
+        "d": "the International Union for Conservation of Nature",
+        "e": "the World Meteorological Association",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which climatic process did the World Climate Research Programme study in the 1980s?",
+        "a": "how aerosols impact atmospheric composition and climate",
+        "b": "how land use affects regional climate patterns",
+        "c": "how El Niño events influence global weather patterns",
+        "d": "how the oceans and atmosphere interact to create weather",
+        "e": "how greenhouse gas emissions contribute to global warming",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How MOST did the World Climate Research Programme contribute to the environmental movement?",
+        "a": "by advocating for stricter environmental regulations and policies",
+        "b": "by raising awareness of climate change outside the scientific community",
+        "c": "by collaborating with nonprofit organizations to promote climate action",
+        "d": "by hosting international forums for discussions on climate change",
+        "e": "by promoting an interdisciplinary approach to climate research",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Who pushed for the creation of the International Geosphere-Biosphere Programme?",
+        "a": "John Tyndall",
+        "b": "Michael Mann",
+        "c": "Bert Bolin",
+        "d": "James Hansen",
+        "e": "Kirk Bryan",
+        "correct_answer": "c"
+    },
+    {
+        "question": "The International Geosphere-Biosphere added breadth and detail to our scientific knowledge about the",
+        "a": "impacts of ocean acidification",
+        "b": "relationship between greenhouse gases and global warming",
+        "c": "role of feedback mechanisms in amplifying climate change",
+        "d": "interactions between the Earth’s subsystems",
+        "e": "changes in the Earth’s biogeochemical cycles",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How did the World Climate Research Programme and the International Geosphere-Biosphere interact with each other?",
+        "a": "by arguing over scientific findings",
+        "b": "by coordinating joint research initiatives",
+        "c": "by competing for funding and resources",
+        "d": "by specializing in different aspects of climate research",
+        "e": "by exchanging scientists and researchers",
+        "correct_answer": "b"
+    }
+]

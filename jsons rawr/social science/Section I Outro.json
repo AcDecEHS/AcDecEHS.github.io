@@ -1,0 +1,138 @@
+[
+    {
+      "question": "The field of Earth System Science focuses on",
+      "a": "constructing a historical narrative of climate change",
+      "b": "understanding the effect of celestial bodies on Earth’s systems",
+      "c": "predicting global weather systems",
+      "d": "studying the Earth as an integrated whole",
+      "e": "mitigating the effects of the climate crisis",
+      "correct_answer": "d"
+    },
+    {
+      "question": "How many subsystems of the Earth have scientists designated?",
+      "a": "eight",
+      "b": "ten",
+      "c": "twelve",
+      "d": "four",
+      "e": "six",
+      "correct_answer": "d"
+    },
+    {
+      "question": "All of the following classifications are subsystems of the Earth EXCEPT",
+      "a": "water",
+      "b": "earth",
+      "c": "climate",
+      "d": "life",
+      "e": "air",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Forcings are BEST defined as events that",
+      "a": "cause a shift from one epoch to another",
+      "b": "alter wind or ocean currents",
+      "c": "tip the balance between subsystems",
+      "d": "stabilize the Earth’s subsystems",
+      "e": "disrupt ecological dynamics",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Which of the following factors is an example of a forcing?",
+      "a": "ocean salinity",
+      "b": "soil pH",
+      "c": "water temperatures",
+      "d": "volcanic eruptions",
+      "e": "nutrient levels",
+      "correct_answer": "d"
+    },
+    {
+      "question": "The two types of feedbacks are",
+      "a": "structural and functional",
+      "b": "direct and indirect",
+      "c": "dynamic and static",
+      "d": "external and internal",
+      "e": "positive and negative",
+      "correct_answer": "e"
+    },
+    {
+      "question": "Which of the following processes is an example of feedback?",
+      "a": "Warming causes ice sheets to melt, and the loss of ice further warms the climate.",
+      "b": "Nitrogen, phosphorus, and carbon continuously cycle through the environment.",
+      "c": "Seasonal changes in temperature cause different plants to grow and die.",
+      "d": "Animal populations in an ecosystem dramatically fluctuate over time.",
+      "e": "The wind carries seeds to new locations and alters the distribution of plant life.",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Which term describes manmade records for studying the climate?",
+      "a": "climate repositories",
+      "b": "climate observatories",
+      "c": "anthropogenic archives",
+      "d": "social records",
+      "e": "archives of society",
+      "correct_answer": "e"
+    },
+    {
+      "question": "How do climate historians differ from historical climatologists?",
+      "a": "Climate historians study different time periods comparatively.",
+      "b": "Climate historians study cultural responses to climate change.",
+      "c": "Climate historians study manmade sources.",
+      "d": "Climate historians focus on recent events.",
+      "e": "Climate historians analyze climate proxies instead of direct evidence.",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Another term for historical climatology is",
+      "a": "ethnoclimatology",
+      "b": "paleoclimatology",
+      "c": "archaeoclimatology",
+      "d": "geoclimatology",
+      "e": "anthropoclimatology",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Which of the following sources would a climate historian MOST likely study?",
+      "a": "sediment layers",
+      "b": "cave formations",
+      "c": "archaeological artifacts",
+      "d": "tree rings",
+      "e": "ice cores",
+      "correct_answer": "c"
+    },
+    {
+      "question": "How does the history of climate and society differ from other fields of climate science?",
+      "a": "It explores the social implications of climate change.",
+      "b": "It collaborates with governments to initiate positive changes.",
+      "c": "It uses digital technology to construct advanced computer models.",
+      "d": "It analyzes climate change from a multidisciplinary perspective.",
+      "e": "It primarily focuses on quantitative data.",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Scholars have proposed the Anthropocene as a new",
+      "a": "eon",
+      "b": "epoch",
+      "c": "era",
+      "d": "age",
+      "e": "period",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Which fact does the term 'Anthropocene' BEST reflect?",
+      "a": "The climate crisis is similar to ones humans have survived before.",
+      "b": "The effects of climate change can still be reversed.",
+      "c": "Human actions have significantly impacted the climate.",
+      "d": "Several complex factors have contributed to the climate crisis.",
+      "e": "Climate change will have catastrophic impacts on human societies.",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Which PRIMARY challenge do historians currently face in understanding climate change?",
+      "a": "reconciling contradictions in climate data",
+      "b": "identifying long-term climate trends",
+      "c": "accessing reliable climate data",
+      "d": "addressing biases in historical records",
+      "e": "combining climate history and human history",
+      "correct_answer": "e"
+    }
+  ]
+  

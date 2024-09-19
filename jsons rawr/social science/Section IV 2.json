@@ -1,0 +1,272 @@
+[
+    {
+        "question": "Which of the following organizations is the OLDEST?",
+        "a": "the World Meteorological Association",
+        "b": "the International Geosphere-Biosphere Programme",
+        "c": "the World Climate Research Programme",
+        "d": "the Global Atmospheric Research Program",
+        "e": "the International Council for Science",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Who proposed a systematic study of global geophysical activities in the 1950s?",
+        "a": "James Hutton",
+        "b": "Charles David Keeling",
+        "c": "Marie Tharp",
+        "d": "Lloyd Berkner",
+        "e": "Charles Richter",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Why was the International GeoPhysical Year significant?",
+        "a": "It marked the beginning of a prolonged drought.",
+        "b": "It saw the highest ever recorded levels of carbon emissions.",
+        "c": "It saw a dramatic increase in global temperatures.",
+        "d": "It marked a high point in the sunspot cycle.",
+        "e": "It witnessed the onset of a severe El Niño event.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "The IGY united scientists from all of the following subjects EXCEPT",
+        "a": "meteorology",
+        "b": "geomagnetism",
+        "c": "gravity",
+        "d": "oceanography",
+        "e": "botany",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which greenhouse gas did Charles David Keeling study?",
+        "a": "ozone",
+        "b": "ammonia",
+        "c": "methane",
+        "d": "carbon dioxide",
+        "e": "nitrous oxide",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which climatic process did scientists begin to understand in the 1950s?",
+        "a": "how solar radiation interacts with the Earth’s atmosphere",
+        "b": "how ocean currents affect weather patterns",
+        "c": "how human activity contributes to ozone depletion",
+        "d": "how greenhouse gas emissions contribute to global warming",
+        "e": "how feedback loops amplify the effects of climate change",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Where did Bert Bolin travel to discuss environmental issues in 1959?",
+        "a": "Washington, D.C.",
+        "b": "Paris",
+        "c": "Berlin",
+        "d": "Moscow",
+        "e": "Beijing",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Why is the Keeling Curve important?",
+        "a": "It proves that sea levels have risen considerably in recent years.",
+        "b": "It assesses the effectiveness of conservation efforts.",
+        "c": "It highlights the causes of the current climate crisis.",
+        "d": "It tracks the impact of human activity on biodiversity.",
+        "e": "It estimates the probability of a new extinction event.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How did the ICSU respond to emerging data about atmospheric carbon dioxide?",
+        "a": "by creating a committee on atmospheric sciences",
+        "b": "by issuing a statement urging government action",
+        "c": "by organizing an international conference of scientists",
+        "d": "by developing a global framework for addressing climate change",
+        "e": "by proposing new carbon pricing policies",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following organizations helped establish the Global Atmospheric Research Program?",
+        "a": "the Intergovernmental Panel on Climate Change",
+        "b": "the American Meteorological Society",
+        "c": "the United Nations Environmental Program",
+        "d": "the World Meteorological Association",
+        "e": "the National Aeronautics and Space Administration",
+        "correct_answer": "d"
+    },
+    {
+        "question": "When did GARP MOST greatly contribute to climate research?",
+        "a": "the 1980s and 1990s",
+        "b": "the 1940s and 1950s",
+        "c": "the 1990s and 2000s",
+        "d": "the 1970s and 1980s",
+        "e": "the 1950s and 1960s",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Where did the International Workshop on Climate Issues take place?",
+        "a": "Belgium",
+        "b": "Australia",
+        "c": "Austria",
+        "d": "Brazil",
+        "e": "Japan",
+        "correct_answer": "c"
+    },
+    {
+        "question": "When did scientists create the World Climate Research Programme?",
+        "a": "1975",
+        "b": "1968",
+        "c": "1971",
+        "d": "1982",
+        "e": "1979",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Why did scientists create the International Geosphere-Biosphere Programme?",
+        "a": "to foster international cooperation in addressing climate change",
+        "b": "to evaluate the effectiveness of current research methods",
+        "c": "to understand historical changes in climate patterns",
+        "d": "to contextualize climate change and its causes",
+        "e": "to develop strategies for sustainable resource allocation",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How did the International Geosphere-Biosphere Programme differ from its predecessors?",
+        "a": "It focused more on solving climate change than understanding it.",
+        "b": "It studied climate change from a multidisciplinary perspective.",
+        "c": "It studied climate change within an Earth System Science framework.",
+        "d": "It integrated new digital technologies into its studies.",
+        "e": "It emphasized the role of human activities in environmental changes.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which scientist helped push for the creation of the International Geosphere-Biosphere Programme?",
+        "a": "Charles David Keeling",
+        "b": "Alessandra Korap Munduruku",
+        "c": "Eugene F. Stoermer",
+        "d": "Rachel Carson",
+        "e": "Bert Bolin",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which main factor led to the creation of the International Geosphere-Biosphere Programme?",
+        "a": "the belief that more coordination was required between policymakers and scientists",
+        "b": "the desire for a new scientific program to contextualize climate change and its causes",
+        "c": "the growing global necessity for experienced climate scientists",
+        "d": "the actions of the United States’ government during the de-escalation of the Cold War",
+        "e": "awareness of the decreasing amounts of carbon dioxide in the atmosphere",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Within what scientific framework did the International Geosphere-Biosphere Programme study global warming?",
+        "a": "Earth system science",
+        "b": "aerospace systems",
+        "c": "biomedical systems",
+        "d": "biochemistry systems",
+        "e": "systems engineering",
+        "correct_answer": "a"
+    },
+    {
+        "question": "In the 1980s, climate scientists focused their efforts on",
+        "a": "introducing global warming to government policymakers",
+        "b": "identifying the primary greenhouse gas causing global warming",
+        "c": "raising public awareness about global warming",
+        "d": "discovering the causes of global warming",
+        "e": "determining whether global temperatures were increasing",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What did scientists agree upon in the 1985 conference Assessment of the Role of Carbon Dioxide and of Other Greenhouse Gases in Climate Variations and Associated Impacts?",
+        "a": "that global warming was of lower concern",
+        "b": "that government actions needed to be taken against global warming",
+        "c": "that individuals were primarily at fault for global warming",
+        "d": "that climate change arose from natural variability in solar energy",
+        "e": "that greenhouse gas emissions could cause global warming",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which organization released a report that warned of the impacts of human actions on global warming directly after a 1985 conference on climate change?",
+        "a": "Scientific Committee on Problems of the Environment",
+        "b": "World Meteorological Organization",
+        "c": "Intergovernmental Panel on Climate Change",
+        "d": "UN Environment Programme",
+        "e": "George C. Marshall Institute",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The Advisory Group on Greenhouse Gases was primarily formed as a(n)",
+        "a": "source of research funding",
+        "b": "international working group",
+        "c": "grant-making organization",
+        "d": "way to communicate scientific knowledge",
+        "e": "educational task force",
+        "correct_answer": "d"
+    },
+    {
+        "question": "The 1988 WMO conference entitled The Changing Atmosphere: Implications for Global Security was hosted in",
+        "a": "Canada",
+        "b": "Germany",
+        "c": "Japan",
+        "d": "France",
+        "e": "Austria",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which NASA scientist testified before the United States Senate that human-caused greenhouse gas emissions were the cause of climate change?",
+        "a": "James E. Hansen",
+        "b": "Katherine Hayhoe",
+        "c": "Eunice Newton Foote",
+        "d": "Charles David Keeling",
+        "e": "Erik M. Conway",
+        "correct_answer": "a"
+    },
+    {
+        "question": "In which decade did knowledge of climate change risks first spread widely?",
+        "a": "1970s",
+        "b": "1990s",
+        "c": "1960s",
+        "d": "2000s",
+        "e": "1980s",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which organization was MOST influential in the spread of climate change science in the late 1980s?",
+        "a": "United Nations Framework Convention on Climate Change",
+        "b": "Intergovernmental Panel on Climate Change",
+        "c": "George C. Marshall Institute",
+        "d": "World Climate Research Programme",
+        "e": "Global Atmospheric Research Program",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Who served as the FIRST chair of the Intergovernmental Panel on Climate Change?",
+        "a": "Bert Bolin",
+        "b": "Paul J. Crutzen",
+        "c": "Charles David Keeling",
+        "d": "James E. Hansen",
+        "e": "Naomi Oreskes",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The main purpose of the Intergovernmental Panel on Climate Change was to",
+        "a": "immediately halt all greenhouse gas emissions",
+        "b": "further research on the causes of climate change",
+        "c": "raise awareness about climate change",
+        "d": "defend government actions regarding climate change",
+        "e": "help scientists and policymakers communicate",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which organization is seen today as the MOST authoritative source of information about global warming and climate change?",
+        "a": "Intergovernmental Panel on Climate Change",
+        "b": "Scripps Institute of Oceanography",
+        "c": "Advisory Group on Greenhouse Gases",
+        "d": "World Climate Research Programme",
+        "e": "International Geosphere-Biosphere Programme",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which decade featured the STRONGEST opposition to human involvement in global warming?",
+        "a": "1960s",
+        "b": "1970s",
+        "c": "1990s",
+        "d": "2000s",
+        "e": "1980s",
+        "correct_answer": "c"
+    }
+]

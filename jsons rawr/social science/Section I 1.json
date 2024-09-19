@@ -1,0 +1,272 @@
+[
+    {
+        "question": "What are forcings?",
+        "a": "human impact on the environment",
+        "b": "adaptations due to climate change",
+        "c": "regulation of human impact on the environment",
+        "d": "specific causes of climate change",
+        "e": "the impact of natural disasters",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Climate over time is BEST described as",
+        "a": "stable",
+        "b": "volatile",
+        "c": "predictable",
+        "d": "self-contained",
+        "e": "unchanging",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Early in which century were temperatures noticeably cooler in the Northern Hemisphere?",
+        "a": "2000s",
+        "b": "1800s",
+        "c": "1900s",
+        "d": "1700s",
+        "e": "1600s",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What led to the cooler temperatures in the Northern Hemisphere?",
+        "a": "ozone depletion",
+        "b": "random temperature fluctuations",
+        "c": "heavier rainfall",
+        "d": "fewer sunspots",
+        "e": "volcanic ash",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How long is the longest of the three Milankovitch cycles?",
+        "a": "65,000 years",
+        "b": "41,000 years",
+        "c": "100,000 years",
+        "d": "26,000 years",
+        "e": "15,000 years",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How long is the shortest Milankovitch cycle?",
+        "a": "100,000 years",
+        "b": "15,000 years",
+        "c": "41,000 years",
+        "d": "26,000 years",
+        "e": "65,000 years",
+        "correct_answer": "d"
+    },
+    {
+        "question": "For which phenomenon is the Milankovitch cycle responsible?",
+        "a": "desertification",
+        "b": "volcanic eruptions",
+        "c": "ice ages",
+        "d": "floods",
+        "e": "tropical storms",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Volcanic eruptions cause all of the following effects EXCEPT",
+        "a": "acid rain",
+        "b": "ozone destruction",
+        "c": "warmer temperatures",
+        "d": "ash clouds",
+        "e": "greenhouse gas release",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following compounds do volcanoes NOT emit?",
+        "a": "HF",
+        "b": "SO2",
+        "c": "HCl",
+        "d": "H2SO4",
+        "e": "CO2",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following gasses plays a role in ozone destruction?",
+        "a": "HCl",
+        "b": "ClO",
+        "c": "ClONO2",
+        "d": "N2O5",
+        "e": "ash",
+        "correct_answer": "b"
+    },
+    {
+        "question": "In which part of the atmosphere does cirrus cloud nucleation occur?",
+        "a": "stratosphere",
+        "b": "troposphere",
+        "c": "mesosphere",
+        "d": "exosphere",
+        "e": "troposphere",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Multiple volcanic eruptions can result in",
+        "a": "little change to the climate",
+        "b": "higher average global temperatures",
+        "c": "increased local temperatures near volcanoes",
+        "d": "lower average global temperature",
+        "e": "decreased local temperatures near volcanoes",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which element of a car BEST exemplifies the greenhouse effect?",
+        "a": "steering wheel",
+        "b": "windows",
+        "c": "roof",
+        "d": "dashboard",
+        "e": "doors",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following gasses is a greenhouse gas?",
+        "a": "ammonia",
+        "b": "argon",
+        "c": "nitrogen",
+        "d": "water vapor",
+        "e": "oxygen",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What is the primary cause of the greenhouse effect?",
+        "a": "animal waste",
+        "b": "the Milankovitch cycles",
+        "c": "volcanic eruptions",
+        "d": "human activity",
+        "e": "forest fires",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following scientific terms BEST describes the environmental effects of climate change?",
+        "a": "consequence",
+        "b": "result",
+        "c": "reaction",
+        "d": "forcing",
+        "e": "feedback",
+        "correct_answer": "e"
+    },
+    {
+        "question": "In which direction does positive feedback move?",
+        "a": "always the opposite direction of forcing",
+        "b": "direction is unrelated to forcing",
+        "c": "always the same direction as forcing",
+        "d": "mostly the opposite direction of forcing",
+        "e": "mostly the same direction as forcing",
+        "correct_answer": "c"
+    },
+    {
+        "question": "The tipping point of climate change is the point at which it reaches a(n)",
+        "a": "relative maximum",
+        "b": "point of inflection",
+        "c": "point of no return",
+        "d": "absolute maximum",
+        "e": "equilibrium",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What effect does negative feedback have on climate change?",
+        "a": "pausing",
+        "b": "accelerating",
+        "c": "exacerbating",
+        "d": "lessening",
+        "e": "abolishing",
+        "correct_answer": "d"
+    },
+    {
+        "question": "The cryosphere is a subsystem of the",
+        "a": "pedosphere",
+        "b": "biosphere",
+        "c": "atmosphere",
+        "d": "hydrosphere",
+        "e": "geosphere",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What effect of warmer temperatures occurs around the North Pole?",
+        "a": "Water deep below the ocean’s surface condenses.",
+        "b": "Water on the ocean’s surface condenses.",
+        "c": "Ice on the ocean’s surface forms.",
+        "d": "Ice deep below the ocean’s surface melts.",
+        "e": "Ice on the ocean’s surface melts.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following events is considered positive feedback?",
+        "a": "new tree species growing in South America",
+        "b": "ice melting in the North Pole",
+        "c": "the decreasing population of tiger species",
+        "d": "lakes experiencing increased snowfall",
+        "e": "the circadian rhythm of animals shifting later in the day",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What relationship occurs between solar energy and ice or ocean water on the ocean surface?",
+        "a": "Ice reflects; ocean water absorbs.",
+        "b": "Ice traps, ocean water releases.",
+        "c": "Ice releases; ocean water reflects.",
+        "d": "Ice absorbs; ocean water reflects.",
+        "e": "Ice absorbs; ocean water absorbs.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following examples is a negative feedback to a forcing that increases Earth’s temperatures?",
+        "a": "clouds that cool the temperature",
+        "b": "melting ice that increases the temperature",
+        "c": "animal species going extinct from extreme temperatures",
+        "d": "human efforts to reduce carbon emissions",
+        "e": "emission of greenhouse gasses that increases the temperature",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which description BEST fits the polar vortex?",
+        "a": "cold air circulating the North Pole",
+        "b": "cold air circulating the Western Hemisphere",
+        "c": "warm air circulating the North Pole",
+        "d": "cold air circulating the South Pole",
+        "e": "warm air circulating the Western Hemisphere",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Snowfall near lakes that experience cold temperature from clouds is known as",
+        "a": "lakeside debris",
+        "b": "winter cloudfall",
+        "c": "snowy downpour",
+        "d": "extreme event snow",
+        "e": "lake effect snow",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What happens to cold air when the polar vortex weakens?",
+        "a": "It shifts southward to the United States.",
+        "b": "It shifts southward to Canada.",
+        "c": "It shifts northward to Canada.",
+        "d": "It shifts southward to Mexico.",
+        "e": "It shifts northward to the United States.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following events is considered negative feedback?",
+        "a": "glaciers melting in northern regions of the world",
+        "b": "shifts in the polar vortex",
+        "c": "trees experiencing poor health from water contamination",
+        "d": "increasing levels of industrial production",
+        "e": "ocean acidification harming coral reefs",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What type of solar radiation does the Earth emit, reflect, and absorb?",
+        "a": "ultraviolet",
+        "b": "ionizing",
+        "c": "microwave",
+        "d": "gamma",
+        "e": "infrared",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What do we call the gasses that warm the earth?",
+        "a": "greenhouse gasses",
+        "b": "outer gasses",
+        "c": "warming gasses",
+        "d": "cooling currents",
+        "e": "protective atmospheres",
+        "correct_answer": "a"
+    }
+]

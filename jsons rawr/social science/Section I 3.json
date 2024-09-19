@@ -1,0 +1,272 @@
+[
+    {
+        "question": "A common characteristic of historians, social scientists, and scientists is their",
+        "a": "scientific knowledge",
+        "b": "technical skills",
+        "c": "field of study",
+        "d": "instructional background",
+        "e": "specialization",
+        "correct_answer": "e"
+    },
+    {
+        "question": "The creation of new scholarly fields often begins with",
+        "a": "the replacement of archaic fields of study",
+        "b": "the introduction of new scientific philosophies",
+        "c": "the invention of new technologies",
+        "d": "the split of existing scholarly fields",
+        "e": "the development of new methods of analyzing evidence",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Findings about climate history often",
+        "a": "are discovered by chance",
+        "b": "do not perfectly align with across fields of study",
+        "c": "are applicable to all fields of climate study",
+        "d": "fully contradict one another",
+        "e": "are unreliable",
+        "correct_answer": "b"
+    },
+    {
+        "question": "How does historical climatology differ from paleoclimatology?",
+        "a": "Paleoclimatology involves the study of much more ancient time periods.",
+        "b": "Paleoclimatology involves climate study specifically done by paleontologists.",
+        "c": "Historical climatology derives entirely from historical accounts.",
+        "d": "Paleoclimatology and historical climatology are effectively synonyms for the same field of study.",
+        "e": "Historical climatology is an outdated term for the modern field of paleoclimatology.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Historical climatologists often obtain climate information from",
+        "a": "naturally preserved samples",
+        "b": "predictive models",
+        "c": "artificially created records",
+        "d": "present-day conditions",
+        "e": "historical accounts",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What development of the 1800s causes paleoclimatologists to generally focus on prior centuries?",
+        "a": "Industrialization led to rapid changes in climate conditions.",
+        "b": "Written sources’ information on climate decreased in detail.",
+        "c": "Naturally found sources became much rarer.",
+        "d": "Instruments that could record climate data were invented.",
+        "e": "Systematic tabulation of climate data ended.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Climate historians gather primary forms of evidence from the archival accounts of",
+        "a": "human society",
+        "b": "academic research",
+        "c": "the natural world",
+        "d": "the Internet",
+        "e": "scientific databases",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The work of climate historians does NOT involve",
+        "a": "analyzing natural records",
+        "b": "conducting textual analysis",
+        "c": "finding archival sources",
+        "d": "using contextual knowledge",
+        "e": "formulating historical narratives",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Climate historian Christian Pfister’s nationality was",
+        "a": "American",
+        "b": "German",
+        "c": "Dutch",
+        "d": "French",
+        "e": "Swiss",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Christian Pfister demonstrated that archival sources could be effectively used to",
+        "a": "construct new theories on climate",
+        "b": "supplant scientifically measured data",
+        "c": "compare the climates of different historical epochs",
+        "d": "produce reconstructions of historical climates",
+        "e": "predict trends in climate",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which climate historian helped create the field of the history of climate and society?",
+        "a": "Christian Pfister",
+        "b": "Dagomar Degroot",
+        "c": "Amanda Power",
+        "d": "John Robert McNeil",
+        "e": "John Muir",
+        "correct_answer": "b"
+    },
+    {
+        "question": "From which scientific field of study did the history of climate and society NOT evolve?",
+        "a": "genetics",
+        "b": "linguistics",
+        "c": "sociology",
+        "d": "paleoclimatology",
+        "e": "economics",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which two scales of measurement are PRIMARILY important to the field of the history of climate and society?",
+        "a": "mathematical scale and historical scale",
+        "b": "precisionist scale and generalist scale",
+        "c": "contextual scale and populational scale",
+        "d": "chronological scale and geographical scale",
+        "e": "geological scale and temporal scale",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What epoch precedes the Holocene?",
+        "a": "Pleistocene",
+        "b": "Anthropocene",
+        "c": "Calabrian",
+        "d": "Eocene",
+        "e": "Cambrian",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which age occurred FIRST?",
+        "a": "Gelasian",
+        "b": "Greenlandian",
+        "c": "Meghalayan",
+        "d": "Northgrippian",
+        "e": "Chibanian",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What two aspects of climate change can scientists understand by studying past climate change?",
+        "a": "what kinds of natural events influence climate change and the effects they have on the climate",
+        "b": "what causes change and how the Earth reacts to forcings that cause climate change",
+        "c": "the effects humans have on the environment and how ecosystems respond to these changes",
+        "d": "the ways Earth’s climate has remained steady and the ways Earth’s climate has fluctuated over time",
+        "e": "how the Earth’s climate has changed over time and the consequences of these changes",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What is the main cause of global warming?",
+        "a": "an increased use of solar energy",
+        "b": "volcanic eruptions emitting large amounts of greenhouse gasses",
+        "c": "humans releasing greenhouse gases into the atmosphere",
+        "d": "human land-use patterns altering Earth’s climate balance",
+        "e": "natural fluctuations in Earth’s climate patterns",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Why are there strong discontinuities between past and present climate change?",
+        "a": "Humans have altered the environment in significant ways.",
+        "b": "Earth’s temperature has increased rapidly in the past decade.",
+        "c": "The species inhabiting the Earth have changed constantly.",
+        "d": "There have been many natural disasters over time.",
+        "e": "Humans are currently burning fossil fuels at unprecedented levels.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following terms is used to describe climate change today?",
+        "a": "Ecocene",
+        "b": "Holocene",
+        "c": "Geocene",
+        "d": "Pleistocene",
+        "e": "Anthropocene",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following terms is used to describe the climate of the current era?",
+        "a": "Geocene",
+        "b": "Holocene",
+        "c": "Pleistocene",
+        "d": "Ecocene",
+        "e": "Anthropocene",
+        "correct_answer": "b"
+    },
+    {
+        "question": "When did the Holocene begin?",
+        "a": "at the end of the last global Ice Age",
+        "b": "at the end of the Iron Age Cold Epoch",
+        "c": "at the beginning of the Jurassic Era",
+        "d": "at the end of the Last Glacial Maximum",
+        "e": "at the beginning of the Bronze Age",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which epoch came before the Holocene?",
+        "a": "Neocene",
+        "b": "Pleistocene",
+        "c": "Geocene",
+        "d": "Ecocene",
+        "e": "Anthropocene",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Why are systems of classification important?",
+        "a": "They filter out excess information.",
+        "b": "They emphasize what is known and what needs to be learned.",
+        "c": "They encourage free thought and discovery.",
+        "d": "They focus efforts on the pursuit of knowledge.",
+        "e": "They organize human knowledge.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following eras is NOT a subdivision of the Pleistocene epoch?",
+        "a": "Calabrian",
+        "b": "Cenozoic",
+        "c": "Gelasian",
+        "d": "Upper",
+        "e": "Middle",
+        "correct_answer": "b"
+    },
+    {
+        "question": "When did the Pleistocene epoch begin?",
+        "a": "1.806 million years ago",
+        "b": "3.92 million years ago",
+        "c": "1.43 million years ago",
+        "d": "2.26 million years ago",
+        "e": "2.58 million years ago",
+        "correct_answer": "e"
+    },
+    {
+        "question": "To which organization does the Anthropocene Working Group (AWG) belong?",
+        "a": "Society for Sedimentary Geology",
+        "b": "International Association for Mathematical Geosciences",
+        "c": "International Commission of Stratigraphy",
+        "d": "International Union of Geological Sciences",
+        "e": "Paleontological Association",
+        "correct_answer": "c"
+    },
+    {
+        "question": "When do some scientists identify the beginning of the Anthropocene epoch?",
+        "a": "1850",
+        "b": "1950",
+        "c": "1900",
+        "d": "1875",
+        "e": "1925",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which organization rejected the proposal to make the Anthropocene a formal geological epoch?",
+        "a": "Society for Sedimentary Geology",
+        "b": "International Union of Geological Sciences",
+        "c": "International Commission of Stratigraphy",
+        "d": "International Association for Mathematical Geosciences",
+        "e": "Paleontological Association",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Who would NOT use the term Anthropocene?",
+        "a": "an environmental scientist",
+        "b": "an astronomist",
+        "c": "an economist",
+        "d": "a social scientist",
+        "e": "a politician",
+        "correct_answer": "b"
+    },
+    {
+        "question": "How does the term Anthropocene make it easier for people to discuss climate change?",
+        "a": "It provides a way to name what is currently happening to Earth’s climate.",
+        "b": "It simplifies the complexity of current climate change.",
+        "c": "It emphasizes how human activity changes the environment.",
+        "d": "It allows people to connect humanity with the environment.",
+        "e": "It provides a way to differentiate current climate change from past climate change.",
+        "correct_answer": "a"
+    }
+]

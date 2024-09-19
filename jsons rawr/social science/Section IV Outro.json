@@ -1,0 +1,137 @@
+[
+    {
+        "question": "When did scientists begin to understand the causes of global warming?",
+        "a": "the 1920s",
+        "b": "the 1930s",
+        "c": "the 1980s",
+        "d": "the 1950s",
+        "e": "the 1970s",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Why did scientists establish the World Climate Research Programme?",
+        "a": "to investigate the role of feedback mechanisms in driving climate change",
+        "b": "to assess the vulnerability of different regions to climate change",
+        "c": "to combat misinformation about climate change",
+        "d": "to develop new technologies to combat the climate crisis",
+        "e": "to study the effects of greenhouse gas emissions",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which initiative has goals MOST similar to those of the World Climate Research Programme?",
+        "a": "the International Geosphere-Biosphere Programme",
+        "b": "the Earth System Science Partnership",
+        "c": "the Intergovernmental Panel on Climate Change",
+        "d": "the Climate and Clean Air Coalition",
+        "e": "the Advisory Group on Greenhouse Gases",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How did scientists change their approach to resolving climate change in the 1980s?",
+        "a": "by protesting pollution in industrial sectors",
+        "b": "by developing carbon capture technologies",
+        "c": "by raising public awareness",
+        "d": "by directly funding conservation efforts",
+        "e": "by urging government action",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which climate initiative launched in the late 1980s?",
+        "a": "the Intergovernmental Panel on Climate Change",
+        "b": "the International Council for Science",
+        "c": "the Global Atmospheric Research Program",
+        "d": "the World Climate Research Programme",
+        "e": "the UN Framework Convention on Climate Change",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Government action against climate change PRIMARILY threatens the",
+        "a": "manufacturing industry",
+        "b": "automotive industry",
+        "c": "tourism industry",
+        "d": "agriculture industry",
+        "e": "oil industry",
+        "correct_answer": "e"
+    },
+    {
+        "question": "How have corrupt industries MOST greatly hindered the environmental movement?",
+        "a": "by lobbying governments to weaken environmental regulations",
+        "b": "by using greenwashing tactics to feign sustainable practices",
+        "c": "by blocking scientific research from successful publication",
+        "d": "by launching smear campaigns against environmental activists",
+        "e": "by funding misinformation about climate change",
+        "correct_answer": "e"
+    },
+    {
+        "question": "All of the following groups have often combated scientific views on the climate EXCEPT",
+        "a": "educators",
+        "b": "corporate leaders",
+        "c": "oil barons",
+        "d": "politicians",
+        "e": "news outlets",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following factors MOST strongly influences many Americans’ views on climate change?",
+        "a": "geographic location",
+        "b": "socioeconomic status",
+        "c": "political affiliations",
+        "d": "personal experiences",
+        "e": "religious beliefs",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which limit have many governments placed on climate change by the end of the 21st century?",
+        "a": "1.5°C",
+        "b": "2.5°C",
+        "c": "3.0°C",
+        "d": "4.5°C",
+        "e": "0.5°C",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which statement BEST assesses the current state of government action against climate change?",
+        "a": "Most governments have enacted strict regulations on emissions.",
+        "b": "Most governments have invested heavily in green technologies.",
+        "c": "Most governments have completely ignored the issue of climate change.",
+        "d": "Most governments have provided significant aid to communities affected by climate change.",
+        "e": "Most governments have set goals but fell behind on achieving them.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "In recent years, many industrialists have worked on developing new ways to",
+        "a": "research the causes of climate change",
+        "b": "reduce greenhouse gas emissions",
+        "c": "develop sustainable packaging solutions",
+        "d": "improve waste management techniques",
+        "e": "support reforestation efforts",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Climate activists are MOST concerned that their efforts to fight climate change may be",
+        "a": "co-opted",
+        "b": "expensive",
+        "c": "divisive",
+        "d": "overly radical",
+        "e": "inequitable",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Many indigenous activists advocate for environmental practices that prioritize",
+        "a": "economic development",
+        "b": "global cooperation",
+        "c": "local populations",
+        "d": "scientific research",
+        "e": "technological innovation",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How have many young activists PRIMARILY contributed to the climate movement?",
+        "a": "collaborating with scientists and experts",
+        "b": "highlighting the failures of current leaders",
+        "c": "boycotting companies with substantial carbon footprints",
+        "d": "developing new renewable energy technologies",
+        "e": "directly supporting communities affected by climate change",
+        "correct_answer": "b"
+    }
+]
