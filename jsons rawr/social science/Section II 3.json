@@ -1,0 +1,137 @@
+[
+    {
+        "question": "Approximately how many years did the Little Ice Age last?",
+        "a": "1,000",
+        "b": "750",
+        "c": "550",
+        "d": "220",
+        "e": "130",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following events occurred FIRST?",
+        "a": "the Counter-Reformation",
+        "b": "the end of the Little Ice Age",
+        "c": "Christopher Columbus’ expedition to America",
+        "d": "the Dutch Empire finds a maritime route to China",
+        "e": "the Black Death outbreak",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following events was a leading cause of the Little Ice Age?",
+        "a": "anthropogenic effects",
+        "b": "large-scale storms",
+        "c": "carbon sequestration",
+        "d": "tectonic drift",
+        "e": "solar minima",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Where were glacial advances MOST prevalent during the Little Ice Age?",
+        "a": "the Sahara",
+        "b": "the Black Sea",
+        "c": "the Andes",
+        "d": "the Alps",
+        "e": "the Gobi Desert",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How many major cooling periods did the Little Ice Age contain?",
+        "a": "five",
+        "b": "one",
+        "c": "three",
+        "d": "six",
+        "e": "two",
+        "correct_answer": "c"
+    },
+    {
+        "question": "The classical interpretation of the world’s climate used by early European explorers held that world conditions were all similar to",
+        "a": "Scandinavia",
+        "b": "Mesopotamia",
+        "c": "the Alps",
+        "d": "the British Isles",
+        "e": "the Mediterranean",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following European nations did NOT form a major empire in the sixteenth century?",
+        "a": "Germany",
+        "b": "Great Britain",
+        "c": "France",
+        "d": "Spain",
+        "e": "Portugal",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How did the cold spell of the 1590s affect British colonialism?",
+        "a": "Settlers cooperated with Native Americans more during hard times.",
+        "b": "Famine caused many British colonies to fail.",
+        "c": "Increased rainfall caused colonial crops to flourish and expanded trade.",
+        "d": "Cold waters changed oceans currents and disrupted colonial trade routes.",
+        "e": "Lack of resources at home encouraged the British poor to immigrate.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What complication hindered development of a Dutch trade route to China?",
+        "a": "severe storms",
+        "b": "naval resistance",
+        "c": "piracy",
+        "d": "poor navigation",
+        "e": "frozen seas",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following effects of the Little Ice Age was the MOST prominent in Africa?",
+        "a": "tornadoes",
+        "b": "ground frost",
+        "c": "tropical storms",
+        "d": "droughts",
+        "e": "flooding",
+        "correct_answer": "d"
+    },
+    {
+        "question": "During the Little Ice Age, monsoons were a persistent threat in",
+        "a": "Oceania",
+        "b": "the Middle East",
+        "c": "the Amazon Rainforest",
+        "d": "East Asia",
+        "e": "the Caribbean",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following locations was the site of colonial conflict between the French, British, and Spanish?",
+        "a": "British Columbia",
+        "b": "Haiti",
+        "c": "New York",
+        "d": "Florida",
+        "e": "Nova Scotia",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Why did climate conditions worsen European relations with Native Americans?",
+        "a": "Mist, storms, and snow provided cover that enabled attacks.",
+        "b": "Conditions made travel from Europe easier.",
+        "c": "Ships sunk by storms were attributed to Native American attacks.",
+        "d": "Europeans blamed bad weather on Native American paganism.",
+        "e": "The groups competed for limited food.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following intellectual ages occurred MOST recently?",
+        "a": "the Enlightenment",
+        "b": "the Scientific Revolution",
+        "c": "the Renaissance",
+        "d": "the Reformation",
+        "e": "the Classical Era",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How did the weather patterns of the late Holocene affect the development of European society?",
+        "a": "They made people more superstitious.",
+        "b": "They caused people to turn to science rather than religion.",
+        "c": "They dramatically diminished the population.",
+        "d": "They encouraged empires to develop centralized organizations.",
+        "e": "They strengthened the centralization of the Catholic Church.",
+        "correct_answer": "d"
+    }
+]

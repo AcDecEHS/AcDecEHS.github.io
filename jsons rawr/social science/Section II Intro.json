@@ -1,0 +1,137 @@
+[
+    {
+        "question": "What species’ oldest fossil record dates back to 300,000 years ago?",
+        "a": "Homo habilis",
+        "b": "Neanderthals",
+        "c": "Homo genus",
+        "d": "Homo sapiens",
+        "e": "Homo erectus",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which epoch predates the Holocene?",
+        "a": "Paleocene",
+        "b": "Pleistocene",
+        "c": "Anthropocene",
+        "d": "Anthromiocene",
+        "e": "Eocene",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Why would the global population not have surpassed ten million before the Holocene?",
+        "a": "Frequent conflicts and wars reduced the global population.",
+        "b": "Milankovitch cycles inhibited growth rates.",
+        "c": "The harsh environmental conditions were not hospitable.",
+        "d": "Humans had not adapted to life outside Western Africa.",
+        "e": "Fire had not yet been discovered.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which event occurred approximately 20,000 years ago?",
+        "a": "the Chicxulub impactor",
+        "b": "the Cretaceous-Paleogene extinction",
+        "c": "Halley’s Comet flyby",
+        "d": "founding of Ancient Mesopotamia",
+        "e": "the Last Glacial Maximum",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Why were Earth’s sea levels noticeably lower in the Pleistocene Epoch?",
+        "a": "Most water was contained beneath the crust.",
+        "b": "Most water was locked up in glaciers and ice sheets.",
+        "c": "The temperatures were warmer.",
+        "d": "Tectonic activity was lower.",
+        "e": "Water-bearing comets had not yet crashed into Earth.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What are the previous 1,200 years of the Pleistocene Epoch referred to as?",
+        "a": "Northgrippian Age",
+        "b": "Holocene Epoch",
+        "c": "the Last Glacial Maximum",
+        "d": "Greenlandian Age",
+        "e": "the Younger Dryas period",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What event occurred 14,000 years ago that caused a negative feedback for over a thousand years?",
+        "a": "the Last Glacial Maximum",
+        "b": "oceanic cooling",
+        "c": "solar cycle warming",
+        "d": "global cooling",
+        "e": "asteroid impact",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following are NOT descriptors of the present?",
+        "a": "Northgrippian",
+        "b": "Holocene",
+        "c": "Quaternary",
+        "d": "Phanerozoic",
+        "e": "Cenozoic",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How do Milankovitch cycles affect the climate?",
+        "a": "They cause the Earth to shift into a new epoch every 100,000 years.",
+        "b": "They reduce how much sunlight is reflected back by Earth.",
+        "c": "They regulate greenhouse gas concentrations in the stratosphere.",
+        "d": "They slow and speed up the Earth in its elliptical orbit.",
+        "e": "They affect the solar energy absorbed by Earth.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following is matched correctly?",
+        "a": "Last Glacial Maximum: Holocene",
+        "b": "interglacial period: Pleistocene Epoch",
+        "c": "climate: Quaternary Period",
+        "d": "epoch: Younger Dryas",
+        "e": "interglacial period: Holocene",
+        "correct_answer": "e"
+    },
+    {
+        "question": "In terms of climatic patterns, what defines the Quaternary Period?",
+        "a": "interglacial periods",
+        "b": "Milankovitch cycles",
+        "c": "glacial periods",
+        "d": "ice growth and recession",
+        "e": "climate change",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How many interglacials have there been in the past 800,000 years?",
+        "a": "4",
+        "b": "10",
+        "c": "5",
+        "d": "8",
+        "e": "2",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How has humanity’s impact on the environment changed from the Pleistocene to the Holocene Epoch?",
+        "a": "It has remained relatively unchanged.",
+        "b": "It has shifted towards more sustainable practices.",
+        "c": "It has intensified and expanded globally.",
+        "d": "It has shifted towards more unsustainable practices",
+        "e": "It has become more localized.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What factors other than climate might have influenced the transition from the Pleistocene to the Holocene?",
+        "a": "human migration",
+        "b": "geological events",
+        "c": "cultural developments",
+        "d": "technological advancements",
+        "e": "genetic mutations",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What is the relationship between climate and human flourishing during the Holocene?",
+        "a": "Humans have thrived under very particular environmental conditions.",
+        "b": "Climate has primarily determined the course of human development during the Holocene.",
+        "c": "Humans have struggled to adapt to the environmental conditions of the Holocene.",
+        "d": "Human flourishing during the Holocene has been independent of environmental factors.",
+        "e": "Climate has played a minor role in human flourishing during the Holocene.",
+        "correct_answer": "a"
+    }
+]

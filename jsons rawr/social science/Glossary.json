@@ -1,0 +1,137 @@
+[
+    {
+        "question": "Why did Michael McCormick label 536 CE as the “worst year to be alive”?",
+        "a": "Volcanic eruptions caused abnormally cold temperatures.",
+        "b": "Political tensions resulted in warfare and mass displacement.",
+        "c": "Epidemics of infectious diseases wiped out populations.",
+        "d": "Extreme drought caused crop failures and widespread famine.",
+        "e": "Floods destroyed crops and made much land uninhabitable.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Most of the early societies in the Andes Mountains were",
+        "a": "pastoralist",
+        "b": "agrarian",
+        "c": "urbanized",
+        "d": "egalitarian",
+        "e": "nomadic",
+        "correct_answer": "b"
+    },
+    {
+        "question": "How did Bert Bolin MOST significantly contribute to discussions on climate change?",
+        "a": "drafting proposals for international climate agreements",
+        "b": "publishing influential papers on greenhouse gas emissions",
+        "c": "pioneering new methods to analyze climate data",
+        "d": "leading scientific communities who studied the climate",
+        "e": "mentoring future generations of climate scientists",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which term describes the act of removing carbon dioxide from the atmosphere?",
+        "a": "carbon sequestration",
+        "b": "carbon filtration",
+        "c": "carbon purification",
+        "d": "carbon fixation",
+        "e": "carbon absorption",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Who coined the term “Anthropocene”?",
+        "a": "Bert Bolin and Charles David Keeling",
+        "b": "Michael Mann and E. O. Wilson",
+        "c": "Paul J. Crutzen and Eugene F. Stoermer",
+        "d": "John Muir and Eunice Newton Foote",
+        "e": "J. R. McNeill and Peter Engelke",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Volcanic activity, solar variations, and greenhouse gasses are all examples of",
+        "a": "forcings",
+        "b": "feedback loops",
+        "c": "carbon sinks",
+        "d": "climate proxies",
+        "e": "biogeochemical cycles",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which recent activist inspired the Fridays for Future movement?",
+        "a": "Mari Copeny",
+        "b": "Greta Thunberg",
+        "c": "Vanessa Nakate",
+        "d": "Bill McKibben",
+        "e": "David Attenborough",
+        "correct_answer": "b"
+    },
+    {
+        "question": "How does the history of climate and society differ from other climate studies?",
+        "a": "It focuses on the relationship between climate and humanity.",
+        "b": "It analyzes the economic impacts of climate change.",
+        "c": "It examines climate change through various cultural perspectives.",
+        "d": "It relies on digital technology to create climate models.",
+        "e": "It attempts to resolve the climate crisis, rather than just studying it.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following conditions BEST describes the climate during an interglacial?",
+        "a": "frequent extreme weather events",
+        "b": "increased precipitation",
+        "c": "longer daylight hours",
+        "d": "warmer temperatures",
+        "e": "reduced glacial activity",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which previous foundation later inspired the Kyoto Protocol?",
+        "a": "the Stockholm Conference",
+        "b": "the UN Framework Convention on Climate Change",
+        "c": "the Paris Agreement",
+        "d": "the Rio Earth Summit",
+        "e": "the Intergovernmental Panel on Climate Change",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Where did the idea of the “mandate of heaven” originate?",
+        "a": "Egypt",
+        "b": "India",
+        "c": "Greece",
+        "d": "China",
+        "e": "Persia",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which event marked the beginning of the middle ages?",
+        "a": "the collapse of the Roman Empire",
+        "b": "the coronation of Charlemagne",
+        "c": "the Battle of Tours",
+        "d": "the fall of Constantinople",
+        "e": "the Great Schism",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How has Alessandra Korap Munduruku fought for the environment?",
+        "a": "by protecting the Brazilian rainforest from destruction",
+        "b": "by defending indigenous land rights in court",
+        "c": "by promoting renewable energy initiatives",
+        "d": "by educating the public about the dangers of climate change",
+        "e": "by lobbying for stronger environmental protection laws",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following classifications is NOT one of the Earth’s four major subsystems?",
+        "a": "thermosphere",
+        "b": "hydrosphere",
+        "c": "geosphere",
+        "d": "biosphere",
+        "e": "atmosphere",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The United Nations was formed in the wake of",
+        "a": "the Great Depression",
+        "b": "the Industrial Revolution",
+        "c": "World War II",
+        "d": "World War I",
+        "e": "the Cold War",
+        "correct_answer": "c"
+    }
+]

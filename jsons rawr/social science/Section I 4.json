@@ -1,0 +1,272 @@
+[
+    {
+        "question": "When was the modern historical profession formalized?",
+        "a": "2000s",
+        "b": "1700s",
+        "c": "1600s",
+        "d": "1900s",
+        "e": "1800s",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following early historians included climate in their histories?",
+        "a": "Dipesh Chakrabarty",
+        "b": "Christian Pfister",
+        "c": "Fernand Braudel",
+        "d": "Michael McCormick",
+        "e": "Rachel Carson",
+        "correct_answer": "c"
+    },
+    {
+        "question": "From which country did the first historians to include climate in their historical narratives come?",
+        "a": "Spain",
+        "b": "England",
+        "c": "France",
+        "d": "United States",
+        "e": "India",
+        "correct_answer": "c"
+    },
+    {
+        "question": "During which decade did historians first include climate in their narratives of global history?",
+        "a": "2010s",
+        "b": "2000s",
+        "c": "1970s",
+        "d": "1990s",
+        "e": "1980s",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The modern study of the connection between climate history and human history can be BEST described as",
+        "a": "concrete",
+        "b": "dynamic",
+        "c": "unbiased",
+        "d": "stagnant",
+        "e": "inconclusive",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Historians generally divide history into chronological periods that are marked by",
+        "a": "economic growth",
+        "b": "social movements",
+        "c": "scientific advancements",
+        "d": "political developments",
+        "e": "environmental changes",
+        "correct_answer": "d"
+    },
+    {
+        "question": "The history of China is often portrayed as a succession of",
+        "a": "periods of war",
+        "b": "religious movements",
+        "c": "cultural advancements",
+        "d": "dynasties",
+        "e": "kingdoms",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What empire succeeded the Greek empire in the Mediterranean narrative of history?",
+        "a": "Macedonian",
+        "b": "Egyptian",
+        "c": "Roman",
+        "d": "Byzantine",
+        "e": "Ottoman",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which social events did scientists MOST often link to long periods of drought?",
+        "a": "warfare",
+        "b": "deindustrialization",
+        "c": "political successions",
+        "d": "mass revolts",
+        "e": "economic decline",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What PRIMARY problem arises when scholars attempt to link history and science?",
+        "a": "lack of correlation to history",
+        "b": "disrupting pre-existing narratives",
+        "c": "lack of records on climate",
+        "d": "bias in conclusions",
+        "e": "excessively broad focus",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What PRIMARY problem arises when scholars study climate science alongside history?",
+        "a": "unproven correlation between history and climate",
+        "b": "lack of overlap in narratives",
+        "c": "broad subject matter",
+        "d": "unreliable historical data on climate",
+        "e": "constraints from using existing narratives",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Approximately when was the climatic optimum?",
+        "a": "3,000 years ago",
+        "b": "9,000 years ago",
+        "c": "7,000 years ago",
+        "d": "1,000 years ago",
+        "e": "5,000 years ago",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How much hotter was the highest point in the last 10,000 years to the coldest point?",
+        "a": "5 C",
+        "b": "7 C",
+        "c": "9 C",
+        "d": "6 C",
+        "e": "8 C",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which civilization arose during the same time as the hottest point on the climate chart?",
+        "a": "Medieval Europe",
+        "b": "China",
+        "c": "Roman Empire",
+        "d": "Ancient Greece",
+        "e": "Mesopotamia",
+        "correct_answer": "e"
+    },
+    {
+        "question": "When was the climate coldest in the last 10,000 years?",
+        "a": "4,000 years ago",
+        "b": "10,000 years ago",
+        "c": "2,000 years ago",
+        "d": "6,000 years ago",
+        "e": "8,000 years ago",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Scholars MOST often lack evidence to prove",
+        "a": "causal relationships",
+        "b": "primary source authenticity",
+        "c": "historical narratives",
+        "d": "proxy accuracy",
+        "e": "chronological relationships",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Older generations of scholars studying the field of the History of Climate and Society argued for a strong link between",
+        "a": "cooler temperatures and biodiversity",
+        "b": "technological advancements and literacy",
+        "c": "favorable climates and thriving empires",
+        "d": "social inequality and revolutions",
+        "e": "industrialization and pollution",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following ideas BEST matches climate determinism?",
+        "a": "Humanity heavily alters its climate.",
+        "b": "Climate sets the course for human history.",
+        "c": "The Earth’s climate goes through predictable cycles.",
+        "d": "The Earth’s climate stays relatively stable over time.",
+        "e": "Climate change is primarily driven by solar activity.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Most modern scholars tend to",
+        "a": "reject climate determinism",
+        "b": "prioritize quantitative data in their analyses",
+        "c": "link climate change to human development",
+        "d": "rely mostly on primary sources",
+        "e": "explain phenomena using causal relationships",
+        "correct_answer": "a"
+    },
+    {
+        "question": "History of Climate and Society scholars studying climate determinism place special emphasis on",
+        "a": "technological advancements",
+        "b": "causal mechanisms",
+        "c": "positive feedback loops",
+        "d": "greenhouse gasses",
+        "e": "negative feedback loops",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The scale of human history typically dates back to civilizations such as",
+        "a": "Greece and Rome",
+        "b": "China and Egypt",
+        "c": "Mesopotamia and Greece",
+        "d": "China and the Olmec",
+        "e": "Egypt and Phoenicia",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Scholars have created accounts of human life as far back as",
+        "a": "40,000 years ago",
+        "b": "80,000 years ago",
+        "c": "70,000 years ago",
+        "d": "60,000 years ago",
+        "e": "50,000 years ago",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Studies of which two of the following fields did not overlap until recently?",
+        "a": "chemistry and sociology",
+        "b": "climate change and ecology",
+        "c": "chemistry and climate change",
+        "d": "climate change and human history",
+        "e": "human history and political science",
+        "correct_answer": "d"
+    },
+    {
+        "question": "The term “Anthropocene” refers to",
+        "a": "the natural cycles of climate change over millennia",
+        "b": "the earth’s first ice age",
+        "c": "the current state of climate change brought by humans",
+        "d": "the period in which human civilization first emerged",
+        "e": "a period of intense volcanic activity in Earth's history",
+        "correct_answer": "c"
+    },
+    {
+        "question": "During which of the following centuries did humans FIRST develop the capability to significantly impact the climate?",
+        "a": "eighteenth",
+        "b": "twenty-first",
+        "c": "nineteenth",
+        "d": "seventeenth",
+        "e": "twentieth",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Rachel Carson is credited with showing that",
+        "a": "humans can transform ecosystems in mere years",
+        "b": "human history has largely been dictated by the climate",
+        "c": "chemical pollutants can hurt human communities",
+        "d": "conservation efforts benefit biodiversity",
+        "e": "resilient and adaptive ecosystems are",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Silent Spring tells a story of",
+        "a": "overfishing and the extinction of important fish species",
+        "b": "deforestation in the Amazon and the loss of biodiversity",
+        "c": "industrial waste in rivers harming both humans and ecosystems",
+        "d": "global warming’s devastating impact on Arctic ecosystems",
+        "e": "commercial pesticides ravaging natural ecosystems",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following scholars argued humans are reshaping the climate faster than natural processes?",
+        "a": "Paul J. Crutzen",
+        "b": "Dipesh Chakrabarty",
+        "c": "Bert Bolin",
+        "d": "J.R. McNeill",
+        "e": "Dagomar Degroot",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following causal relationships does NOT describe a causal mechanism?",
+        "a": "The grain yield is high and prices drop.",
+        "b": "Trade routes expand and cultural exchange accelerates.",
+        "c": "The climate cools and civilizations flourish.",
+        "d": "Precipitation increases and agricultural yields rise.",
+        "e": "Temperatures increase and large mammals go extinct.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "A significant challenge in studying today’s climate change lies in",
+        "a": "securing research funding",
+        "b": "matching incongruent time scales",
+        "c": "securing sufficient evidence",
+        "d": "developing accurate predictive models",
+        "e": "integrating diverse climate models",
+        "correct_answer": "b"
+    }
+]

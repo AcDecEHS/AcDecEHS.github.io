@@ -1,0 +1,272 @@
+[
+    {
+        "question": "Legislators proposed the Green New Deal during the",
+        "a": "Trump Administration",
+        "b": "Biden Administration",
+        "c": "Bush Administration",
+        "d": "Clinton Administration",
+        "e": "Obama Administration",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which two of the following legislators advocated for the Green New Deal?",
+        "a": "Chris Dodd and Steny Hoyer",
+        "b": "Alexandria Ocasio-Cortez and Ed Markey",
+        "c": "Bernie Sanders and Maxine Waters",
+        "d": "Cory Booker and Pramila Jayapal",
+        "e": "Barney Frank and Dick Durbin",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Why, most simply, did the Green New Deal not become law?",
+        "a": "The government lacked funding during the period.",
+        "b": "The House Speaker did not allow it to come to a vote.",
+        "c": "Democrats did not have enough support in the Senate.",
+        "d": "The Supreme Court deemed some of its policies out of the realm of Congress.",
+        "e": "The president did not support it.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Proponents of the Green New Deal argued that",
+        "a": "it would save the government money on future climate clean up",
+        "b": "it would lead to the widespread adoption of renewable energy",
+        "c": "it would cut the United States’ pollution in half",
+        "d": "its investments would stimulate the economy",
+        "e": "it would pave the way for similar legislation in other countries",
+        "correct_answer": "d"
+    },
+    {
+        "question": "The name 'Green New Deal' alludes to legislation passed during",
+        "a": "the Great Depression",
+        "b": "the 1970s energy crisis",
+        "c": "World War Two",
+        "d": "the Great Recession",
+        "e": "the Cold War",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following presidents passed the single largest bill for climate-related issues?",
+        "a": "George W. Bush",
+        "b": "Joe Biden",
+        "c": "Barack Obama",
+        "d": "Donald Trump",
+        "e": "Bill Clinton",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following bills provides approximately $370 billion in funding for climate-related issues?",
+        "a": "Energy Policy Act",
+        "b": "Infrastructure Investment and Jobs Act",
+        "c": "Inflation Reduction Act",
+        "d": "Energy Independence and Security Act",
+        "e": "American Recovery and Reinvestment Act",
+        "correct_answer": "c"
+    },
+    {
+        "question": "A key challenge with carbon sequestration is",
+        "a": "high equipment costs",
+        "b": "disposing of waste by-products safely",
+        "c": "transforming the carbon into useful forms",
+        "d": "protecting wildlife and ecosystems",
+        "e": "a lack of storage locations",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Climate focused geoengineers use cloud-like materials to",
+        "a": "remove toxic pollutants",
+        "b": "disperse greenhouse gasses",
+        "c": "repair holes in the ozone layer",
+        "d": "reflect solar radiation",
+        "e": "increase precipitation",
+        "correct_answer": "d"
+    },
+    {
+        "question": "In 2022, which two of the following renewable energy sources together produced about 12% of the world’s electricity?",
+        "a": "tidal power and biofuels",
+        "b": "geothermal and solar power",
+        "c": "hydro and wind power",
+        "d": "wind and solar power",
+        "e": "hydro and nuclear power",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Improvements to which of the following technologies is closest to transforming human usage of fossil fuels?",
+        "a": "geothermal systems",
+        "b": "electric batteries",
+        "c": "hydrogen fuel cells",
+        "d": "nuclear reactors",
+        "e": "biofuels",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following arguments is MOST common from climate skeptics?",
+        "a": "Climate solutions cannot be scaled enough to replace fossil fuels.",
+        "b": "Climate solutions are far too late to reverse damage.",
+        "c": "Climate solutions require too much investment.",
+        "d": "Climate solutions are worse than climate problems.",
+        "e": "Climate solutions are too unreliable to be effective.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following actions is NOT a geoengineering proposal to counteract climate change?",
+        "a": "ocean microbubbles",
+        "b": "soil augmentation",
+        "c": "afforestation",
+        "d": "ocean fertilization",
+        "e": "atmospheric aerosols",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following terms refers to charcoal from burnt crops used to absorb carbon dioxide?",
+        "a": "activated carbon",
+        "b": "pyrolyzed biomass",
+        "c": "torrefied biomass",
+        "d": "biochar",
+        "e": "zeolite",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following chemicals have geoengineers proposed adding to low clouds?",
+        "a": "zinc sulfide",
+        "b": "calcium carbonate",
+        "c": "sodium chloride",
+        "d": "ammonia",
+        "e": "aluminum oxide",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What is NOT something a climate activist would do?",
+        "a": "discuss the moral significance of the climate crisis",
+        "b": "emphasize the need to treat humans respectfully and with dignity",
+        "c": "criticize those doing nothing about the climate crisis",
+        "d": "consider the effects of the climate crisis on humanity and nature",
+        "e": "lead riots to promote the cause of climate justice",
+        "correct_answer": "e"
+    },
+    {
+        "question": "A climate activist is MOST likely to be described as",
+        "a": "enthusiastic",
+        "b": "pessimistic",
+        "c": "proactive",
+        "d": "violent",
+        "e": "critical",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following questions is a climate activist LEAST likely to ask?",
+        "a": "How can we advocate for justice throughout the world?",
+        "b": "Who is most harmed by climate change?",
+        "c": "How can we solve the climate crisis?",
+        "d": "What caused previous global climate changes?",
+        "e": "How can we convince people to act on climate change?",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which statement would a climate activist MOST likely support?",
+        "a": "Not all methods to slow climate change are just.",
+        "b": "It is not important to rally people for the cause of achieving climate justice.",
+        "c": "The climate crisis has caused minimal disruption in society.",
+        "d": "People should only be concerned with stopping climate change.",
+        "e": "The climate crisis equally affects all demographics.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Carbon capture infrastructure is meant to",
+        "a": "stop the release of greenhouse gases",
+        "b": "lower greenhouse gas concentrations",
+        "c": "reverse the negative consequences of air pollution",
+        "d": "lower the number of fossil fuels burned",
+        "e": "reduce runoff into local freshwater supplies",
+        "correct_answer": "b"
+    },
+    {
+        "question": "A climate activist will have all of the following goals EXCEPT to",
+        "a": "encourage action",
+        "b": "convince doubters",
+        "c": "promote justice",
+        "d": "limit damage",
+        "e": "prevent poverty",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Climate activists oppose building carbon capture infrastructure in Louisiana because it may cause",
+        "a": "job loss",
+        "b": "neighborhood destruction",
+        "c": "water pollution",
+        "d": "raised taxes",
+        "e": "air pollution",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following words BEST describes a climate justice advocate?",
+        "a": "hopeful",
+        "b": "caring",
+        "c": "outspoken",
+        "d": "critical",
+        "e": "cynical",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Who argues for linking climate justice with the historical causes of global wealth and power disparities?",
+        "a": "Kwasi Wiredu",
+        "b": "Molefi Kete Asante",
+        "c": "Séverine Kodjo-Grandvaux",
+        "d": "Olúfẹmi O. Táíwò",
+        "e": "Sophie Oluwole",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What term describes extracting resources and producing clean energy in less developed countries for the benefit of wealthier ones?",
+        "a": "environmental imperialism",
+        "b": "environmental exploitation",
+        "c": "energy inequality",
+        "d": "climate injustice",
+        "e": "climate colonialism",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Why is it important for wealthy nations to understand that their power comes from natural resources around the world?",
+        "a": "They will be more willing to stop all neocolonialist practices that harm the environment.",
+        "b": "They will be more willing to address the legacies of colonialism.",
+        "c": "They will be more willing to create government programs centered on environmental conservation.",
+        "d": "They will be more willing to build infrastructure that aims to slow climate change.",
+        "e": "They will be more willing to provide financial support to less developed nations vulnerable to climate change.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which United States presidential administration created the Justice40 Initiative?",
+        "a": "Obama Administration",
+        "b": "Bush Administration",
+        "c": "Trump Administration",
+        "d": "Biden Administration",
+        "e": "Clinton Administration",
+        "correct_answer": "d"
+    },
+    {
+        "question": "For what purpose is the money from the Justice40 Initiative used?",
+        "a": "improving underserved communities",
+        "b": "building environment-friendly infrastructure",
+        "c": "preventing deforestation",
+        "d": "funding climate action",
+        "e": "cleaning polluted water sources",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which group of people does the work of climate activist Katherine Hayhoe target?",
+        "a": "recent immigrants",
+        "b": "Republicans",
+        "c": "seniors",
+        "d": "Evangelical Christians",
+        "e": "politicians",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How have many successful climate activist movements gained recognition?",
+        "a": "by planning attention-grabbing actions",
+        "b": "by providing resources to developing countries",
+        "c": "by challenging the government",
+        "d": "by pressuring individuals to make a change",
+        "e": "by spurring cooperation between people",
+        "correct_answer": "e"
+    }
+]

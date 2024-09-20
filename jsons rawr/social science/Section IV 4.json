@@ -1,0 +1,272 @@
+[
+    {
+        "question": "The Republican party is MOST associated with the support of",
+        "a": "social welfare",
+        "b": "climate change mitigation",
+        "c": "business",
+        "d": "government regulation",
+        "e": "tax increases",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which demographic within the Republican party has different views on fossil fuels and climate change compared to older members?",
+        "a": "Republican woman",
+        "b": "Hispanic Republicans",
+        "c": "middle-aged Republicans",
+        "d": "younger Republicans",
+        "e": "senior Republicans",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What did the 2023 poll reveal about the impact of political views on people’s perceptions of weather-related events?",
+        "a": "Only Democrats' perceptions of the weather are influenced by political views.",
+        "b": "Republicans and Democrats have similar perceptions of weather events.",
+        "c": "Political views have no impact on perceptions of weather.",
+        "d": "Political views influence people's perceptions of weather-related events.",
+        "e": "Only Republicans' perceptions of the weather are influenced by political views.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "According to the Marist Poll’s 2023 poll, how do Independents feel about promoting economic growth at the risk of climate change?",
+        "a": "They are mixed in their support of climate change.",
+        "b": "They are fully in support of climate change.",
+        "c": "They are fully in support of economic growth.",
+        "d": "They are mostly in support of climate change.",
+        "e": "They are mostly in support of economic growth.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "For which demographic were the responses to Marist Poll’s question over climate change the most evenly distributed?",
+        "a": "women",
+        "b": "Democrats",
+        "c": "Independents",
+        "d": "Republicans",
+        "e": "adults",
+        "correct_answer": "e"
+    },
+    {
+        "question": "According to The Washington Post, which weather-related event is NOT more likely to be perceived by Democrats as affecting their local area compared to Republicans?",
+        "a": "droughts",
+        "b": "hurricanes",
+        "c": "freezing temperatures",
+        "d": "flooding",
+        "e": "wildfires",
+        "correct_answer": "c"
+    },
+    {
+        "question": "According to the poll from 2023, what percent of Republicans agree that human activity is causing changes to the world’s climate?",
+        "a": "55%",
+        "b": "45%",
+        "c": "65%",
+        "d": "35%",
+        "e": "25%",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which United States government official stated that the 2015 Paris Agreement put the nation at a “very big economic disadvantage”?",
+        "a": "Barack Obama",
+        "b": "Nancy Pelosi",
+        "c": "Ted Cruz",
+        "d": "Donald Trump",
+        "e": "Mitch McConnell",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What did Vladimir Putin do about climate change?",
+        "a": "implemented a nationwide ban on fossil fuels",
+        "b": "formed a coalition against cooperative climate action",
+        "c": "launched a campaign to promote renewable energy",
+        "d": "established a green energy fund",
+        "e": "created a task force to reduce carbon emissions",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following controversial actions did Jair Bolsonaro take regarding the climate in his country?",
+        "a": "He facilitated a rapid increase in the deforestation of the rainforest.",
+        "b": "He opposed the widespread adoption of solar panels.",
+        "c": "He undermined the network of protected wildlife reserves.",
+        "d": "He cut funding for a large-scale wind turbine project.",
+        "e": "He overruled strict carbon emissions regulations for industries.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "According to The Washington Post’s survey in 2023, what percentage of overall participants believe human activity contributes to climate change?",
+        "a": "74%",
+        "b": "93%",
+        "c": "18%",
+        "d": "55%",
+        "e": "42%",
+        "correct_answer": "a"
+    },
+    {
+        "question": "To say that climate change is a wedge issue means that it is",
+        "a": "of national interest",
+        "b": "frequently debated",
+        "c": "difficult to resolve",
+        "d": "often misunderstood",
+        "e": "highly polarizing",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following popular ideas about climate change was a myth in the 1990s?",
+        "a": "Renewable energy would never be a viable alternative to fossil fuels.",
+        "b": "Economic growth and climate protection were mutually exclusive.",
+        "c": "Scientists were split over the validity of climate change.",
+        "d": "Climate change was only a concern for scientists and not the general public.",
+        "e": "Technological advancements would soon solve any climate issues.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What proportion of British broadcasters cast doubt on climate science in 2022?",
+        "a": "one fifth",
+        "b": "one quarter",
+        "c": "nearly two thirds",
+        "d": "nearly a third",
+        "e": "nearly half",
+        "correct_answer": "e"
+    },
+    {
+        "question": "During which natural disaster did Fox News host Laura Ingraham give airtime to deniers of the scientific dangers of smoke?",
+        "a": "Canadian forest fires",
+        "b": "Texas ice storm",
+        "c": "Australian bushfires",
+        "d": "California wildfires",
+        "e": "Hurricane Harvey",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The United Nations Framework Convention on Climate Change was founded at a meeting in",
+        "a": "Brussels",
+        "b": "New York",
+        "c": "Montreal",
+        "d": "Kyoto",
+        "e": "Rio de Janeiro",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which group’s involvement is NOT primarily necessary to fully slow and stop global warming?",
+        "a": "large businesses",
+        "b": "powerful industries",
+        "c": "national governments",
+        "d": "Indigenous populations",
+        "e": "mass populations",
+        "correct_answer": "d"
+    },
+    {
+        "question": "The founding of the United Nations Framework Convention on Climate Change in 1992 represented a milestone in",
+        "a": "decrease in measured carbon dioxide emissions",
+        "b": "green energy innovations",
+        "c": "coordination between scientific and government authority",
+        "d": "legislator support for climate action policies",
+        "e": "scientific research on climate change",
+        "correct_answer": "c"
+    },
+    {
+        "question": "The United Nations Framework Convention on Climate Change was an important step towards the later creation of the",
+        "a": "Global Environment Facility",
+        "b": "Green New Deal",
+        "c": "World Meteorological Organization",
+        "d": "National Energy and Climate Plan",
+        "e": "Kyoto Protocol",
+        "correct_answer": "e"
+    },
+    {
+        "question": "How many nations made binding commitments to the 1997 Kyoto Protocol?",
+        "a": "fifty-one",
+        "b": "one hundred and two",
+        "c": "one hundred ninety-six",
+        "d": "thirty-seven",
+        "e": "seventeen",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What was the overall agreement on emission reductions for 2008 to 2012 in the Kyoto Protocol?",
+        "a": "zero percent increase",
+        "b": "zero emissions",
+        "c": "five percent reduction",
+        "d": "ten percent reduction",
+        "e": "carbon neutrality",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What did the Kyoto Protocol offer to countries unable to meet their own domestic emission reduction goals?",
+        "a": "Countries were given minor fines for being unable to match reduction goals.",
+        "b": "Countries received financial aid in order to improve their domestic conditions.",
+        "c": "Countries were instructed to help reduce global emissions as a whole.",
+        "d": "Countries were provided with innovative green energy technology.",
+        "e": "Countries were allowed to contribute financially to others able to meet their goals.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What procedures for monitoring emissions did the Kyoto Protocol NOT involve?",
+        "a": "methods for recording emissions",
+        "b": "compliance systems for managing commitments",
+        "c": "systems to track emissions",
+        "d": "introduction of greener infrastructure",
+        "e": "means to report annual emissions",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which scientific organization provided guidelines for the Paris Agreement?",
+        "a": "UN Framework Convention on Climate Change",
+        "b": "Intergovernmental Panel on Climate Change",
+        "c": "World Meteorological Institute",
+        "d": "Marshall Institute",
+        "e": "International Council for Science",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What was the target change in global average temperatures of the Paris Agreement?",
+        "a": "1.5°C increase yearly until 2025",
+        "b": "5°C total decrease by 2025",
+        "c": "10°C increase yearly",
+        "d": "10°C total increase by 2050",
+        "e": "2°C increase yearly",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What is the baseline for measurements of temperature increase in the Paris Agreement?",
+        "a": "the percent temperature increase of the Paris Accords’ signing year",
+        "b": "the previous year of recording’s temperature",
+        "c": "pre-industrial yearly temperature increases",
+        "d": "the percent temperature increase of the year 2000",
+        "e": "an increase in 0°C",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What new target in yearly global temperature change has been set by national leaders?",
+        "a": "1.5°C increase",
+        "b": "5°C increase",
+        "c": "1°C increase",
+        "d": "0°C increase",
+        "e": "2°C increase",
+        "correct_answer": "a"
+    },
+    {
+        "question": "When does a peak in greenhouse gas emissions need to occur to meet the new targeted percentage of temperature increase?",
+        "a": "before 2025",
+        "b": "by 2050",
+        "c": "after 2030",
+        "d": "between 2025 and 2030",
+        "e": "in 2024",
+        "correct_answer": "a"
+    },
+    {
+        "question": "A 2022 United Nations report on climate change indicated that the current pace of emission reductions is",
+        "a": "close to meeting global temperature targets",
+        "b": "far more effective than necessary to meet temperature goals",
+        "c": "not on track to meet temperature goals",
+        "d": "nearly meeting temperature goals but missing key data",
+        "e": "already meeting the goal temperature increase",
+        "correct_answer": "c"
+    },
+    {
+        "question": "In 2022, carbon dioxide emissions",
+        "a": "were similar to 2021’s emissions",
+        "b": "decreased as a result of the COVID-19 pandemic",
+        "c": "were incompletely recorded",
+        "d": "increased but did not pass the 2018 peak",
+        "e": "reached a new all-time high",
+        "correct_answer": "e"
+    }
+]

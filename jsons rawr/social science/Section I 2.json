@@ -1,0 +1,272 @@
+[
+    {
+        "question": "Scholars conducting a historical investigation will need",
+        "a": "expert opinions",
+        "b": "databases",
+        "c": "sources",
+        "d": "laboratories",
+        "e": "eyewitnesses",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following items would an archive generally NOT have?",
+        "a": "preserved specimens",
+        "b": "personal letters",
+        "c": "climate records",
+        "d": "journal entries",
+        "e": "ship logs",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following statements BEST describes the difference between an archive of society and an archive of nature?",
+        "a": "One holds scientific information, while the other holds naturalistic information.",
+        "b": "One holds information about human history, while the other holds information about the Earth’s history.",
+        "c": "One holds quantitative information, while the other holds qualitative information.",
+        "d": "One holds information from the past century years, while the other holds information from the millennia.",
+        "e": "One holds written information, while the other holds information from nature.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following archives is an archive of society?",
+        "a": "a shipment of trees to be processed in a paper plant",
+        "b": "a collection of wolf population records",
+        "c": "a museum exhibit of paleolithic fossils",
+        "d": "a well-studied ice core from the North Pole",
+        "e": "a laboratory full of soil samples",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Climate influences all of the following subsystems EXCEPT",
+        "a": "weather",
+        "b": "living organisms",
+        "c": "air",
+        "d": "earth",
+        "e": "water",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What do scholars call natural features that show signs of being affected by climate?",
+        "a": "records",
+        "b": "proxies",
+        "c": "archives",
+        "d": "feedbacks",
+        "e": "time capsules",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following definitions BEST describes ice core sampling?",
+        "a": "examining ancient trees that have been frozen in place",
+        "b": "examining the center of the polar ice caps",
+        "c": "examining cylinders of ice carved from glaciers",
+        "d": "examining rings of ice in the Arctic",
+        "e": "examining the structure of ice formations inside fossils",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following climate scientists would be MOST likely to use ice core sampling?",
+        "a": "a scientist who is studying the density of a glacier across the past decade",
+        "b": "a scientist who is studying ocean temperatures since the Paleolithic period",
+        "c": "a scientist who is studying oceanic pollution across the past thousand years",
+        "d": "a scientist who is studying atmospheric carbon dioxide content across the past hundred years",
+        "e": "a scientist who is studying the change in ocean levels since the Industrial Revolution",
+        "correct_answer": "d"
+    },
+    {
+        "question": "What is the furthest time period an ice core from an old glacier can effectively study?",
+        "a": "millions of years ago",
+        "b": "hundreds of thousands of years ago",
+        "c": "tens of thousands of years ago",
+        "d": "hundreds of years ago",
+        "e": "thousands of years ago",
+        "correct_answer": "b"
+    },
+    {
+        "question": "What is one way to identify the age of a tree once it is cut down?",
+        "a": "measuring the thickness of its bark",
+        "b": "calculating the density of its wood",
+        "c": "measuring the size of its roots",
+        "d": "counting the number of rings",
+        "e": "counting the number of branches",
+        "correct_answer": "d"
+    },
+    {
+        "question": "If a climate scientist wanted to study how rainfall has changed over time, what might they examine?",
+        "a": "coral samples",
+        "b": "ice cores",
+        "c": "excavated mud",
+        "d": "tree stumps",
+        "e": "underwater sand",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following words form one of the Greek roots in dendrochronology?",
+        "a": "water",
+        "b": "study",
+        "c": "time",
+        "d": "ice",
+        "e": "animal",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following definitions BEST describes dendrochronology?",
+        "a": "the use of fossils to study the Earth’s past ecosystems",
+        "b": "the practice of learning from ecological history",
+        "c": "the process of learning information from trees",
+        "d": "the study of time",
+        "e": "the history of the Earth spanning the last thousand years",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What ecological information can studying sedimentation or mud at the bottom of lakes reveal?",
+        "a": "the temperature of the lake",
+        "b": "the health of the ecosystem",
+        "c": "the amount of fish living in the lake",
+        "d": "the carbon dioxide content of the atmosphere",
+        "e": "the content of the water",
+        "correct_answer": "e"
+    },
+    {
+        "question": "What ecological information can coral sampling reveal?",
+        "a": "past oxygen content",
+        "b": "past carbon dioxide content",
+        "c": "past content of the water",
+        "d": "past ecosystem size",
+        "e": "past temperatures",
+        "correct_answer": "e"
+    },
+    {
+        "question": "The thermometer’s invention occurred around the year",
+        "a": "1650",
+        "b": "1750",
+        "c": "1550",
+        "d": "1700",
+        "e": "1800",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following statements BEST describes an advantage of the archives of society when compared with the archives of nature?",
+        "a": "The archives of society provide more precise dating.",
+        "b": "The archives of society cover a wider geographical range.",
+        "c": "The archives of society span a longer timeframe.",
+        "d": "The archives of society are more factually objective.",
+        "e": "The archives of society follow more consistent trends.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following American cities garnered significant attention for its historically high temperatures in the summer of 2023?",
+        "a": "Phoenix",
+        "b": "San Francisco",
+        "c": "Des Moines",
+        "d": "Dayton",
+        "e": "Dallas",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following statements BEST describes an advantage of the archives of nature when compared with the archives of society?",
+        "a": "The archives of nature account for human impact on climate more thoroughly.",
+        "b": "The archives of nature are less prone to measurement error.",
+        "c": "The archives of nature account for omitted variable bias better.",
+        "d": "The archives of nature far predate the archives of society.",
+        "e": "The archives of nature are universally easier to interpret.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Researchers at the University of Georgia were able to estimate roughly 1,200 years of Northern Hemisphere temperature trends through analysis of",
+        "a": "ice cores",
+        "b": "tree rings",
+        "c": "lake sediments",
+        "d": "reptile fossils",
+        "e": "nitrogen isotopes",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The archives of society are BEST described as",
+        "a": "collections of natural artifacts",
+        "b": "compilations of scientific discoveries",
+        "c": "catalogs of geological formations",
+        "d": "repositories of meteorological activity",
+        "e": "records of human activity",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Consistent temperature records in the United States became increasingly common in the",
+        "a": "late eighteenth century",
+        "b": "early eighteenth century",
+        "c": "early twenty-first century",
+        "d": "late nineteenth century",
+        "e": "late twentieth century",
+        "correct_answer": "d"
+    },
+    {
+        "question": "A qualitative account of a past climate event is often referred to by modern climate scientists as a(n)",
+        "a": "proxy",
+        "b": "focus",
+        "c": "median",
+        "d": "exemplar",
+        "e": "litmus",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following statements BEST describes how the collection of precipitation data is deceptively complex?",
+        "a": "The water cycle makes accurate measurements of true precipitation levels nearly impossible.",
+        "b": "The scientific community disagrees about what counts as precipitation.",
+        "c": "Precipitation measurement systems vary widely across the world.",
+        "d": "Much work is needed to grasp trends based on individual points of data from disparate locations.",
+        "e": "Precipitation regression models often have instances of spurious correlation.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "The glacier-adjacent town of Grindelwald is located in",
+        "a": "Austria",
+        "b": "Italy",
+        "c": "Switzerland",
+        "d": "Liechtenstein",
+        "e": "Germany",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which of the following Dutch painters created the 1608 work Winter Landscape with Skaters?",
+        "a": "Hendrick Avercamp",
+        "b": "Rembrandt van Rijn",
+        "c": "Frans Hals",
+        "d": "Hieronymus Bosch",
+        "e": "Johannes Vermeer",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The 1608 painting Winter Landscape with Skaters is housed in the",
+        "a": "Pergamon",
+        "b": "Getty",
+        "c": "Louvre",
+        "d": "Metropolitan Museum",
+        "e": "Rijksmuseum",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Some climate scientists deduce information about past weather patterns from the price of",
+        "a": "grain",
+        "b": "timber",
+        "c": "iron ore",
+        "d": "water",
+        "e": "wool",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following statements BEST expresses why some scientists are skeptical to draw conclusions about past climatic conditions based on the prices of goods?",
+        "a": "Non-weather factors can significantly affect grain prices.",
+        "b": "Many pre-modern records have been destroyed.",
+        "c": "Grain prices were rarely measured in stable currency.",
+        "d": "The supply of grain varied substantially.",
+        "e": "Demand for grain was highly inelastic in pre-modern economies.",
+        "correct_answer": "a"
+    },
+    {
+        "question": "In pre-modern times detailed information on the weather was MOST often recorded in",
+        "a": "medical treatises",
+        "b": "scientific compendia",
+        "c": "town charters",
+        "d": "family Bibles",
+        "e": "ship logbooks",
+        "correct_answer": "e"
+    }
+]

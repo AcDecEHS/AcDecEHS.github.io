@@ -1,0 +1,137 @@
+[
+    {
+        "question": "How much time has passed since the Last Glacial Maximum?",
+        "a": "50,000 years",
+        "b": "10,000 years",
+        "c": "75,000 years",
+        "d": "100,000 years",
+        "e": "20,000 years",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The Early Harappan phase began CLOSEST to the",
+        "a": "collapse of the glacial Laurentide Ice Sheet",
+        "b": "fall of the Shang Dynasty",
+        "c": "development of writing in Egypt",
+        "d": "rise of the Akkadian Empire",
+        "e": "earliest recorded Homo sapiens fossils",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which of the following powers had the SHORTEST rule?",
+        "a": "the Chavín Civilization",
+        "b": "the Akkadian Empire",
+        "c": "the Olmec Civilization",
+        "d": "the Shang Dynasty",
+        "e": "the Zhou Dynasty",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which severe climate event MOST likely occurred in Eurasia 4,250 years ago?",
+        "a": "heatwaves",
+        "b": "dust storms",
+        "c": "floods",
+        "d": "monsoons",
+        "e": "drought",
+        "correct_answer": "e"
+    },
+    {
+        "question": "The Late Holocene was also called the",
+        "a": "Greenlandian Age",
+        "b": "Neolithic Age",
+        "c": "Paleolithic Age",
+        "d": "Meghalayan Age",
+        "e": "Northgrippian Age",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which year do many historians label as the “worst year to be alive”? ",
+        "a": "323 BCE",
+        "b": "536 CE",
+        "c": "1280 CE",
+        "d": "476 CE",
+        "e": "256 BCE",
+        "correct_answer": "b"
+    },
+    {
+        "question": "How long did the Wolf solar minimum last?",
+        "a": "50 years",
+        "b": "70 years",
+        "c": "100 years",
+        "d": "20 years",
+        "e": "30 years",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which invention did scientists create in 1714?",
+        "a": "the Gregorian telescope",
+        "b": "the microscope",
+        "c": "the barometer",
+        "d": "the steam engine",
+        "e": "the mercury thermometer",
+        "correct_answer": "e"
+    },
+    {
+        "question": "All of the following events occurred in the 1950s EXCEPT the",
+        "a": "International GeoPhysical Year",
+        "b": "launch of the Sputnik satellite",
+        "c": "founding of NASA",
+        "d": "start of the Anthropocene",
+        "e": "beginning of the Cold War",
+        "correct_answer": "d"
+    },
+    {
+        "question": "The Great Acceleration started in the same year as the",
+        "a": "establishment of the World Meteorological Association",
+        "b": "emergence of the field of Earth System Science",
+        "c": "adoption of the Paris Agreement",
+        "d": "ratification of the Kyoto Protocol",
+        "e": "founding of the Global Atmospheric Research Program",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which environmental science text did Rachel Carson publish in 1962?",
+        "a": "Collapse",
+        "b": "Cadillac Desert",
+        "c": "The Diversity of Life",
+        "d": "Silent Spring",
+        "e": "The Sixth Extinction",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which initiative preceded the World Climate Programme?",
+        "a": "the Advisory Group on Greenhouse Gases",
+        "b": "the Global Atmospheric Research Program",
+        "c": "the International Geosphere-Biosphere Programme",
+        "d": "the Intergovernmental Panel on Climate Change",
+        "e": "the UN Framework Convention on Climate Change",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Where did the United Nations hold the Conference on Environment and Development in 1992?",
+        "a": "Toronto, Canada",
+        "b": "Paris, France",
+        "c": "Beijing, China",
+        "d": "Rio de Janeiro, Brazil",
+        "e": "Villach, Austria",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following events happened LAST?",
+        "a": "The United states S withdrew from the Paris Agreement.",
+        "b": "The United States passed the Byrd-Hagel resolution.",
+        "c": "The Fridays for Future movement began.",
+        "d": "The United Nations held the Climate Change Conference.",
+        "e": "The Dakota Access Pipeline sparked protests.",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Who signed the Inflation Reduction Act into law?",
+        "a": "Bill Clinton",
+        "b": "Barack Obama",
+        "c": "Joe Biden",
+        "d": "Donald Trump",
+        "e": "George W. Bush",
+        "correct_answer": "c"
+    }
+]
