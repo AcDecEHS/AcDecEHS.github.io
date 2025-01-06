@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Which of the following artworks was created FIRST?",
+    "a": "Cho-looke the Yosemite Fall",
+    "b": "Rhine Water Purification Plant",
+    "c": "In Advance of a Broken Arm",
+    "d": "Sun Tunnels",
+    "e": "Spiral Jetty",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which environmental term dates from 1935?",
+    "a": "ecosystem",
+    "b": "biodiversity",
+    "c": "greenhouse gas",
+    "d": "sustainability",
+    "e": "carbon footprint",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Rebecca Belmore was born in the same year as the",
+    "a": "founding of the World Wildlife Fund",
+    "b": "designation of Yellowstone as the first national park",
+    "c": "creation of the Environmental Protection Agency",
+    "d": "establishment of the Arctic National Wildlife Refuge",
+    "e": "ratification of the Clean Air Act",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which text did Jack Burnham publish in 1968?",
+    "a": "“Design with Nature”",
+    "b": "“Systems Esthetics”",
+    "c": "“The Wilderness Act”",
+    "d": "“Desert Solitaire”",
+    "e": "“Silent Spring”",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Where did a catastrophic oil spill occur in 1969?",
+    "a": "Miami, Florida",
+    "b": "Anchorage, Alaska",
+    "c": "New Orleans, Louisiana",
+    "d": "Galveston, Texas",
+    "e": "Santa Barbara, California",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Guillermo Calzadilla was born shortly after",
+    "a": "Nancy Holt created Sun Tunnels",
+    "b": "Robert Smithson created Spiral Jetty",
+    "c": "Ana Mendieta created Untitled: Silueta Series",
+    "d": "Jennifer Allora was born",
+    "e": "Alma Woodsey Thomas died",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Harrisons created Shrimp Farm before",
+    "a": "the Watts Rebellion took place in Los Angeles",
+    "b": "the Church Rock uranium mill breached its dam",
+    "c": "Duchamp created In Advance of a Broken Arm",
+    "d": "Pierre Huyghe was born",
+    "e": "the Arctic National Wildlife Refuge was established",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following artworks took the LONGEST to create?",
+    "a": "Battle for the Woodlands",
+    "b": "Flint is Family",
+    "c": "Spiral Jetty",
+    "d": "Untilled",
+    "e": "Sun Tunnels",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How many years did Ana Mendieta spend on the 'Silueta' series?",
+    "a": "8",
+    "b": "3",
+    "c": "7",
+    "d": "10",
+    "e": "5",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How many years after the Church Rock uranium spill did Will Wilson create Church Rock Spill Evaporation Ponds?",
+    "a": "70",
+    "b": "50",
+    "c": "40",
+    "d": "30",
+    "e": "60",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which two artworks were created in the same year?",
+    "a": "Wheatfield—A Confrontation and Sun Tunnels",
+    "b": "Untilled and Battle for the Woodlands",
+    "c": "Land Mark (Foot Prints) and Caribou Migration I",
+    "d": "Rhine Water Purification Plant and Untitled: Silueta Series",
+    "e": "The Fourth World and Flint is Family",
+    "correct_answer": "c"
+  },
+  {
+    "question": "All of the following artworks were created in the 2010s EXCEPT",
+    "a": "The Fourth World",
+    "b": "Marat (Sebastião), Pictures of Garbage",
+    "c": "Battle for the Woodlands",
+    "d": "Untilled",
+    "e": "Unmoored",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Ana Mendieta died shortly after",
+    "a": "Flint, Michigan, changed its water source to the Flint River",
+    "b": "Vik Muniz created Marat (Sebastião), Pictures of Garbage",
+    "c": "Rebecca Belmore created Ayum-ee-aawach Oomama-mowan: Speaking to Their Mother",
+    "d": "the US reinstated protections against drilling in the Arctic National Wildlife Refuge",
+    "e": "Agnes Denes created Wheatfield—A Confrontation",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Noah Purifoy could NOT have ever learned about the",
+    "a": "Church Rock Uranium Spill",
+    "b": "Kanesatake Resistance",
+    "c": "Watts Rebellion",
+    "d": "Flint Water Crisis",
+    "e": "Ipperwash Crisis",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following artworks was created LAST?",
+    "a": "Church Rock Spill Evaporation Ponds",
+    "b": "Offshore Drilling",
+    "c": "Wheatfield—A Confrontation",
+    "d": "Caribou Migration I",
+    "e": "The Fourth World",
+    "correct_answer": "a"
+  }
+]

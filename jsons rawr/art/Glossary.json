@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Which term BEST describes the use of existing images, objects, or materials to create new artworks?",
+    "a": "interpretation",
+    "b": "recontextualization",
+    "c": "assimilation",
+    "d": "appropriation",
+    "e": "adaptation",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What role do catadores play in their communities?",
+    "a": "maintaining public parks and green spaces",
+    "b": "collecting and recycling waste materials",
+    "c": "harvesting crops on large-scale farms",
+    "d": "creating handmade artisan crafts",
+    "e": "organizing cultural events and festivals",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The conceptual art movement places the most importance on the",
+    "a": "materials used to create an artwork",
+    "b": "technical skill needed to create an artwork",
+    "c": "composition of an artwork",
+    "d": "idea behind an artwork",
+    "e": "historical context surrounding an artwork",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which photographic process creates precise images on silver-coated plates?",
+    "a": "daguerreotype",
+    "b": "collodion",
+    "c": "ambrotype",
+    "d": "albumen",
+    "e": "cyanotype",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Where does the Documenta exhibition take place?",
+    "a": "Valencia, Spain",
+    "b": "Milan, Italy",
+    "c": "Stockholm, Sweden",
+    "d": "São Paulo, Brazil",
+    "e": "Kassel, Germany",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How do Earthworks differ from the larger Land art movement?",
+    "a": "Earthworks often require consultation with environmental scientists and researchers.",
+    "b": "Earthworks only use natural materials sourced directly from the Earth.",
+    "c": "Earthworks are large-scale outdoor installations.",
+    "d": "Earthworks often engage with indigenous culture and traditions.",
+    "e": "Earthworks rely heavily on audience participation.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "How does the environmental justice movement respond to pressing social and ecological issues?",
+    "a": "by advocating for equal access to clean resources and environments",
+    "b": "by creating educational programs on sustainable living practices",
+    "c": "by implementing green infrastructure projects in local communities",
+    "d": "by promoting indigenous land rights and sovereignty",
+    "e": "by conducting scientific research on the need for sustainability",
+    "correct_answer": "a"
+  },
+  {
+    "question": "When did the American environmental movement mobilize?",
+    "a": "the 1960s",
+    "b": "the 1950s",
+    "c": "the 1940s",
+    "d": "the 1980s",
+    "e": "the 1970s",
+    "correct_answer": "a"
+  },
+  {
+    "question": "How do kinetic artworks engage their audiences?",
+    "a": "by incorporating mechanical elements",
+    "b": "by collaborating with live performers",
+    "c": "by using dynamic color schemes",
+    "d": "by employing optical illusions",
+    "e": "by including audio elements",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which genre of art emphasized the beauty and grandeur of the natural world?",
+    "a": "environmental painting",
+    "b": "historical painting",
+    "c": "still life painting",
+    "d": "portrait painting",
+    "e": "landscape painting",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Manifest Destiny was the belief that the United States was destined to",
+    "a": "spread democratic values throughout the world",
+    "b": "expand westward across the entire North American continent",
+    "c": "assert military superiority over indigenous tribes and rival nations",
+    "d": "convert local indigenous peoples to Christianity",
+    "e": "lay trade routes and transportation networks across the Pacific",
+    "correct_answer": "b"
+  },
+  {
+    "question": "All of the following features characterize the Minimalist movement EXCEPT",
+    "a": "extreme simplicity",
+    "b": "dynamic compositions",
+    "c": "limited color palettes",
+    "d": "emphasized form and space",
+    "e": "basic geometric shapes",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who pioneered the concept of Readymades?",
+    "a": "Salvador Dalí",
+    "b": "Piet Mondrian",
+    "c": "Pablo Picasso",
+    "d": "Vasily Kandinsky",
+    "e": "Marcel Duchamp",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which artistic movement focused on emotion, nature, individualism, and the sublime?",
+    "a": "Surrealism",
+    "b": "Postmodernism",
+    "c": "Abstract Expressionism",
+    "d": "Romanticism",
+    "e": "Impressionism",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The term “toxic sublime” is MOST strongly associated with",
+    "a": "political corruption and corporate greed",
+    "b": "environmental racism and systemic inequality",
+    "c": "pollution and environmental degradation",
+    "d": "food insecurity and access to limited resources",
+    "e": "forced displacement of indigenous peoples",
+    "correct_answer": "c"
+  }
+]

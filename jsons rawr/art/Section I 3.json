@@ -1,0 +1,274 @@
+{
+  "questions": [
+    {
+      "question": "Realist artists strongly believed that their art should",
+      "a": "emphasize ornate and precise details",
+      "b": "represent subjects in a highly stylized manner",
+      "c": "portray even the negative qualities of their subjects",
+      "d": "closely follow traditional academic standards",
+      "e": "focus on depicting natural scenery",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Gustave Courbet outraged audiences by depicting",
+      "a": "farmers harvesting crops in a rural field",
+      "b": "ordinary workers repairing a road",
+      "c": "women washing laundry by a riverside",
+      "d": "fishermen mending nets by the sea",
+      "e": "children playing in a village square",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Which artistic movement arose from dissatisfaction with the rigid rules established by the Salons?",
+      "a": "Impressionism",
+      "b": "Neoclassicism",
+      "c": "Modernism",
+      "d": "Realism",
+      "e": "Romanticism",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Why was Luncheon on the Grass controversial?",
+      "a": "It depicted a nude woman among clothed men.",
+      "b": "It combined religious undertones with a secular setting.",
+      "c": "It featured abstract forms instead of realistic figures.",
+      "d": "It mocked the frivolous lifestyles of wealthy nobles.",
+      "e": "It portrayed the working class in a glamorous light.",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Which artist’s work inspired the name of the Impressionist movement?",
+      "a": "Camille Pissarro",
+      "b": "Alfred Sisley",
+      "c": "Édouard Manet",
+      "d": "Georges Seurat",
+      "e": "Claude Monet",
+      "correct_answer": "e"
+    },
+    {
+      "question": "Impressionist art is, overall, characterized by?",
+      "a": "unmodified colors",
+      "b": "naturalistic detail",
+      "c": "thickly applied paint",
+      "d": "multiple-point perspective",
+      "e": "analytic space",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Which later artistic movement did Paul Cezánne MOST strongly influence?",
+      "a": "Cubism",
+      "b": "Abstract Expressionism",
+      "c": "Surrealism",
+      "d": "Minimalism",
+      "e": "Dadaism",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Which of the following characteristics was a unifying feature of the Post-Impressionist movement?",
+      "a": "the inspiration drawn from classical themes and motifs",
+      "b": "the search for increasingly brilliant colors",
+      "c": "the focus on heightened emotions and dramatic composition",
+      "d": "the emphasis on precise and realistic detail",
+      "e": "the effort to capture fleeting moments in time",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Georges Seurat’s art can BEST be described as",
+      "a": "dynamic in composition",
+      "b": "vibrant in color",
+      "c": "serene in atmosphere",
+      "d": "subtle in tonality",
+      "e": "evocative in mood",
+      "correct_answer": "b"
+    },
+    {
+      "question": "How did Vincent van Gogh use color to create the mood of Night Café?",
+      "a": "He used dark blues and grays to evoke a sense of mourning.",
+      "b": "He used earthy tones to suggest a sense of warmth and comfort.",
+      "c": "He used intense yellows, greens, and reds to create a jarring effect.",
+      "d": "He used vibrant reds, pinks, and yellows to depict energy and vitality.",
+      "e": "He used soft muted colors to convey a sense of nostalgia.",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Paul Gauguin’s search for artistic inspiration led him to travel to",
+      "a": "Tahiti",
+      "b": "Italy",
+      "c": "Brazil",
+      "d": "Greece",
+      "e": "Japan",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Which innovation allowed Impressionists to paint outdoors more easily?",
+      "a": "synthetic paintbrushes",
+      "b": "quick-drying varnishes",
+      "c": "folding chairs",
+      "d": "chemically based paints",
+      "e": "weather-resistant palettes",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Which of the following artists MOST strongly incorporated Japanese influences into his art?",
+      "a": "Edgar Degas",
+      "b": "Pierre-Auguste Renoir",
+      "c": "Mary Cassatt",
+      "d": "Paul Cézanne",
+      "e": "Vincent van Gogh",
+      "correct_answer": "a"
+    },
+    {
+      "question": "The Pre-Raphaelites’ art typically featured all of the following elements EXCEPT",
+      "a": "an emphasis on nature",
+      "b": "influence from pre-Renaissance art",
+      "c": "complex ornamentation",
+      "d": "sweeping curves",
+      "e": "moralistic elements",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Which of the following subjects did Art Nouveau MOST often depict?",
+      "a": "religious iconography",
+      "b": "still life compositions",
+      "c": "urban landscapes",
+      "d": "leaves and flowers",
+      "e": "female figures",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Which statement about fauvism is FALSE?",
+      "a": "Its leader was Henri Matisse.",
+      "b": "It drew inspiration from Van Gogh.",
+      "c": "It was named after \u201cfiery colors.\u201d",
+      "d": "Its color palette shocked general sensibilities about art.",
+      "e": "It rejected the need to replicate real-world color.",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Who developed Cubism?",
+      "a": "Marcel Duchamp",
+      "b": "Salvador Dalí",
+      "c": "Piet Mondrian",
+      "d": "Ernst Ludwig Kirchner",
+      "e": "Pablo Picasso",
+      "correct_answer": "e"
+    },
+    {
+      "question": "Cubism was largely influenced by art from",
+      "a": "Oceania",
+      "b": "Africa",
+      "c": "Europe",
+      "d": "Asia",
+      "e": "the Americas",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Which art movement did Vasily Kandinsky lead?",
+      "a": "Bauhaus",
+      "b": "Die Brücke",
+      "c": "Fauvism",
+      "d": "De Stijl",
+      "e": "Der Blaue Reiter",
+      "correct_answer": "e"
+    },
+    {
+      "question": "The Armory Show is BEST known for",
+      "a": "introducing modern European art to the United States",
+      "b": "resulting in a split between European and American modern art",
+      "c": "sparking the Harlem Renaissance",
+      "d": "popularizing Surrealism in the United States",
+      "e": "inspiring the Dada movement",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Fountain is BEST known as examples of",
+      "a": "Performance art",
+      "b": "Bauhaus",
+      "c": "Pop Art",
+      "d": "Ready-mades",
+      "e": "Surrealism",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Which features characterized the Bauhaus movement?",
+      "a": "protesting societal and art norms",
+      "b": "reconciling industrial design with aesthetic",
+      "c": "creating completely abstract images",
+      "d": "distorting figures and angles in paintings",
+      "e": "using ordinary objects to create art",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Jackson Pollock is BEST known for",
+      "a": "painting flat fields of color.",
+      "b": "sculpting with everyday objects.",
+      "c": "creating photorealistic art.",
+      "d": "painting everyday objects.",
+      "e": "dripping art directly onto the canvas.",
+      "correct_answer": "e"
+    },
+    {
+      "question": "Action Paintings and Color Fields categories in",
+      "a": "Abstract Expressionism",
+      "b": "Surrealism",
+      "c": "De Stijl",
+      "d": "Minimalism",
+      "e": "Expressionism",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Which artist is known for producing \u201ccombines?\u201d",
+      "a": "Jasper Johns",
+      "b": "Willem de Kooning",
+      "c": "Andy Warhol",
+      "d": "Robert Rauschenberg",
+      "e": "Roy Lichtenstein",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Andy Warhol is BEST known for his",
+      "a": "Performance Art",
+      "b": "Minimalism",
+      "c": "Pop Art",
+      "d": "ready-mades",
+      "e": "Abstract Expressionism",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Which art movement is MOST associated with the art of Gustave Courbet?",
+      "a": "Abstract Expressionism",
+      "b": "Minimalism",
+      "c": "Earthworks",
+      "d": "Photorealism",
+      "e": "Postmodernism",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Which of the following statements about Christo is FALSE?",
+      "a": "He primarily worked alone.",
+      "b": "He surrounded eleven Florida islands with pink plastic.",
+      "c": "His artworks often required years of work.",
+      "d": "His art put emphasis on the creation process as well as the product.",
+      "e": "He was known for creating Earthworks.",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Which art style are the Guerilla Girls an example of?",
+      "a": "Postmodernism",
+      "b": "Abstract Expressionism",
+      "c": "Photorealism",
+      "d": "Performance Art",
+      "e": "Earthworks",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Which postmodernist architect added a finial to the AT&T Building?",
+      "a": "David Smith",
+      "b": "Robert Smithson",
+      "c": "Dan Flavin",
+      "d": "Philip Johnson",
+      "e": "Frank Stella",
+      "correct_answer": "d"
+    }
+  ]
+}

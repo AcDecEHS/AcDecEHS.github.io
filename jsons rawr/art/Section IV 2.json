@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Nancy Holt collaborated with Robert Smithson to make the tongue-in-cheek film",
+    "a": "Boomerang",
+    "b": "Pine Barrens",
+    "c": "Revolve",
+    "d": "Underscan",
+    "e": "East Coast/West Coast",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In college, Nancy Holt studied",
+    "a": "biology",
+    "b": "English",
+    "c": "ecology",
+    "d": "psychology",
+    "e": "visual arts",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Sun Tunnels lies in",
+    "a": "California’s Mojave Desert",
+    "b": "Utah’s Great Basin Desert",
+    "c": "Nevada’s Death Valley",
+    "d": "Arizona’s Sonoran Desert",
+    "e": "New Mexico’s Chihuahuan Desert",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The diagonal of Sun Tunnels measures closest to",
+    "a": "75 feet",
+    "b": "95 feet",
+    "c": "115 feet",
+    "d": "85 feet",
+    "e": "105 feet",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which of the following journals did Nancy Holt publish her essay on Sun Tunnels?",
+    "a": "Aesthetica",
+    "b": "Artforum",
+    "c": "Apollo",
+    "d": "ArtNexus",
+    "e": "Art Bulletin",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following constellations is NOT represented in Sun Tunnels?",
+    "a": "Orion",
+    "b": "Draco",
+    "c": "Columba",
+    "d": "Capricorn",
+    "e": "Perseus",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Robert Smithson died while working on an artwork called",
+    "a": "Asphalt Rundown",
+    "b": "Broken Circle/Spiral Hill",
+    "c": "Glue Pour",
+    "d": "Spiral Jetty",
+    "e": "Amarillo Ramp",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following Nancy Holt films honors her late husband Robert Smithson?",
+    "a": "East Coast/West Coast",
+    "b": "Underscan",
+    "c": "Pine Barrens",
+    "d": "Boomerang",
+    "e": "Revolve",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In the early 2010s, Sun Tunnels acquired",
+    "a": "large red spots",
+    "b": "additional supports",
+    "c": "small, circular markings",
+    "d": "widespread cracks",
+    "e": "additional constellations",
+    "correct_answer": "c"
+  },
+  {
+    "question": "With which of the following statements would Nancy Holt MOST agree?",
+    "a": "Art installations should be temporary to avoid long-term environmental impact.",
+    "b": "Earthworks should not make significant changes to their landscapes.",
+    "c": "Artworks should be preserved in their exact original state.",
+    "d": "Art should dominate its environment to make a bold statement.",
+    "e": "Earthworks should be left to change alongside their surroundings.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The site of Dark Star Park once housed a(n)",
+    "a": "factory and mining operation",
+    "b": "gas station and warehouse",
+    "c": "farm and grain silo",
+    "d": "abandoned mall and office building",
+    "e": "landfill and parking lot",
+    "correct_answer": "b"
+  },
+  {
+    "question": "How does Dark Star Park connect to its environment?",
+    "a": "It has shadow markers that temporarily align with actual shadows.",
+    "b": "It uses plants and vegetation native to the surrounding area.",
+    "c": "The central ball aligns with the summer solstice's setting sun.",
+    "d": "It incorporates recycled materials from nearby locations.",
+    "e": "When viewed from above the balls match the constellation Leo.",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Why was August 1 significant to Nancy Holt when making Dark Star Park?",
+    "a": "It was Robert Smithson’s birthday.",
+    "b": "It marked the anniversary of the park’s opening.",
+    "c": "It was the date Rosslyn was founded.",
+    "d": "It was the date of a solar eclipse.",
+    "e": "It was the date of a major local festival.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "A viewer watching the interviews in The Making of Dark Star Park learns MOST about",
+    "a": "its astronomical significance",
+    "b": "its emphasis on collaboration",
+    "c": "its environmental themes",
+    "d": "Robert Smithson’s contributions",
+    "e": "Rosslyn’s history",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Sun Tunnels and Dark Star Park are connected to all of the following elements EXCEPT",
+    "a": "time cycles",
+    "b": "conservationism",
+    "c": "local businesses",
+    "d": "the land art movement",
+    "e": "celestial bodies",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In which state was Mark Dion born?",
+    "a": "Pennsylvania",
+    "b": "West Virginia",
+    "c": "Massachusetts",
+    "d": "New York",
+    "e": "Maryland",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Where did Mark Dion complete his independent study program?",
+    "a": "Museum of Fine Arts Boston",
+    "b": "The Metropolitan Museum of Art",
+    "c": "The Art Institute of Chicago",
+    "d": "The Whitney Museum of American Art",
+    "e": "The Guggenheim Museum",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What type of tree did Neukom Vivarium use?",
+    "a": "olive",
+    "b": "hemlock",
+    "c": "elm",
+    "d": "willow",
+    "e": "beech",
+    "correct_answer": "b"
+  },
+  {
+    "question": "With which artist did Mark Dion collaborate to create Mildred’s Lane?",
+    "a": "J. Morgan Puett",
+    "b": "Hans Haacke",
+    "c": "Jack Burnham",
+    "d": "William Beebe",
+    "e": "Nancy Holt",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What did Mark Dion spend days cataloging in the performance component of A Meter of Jungle?",
+    "a": "invertebrates",
+    "b": "sediment",
+    "c": "leaves",
+    "d": "flowers",
+    "e": "reptiles",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What component of A Meter of Jungle still exists today?",
+    "a": "a recording of the excavation",
+    "b": "a selection of the categorized samples",
+    "c": "a photograph of the land plot",
+    "d": "a photograph of the sculpture",
+    "e": "a video of the performance",
+    "correct_answer": "c"
+  },
+  {
+    "question": "In which city did A Meter of Jungle debut?",
+    "a": "Lima",
+    "b": "Mexico City",
+    "c": "São Paulo",
+    "d": "Valencia",
+    "e": "Rio de Janeiro",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Where did Mark Dion acquire the material for The N.Y. Bureau of Tropical Conservation?",
+    "a": "Brazil",
+    "b": "Argentina",
+    "c": "Venezuela",
+    "d": "Colombia",
+    "e": "Peru",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which field of science is MOST related to A Meter of Jungle?",
+    "a": "Pathology",
+    "b": "Phytology",
+    "c": "Anthropology",
+    "d": "Entomology",
+    "e": "Geology",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which artwork did Mark Dion create FIRST?",
+    "a": "On Tropical Nature",
+    "b": "Tropical Rainforest Preserves",
+    "c": "The N.Y. Bureau of Tropical Conservation",
+    "d": "Neukom Vivarium",
+    "e": "A Meter of Jungle",
+    "correct_answer": "b"
+  },
+  {
+    "question": "How many sculptures did Mark Dion construct using the samples gathered as a part of On Tropical Nature?",
+    "a": "six",
+    "b": "one",
+    "c": "eight",
+    "d": "three",
+    "e": "four",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Criticisms of Mark Dion’s work often described it as being",
+    "a": "without message",
+    "b": "lazy",
+    "c": "inexact",
+    "d": "overly meticulous",
+    "e": "antiquated",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which ecological crisis MOST directly threatened Antarctica in the 1980s?",
+    "a": "urbanization",
+    "b": "acid rain",
+    "c": "waste disposal",
+    "d": "nuclear energy",
+    "e": "the ozone hole",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which group hosted the “Earth Summit” of 1992 in Rio de Janeiro?",
+    "a": "The World Wildlife Fund",
+    "b": "The World Health Organization",
+    "c": "The Environmental Protection Agency",
+    "d": "The International Atomic Energy Commission",
+    "e": "The United Nations",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In artist statements and interviews, Mark Dion connects his environmental work to the social issue of",
+    "a": "poverty",
+    "b": "racism",
+    "c": "colonialism",
+    "d": "sexism",
+    "e": "war",
+    "correct_answer": "c"
+  }
+]

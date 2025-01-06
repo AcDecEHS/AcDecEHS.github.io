@@ -1,0 +1,137 @@
+[
+    {
+        "question": "Compared to non-Western art, Western art is more likely to be studied",
+        "a": "regionally",
+        "b": "culturally",
+        "c": "chronologically",
+        "d": "formally",
+        "e": "contextually",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which group was the greatest patron of the arts in Medieval Europe?",
+        "a": "monarchs",
+        "b": "the Church",
+        "c": "artisan guilds",
+        "d": "minor nobility",
+        "e": "the middle class",
+        "correct_answer": "b"
+    },
+    {
+        "question": "The number of secular artworks rose after the",
+        "a": "Great Awakening",
+        "b": "Enlightenment",
+        "c": "Counter-Reformation",
+        "d": "French Revolution",
+        "e": "Protestant Reformation",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which art movement was Neoclassicism a reaction to?",
+        "a": "Baroque",
+        "b": "Romanticism",
+        "c": "Rococo",
+        "d": "Impressionism",
+        "e": "Realism",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which art movement was a reaction to Neoclassicism?",
+        "a": "Baroque",
+        "b": "Romanticism",
+        "c": "Realism",
+        "d": "Rococo",
+        "e": "Impressionism",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which art movement was notable for focusing on everyday life as a subject matter?",
+        "a": "Rococo",
+        "b": "Impressionism",
+        "c": "Pre-Raphaelite",
+        "d": "Expressionism",
+        "e": "Neoclassicism",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of these art movements did NOT emerge in the twentieth century?",
+        "a": "Expressionism",
+        "b": "Cubism",
+        "c": "Surrealism",
+        "d": "Dada",
+        "e": "Post-Impressionism",
+        "correct_answer": "e"
+    },
+    {
+        "question": "After which event did the United States become a center of progressive art?",
+        "a": "Armory Show",
+        "b": "World War II",
+        "c": "Cold War",
+        "d": "the Harlem Renaissance",
+        "e": "World War I",
+        "correct_answer": "a"
+    },
+    {
+        "question": "Which religion is BEST known for producing non-figurative art?",
+        "a": "Christianity",
+        "b": "Judaism",
+        "c": "Shintoism",
+        "d": "Islam",
+        "e": "Hinduism",
+        "correct_answer": "d"
+    },
+    {
+        "question": "The Rococo style of art is MOST associated with aristocrats in",
+        "a": "Spain",
+        "b": "Italy",
+        "c": "England",
+        "d": "Germany",
+        "e": "France",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following art movements did NOT emerge in the second half of the nineteenth century?",
+        "a": "Impressionism",
+        "b": "Pre-Raphaelite",
+        "c": "Romanticism",
+        "d": "Post-Impressionism",
+        "e": "Realism",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How is Baroque art distinct from Renaissance art?",
+        "a": "focus on everyday life",
+        "b": "more religious subjects",
+        "c": "darker colors",
+        "d": "use of classical imagery",
+        "e": "greater sense of movement",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Linear perspective was a key innovation introduced in",
+        "a": "Islamic Art",
+        "b": "Renaissance Art",
+        "c": "Baroque Art",
+        "d": "Gothic Art",
+        "e": "Byzantine Art",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Chronologically, where are the oldest pieces studied in the resource guide found?",
+        "a": "Greece",
+        "b": "France",
+        "c": "Egypt",
+        "d": "Spain",
+        "e": "Italy",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Which of the following qualities is NOT a formal quality of art?",
+        "a": "line",
+        "b": "shape",
+        "c": "texture",
+        "d": "pattern",
+        "e": "perspective",
+        "correct_answer": "d"
+    }
+]

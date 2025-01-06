@@ -1,0 +1,137 @@
+[
+  {
+    "question": "In the 1960s, many environmental artists began to view their art as a(n)",
+    "a": "mirror",
+    "b": "ecosystem",
+    "c": "instrument",
+    "d": "experiment",
+    "e": "dialogue",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What is a common theme throughout Helen and Newton Harrison’s career?",
+    "a": "Their artwork critiqued consumerism and capitalism.",
+    "b": "Their artwork examined the intersection of technology and nature.",
+    "c": "Their artwork had a tangible impact on the environment.",
+    "d": "Their artwork experimented with multi-media installations.",
+    "e": "Their artwork celebrated indigenous cultures.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "How did Shrimp Farm differ from previous environmental artworks?",
+    "a": "It incorporated cutting-edge digital technology.",
+    "b": "It interjected fictional narratives into real-world ecosystems.",
+    "c": "It relied on consultation from environmental scientists and researchers.",
+    "d": "It explored abstract concepts of time and space.",
+    "e": "It consciously involved the interactivity of the ecosystems.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which series of artworks by the Harrisons marked their shift from focusing on closed living systems to open ones?",
+    "a": "Baltimore Promenade",
+    "b": "Survival Pieces",
+    "c": "Serpentine Lattice",
+    "d": "Making Earth",
+    "e": "The Lagoon Cycle",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Hans Haacke played a critical role in all of the following contemporary art movements EXCEPT",
+    "a": "Land art",
+    "b": "conceptual art",
+    "c": "video art",
+    "d": "institutional critique",
+    "e": "kinetic art",
+    "correct_answer": "c"
+  },
+  {
+    "question": "How did Haacke engage with the idea of ecological systems in his earlier works like Condensation Cube?",
+    "a": "by simulating weather systems with real-time data feeds",
+    "b": "by creating soundscapes that were integral to the artworks",
+    "c": "by integrating mechanical systems into kinetic sculptures",
+    "d": "by enclosing systems within the material of his artwork",
+    "e": "by using statistical data to illustrate economic systems",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following issues did Haacke address in Rhine Water Purification Plant?",
+    "a": "political corruption",
+    "b": "technological progress",
+    "c": "urban infrastructure",
+    "d": "cultural appropriation",
+    "e": "economic inequality",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Sun Tunnels explored all of the following concepts EXCEPT",
+    "a": "the deep time of light that travels from the stars",
+    "b": "daily sunrises and sunsets",
+    "c": "ancient geological time of the American West",
+    "d": "the Earth’s annual orbit around the Sun",
+    "e": "circadian rhythms and biological cycles",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Holt’s later works like Dark Star Parks reflect her sustained commitment to",
+    "a": "collaborating with scientists and researchers",
+    "b": "working with communities",
+    "c": "challenging traditional notions of art",
+    "d": "addressing socioeconomic issues",
+    "e": "experimenting with new media",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Mark Dion’s career reflects an interest in",
+    "a": "the aesthetics of urban decay",
+    "b": "the techniques of museum displays",
+    "c": "the taxonomy of rare species",
+    "d": "the sociology of public spaces",
+    "e": "the evolution of natural history",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which natural historian inspired Dion to create A Meter of Jungle?",
+    "a": "Jacques Cousteau",
+    "b": "Aldo Leopold",
+    "c": "David Attenborough",
+    "d": "William Beebe",
+    "e": "Rachel Carson",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Dion created A Meter of Jungle to explore the issue of",
+    "a": "soil erosion in Panama",
+    "b": "biodiversity loss in Madagascar",
+    "c": "unsustainable agricultural practices in Australia",
+    "d": "illegal poaching in Indonesia",
+    "e": "deforestation in Brazil",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Pierre Huyghe’s art often blurs the boundary between",
+    "a": "high art and popular culture",
+    "b": "artistic creations and real life",
+    "c": "tradition and innovation",
+    "d": "art and science",
+    "e": "individual and collective identity",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which open-source project did Huyghe create through co-authorship with many artists?",
+    "a": "Amarillo Ramp",
+    "b": "No Ghost Just a Shell",
+    "c": "Tropical Rainforest Preserves",
+    "d": "Untilled",
+    "e": "The Third Memory",
+    "correct_answer": "b"
+  },
+  {
+    "question": "How does Untilled represent a turning point in Huyghe’s career?",
+    "a": "It marks a shift towards producing contemporary eco art.",
+    "b": "It showcases newfound experimentation with kinetic sculptures.",
+    "c": "It demonstrates a transition towards large-scale public art projects.",
+    "d": "It reflects a transition towards abstract expressionism.",
+    "e": "It signifies a shift towards interactive digital installations.",
+    "correct_answer": "a"
+  }
+]

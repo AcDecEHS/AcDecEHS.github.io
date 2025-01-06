@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Which Earthworks artist frequently wraps monuments in fabric and worked closely with artist Jeanne-Claude?",
+    "a": "Smithson",
+    "b": "Christo",
+    "c": "Turrell",
+    "d": "Goldsworthy",
+    "e": "Heizer",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The Guerrilla Girls are based in the city of",
+    "a": "New York",
+    "b": "Paris",
+    "c": "Boston",
+    "d": "Seattle",
+    "e": "London",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which architectural style did Philip Johnson pioneer?",
+    "a": "International Style",
+    "b": "Neoclassical",
+    "c": "Classical",
+    "d": "Art Nouveau",
+    "e": "Contemporary",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which idea does the International Style of architecture follow when designing buildings?",
+    "a": "Innovation is king.",
+    "b": "Art reflects ideals.",
+    "c": "Art is decorative.",
+    "d": "Purpose follows design.",
+    "e": "Form follows function.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "A life-size terracotta army, along with horses and other equipment, was buried in the tomb of the emperor of the",
+    "a": "Yuan Dynasty",
+    "b": "Qin Dynasty",
+    "c": "Han Dynasty",
+    "d": "Tang Dynasty",
+    "e": "Song Dynasty",
+    "correct_answer": "b"
+  },
+  {
+    "question": "For what purpose were traditional ink drawing scrolls from the Tang Dynasty created?",
+    "a": "spreading propaganda",
+    "b": "preaching Confucianism",
+    "c": "promoting revolution",
+    "d": "upholding tradition",
+    "e": "inspiring contemplation",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What culture had a significant influence on traditional Indian images of Buddha?",
+    "a": "Chinese",
+    "b": "Japanese",
+    "c": "Greek",
+    "d": "Roman",
+    "e": "Egyptian",
+    "correct_answer": "c"
+  },
+  {
+    "question": "During the Impressionist movement in Europe, Japan sent a group of artists to",
+    "a": "the Netherlands",
+    "b": "France",
+    "c": "Spain",
+    "d": "Britain",
+    "e": "Portugal",
+    "correct_answer": "b"
+  },
+  {
+    "question": "In which part of Africa did the Nok civilization emerge?",
+    "a": "North Africa",
+    "b": "West Africa",
+    "c": "South Africa",
+    "d": "Central Africa",
+    "e": "East Africa",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which tribe settled the Benin Kingdom?",
+    "a": "the Edo people",
+    "b": "the Fang people",
+    "c": "the Yoruba people",
+    "d": "the Bwa people",
+    "e": "the Igbo people",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Why did early Europeans traders and settlers coming to Africa often destroy African art?",
+    "a": "They wanted to force Africans to assimilate to European traditions.",
+    "b": "They wanted to harvest the valuable materials used to create the artwork.",
+    "c": "They saw the artwork as dangerous pagan symbols.",
+    "d": "They did not want the artwork to influence European art.",
+    "e": "They needed to gain control over the tribes.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which type of art showed social stature in Polynesia?",
+    "a": "textiles",
+    "b": "sculpture",
+    "c": "paintings",
+    "d": "architecture",
+    "e": "tattoos",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In which area did Asmat tribal groups typically use huge carved wooden shields colored with black, red, and white during raids?",
+    "a": "Micronesia",
+    "b": "Australia",
+    "c": "Melanesia",
+    "d": "Polynesia",
+    "e": "Indonesia",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which term describes the element in mosque architecture that faces towards Mecca?",
+    "a": "dome",
+    "b": "mihrab",
+    "c": "minaret",
+    "d": "qibla",
+    "e": "minbar",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The Native Americans in the Southwest lived in",
+    "a": "pueblos",
+    "b": "chickees",
+    "c": "wigwams",
+    "d": "tipis",
+    "e": "longhouses",
+    "correct_answer": "a"
+  },
+  {
+    "question": "All of the following components are formal qualities of art EXCEPT",
+    "a": "theme",
+    "b": "form",
+    "c": "shape",
+    "d": "space",
+    "e": "texture",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which line direction creates a feeling of peacefulness?",
+    "a": "curved",
+    "b": "diagonal",
+    "c": "vertical",
+    "d": "horizontal",
+    "e": "zig-zag",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In contrast to shape, form is",
+    "a": "three-dimensional",
+    "b": "realistic",
+    "c": "textured",
+    "d": "multi-layered",
+    "e": "two-dimensional",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which type of perspective takes atmospheric elements into account?",
+    "a": "linear",
+    "b": "aerial",
+    "c": "isometric",
+    "d": "simple",
+    "e": "panoramic",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which of the following terms refers to the name of a color?",
+    "a": "saturation",
+    "b": "intensity",
+    "c": "value",
+    "d": "contrast",
+    "e": "hue",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Who provided the underlying concepts that led to the development of the color wheel?",
+    "a": "Vincent van Gogh",
+    "b": "Leonardo da Vinci",
+    "c": "Aristotle",
+    "d": "Isaac Newton",
+    "e": "Pablo Picasso",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The term “local color” refers to",
+    "a": "the effect that special lighting has on an object",
+    "b": "color contrast between one object and another",
+    "c": "the hue of an object under harsh lighting",
+    "d": "colors chosen for their emotional impact",
+    "e": "the true color of an object in normal daylight",
+    "correct_answer": "e"
+  },
+  {
+    "question": "According to the Greeks, where do the corners of the eyes fall?",
+    "a": "halfway between the chin and the top of the ears",
+    "b": "halfway between the chin and the middle of the scalp",
+    "c": "halfway between the chin and the top of the head",
+    "d": "halfway between the chin and the middle of the nose",
+    "e": "halfway between the chin and the brow line",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which form of balance employs objects that are slightly differentiated on each side of the axis?",
+    "a": "transitional balance",
+    "b": "approximate symmetry",
+    "c": "radial symmetry",
+    "d": "asymmetrical balance",
+    "e": "symmetrical balance",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which formal quality of art refers to the dimensional relations within an artwork?",
+    "a": "form",
+    "b": "composition",
+    "c": "rhythm",
+    "d": "space",
+    "e": "scale",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which element is repeated to form a pattern?",
+    "a": "rhythm",
+    "b": "theme",
+    "c": "contrast",
+    "d": "motif",
+    "e": "texture",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which type of color has experienced the GREATEST increase in popularity since the twentieth and twenty-first centuries?",
+    "a": "symbolic",
+    "b": "optical",
+    "c": "local",
+    "d": "arbitrary",
+    "e": "expressive",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Intensity refers to the",
+    "a": "balance between two colors",
+    "b": "lightness or darkness of a color",
+    "c": "name of a color",
+    "d": "brightness or purity of a color",
+    "e": "emotional impact of a color",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Freeform and irregular shapes and forms are MOST often referred to as",
+    "a": "fluid",
+    "b": "abstract",
+    "c": "organic",
+    "d": "dynamic",
+    "e": "amorphous",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What term refers to a sculpture that projects only slightly from its surface?",
+    "a": "flat art",
+    "b": "fresco secco",
+    "c": "plain sculpture",
+    "d": "minimal projection",
+    "e": "bas relief",
+    "correct_answer": "e"
+  }
+]

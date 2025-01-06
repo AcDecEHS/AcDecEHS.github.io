@@ -1,0 +1,274 @@
+{
+  "questions": [
+    {
+      "question": "Which major culture arose from 3200 to 2000 BCE in the Aegean islands?",
+      "a": "the Grecian culture",
+      "b": "the Mycenaean culture",
+      "c": "the Minoan culture",
+      "d": "the Cycladic culture",
+      "e": "the Roman culture",
+      "correct_answer": "d"
+    },
+    {
+      "question": "The best-known Mycenaean objects are made of?",
+      "a": "platinum",
+      "b": "iron",
+      "c": "gold",
+      "d": "silver",
+      "e": "bronze",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Which culture influenced the frontal posture of Archaic Greek statues?",
+      "a": "Aegean culture",
+      "b": "Cycladian culture",
+      "c": "Macedonian culture",
+      "d": "Nubian culture",
+      "e": "Egyptian culture",
+      "correct_answer": "e"
+    },
+    {
+      "question": "Which type of columns were typically built in Greece in the Early Classical Period?",
+      "a": "Relief",
+      "b": "Doric",
+      "c": "Corinthian",
+      "d": "Archaic",
+      "e": "Ionic",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Which term describes a naturalistic pose with weight placed on one leg that is apparent in Greek sculptures?",
+      "a": "balanced stance",
+      "b": "allineamento",
+      "c": "line of action",
+      "d": "inclined pose",
+      "e": "contrapposto",
+      "correct_answer": "e"
+    },
+    {
+      "question": "Ancient Etruscan buildings were mostly constructed out of?",
+      "a": "bamboo and palm leaves",
+      "b": "straw and soil",
+      "c": "clay and animal hide",
+      "d": "bricks and wood",
+      "e": "adobe and rammed earth",
+      "correct_answer": "d"
+    },
+    {
+      "question": "What purpose did concrete serve in Roman architecture?",
+      "a": "creating supporting beams",
+      "b": "filling space between rocks in walls",
+      "c": "creating ornamental structures",
+      "d": "lining sewers and aqueducts",
+      "e": "forming building floors",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Which architectural structure did the Romans use extensively in bridges and aqueducts?",
+      "a": "columns",
+      "b": "barrel vaulting",
+      "c": "domes",
+      "d": "curved arches",
+      "e": "groin architecture",
+      "correct_answer": "d"
+    },
+    {
+      "question": "When depicting dead nobles in art as part of their funerary rites, the Romans made their figures seem?",
+      "a": "expressive",
+      "b": "ideal",
+      "c": "dramatic",
+      "d": "natural",
+      "e": "abstract",
+      "correct_answer": "b"
+    },
+    {
+      "question": "The Byzantine empire is best known for its?",
+      "a": "tempera paintings",
+      "b": "wall frescoes",
+      "c": "fired pottery",
+      "d": "decorative mosaics",
+      "e": "jade jewelry",
+      "correct_answer": "d"
+    },
+    {
+      "question": "What was a main job of monks working in monasteries in the Medieval period?",
+      "a": "creating illuminated manuscripts",
+      "b": "protecting valuable artworks",
+      "c": "educating artisans",
+      "d": "quarrying rock for building cathedrals",
+      "e": "painting religious works",
+      "correct_answer": "a"
+    },
+    {
+      "question": "What medium was MOST important to the Vikings?",
+      "a": "marble",
+      "b": "granite",
+      "c": "metal",
+      "d": "wood",
+      "e": "wool",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Which architectural element allows bigger windows by providing support to the building’s exterior?",
+      "a": "exterior arches",
+      "b": "voussoirs",
+      "c": "flying buttresses",
+      "d": "ribbed vaulting",
+      "e": "keystones",
+      "correct_answer": "c"
+    },
+    {
+      "question": "What technique did the Florentine artist Giotto di Bondone use to create simple perspective in his pieces?",
+      "a": "dry brushing",
+      "b": "atmospheric perspective",
+      "c": "foreshortening",
+      "d": "one-point perspective",
+      "e": "overlapping figures",
+      "correct_answer": "e"
+    },
+    {
+      "question": "Who became new patrons of the arts during the Renaissance era?",
+      "a": "religious leaders",
+      "b": "the middle class",
+      "c": "the royal family",
+      "d": "wealthy noble families",
+      "e": "common people",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Which artist BEST demonstrates the transition from Gothic to Renaissance art?",
+      "a": "Masaccio",
+      "b": "Titian Vecelli",
+      "c": "Filippo Brunelleschi",
+      "d": "Albrecht Dürer",
+      "e": "Giotto di Bondone",
+      "correct_answer": "e"
+    },
+    {
+      "question": "How did economic changes influence the development of the Renaissance in southern Europe?",
+      "a": "The decline of feudalism shifted power to wealthy city-states, where rulers invested in art and architecture to show their power.",
+      "b": "The establishment of trade routes with Asia brought new materials and artistic ideas to Europe.",
+      "c": "The development of paper money allowed certain families to accumulate wealth and sponsor the arts.",
+      "d": "Increased urbanization created a demand for public works, leading cities to invest in art and architecture.",
+      "e": "The influx of gold and silver from the New World increased European wealth and provided funds for artistic patronage.",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Who won the competition to design the doors of the Florence baptistery in 1401?",
+      "a": "Michelangelo di Buonarotti",
+      "b": "Filippo Brunelleschi",
+      "c": "Giotto di Bondone",
+      "d": "Lorenzo Ghiberti",
+      "e": "Raphael Sanzio",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Which artistic innovation did Filippo Brunelleschi invent?",
+      "a": "chiaroscuro",
+      "b": "foreshortening",
+      "c": "linear perspective",
+      "d": "tenebrism",
+      "e": "sfumato",
+      "correct_answer": "c"
+    },
+    {
+      "question": "How did Donatello’s sculptures change throughout his lifetime?",
+      "a": "His sculptures grew more intricate.",
+      "b": "His sculptures increasingly focused on religious themes.",
+      "c": "His sculptures transitioned to a more Gothic style.",
+      "d": "His sculptures became more naturalistic.",
+      "e": "His sculptures incorporated more classical Roman elements.",
+      "correct_answer": "d"
+    },
+    {
+      "question": "The Birth of Venus presented an ideal representation of?",
+      "a": "physical strength",
+      "b": "inner peace",
+      "c": "female beauty",
+      "d": "moral integrity",
+      "e": "spiritual enlightenment",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Which of the following statements about Leonardo da Vinci is FALSE?",
+      "a": "His designs for locks are still used today.",
+      "b": "He developed aerial perspective.",
+      "c": "He was an inventor, architect, engineer, and painter.",
+      "d": "He created drawings of submarines and helicopters.",
+      "e": "He painted The Last Supper and the Mona Lisa.",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Michelangelo created all of the following artworks for Pope Julius II EXCEPT?",
+      "a": "Moses",
+      "b": "David",
+      "c": "The Dying Slave",
+      "d": "The Bound Slave",
+      "e": "the Sistine Ceiling",
+      "correct_answer": "b"
+    },
+    {
+      "question": "Giorgione, Titian Vecelli, and Tintoretto were all well-known artists from?",
+      "a": "Genoa",
+      "b": "Naples",
+      "c": "Venice",
+      "d": "Rome",
+      "e": "Florence",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Which style does Tintoretto’s art BEST exemplify?",
+      "a": "Mannerism",
+      "b": "Impressionism",
+      "c": "Neoclassicism",
+      "d": "Romanticism",
+      "e": "Rococo",
+      "correct_answer": "a"
+    },
+    {
+      "question": "Which of the following artists is MOST closely associated with the Counter-Reformation?",
+      "a": "El Greco",
+      "b": "Giorgione",
+      "c": "Caravaggio",
+      "d": "Rembrandt",
+      "e": "Tintoretto",
+      "correct_answer": "a"
+    },
+    {
+      "question": "How did new innovations set northern Renaissance artists apart from their southern counterparts?",
+      "a": "The printing press allowed artists to spread their ideas more quickly.",
+      "b": "Synthetic pigments allowed artists to utilize wider ranges of colors.",
+      "c": "Metal paint tubes allowed artists to store and transport paint easily.",
+      "d": "Oil paints allowed artists to create more detailed works.",
+      "e": "Canvases allowed artists to paint outdoors.",
+      "correct_answer": "d"
+    },
+    {
+      "question": "Matthias Grünewald is best known for his depictions of?",
+      "a": "historical battles",
+      "b": "noble families",
+      "c": "religious scenes",
+      "d": "natural landscapes",
+      "e": "domestic life",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Which of the following types of art did Albrecht Dürer most often create?",
+      "a": "paintings",
+      "b": "sculptures",
+      "c": "woodcuts",
+      "d": "architecture",
+      "e": "drawings",
+      "correct_answer": "c"
+    },
+    {
+      "question": "Hans Holbein served as the court painter for?",
+      "a": "Marie Antoinette",
+      "b": "King Philip II",
+      "c": "King Henry VIII",
+      "d": "Queen Elizabeth I",
+      "e": "King Louis XIV",
+      "correct_answer": "c"
+    }
+  ]
+}

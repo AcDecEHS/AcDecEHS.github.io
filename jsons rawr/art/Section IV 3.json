@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Where does Pierre Huyghe currently live?",
+    "a": "Berlin",
+    "b": "Tokyo",
+    "c": "New York City",
+    "d": "Paris",
+    "e": "London",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who commissioned The Third Memory?",
+    "a": "The New Museum",
+    "b": "The Renaissance Society",
+    "c": "The Dia Art Foundation",
+    "d": "The Mattress Factory",
+    "e": "The Wexner Center for the Arts",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which bank was the victim of the heist featured in The Third Memory?",
+    "a": "Citibank",
+    "b": "Capital One Bank",
+    "c": "Chase Bank",
+    "d": "First American Bank",
+    "e": "Bank of America",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which actor starred in the film that The Third Memory drew scenes from?",
+    "a": "Al Pacino",
+    "b": "James Earl Jones",
+    "c": "Robert DeNiro",
+    "d": "Julia Roberts",
+    "e": "Daniel Day-Lewis",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Where did Huyghe and Parreno first encounter the character Annlee?",
+    "a": "as an advertisement mascot",
+    "b": "in a Japanese children’s show",
+    "c": "in an art festival they both visited",
+    "d": "a mail-order catalog of characters",
+    "e": "in a manga from Parreno’s childhood",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How did No Ghost Just a Shell end?",
+    "a": "Huyghe and Parreno ended the tour of their work.",
+    "b": "Huyghe and Parreno sold the rights to the character.",
+    "c": "Huyghe and Parreno destroyed all copies of their work.",
+    "d": "Huyghe and Parreno were sued by the character’s original creator.",
+    "e": "Huyghe and Parreno stopped producing copies of their animation.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which book does Smile without a Cat reference?",
+    "a": "Charlotte’s Web",
+    "b": "Tom Sawyer",
+    "c": "The Jungle Book",
+    "d": "Alice in Wonderland",
+    "e": "Pinocchio",
+    "correct_answer": "d"
+  },
+  {
+    "question": "In which medium did Pierre Huyghe PRIMARILY practice in during the beginning of his career?",
+    "a": "film",
+    "b": "acrylics",
+    "c": "textiles",
+    "d": "sculpture",
+    "e": "engraving",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which feature of a biennial exhibition separates it from a traditional art fair?",
+    "a": "A biennial focuses specifically on sculpture.",
+    "b": "A biennial is held in a significant city in art history.",
+    "c": "The art is owned independently and not for sale.",
+    "d": "The art is created live, rather than in advance.",
+    "e": "A biennial is sponsored by an art academy.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following cities holds the most influential biennial exhibition?",
+    "a": "Kyoto",
+    "b": "Khulna",
+    "c": "Singapore",
+    "d": "Gwangju",
+    "e": "Kochi",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which historical event MOST directly contributed to the founding of the Kassel Documenta?",
+    "a": "the Great Depression",
+    "b": "the Russian Revolution",
+    "c": "the Cold War",
+    "d": "the fall of the Berlin Wall",
+    "e": "World War 2",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which challenge would a visitor to Untilled MOST likely face?",
+    "a": "The exhibit was entirely in Japanese.",
+    "b": "The exhibit required participation.",
+    "c": "The exhibit was difficult to find.",
+    "d": "The exhibit was poorly lit.",
+    "e": "The exhibit was only open briefly.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of the following elements was NOT a part of Untilled?",
+    "a": "an oak tree",
+    "b": "a live, white dog",
+    "c": "piles of concrete bricks",
+    "d": "a kettle drum",
+    "e": "a sculpture of a nude woman",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which element of Untilled was MOST consistent with Huyghe’s earlier work?",
+    "a": "its incorporation of digital art",
+    "b": "its focus on environmental activism",
+    "c": "its themes of death and rebirth",
+    "d": "its allusions to other artists",
+    "e": "its incorporation of work not made by the artist",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which artist was known for his pieces composed purely of found objects?",
+    "a": "Wassily Kandinsky",
+    "b": "Piet Mondrian",
+    "c": "Henri Matisse",
+    "d": "Pablo Picasso",
+    "e": "Marcel Duchamp",
+    "correct_answer": "e"
+  }
+]

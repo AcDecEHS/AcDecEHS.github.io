@@ -1,0 +1,272 @@
+[
+    {
+        "question": "Which of the following art processes is the MOST fundamental?",
+        "a": "mixed media",
+        "b": "printmaking",
+        "c": "drawing",
+        "d": "sculpture",
+        "e": "photography",
+        "correct_answer": "c"
+    },
+    {
+        "question": "What technique involves placing lines closely side by side to create shading?",
+        "a": "crosshatching",
+        "b": "outlining",
+        "c": "hatching",
+        "d": "blurring",
+        "e": "stippling",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which process involves incising a design through wax and onto a metal plate?",
+        "a": "engraving",
+        "b": "relief printmaking",
+        "c": "lithography",
+        "d": "etching",
+        "e": "screen printmaking",
+        "correct_answer": "d"
+    },
+    {
+        "question": "All of the following materials are sources of natural pigments EXCEPT",
+        "a": "minerals",
+        "b": "gemstones",
+        "c": "insects",
+        "d": "glass",
+        "e": "clays",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following paints do artists use to make impasto surfaces?",
+        "a": "oil",
+        "b": "acrylic",
+        "c": "encaustic",
+        "d": "tempera",
+        "e": "gouache",
+        "correct_answer": "a"
+    },
+    {
+        "question": "How did the development of photography affect other genres of art?",
+        "a": "It led to an overall decline in painting.",
+        "b": "It increased the value of representational painting.",
+        "c": "It prompted a shift towards sculpture and installation art.",
+        "d": "It caused artists to focus on depicting landscapes.",
+        "e": "It encouraged artists to explore less realistic art styles.",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following methods is NOT one of the four basic forms of sculpture?",
+        "a": "construction",
+        "b": "carving",
+        "c": "engraving",
+        "d": "modeling",
+        "e": "casting",
+        "correct_answer": "c"
+    },
+    {
+        "question": "To mobilize his sculptures, Alexander Calder used",
+        "a": "pulleys",
+        "b": "pumps",
+        "c": "motors",
+        "d": "wire",
+        "e": "ropes",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Who introduced collage into the high-art sphere?",
+        "a": "Matisse and Gauguin",
+        "b": "Kandinsky and Marc",
+        "c": "Cézanne and Pissarro",
+        "d": "Picasso and Braque",
+        "e": "Monet and Renoir",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following artists is known for mixed media pieces combining silkscreen and paint?",
+        "a": "Robert Rauschenberg",
+        "b": "Edgar Degas",
+        "c": "Willem de Kooning",
+        "d": "Joseph Cornell",
+        "e": "Ernst Ludwig Kirchner",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The Venus de Milo is a(n)",
+        "a": "freestanding sculpture",
+        "b": "installation piece",
+        "c": "fresco secco",
+        "d": "color field painting",
+        "e": "found object",
+        "correct_answer": "a"
+    },
+    {
+        "question": "What method involves combining found objects to create a new sculpture?",
+        "a": "dismantling",
+        "b": "disintegration",
+        "c": "fusion",
+        "d": "assemblage",
+        "e": "segregation",
+        "correct_answer": "d"
+    },
+    {
+        "question": "To create a cast form, the artist MOST often encases the original form in",
+        "a": "clay",
+        "b": "wax",
+        "c": "plaster",
+        "d": "resin",
+        "e": "concrete",
+        "correct_answer": "c"
+    },
+    {
+        "question": "One limitation of tempera painting is that it",
+        "a": "is less durable than other mediums",
+        "b": "requires extensive drying time",
+        "c": "cannot be blended once applied",
+        "d": "is not suitable for all surfaces",
+        "e": "cannot be applied in layers",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which painting technique involves colored molten wax?",
+        "a": "tempera",
+        "b": "gouache",
+        "c": "encaustic",
+        "d": "oil painting",
+        "e": "watercolor",
+        "correct_answer": "c"
+    },
+    {
+        "question": "How is performance art similar to environmental art?",
+        "a": "It prioritizes audience participation.",
+        "b": "It often incorporates natural materials.",
+        "c": "It emphasizes the relationship between art and its surroundings.",
+        "d": "It provides only a temporary experience for viewers.",
+        "e": "It addresses pressing political issues.",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Many artists believe performance art can serve as an escape from the growing",
+        "a": "limitations of traditional media",
+        "b": "pressures of artistic fame",
+        "c": "influence of art critics",
+        "d": "commercialization of art",
+        "e": "constraints of gallery exhibitions",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How do craft and folk art MOST strongly differ from other types of art?",
+        "a": "Craft and folk art are typically produced on a smaller scale.",
+        "b": "Craft and folk art are largely utilitarian in function.",
+        "c": "Craft and folk art are usually the work of amateurs.",
+        "d": "Craft and folk art frequently incorporate local materials.",
+        "e": "Craft and folk art often emphasize decorative elements.",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Artists typically use all of the following techniques to create pottery EXCEPT",
+        "a": "pinching the clay to form the outer walls",
+        "b": "shaping clay on a potter’s wheel",
+        "c": "rolling and stacking coils of clay",
+        "d": "carving and adjoining slabs of clay",
+        "e": "using plastic molds to shape the clay",
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which term describes pots created with a potter’s wheel?",
+        "a": "slipped",
+        "b": "shaped",
+        "c": "pinched",
+        "d": "thrown",
+        "e": "modeled",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How can adding colored glazes improve the properties of a ceramic pot?",
+        "a": "by protecting the pot from discoloration",
+        "b": "by forming a waterproof outer coating to protect the pot",
+        "c": "by enabling the adhesion of other decorative elements",
+        "d": "by adding an extra layer of insulation to the pot",
+        "e": "by increasing the friability of the clay material",
+        "correct_answer": "b"
+    },
+    {
+        "question": "Where was glass first invented?",
+        "a": "South America",
+        "b": "Western Europe",
+        "c": "East Asia",
+        "d": "the Middle East",
+        "e": "Northern Africa",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Before the nineteenth century, artists often used glass to create all of the following items EXCEPT",
+        "a": "drinking glasses",
+        "b": "vases",
+        "c": "perfume bottles",
+        "d": "lampshades",
+        "e": "windows",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Northwest Coast Indians MOST often carve traditional designs into",
+        "a": "metal",
+        "b": "ivory",
+        "c": "wood",
+        "d": "clay",
+        "e": "marble",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Architecture is BEST described as the",
+        "a": "craft of creating detailed blueprints",
+        "b": "application of sustainable building techniques",
+        "c": "practice of urban planning and development",
+        "d": "art and science of designing buildings",
+        "e": "study of ancient structures",
+        "correct_answer": "d"
+    },
+    {
+        "question": "Which of the following structures exemplifies post-and-lintel construction?",
+        "a": "the Roman Colosseum",
+        "b": "the Great Wall of China",
+        "c": "the Greek Parthenon",
+        "d": "Machu Picchu",
+        "e": "the Pyramids at Giza",
+        "correct_answer": "c"
+    },
+    {
+        "question": "Which civilization invented concrete?",
+        "a": "Persia",
+        "b": "Rome",
+        "c": "Egypt",
+        "d": "Greece",
+        "e": "China",
+        "correct_answer": "b"
+    },
+    {
+        "question": "How can flying buttresses improve the structural integrity of a building?",
+        "a": "by counterbalancing the outward thrust of high ceilings",
+        "b": "by reducing the overall weight of the roof structure",
+        "c": "by minimizing the impact of wind pressure on tall structures",
+        "d": "by providing additional support to load-bearing columns",
+        "e": "by reinforcing the foundation against seismic activity",
+        "correct_answer": "a"
+    },
+    {
+        "question": "The Crystal Palace PRIMARILY consisted of",
+        "a": "wood",
+        "b": "brick",
+        "c": "concrete",
+        "d": "glass",
+        "e": "aluminum",
+        "correct_answer": "d"
+    },
+    {
+        "question": "How does Antoni Gaudi’s architecture differ from conventional standards?",
+        "a": "His buildings are primarily constructed from synthetic materials.",
+        "b": "His buildings draw inspiration from industrial aesthetics.",
+        "c": "His buildings do not feature any flat surfaces or straight lines.",
+        "d": "His buildings are asymmetrical yet balanced in form.",
+        "e": "His buildings use only monochromatic color schemes.",
+        "correct_answer": "c"
+    }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Which branch of engineering did Banerjee study in India?",
+    "a": "chemical",
+    "b": "mechanical",
+    "c": "biomedical",
+    "d": "electrical",
+    "e": "aerospace",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which club did Banerjee join in New Mexico?",
+    "a": "Greenpeace",
+    "b": "Explorers Club",
+    "c": "Sierra Club",
+    "d": "Ocean Club",
+    "e": "Nature Conservation Club",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Where did Banerjee move after quitting Boeing?",
+    "a": "Montana",
+    "b": "California",
+    "c": "Alaska",
+    "d": "Maine",
+    "e": "Wyoming",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which of these statements about Alaskan drilling did politicians NOT make?",
+    "a": "Drilling will create more jobs and lower oil prices.",
+    "b": "Drilling will increase socioeconomic disparities.",
+    "c": "Drilling will have environmental repercussions.",
+    "d": "Drilling will make the United States less reliant on foreign support.",
+    "e": "Drilling will have negative repercussions for Indigenous people in the area.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which Banerjee book caught the attention of curators at the Smithsonian National Museum?",
+    "a": "Arctic Voices",
+    "b": "Species in Peril",
+    "c": "Routledge Companion",
+    "d": "Defending the Artic Refuge",
+    "e": "Arctic National Wildlife Refuge",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How did Banerjee’s work sway the Senate drilling debate?",
+    "a": "His work showed the potential for eco-tourism in the Arctic National Wildlife Refuge.",
+    "b": "His works depicted the beauty of the natural landscape.",
+    "c": "His photographs depicted the ecosystem’s resilience to industrial activities.",
+    "d": "His photographs showed evidence of wildlife in the Arctic National Wildlife Refuge.",
+    "e": "His pictures exposed the lack of local support for drilling.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which United States senator held up a copy of Banerjee’s book during the Arctic National Wildlife Refuge debate?",
+    "a": "Barbara Boxer",
+    "b": "Lisa Murkowski",
+    "c": "Frank Murkowski",
+    "d": "Ted Stevens",
+    "e": "Jim Talent",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which United States senator held up a blank white poster during the Arctic National Wildlife Refuge debate?",
+    "a": "Jim Talent",
+    "b": "Ted Stevens",
+    "c": "Frank Murkowski",
+    "d": "Lisa Murkowski",
+    "e": "Barbara Boxer",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What did President Biden’s Arctic National Wildlife Refuge executive order do?",
+    "a": "It reallocated funds to environmental protection causes.",
+    "b": "It expanded extraction activity in the area.",
+    "c": "It helped suspend oil and gas drilling in the area.",
+    "d": "It lifted previous restrictions on oil and gas extraction.",
+    "e": "It redirected funding from drilling to infrastructure.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "How much money did the federal government receive for selling drilling leases in the Arctic National Wildlife Refuge?",
+    "a": "$14.4 million",
+    "b": "$15.3 million",
+    "c": "$12.6 million",
+    "d": "$18.1 million",
+    "e": "$16.2 million",
+    "correct_answer": "a"
+  },
+  {
+    "question": "When did the federal government sell oil and gas leases in the Arctic National Wildlife Refuge?",
+    "a": "2020",
+    "b": "2021",
+    "c": "2018",
+    "d": "2017",
+    "e": "2022",
+    "correct_answer": "b"
+  },
+  {
+    "question": "What point does Caribou Migration I make?",
+    "a": "The Arctic National Wildlife Refuge should be used for more sustainable energy sources instead of drilling.",
+    "b": "The Arctic National Wildlife Refuge is a fragile ecosystem filled with various species.",
+    "c": "The Arctic National Wildlife Refuge should be preserved for tourism.",
+    "d": "The resident wildlife in Arctic National Wildlife Refuge needs human protection.",
+    "e": "The Arctic National Wildlife Refuge is a resilient ecosystem that can withstand human activity.",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Caribou Migration I uses",
+    "a": "parallel perspective",
+    "b": "linear perspective",
+    "c": "horizontal perspective",
+    "d": "one point perspective",
+    "e": "aerial perspective",
+    "correct_answer": "e"
+  },
+  {
+    "question": "On what species do the Indigenous Gwich’in population rely for sustenance?",
+    "a": "elk",
+    "b": "polar bear",
+    "c": "bison",
+    "d": "harbor seal",
+    "e": "caribou",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which sea borders ANWR?",
+    "a": "Ross Sea",
+    "b": "Kara Sea",
+    "c": "Labrador Sea",
+    "d": "Bering Sea",
+    "e": "Beaufort Sea",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Where was Vik Muniz born?",
+    "a": "Rio de Janeiro",
+    "b": "New York City",
+    "c": "Brasilia",
+    "d": "Los Angeles",
+    "e": "São Paulo",
+    "correct_answer": "e"
+  },
+  {
+    "question": "In which field did Vik Muniz originally work?",
+    "a": "sculpture",
+    "b": "web design",
+    "c": "photography",
+    "d": "journalism",
+    "e": "advertising",
+    "correct_answer": "e"
+  },
+  {
+    "question": "For what is Vik Muniz best known?",
+    "a": "recreating famous artworks using unconventional materials",
+    "b": "making abstract paintings that applied the principles of photography",
+    "c": "photographing the catadores of Brazil",
+    "d": "applying the ready-made concept to create unique pieces",
+    "e": "creating art pieces that mixed photography, painting, and sculpture",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Of which series is Vik Muniz’s Double Mona Lisa a part?",
+    "a": "\"The Best of Life\"",
+    "b": "\"Pictures of Garbage\"",
+    "c": "\"After Warhol\"",
+    "d": "\"Marat (Sebastiao)\"",
+    "e": "\"Perfect Strangers\"",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What material did Vik Muniz use in Action Photo, after Hans Namuth?",
+    "a": "chocolate syrup",
+    "b": "tin foil",
+    "c": "cigarettes",
+    "d": "strawberry jam",
+    "e": "garbage",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What does the chocolate syrup used in Action Photo, after Hans Namuth mimic?",
+    "a": "the liquid quality of Pollock’s poured paint",
+    "b": "the fluidity of Pollock’s action paintings",
+    "c": "the overly precious quality of Namuth’s works",
+    "d": "the subject matter that is depicted of pieces by Namuth",
+    "e": "the hectic quality of Namuth’s paintings",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What does \"The Best of Life\" series depict?",
+    "a": "paintings depicting celebrities included in Life",
+    "b": "photographs of different issues of Life",
+    "c": "sketches of famous photographs from Life",
+    "d": "collages made from snippets of Life",
+    "e": "collections of famous headlines from Life",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which piece did Vik Muniz NOT include in his \"The Best of Life\" series?",
+    "a": "Man on the Moon",
+    "b": "Man Stopping Tank in Beijing",
+    "c": "JFK Jr. Saluting His Father’s Coffin",
+    "d": "Land Mark (Foot Prints)",
+    "e": "Kiss at Times Square",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What are the subjects of Vik Muniz’s \"Pictures of Garbage\" series?",
+    "a": "piles of trash throughout Brazil",
+    "b": "trash collectors in rural parts of Brazil",
+    "c": "garbage pickers in Jardim Gramacho",
+    "d": "polluted areas in Rio de Janeiro",
+    "e": "homeless children in Sao Paulo",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Where is Jardim Gramacho located?",
+    "a": "Fortaleza",
+    "b": "Brasilia",
+    "c": "Rio de Janeiro",
+    "d": "São Paulo",
+    "e": "Salvador",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who created the film Waste Land?",
+    "a": "Vik Muniz",
+    "b": "David Lynch",
+    "c": "Penelope Bartlett",
+    "d": "Noah Purifoy",
+    "e": "Lucy Walker",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What term describes the garbage pickers of Brazil?",
+    "a": "pollitos",
+    "b": "catadores",
+    "c": "mendigas",
+    "d": "desabrigados",
+    "e": "oberas",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which painting does Marat (Sebastiao) mimic?",
+    "a": "Lucien-Etienne Melingue’s Marat",
+    "b": "Jacques-Louis David’s Death of Marat",
+    "c": "Jean-Joseph Weerts’s The Assassination of Marat",
+    "d": "Paul-Jacques-Aime Baudry’s The Assassination of Marat, Charlotte Corday",
+    "e": "Guillaume-Joseph Roques’s The Death of Marat",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The \"Picture of Garbage\" series imitates works by all of the following artists EXCEPT",
+    "a": "Millet",
+    "b": "Picasso",
+    "c": "Goya",
+    "d": "Caravaggio",
+    "e": "di ser Piero da Vinci",
+    "correct_answer": "e"
+  },
+  {
+    "question": "What has NOT been a positive of the \"Pictures of Garbage\" series and the film Waste Lands?",
+    "a": "They have helped reduce waste accumulation in Brazil.",
+    "b": "They have raised awareness of the condition of catadores in Brazil.",
+    "c": "They have raised awareness of the global need to reuse and recycle waste.",
+    "d": "They have provided payment for the catadores involved in the project.",
+    "e": "They have raised questions on the ethics and real-world impact of environmental artworks.",
+    "correct_answer": "a"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Where was Layota Ruby Frazier born?",
+    "a": "New York",
+    "b": "Ohio",
+    "c": "West Virginia",
+    "d": "Pennsylvania",
+    "e": "Maryland",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which university did Layota Ruby Frazier attend?",
+    "a": "Carnegie Mellon University",
+    "b": "Cornell University",
+    "c": "Edinboro University",
+    "d": "Columbia University",
+    "e": "Johns Hopkins University",
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Rust Belt is named for",
+    "a": "a period of sharp economic downturn",
+    "b": "its thriving industrial sector",
+    "c": "its humid climate conducive to rust",
+    "d": "a famous poem written about the region",
+    "e": "its reddish-brown soil",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Where does Layota Ruby Frazier now work?",
+    "a": "Brown University",
+    "b": "Boston University",
+    "c": "Tufts University",
+    "d": "The Art Institute of Chicago",
+    "e": "Columbia University",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which artist does Layota Ruby Frazier cite as an inspiration for her Flint is Family in Three Acts series?",
+    "a": "Kathe Kowalski",
+    "b": "Julia Margaret Cameron",
+    "c": "Gordon Parks",
+    "d": "Edgar Thomson",
+    "e": "Carrie Mae Weems",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What mineral is used in the daguerreotype process?",
+    "a": "aluminum",
+    "b": "platinum",
+    "c": "zinc",
+    "d": "silver",
+    "e": "gold",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How does Frazier’s A Notion of Family series defy traditional notions of family albums?",
+    "a": "It focuses on found rather than biological family.",
+    "b": "It photographed subjects one at a time rather than using group shots.",
+    "c": "It critiques border systemic issues.",
+    "d": "It condemns the idea of a nuclear family.",
+    "e": "It shows a stark divide between generations.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "By what percent did the population of Braddock, PA decline following the closure of the steel mill?",
+    "a": "75%",
+    "b": "50%",
+    "c": "30%",
+    "d": "60%",
+    "e": "90%",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How does Frazier’s A Notion of Family series differ from the Great Depression photographs of Arthur Rothstein?",
+    "a": "Frazier’s images are starker.",
+    "b": "Rothstein’s photos have fewer background details.",
+    "c": "Frazier’s images are in color.",
+    "d": "Frazier sought permission from subjects.",
+    "e": "Rothstein photographed only men.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following photographers was included in the Family of Man exhibition?",
+    "a": "Gordon Parks",
+    "b": "Dorothea Lange",
+    "c": "Kathe Kowalski",
+    "d": "Arthur Rothstein",
+    "e": "Layota Ruby Frazier",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which body of water supplied Flint’s drinking water before 2014?",
+    "a": "Lake Huron",
+    "b": "Lake Superior",
+    "c": "Lake Eerie",
+    "d": "Lake Ontario",
+    "e": "Lake Michigan",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Why was Flint’s water dangerous to residents?",
+    "a": "pesticide contamination",
+    "b": "poor sanitation",
+    "c": "mercury pollution",
+    "d": "radioactivity",
+    "e": "high lead content",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Where is the Cobb family ancestral home located?",
+    "a": "Louisiana",
+    "b": "Georgia",
+    "c": "Alabama",
+    "d": "Mississippi",
+    "e": "South Carolina",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How does Act III of Flint is Family differ from the other two?",
+    "a": "It follows a different local family.",
+    "b": "It takes place outside of Michigan.",
+    "c": "It only has photographs of children.",
+    "d": "It contains far larger photos.",
+    "e": "It is in color.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "How were funds from Flint is Family used to help the people of Flint?",
+    "a": "They were put towards lobbying efforts in the state of Michigan.",
+    "b": "They allowed safer ceramic pipes to replace lead pipes.",
+    "c": "They paid for lawyers to sue the government for negligence resulting in the lead crisis.",
+    "d": "They helped purchase an atmospheric water generator for safer drinking water.",
+    "e": "They funded nationwide advertisements raising awareness about Flint.",
+    "correct_answer": "d"
+  }
+]
