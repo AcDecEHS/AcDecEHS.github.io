@@ -36,6 +36,7 @@ button:hover {
 .topbar {
     width: 100%;
     padding: 16px;
+    padding-bottom: 0;
 }
 .dropdown {
     width: 100px;
@@ -83,7 +84,8 @@ button:hover {
 .content {
     width: 80%;
     min-height: 500px;
-    padding: 15px;
+    padding: 16px;
+    padding-top: 0;
     margin: 5px 0 5px 0;
     border-width: 0px;
     overflow: auto;

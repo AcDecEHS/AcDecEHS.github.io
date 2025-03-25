@@ -8,10 +8,10 @@
     </head>
     <body>
         <div class="topbar">
-            <h2>Englewood High School Academic Decathlon center :)</h2>
+            <h2 style="padding-bottom: 16px;">Englewood High School Academic Decathlon center :)</h2>
             <a onclick="loadContent('main');" target="content"><button class="buttonnav">Home</button></a>
             <button class="dropdown">
-                Quizzes v
+                <a>STUDY v</a>
                 <div class="dropdowncontent">
                     <div onclick="loadContent('artquiz');" class="dropdownbutton"><p>Art</p></div>
                     <div onclick="loadContent('litquiz');" class="dropdownbutton"><p>Literature</p></div>
@@ -24,18 +24,18 @@
         </div>
         <div class="dynamicness">
             <div id="content" class="content">
-                <object type="text/html" data="main.html" ></object>
+                <object type="text/html" data="main.html"></object>
             </div>
             <div class="sidebar" style="position: relative;">
-                <div class="updates" style="position: absolute; bottom: 0; height: 150px; width: 100%;">
+                <div class="updates" style="position: absolute; bottom: 0; height: 150px; width: 100%; list-style: none;">
                     <h5>Updates</h5>
                     <li><h6>New theme :3</h6></li>
                 </div>
             </div>
         </div>
         <div class="bottombar">
-            <a style="float:right;" onclick="loadContent('about');"><button class="full">About</button></a>
-            <button id="switcher" onclick="cycleTheme();">Cycle theme (not done)</button>
+            <a onclick="loadContent('about');" target="content"><button class="buttonnav" style="float: right;">About</button></a>
+            <button id="switcher" onclick="cycleTheme();" class="buttonnav">Cycle theme (not done)</button>
         </div>
     </body>
 </html>

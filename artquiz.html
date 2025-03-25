@@ -1,143 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="iframestyles.css">
-<title>Quiz</title>
-<style>
-    .quiz-container {
-        max-width: 600px;
-        margin: auto;
-    }
-    .question {
-        margin-bottom: 20px;
-    }
-</style>
-</head>
-<body>
-<h1 style="margin-left: 20%;"><u>Art</u></h1>
-<div class="quiz-container">
-    <label for="quiz-select">Choose a Quiz:</label>
-    <select id="quiz-select" onchange="loadQuiz()">
-        <option value="">Select a Quiz</option>
-        <option value="../../jsons rawr/art/Section I Intro.json">Section I Intro (6-12)</option>
-        <option value="../../jsons rawr/art/Section I 1.json">Section I 1 (13-21)</option>
-        <option value="../../jsons rawr/art/Section I 2.json">Section I 2 (21-25)</option>
-        <option value="../../jsons rawr/art/Section I 3.json">Section I 3 (25-30)</option>
-        <option value="../../jsons rawr/art/Section I 4.json">Section I 4 (30-39)</option>
-        <option value="../../jsons rawr/art/Section I 5.json">Section I 5 (40-46)</option>
-        <option value="../../jsons rawr/art/Section I Outro.json">Section I Outro</option>
-        <option value="../../jsons rawr/art/Section II Intro.json">Section II Intro (48-49)</option>
-        <option value="../../jsons rawr/art/Section II 1.json">Section II 1 (49-53)</option>
-        <option value="../../jsons rawr/art/Section II 2.json">Section II 2 (54-58)</option>
-        <option value="../../jsons rawr/art/Section II Outro.json">Section II outro (58-59)</option>
-        <option value="../../jsons rawr/art/Section III 1.json">Section III 1 (60-65)</option>
-        <option value="../../jsons rawr/art/Section III 2.json">Section III 2 (66-70)</option>
-        <option value="../../jsons rawr/art/Section III Outro.json">Section III Outro (70-71)</option>
-        <option value="../../jsons rawr/art/Section IV 1.json">Section IV 1 (73-78)</option>
-        <option value="../../jsons rawr/art/Section IV 2.json">Section IV 2 (78-83)</option>
-        <option value="../../jsons rawr/art/Section IV 3.json">Section IV 3 (83-85)</option>
-        <option value="../../jsons rawr/art/Section IV Outro.json">Section IV Outro (86-87)</option>
-        <option value="../../jsons rawr/art/Section V 1.json">Section V 1 (88-94)</option>
-        <option value="../../jsons rawr/art/Section V 2.json">Section V 2 (94-99)</option>
-        <option value="../../jsons rawr/art/Section V 3.json">Section V 3 (99-102)</option>
-        <option value="../../jsons rawr/art/Section V Outro.json">Section V Outro (102-104)</option>
-        <option value="../../jsons rawr/art/Glossary.json">Glossary (108-109)</option>
-        <option value="../../jsons rawr/art/Timeline.json">Timeline (106-107)</option>
-        <option value="../../jsons rawr/art/Art Reproductions 1.json">Art Reproductions 1 (5-16)</option>
-        <option value="../../jsons rawr/art/Art Reproductions 2.json">Art Reproductions 2 (17-22)</option>
-        <!-- more quizzes ;p -->
-    </select>
-    <div class="question" id="question"></div>
-    <div id="options"></div>
-    <button onclick="checkAnswer()">Submit Answer</button>
-    <p id="result"></p>
-    <p id="score"></p>
-</div>
-
-<script>
-let questions;
-let currentQuestion = 0;
-let correctAnswers = 0;
-const questionElement = document.getElementById('question');
-const optionsElement = document.getElementById('options');
-const resultElement = document.getElementById('result');
-const scoreElement = document.getElementById('score');
-
-function loadQuiz() {
-    const select = document.getElementById('quiz-select');
-    const selectedQuiz = select.options[select.selectedIndex].value;
-
-    if (!selectedQuiz) return;
-
-    fetch(selectedQuiz)
-        .then(response => response.json())
-        .then(data => {
-            questions = data;
-            currentQuestion = 0;
-            correctAnswers = 0;
-            loadQuestion();
-        })
-        .catch(error => {
-            console.error('Error loading quiz:', error);
-        });
-}
-
-function shuffleArray(array) {
-    for (let i = array.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [array[i], array[j]] = [array[j], array[i]];
-    }
-}
-
-function loadQuestion() {
-    const question = questions[currentQuestion];
-    questionElement.textContent = question.question;
-
-    const answerOptions = [];
-    for (let option in question) {
-        if (option !== 'question' && option !== 'correct_answer') {
-            answerOptions.push({ key: option, value: question[option] });
-        }
-    }
-    shuffleArray(answerOptions);
-
-    optionsElement.innerHTML = '';
-
-    answerOptions.forEach(option => {
-        const label = document.createElement('label');
-        label.innerHTML = `<input type="radio" name="answer" value="${option.key}"> ${option.value} <br>`;
-        optionsElement.appendChild(label);
-    });
-}
-
-function checkAnswer() {
-    const selectedOption = document.querySelector('input[name="answer"]:checked');
-    if (!selectedOption) {
-        resultElement.textContent = 'Please select an answer.';
-        return;
-    }
-
-    const userAnswer = selectedOption.value;
-    const correctAnswer = questions[currentQuestion].correct_answer;
-
-    if (userAnswer === correctAnswer) {
-        resultElement.textContent = 'Correct!';
-        correctAnswers++;
-    } else {
-        resultElement.textContent = 'Wrong! The correct answer is ' + questions[currentQuestion][correctAnswer];
-    }
-
-    currentQuestion++;
-    if (currentQuestion < questions.length) {
-        loadQuestion();
-    } else {
-        resultElement.textContent += ' End of Quiz.';
-        scoreElement.textContent = `You got ${correctAnswers} out of ${questions.length} questions correct.`;
-    }
-}
-</script>
-
-</body>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="assets/styles/styleiframe.css">
+    </head>
+    <body>
+        <h1><u>Art</u></h1>
+        <label for="quiz-select">Choose a Quiz:</label>
+        <select id="quiz-select" onchange="loadQuiz()">
+            <option value="">Select quiz</option>
+            <option value="../../jsons rawr/art/Section I Intro.json">Section I Intro (6-12)</option>
+            <option value="../../jsons rawr/art/Section I 1.json">Section I 1 (13-21)</option>
+            <option value="../../jsons rawr/art/Section I 2.json">Section I 2 (21-25)</option>
+            <option value="../../jsons rawr/art/Section I 3.json">Section I 3 (25-30)</option>
+            <option value="../../jsons rawr/art/Section I 4.json">Section I 4 (30-39)</option>
+            <option value="../../jsons rawr/art/Section I 5.json">Section I 5 (40-46)</option>
+            <option value="../../jsons rawr/art/Section I Outro.json">Section I Outro</option>
+            <option value="../../jsons rawr/art/Section II Intro.json">Section II Intro (48-49)</option>
+            <option value="../../jsons rawr/art/Section II 1.json">Section II 1 (49-53)</option>
+            <option value="../../jsons rawr/art/Section II 2.json">Section II 2 (54-58)</option>
+            <option value="../../jsons rawr/art/Section II Outro.json">Section II outro (58-59)</option>
+            <option value="../../jsons rawr/art/Section III 1.json">Section III 1 (60-65)</option>
+            <option value="../../jsons rawr/art/Section III 2.json">Section III 2 (66-70)</option>
+            <option value="../../jsons rawr/art/Section III Outro.json">Section III Outro (70-71)</option>
+            <option value="../../jsons rawr/art/Section IV 1.json">Section IV 1 (73-78)</option>
+            <option value="../../jsons rawr/art/Section IV 2.json">Section IV 2 (78-83)</option>
+            <option value="../../jsons rawr/art/Section IV 3.json">Section IV 3 (83-85)</option>
+            <option value="../../jsons rawr/art/Section IV Outro.json">Section IV Outro (86-87)</option>
+            <option value="../../jsons rawr/art/Section V 1.json">Section V 1 (88-94)</option>
+            <option value="../../jsons rawr/art/Section V 2.json">Section V 2 (94-99)</option>
+            <option value="../../jsons rawr/art/Section V 3.json">Section V 3 (99-102)</option>
+            <option value="../../jsons rawr/art/Section V Outro.json">Section V Outro (102-104)</option>
+            <option value="../../jsons rawr/art/Glossary.json">Glossary (108-109)</option>
+            <option value="../../jsons rawr/art/Timeline.json">Timeline (106-107)</option>
+            <option value="../../jsons rawr/art/Art Reproductions 1.json">Art Reproductions 1 (5-16)</option>
+            <option value="../../jsons rawr/art/Art Reproductions 2.json">Art Reproductions 2 (17-22)</option>
+            <!-- more quizzes ;p -->
+        </select>
+        <div class="question" id="question" style="margin-bottom: 20px;"></div>
+        <div id="options"></div>
+        <button onclick="checkAnswer()" style="margin-top: 20px;">Submit Answer</button>
+        <p id="result"></p>
+        <p id="score"></p>
+        <script src="assets/scripts/meow.js"></script>
+    </body>
 </html>
