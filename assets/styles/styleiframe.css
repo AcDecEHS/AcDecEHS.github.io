@@ -1,0 +1,7 @@
+@font-face {
+    font-family: basiic;
+    src: url("../../basiic.ttf");
+}
+* {
+    font-family: basiic;
+}

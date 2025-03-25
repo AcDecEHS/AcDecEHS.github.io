@@ -1,0 +1,131 @@
+/* basic coloring, basic sizing, font */
+* {
+    padding: 0;
+    margin: 0;
+    font-family: basiic;
+}
+html {
+    background-color: #eff1f5;
+}
+body {
+    max-width: 800px;
+    background-color: #eff1f5;
+    margin: auto;
+}
+
+
+@font-face {
+    font-family: basiic;
+    src: url("../../basiic.ttf");
+}
+a {
+    text-decoration: none;
+}
+p {
+    font-size: larger;
+}
+
+
+
+/* nav and structure things */
+
+button:hover {
+    background: #dee0e4;
+}
+
+.topbar {
+    width: 100%;
+    padding: 16px;
+}
+.dropdown {
+    width: 100px;
+    height: 30px;
+    background-color: #eff1f5;
+    border-color: #dee0e4;
+    border-style: solid;
+    border-top-width: 0px;border-bottom-width: 0px;
+}
+.buttonnav {
+    width: 100px;
+    height: 30px;
+    background-color: #eff1f5;
+    border-color: #dee0e4;
+    border-style: solid;
+    border-top-width: 0px;border-bottom-width: 0px;
+}
+.dropdowncontent {
+    display: none;
+    position: fixed;
+    width: 100px;
+    background-color: #eff1f5;
+    
+}
+.dropdown:hover .dropdowncontent {
+    display: block;
+}
+.dropdowncontent p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-style: solid;
+    border-color: #dee0e4;
+    border-top-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+}
+.dropdowncontent p:hover {
+    background-color: #dee0e4;
+}
+
+.dynamicness {
+    display: flex;
+    flex-direction: row;
+}
+.content {
+    width: 80%;
+    min-height: 500px;
+    padding: 15px;
+    margin: 5px 0 5px 0;
+    border-width: 0px;
+    overflow: auto;
+}
+.sidebar {
+    width: 20%;
+}
+object {
+    border-style: none;
+    display:block;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+/* quiz stuff :P */
+
+.quiz-container {
+    max-width: auto;
+    margin: auto;
+}
+.question {
+    margin-bottom: auto;
+}
+
+
+
+/* for mobile >~< */
+
+@media only screen and (max-width: 800px) {
+body {
+    flex-direction: column-reverse;
+}
+object  {
+    margin: auto;
+    height: 600px;
+}
+.sidebar {
+    width: 100%;
+}
+}
+.full {
+    height: 50px;
+}

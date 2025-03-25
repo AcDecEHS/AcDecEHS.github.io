@@ -4,20 +4,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="iframestyles.css">
+<link rel="stylesheet" href="assets/styles/iframestyles.css">
 <title>Quiz</title>
-<style>
-    .quiz-container {
-        max-width: 600px;
-        margin: auto;
-    }
-    .question {
-        margin-bottom: 20px;
-    }
-</style>
 </head>
 <body>
-<h1 style="margin-left: 20%;"><u>Literature</u></h1>
+<h2><b>Literature</b></h2>
 <div class="quiz-container">
     <label for="quiz-select">Choose a Quiz:</label>
     <select id="quiz-select" onchange="loadQuiz()">
@@ -28,7 +19,6 @@
         <option value="../../jsons rawr/Novel/Novel 4.json">Novel 4 Ch 12-16</option>
         <option value="../../jsons rawr/Novel/Novel 5.json">Novel 5 Ch 17-18</option>
         <option value="../../jsons rawr/Novel/Novel 6.json">Novel 6 Ch 19-21</option>
-        <!-- Add more options for other quizzes -->
     </select>
     <div class="question" id="question"></div>
     <div id="options"></div>
