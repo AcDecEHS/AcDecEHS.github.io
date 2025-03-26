@@ -2,26 +2,40 @@
 <html>
     <head>
         <title>AcDec EHS Homepage</title>
-        <link rel="stylesheet" href="styles.css">
-        <link rel="icon" type="image/x-icon" href="PirateLogo.ico">
+        <script src="assets/scripts/meow.js"></script>
+        <link id="theme" rel="stylesheet" href="assets/styles/styles.css">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
-        <div class="sidebar">
-            <h1>>ehs acdec study website</h1>
-            <a href="main.html" target="content"><button class="full">Home</button></a>
-            <p>>Subjects</p>
-            <li><a href="artquiz.html" target="content"><button class="full">Art</button></a></li>
-            <li><a href="litquiz.html" target="content"><button class="full">Literature</button></a></li>
-            <li><a href="home.html" target="content"><button class="full">Music</button></a></li>
-            <li><a href="home.html" target="content"><button class="full">Science</button></a></li>
-            <li><a href="socsciquiz.html" target="content"><button class="full">Social Science</button></a></li>
-            <li><a href="economicsquiz.html" target="content"><button class="full">Economics</button></a></li>
-            <p>>extras</p>
-            <a href="about.html" target="content"><button class="full">About</button></a>
+        <div class="topbar">
+            <h2 style="padding-bottom: 16px;">Englewood High School Academic Decathlon center :)</h2>
+            <a onclick="loadContent('main');" target="content"><button class="buttonnav">Home</button></a>
+            <button class="dropdown">
+                <a>STUDY v</a>
+                <div class="dropdowncontent">
+                    <div onclick="loadContent('artquiz');" class="dropdownbutton"><p>Art</p></div>
+                    <div onclick="loadContent('litquiz');" class="dropdownbutton"><p>Literature</p></div>
+                    <div onclick="loadContent('musicquiz');" class="dropdownbutton"><p>Music</p></div>
+                    <div onclick="loadContent('sciencequiz');" class="dropdownbutton"><p>Science</p></div>
+                    <div onclick="loadContent('socsciquiz');" class="dropdownbutton"><p>Social Science</p></div>
+                    <div onclick="loadContent('economicsquiz');" class="dropdownbutton"><p>Economics</p></div>
+                </div>
+            </div>
         </div>
-        <div class="content">
-            <iframe name="content" src="main.html"></iframe>
+        <div class="dynamicness">
+            <div id="content" class="content">
+                <object type="text/html" data="main.html"></object>
+            </div>
+            <div class="sidebar" style="position: relative;">
+                <div class="updates" style="position: absolute; bottom: 0; height: 150px; width: 100%; list-style: none;">
+                    <h5>Updates</h5>
+                    <li><h6>New theme :3</h6></li>
+                </div>
+            </div>
+        </div>
+        <div class="bottombar">
+            <a onclick="loadContent('about');" target="content"><button class="buttonnav" style="float: right;">About</button></a>
+            <button id="switcher" onclick="cycleTheme();" class="buttonnav">Cycle theme (not done)</button>
         </div>
     </body>
 </html>

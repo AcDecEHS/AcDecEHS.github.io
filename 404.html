@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            * {
+                padding: 0;
+                margin: 0;
+                font-family: basiic;
+                color: #ffffff;
+            }
+            @font-face {
+                font-family: basiic;
+                src: url(basiic.ttf);
+            }
+            html {
+                background-color: #483f7f;
+            }
+
+            @keyframes pan {
+                from {
+                    background-position: 0px 0px;
+                }
+                to {
+                    background-position: -64px 64px;
+                }
+            }
+            .background {
+                position: absolute;
+                background-image: url(assets/images/titlebackground.png);
+                animation: pan 3s linear infinite;
+                background-size: 64px;
+                background-repeat: repeat;
+                left: 0;
+                right: 0;
+                height: 100%;
+                width: 100%;
+                opacity: 40%;
+            }
+            .foreground {
+                position: absolute;
+                height: 100%;
+                width: 100%;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="background"></div>
+        <div class="foreground">
+            <h1 style="font-size: 256px;">404.</h1>
+            <h1>THE PAGE YOU ARE TRYING TO ACCESS DOES NOT EXIST</h1>
+        </div>
+    </body>
+</html>
