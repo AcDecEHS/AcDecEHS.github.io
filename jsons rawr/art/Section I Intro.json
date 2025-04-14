@@ -1,274 +1,272 @@
-{
-  "questions": [
-    {
-      "question": "Art historians will generally focus on all of the following contexts of an artwork EXCEPT",
-      "a": "cultural",
-      "b": "social",
-      "c": "historical",
-      "d": "logical",
-      "e": "economic",
-      "correct_answer": "d"
-    },
-    {
-      "question": "What is aesthetics?",
-      "a": "an inquiry into the value of an artwork",
-      "b": "a method of understanding art through contextual information",
-      "c": "a study of humanity concerned with human culture and society",
-      "d": "a philosophical inquiry into the nature and expression of beauty",
-      "e": "the classification of artistic styles",
-      "correct_answer": "d"
-    },
-    {
-      "question": "Which of the following fields is NOT considered fine art?",
-      "a": "printing",
-      "b": "pottery",
-      "c": "painting",
-      "d": "architecture",
-      "e": "drawing",
-      "correct_answer": "b"
-    },
-    {
-      "question": "Which branch of analysis focuses on the visual qualities of the artwork itself?",
-      "a": "biographical analysis",
-      "b": "formal analysis",
-      "c": "sensory analysis",
-      "d": "critical analysis",
-      "e": "aesthetic analysis",
-      "correct_answer": "b"
-    },
-    {
-      "question": "When performing contextual analysis, art historians will generally NOT examine",
-      "a": "patronage and ownership",
-      "b": "other artworks during the era",
-      "c": "cost of the artwork",
-      "d": "the use of space in the painting",
-      "e": "viewer access",
-      "correct_answer": "d"
-    },
-    {
-      "question": "When did art history arise as an academic discipline?",
-      "a": "20th century",
-      "b": "1st century",
-      "c": "16th century",
-      "d": "18th century",
-      "e": "9th century",
-      "correct_answer": "d"
-    },
-    {
-      "question": "Which of the following art historians shifted away from individual biographical analysis to a study of stylistic developments?",
-      "a": "Giorgio Vasari",
-      "b": "Pliny the Elder",
-      "c": "Johann Winckelmann",
-      "d": "Robert Smithson",
-      "e": "Michael Heizer",
-      "correct_answer": "c"
-    },
-    {
-      "question": "For what is Giorgio Vasari MOST famous?",
-      "a": "restoring Greco-Roman art",
-      "b": "writing the first art criticism",
-      "c": "gathering biographies of great Italian artists",
-      "d": "contributing to color theory",
-      "e": "expanding the scope of art history",
-      "correct_answer": "c"
-    },
-    {
-      "question": "From where did Pliny the Elder come?",
-      "a": "ancient Greece",
-      "b": "post-war U.S.",
-      "c": "modern France",
-      "d": "ancient Rome",
-      "e": "medieval England",
-      "correct_answer": "d"
-    },
-    {
-      "question": "Who contributed to the developing concept of artistic genius?",
-      "a": "Petrine Archer-Straw",
-      "b": "Franz Kugler",
-      "c": "Raphael Sanzio",
-      "d": "Giorgio Vasari",
-      "e": "Alfred Sisley",
-      "correct_answer": "d"
-    },
-    {
-      "question": "The meaning of a work of art is NOT",
-      "a": "dependent on where the artwork is located",
-      "b": "subject to change over time",
-      "c": "revealed through the visual aspects of the piece",
-      "d": "defined purely by the artist’s intention",
-      "e": "open to different interpretations",
-      "correct_answer": "d"
-    },
-    {
-      "question": "What is a reason art historians might depend on reproductions?",
-      "a": "Original artworks are too valuable to use for studying art history.",
-      "b": "Reproductions are more detailed than originals.",
-      "c": "Reproductions are more popular with the general public.",
-      "d": "Original artworks are damaged or lost.",
-      "e": "Reproductions are easier to study with computerized tools.",
-      "correct_answer": "d"
-    },
-    {
-      "question": "How has the practice of art history changed MOST over the years?",
-      "a": "It has eliminated bias from most forms of criticism.",
-      "b": "It has incorporated more technical analysis.",
-      "c": "It has encompassed a wider variety of art.",
-      "d": "It has become more concerned with the economic aspects of art.",
-      "e": "It has largely ceased to focus on aesthetics.",
-      "correct_answer": "c"
-    },
-    {
-      "question": "What is an example of a previously dismissed craft that art historians might now include in their studies?",
-      "a": "film",
-      "b": "textiles",
-      "c": "television shows",
-      "d": "architecture",
-      "e": "posters",
-      "correct_answer": "b"
-    },
-    {
-      "question": "Who commissioned the paintings on the ceiling of the Sistine Chapel?",
-      "a": "Louis XI",
-      "b": "the House of Wessex",
-      "c": "Ivan III",
-      "d": "the House of Medici",
-      "e": "Pope Julius II",
-      "correct_answer": "e"
-    },
-    {
-      "question": "Johann Joachim Winckelmann shifted away from Giorgio Vasari’s biographical emphasis, instead focusing on",
-      "a": "subject matter",
-      "b": "stylistic development",
-      "c": "aesthetic appreciation",
-      "d": "historical context",
-      "e": "cultural influence",
-      "correct_answer": "b"
-    },
-    {
-      "question": "Which northern African country's burial customs and dry climate facilitated the preservation of delicate materials?",
-      "a": "Libya",
-      "b": "Algeria",
-      "c": "Morocco",
-      "d": "Sudan",
-      "e": "Egypt",
-      "correct_answer": "e"
-    },
-    {
-      "question": "Which material was primarily used to create the cave paintings found in Chauvet Cave?",
-      "a": "yellow ochre",
-      "b": "green pigments",
-      "c": "blue ink",
-      "d": "red ochre",
-      "e": "white chalk",
-      "correct_answer": "d"
-    },
-    {
-      "question": "Which of the following styles does Ancient Egyptian art MOST emphasize?",
-      "a": "symmetry",
-      "b": "linear perspective",
-      "c": "hierarchical scale",
-      "d": "realism",
-      "e": "geometric precision",
-      "correct_answer": "c"
-    },
-    {
-      "question": "King Tutankhamun’s burial mask is made of gold and adorned with",
-      "a": "sapphires",
-      "b": "rubies",
-      "c": "ivory",
-      "d": "coral",
-      "e": "blue glass",
-      "correct_answer": "e"
-    },
-    {
-      "question": "The Persian Empire was based in what is present-day",
-      "a": "Iraq",
-      "b": "Armenia",
-      "c": "Iran",
-      "d": "Afghanistan",
-      "e": "Turkey",
-      "correct_answer": "c"
-    },
-    {
-      "question": "Who centralized power in the ancient Babylonian civilization and created the oldest known legal code?",
-      "a": "Hammurabi",
-      "b": "Sargon",
-      "c": "Akurduana",
-      "d": "Nabopolassar",
-      "e": "Gilgamesh",
-      "correct_answer": "a"
-    },
-    {
-      "question": "Which ancient Mesopotamian architectural development resulted in the creation of ziggurats?",
-      "a": "floating gardens",
-      "b": "wall enclosures",
-      "c": "underground chambers",
-      "d": "platform structures",
-      "e": "tented structures",
-      "correct_answer": "d"
-    },
-    {
-      "question": "Which famous monument features concentric rings made of sarsen and bluestones?",
-      "a": "Avebury",
-      "b": "Machu Picchu",
-      "c": "Stonehenge",
-      "d": "Great Wall of China",
-      "e": "Parthenon",
-      "correct_answer": "c"
-    },
-    {
-      "question": "The Venus (or Woman) of Willendorf figure is missing",
-      "a": "facial features",
-      "b": "breasts",
-      "c": "the pubic area",
-      "d": "arms",
-      "e": "feet",
-      "correct_answer": "e"
-    },
-    {
-      "question": "Whose would be MOST likely to challenge a book on Renaissance art that features only Leonardo da Vinci, Michelangelo, and Raphael Sanzio?",
-      "a": "a feminist historian",
-      "b": "an economic historian",
-      "c": "an environmental historian",
-      "d": "a Marxist historian",
-      "e": "a religious historian",
-      "correct_answer": "a"
-    },
-    {
-      "question": "All of the following materials prove especially enduring EXCEPT for",
-      "a": "stone",
-      "b": "marble",
-      "c": "wood",
-      "d": "metal",
-      "e": "fired clay",
-      "correct_answer": "c"
-    },
-    {
-      "question": "What have scholars proposed as the most likely purpose of cave paintings?",
-      "a": "cultural celebrations",
-      "b": "decorative purposes",
-      "c": "hunting ceremonies",
-      "d": "educational instruction",
-      "e": "social gatherings",
-      "correct_answer": "c"
-    },
-    {
-      "question": "Which part of Stonehenge marks the point where the sun rises on the midsummer solstice?",
-      "a": "heel-stone",
-      "b": "altar stone",
-      "c": "pillar-stone",
-      "d": "capstone",
-      "e": "keystone",
-      "correct_answer": "a"
-    },
-    {
-      "question": "What kingdom to the south of Egypt is increasingly garnering attention for its significant contributions to art history?",
-      "a": "Akkad",
-      "b": "Nubia",
-      "c": "Assyria",
-      "d": "Sumer",
-      "e": "Mesopotamia",
-      "correct_answer": "b"
-    }
-  ]
-}
+[
+  {
+    "question": "Art historians will generally focus on all of the following contexts of an artwork EXCEPT",
+    "a": "cultural",
+    "b": "social",
+    "c": "historical",
+    "d": "logical",
+    "e": "economic",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is aesthetics?",
+    "a": "an inquiry into the value of an artwork",
+    "b": "a method of understanding art through contextual information",
+    "c": "a study of humanity concerned with human culture and society",
+    "d": "a philosophical inquiry into the nature and expression of beauty",
+    "e": "the classification of artistic styles",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following fields is NOT considered fine art?",
+    "a": "printing",
+    "b": "pottery",
+    "c": "painting",
+    "d": "architecture",
+    "e": "drawing",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which branch of analysis focuses on the visual qualities of the artwork itself?",
+    "a": "biographical analysis",
+    "b": "formal analysis",
+    "c": "sensory analysis",
+    "d": "critical analysis",
+    "e": "aesthetic analysis",
+    "correct_answer": "b"
+  },
+  {
+    "question": "When performing contextual analysis, art historians will generally NOT examine",
+    "a": "patronage and ownership",
+    "b": "other artworks during the era",
+    "c": "cost of the artwork",
+    "d": "the use of space in the painting",
+    "e": "viewer access",
+    "correct_answer": "d"
+  },
+  {
+    "question": "When did art history arise as an academic discipline?",
+    "a": "20th century",
+    "b": "1st century",
+    "c": "16th century",
+    "d": "18th century",
+    "e": "9th century",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following art historians shifted away from individual biographical analysis to a study of stylistic developments?",
+    "a": "Giorgio Vasari",
+    "b": "Pliny the Elder",
+    "c": "Johann Winckelmann",
+    "d": "Robert Smithson",
+    "e": "Michael Heizer",
+    "correct_answer": "c"
+  },
+  {
+    "question": "For what is Giorgio Vasari MOST famous?",
+    "a": "restoring Greco-Roman art",
+    "b": "writing the first art criticism",
+    "c": "gathering biographies of great Italian artists",
+    "d": "contributing to color theory",
+    "e": "expanding the scope of art history",
+    "correct_answer": "c"
+  },
+  {
+    "question": "From where did Pliny the Elder come?",
+    "a": "ancient Greece",
+    "b": "post-war U.S.",
+    "c": "modern France",
+    "d": "ancient Rome",
+    "e": "medieval England",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Who contributed to the developing concept of artistic genius?",
+    "a": "Petrine Archer-Straw",
+    "b": "Franz Kugler",
+    "c": "Raphael Sanzio",
+    "d": "Giorgio Vasari",
+    "e": "Alfred Sisley",
+    "correct_answer": "d"
+  },
+  {
+    "question": "The meaning of a work of art is NOT",
+    "a": "dependent on where the artwork is located",
+    "b": "subject to change over time",
+    "c": "revealed through the visual aspects of the piece",
+    "d": "defined purely by the artist’s intention",
+    "e": "open to different interpretations",
+    "correct_answer": "d"
+  },
+  {
+    "question": "What is a reason art historians might depend on reproductions?",
+    "a": "Original artworks are too valuable to use for studying art history.",
+    "b": "Reproductions are more detailed than originals.",
+    "c": "Reproductions are more popular with the general public.",
+    "d": "Original artworks are damaged or lost.",
+    "e": "Reproductions are easier to study with computerized tools.",
+    "correct_answer": "d"
+  },
+  {
+    "question": "How has the practice of art history changed MOST over the years?",
+    "a": "It has eliminated bias from most forms of criticism.",
+    "b": "It has incorporated more technical analysis.",
+    "c": "It has encompassed a wider variety of art.",
+    "d": "It has become more concerned with the economic aspects of art.",
+    "e": "It has largely ceased to focus on aesthetics.",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What is an example of a previously dismissed craft that art historians might now include in their studies?",
+    "a": "film",
+    "b": "textiles",
+    "c": "television shows",
+    "d": "architecture",
+    "e": "posters",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Who commissioned the paintings on the ceiling of the Sistine Chapel?",
+    "a": "Louis XI",
+    "b": "the House of Wessex",
+    "c": "Ivan III",
+    "d": "the House of Medici",
+    "e": "Pope Julius II",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Johann Joachim Winckelmann shifted away from Giorgio Vasari’s biographical emphasis, instead focusing on",
+    "a": "subject matter",
+    "b": "stylistic development",
+    "c": "aesthetic appreciation",
+    "d": "historical context",
+    "e": "cultural influence",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which northern African country's burial customs and dry climate facilitated the preservation of delicate materials?",
+    "a": "Libya",
+    "b": "Algeria",
+    "c": "Morocco",
+    "d": "Sudan",
+    "e": "Egypt",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which material was primarily used to create the cave paintings found in Chauvet Cave?",
+    "a": "yellow ochre",
+    "b": "green pigments",
+    "c": "blue ink",
+    "d": "red ochre",
+    "e": "white chalk",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which of the following styles does Ancient Egyptian art MOST emphasize?",
+    "a": "symmetry",
+    "b": "linear perspective",
+    "c": "hierarchical scale",
+    "d": "realism",
+    "e": "geometric precision",
+    "correct_answer": "c"
+  },
+  {
+    "question": "King Tutankhamun’s burial mask is made of gold and adorned with",
+    "a": "sapphires",
+    "b": "rubies",
+    "c": "ivory",
+    "d": "coral",
+    "e": "blue glass",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The Persian Empire was based in what is present-day",
+    "a": "Iraq",
+    "b": "Armenia",
+    "c": "Iran",
+    "d": "Afghanistan",
+    "e": "Turkey",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Who centralized power in the ancient Babylonian civilization and created the oldest known legal code?",
+    "a": "Hammurabi",
+    "b": "Sargon",
+    "c": "Akurduana",
+    "d": "Nabopolassar",
+    "e": "Gilgamesh",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Which ancient Mesopotamian architectural development resulted in the creation of ziggurats?",
+    "a": "floating gardens",
+    "b": "wall enclosures",
+    "c": "underground chambers",
+    "d": "platform structures",
+    "e": "tented structures",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which famous monument features concentric rings made of sarsen and bluestones?",
+    "a": "Avebury",
+    "b": "Machu Picchu",
+    "c": "Stonehenge",
+    "d": "Great Wall of China",
+    "e": "Parthenon",
+    "correct_answer": "c"
+  },
+  {
+    "question": "The Venus (or Woman) of Willendorf figure is missing",
+    "a": "facial features",
+    "b": "breasts",
+    "c": "the pubic area",
+    "d": "arms",
+    "e": "feet",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Whose would be MOST likely to challenge a book on Renaissance art that features only Leonardo da Vinci, Michelangelo, and Raphael Sanzio?",
+    "a": "a feminist historian",
+    "b": "an economic historian",
+    "c": "an environmental historian",
+    "d": "a Marxist historian",
+    "e": "a religious historian",
+    "correct_answer": "a"
+  },
+  {
+    "question": "All of the following materials prove especially enduring EXCEPT for",
+    "a": "stone",
+    "b": "marble",
+    "c": "wood",
+    "d": "metal",
+    "e": "fired clay",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What have scholars proposed as the most likely purpose of cave paintings?",
+    "a": "cultural celebrations",
+    "b": "decorative purposes",
+    "c": "hunting ceremonies",
+    "d": "educational instruction",
+    "e": "social gatherings",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which part of Stonehenge marks the point where the sun rises on the midsummer solstice?",
+    "a": "heel-stone",
+    "b": "altar stone",
+    "c": "pillar-stone",
+    "d": "capstone",
+    "e": "keystone",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What kingdom to the south of Egypt is increasingly garnering attention for its significant contributions to art history?",
+    "a": "Akkad",
+    "b": "Nubia",
+    "c": "Assyria",
+    "d": "Sumer",
+    "e": "Mesopotamia",
+    "correct_answer": "b"
+  }
+]
