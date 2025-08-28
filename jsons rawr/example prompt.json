@@ -1,4 +1,5 @@
-With ALL THE QUESTIONS I paste in at once, could you please structure them in a JSON format like this? Make sure you're making the ENTIRE JSON FILE please and thank you
+I'm going to paste in quiz questions NEXT message, turn it into a json file structured like this including every single question, make sure you've included EVERY SINGLE ONE, no extra fuss or funny business, just wait
+
       "question": "Question",
       "a": "answer",
       "b": "answer",
