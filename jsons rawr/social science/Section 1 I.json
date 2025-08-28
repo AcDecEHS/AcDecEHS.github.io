@@ -1,0 +1,296 @@
+[
+  {
+    "question": "The “Spanish flu” originated in",
+    "a": "Spain",
+    "b": "the United States",
+    "c": "Germany",
+    "d": "France",
+    "e": "the Philippines",
+    "correct_answer": "a"
+  },
+  {
+    "question": "How many Americans were killed by influenza in comparison to American deaths in World War I?",
+    "a": "twice as many",
+    "b": "half as many",
+    "c": "seven times as many",
+    "d": "fourteen times as many",
+    "e": "nine times as many",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Which of the following people accompanied President Woodrow Wilson on his trip to the Paris Peace Conference?",
+    "a": "the Speaker of the House",
+    "b": "the Senate majority leader",
+    "c": "the Senate president pro tempore",
+    "d": "the First Lady",
+    "e": "the Vice President",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which economist declared President Woodrow Wilson to be a powerful “philosopher”?",
+    "a": "Joseph Schumpter",
+    "b": "Alfred Marshall",
+    "c": "John Hicks",
+    "d": "John Maynard Keynes",
+    "e": "Alvin Hansen",
+    "correct_answer": "a"
+  },
+  {
+    "question": "One of Woodrow Wilson’s campaign slogans in the 1916 presidential election was",
+    "a": "Facing the Future",
+    "b": "To Assure Continued Prosperity",
+    "c": "He Kept Us Out Of War",
+    "d": "Win with Wilson",
+    "e": "Let the People Rule",
+    "correct_answer": "c"
+  },
+  {
+    "question": "Which nation owned the ocean liner Lusitania?",
+    "a": "the United States",
+    "b": "Britain",
+    "c": "Denmark",
+    "d": "France",
+    "e": "Italy",
+    "correct_answer": "b"
+  },
+  {
+    "question": "A popular nickname for American soldiers during World War I was",
+    "a": "doughboys",
+    "b": "mustangs",
+    "c": "grunts",
+    "d": "bowlheads",
+    "e": "yankees",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Who commanded the American Expeditionary Force during World War I?",
+    "a": "John Pershing",
+    "b": "Edwin Babbit",
+    "c": "William Graves",
+    "d": "Harold Fiske",
+    "e": "Alex Cole",
+    "correct_answer": "a"
+  },
+  {
+    "question": "Woodrow Wilson MOST directly supported the philosophy of",
+    "a": "protectionism",
+    "b": "internationalism",
+    "c": "isolationism",
+    "d": "militarism",
+    "e": "commercialism",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which clause was NOT part of Woodrow Wilson’s Fourteen Points?",
+    "a": "self-determinism",
+    "b": "military limitations",
+    "c": "transparent negotiations",
+    "d": "free sea travel",
+    "e": "free trade",
+    "correct_answer": "e"
+  },
+  {
+    "question": "Why were Woodrow Wilson’s ideas popular among non-Europeans?",
+    "a": "He declared the United States would protect them.",
+    "b": "He delivered radio speeches in their native languages.",
+    "c": "He welcomed immigration to the United States.",
+    "d": "He supported an international alliance.",
+    "e": "He advocated ending colonial rule.",
+    "correct_answer": "e"
+  },
+  {
+    "question": "The French and British diplomats at the Paris Peace Conference PRIMARILY saw Woodrow Wilson as a(n)",
+    "a": "savior",
+    "b": "despot",
+    "c": "idealist",
+    "d": "militarist",
+    "e": "pacifist",
+    "correct_answer": "c"
+  },
+  {
+    "question": "What was Germany NOT compelled to do under the Treaty of Versailles?",
+    "a": "divide into multiple occupied zones",
+    "b": "decrease its military strength",
+    "c": "forfeit its colonies",
+    "d": "pay large war reparation sums",
+    "e": "cede territory to France",
+    "correct_answer": "a"
+  },
+  {
+    "question": "What disorder affected Woodrow Wilson’s speech after his return from the Paris Peace Conference?",
+    "a": "dysarthria",
+    "b": "dysphagia",
+    "c": "apraxia",
+    "d": "aphasia",
+    "e": "cephalalgia",
+    "correct_answer": "d"
+  },
+  {
+    "question": "Which country had NOT ratified the Treaty of Versailles by July 1919?",
+    "a": "Britain",
+    "b": "Italy",
+    "c": "France",
+    "d": "the United States",
+    "e": "Germany",
+    "correct_answer": "d"
+  },
+    {
+    "question": "What portion of the Senate needed to approve the Treaty of Versailles to ratify it?",
+    "a": "three-fourths",
+    "b": "three-fifths",
+    "c": "one-fourth",
+    "d": "one-half",
+    "e": "two-thirds",
+    "correct_answer": "a"
+  },
+   {
+    "question": "Henry Cabot Lodge was the chairman of the",
+    "a": "Diplomatic Affairs Committee",
+    "b": "Foreign Relations Committee",
+    "c": "Global Strategy Committee",
+    "d": "Senate Intelligence Committee",
+    "e": "Judiciary Committee",
+    "correct_answer": "b"
+  },
+  {
+    "question": "Which United States president was Lodge’s close friend?",
+    "a": "William Howard Taft",
+    "b": "Woodrow Wilson",
+    "c": "Calvin Coolidge",
+    "d": "Theodore Roosevelt",
+    "e": "William McKinley",
+    "correct_answer": "b"
+  },
+  {
+    "question": "The term “Reservationists” describes senators who",
+    "a": "opposed all forms of international cooperation",
+    "b": "supported the original version of the League of Nations",
+    "c": "helped draft the Fourteen Points",
+    "d": "proposed several amendments to the League of Nations Charter",
+    "e": "rejected the Treaty of Versailles under all conditions",
+    "correct_answer": "e"
+  },
+   {
+    "question": "Which article of the League of Nations’ Charter did Lodge criticize MOST?",
+    "a": "Article XXI",
+    "b": "Article IX",
+    "c": "Article X",
+    "d": "Article V",
+    "e": "Article II",
+    "correct_answer": "c"
+  },
+   {
+    "question": "Which of the following senators was an “Irreconcilable?”",
+    "a": "James M. Cox",
+    "b": "Albert B. Fall",
+    "c": "Charles Evan Hughes",
+    "d": "Henry Cabot Lodge",
+    "e": "William E. Borah",
+    "correct_answer": "e"
+  },
+   {
+    "question": "How many amendments to the Treaty of Versailles did HLodge propose?",
+    "a": "forty-two",
+    "b": "fifty-four",
+    "c": "fifty-nine",
+    "d": "fifty-one",
+    "e": "sixty",
+    "correct_answer": "c"
+  },
+   {
+    "question": "Wilson submitted the final version of the Treaty of Versailles in",
+    "a": "1916",
+    "b": "1915",
+    "c": "1919",
+    "d": "1912",
+    "e": "1910",
+    "correct_answer": "c"
+  },
+   {
+    "question": "How did Wilson respond to opposition from Republican leaders?",
+    "a": "He invited opposing leaders to co-write a new treaty.",
+    "b": "He accepted their amendments and revised the treaty.",
+    "c": "He requested the Supreme Court to settle the dispute.",
+    "d": "He suspended Senate proceedings in protest.",
+    "e": "He set out to plead his case directly to the American population.",
+    "correct_answer": "e"
+  },
+   {
+    "question": "What was the name of Wilson’s private railcar?",
+    "a": "The Providence",
+    "b": "The Liberty Belle",
+    "c": "Plymouth",
+    "d": "The Mayflower",
+    "e": "Columbia",
+    "correct_answer": "e"
+  },
+   {
+    "question": "Wilson’s final public speech took place in",
+    "a": "Pueblo, Colorado",
+    "b": "Cheyenne, Wyoming",
+    "c": "Kansas City, Missouri",
+    "d": "Albuquerque, New Mexico",
+    "e": "Columbus, Ohio",
+    "correct_answer": "b"
+  },
+   {
+    "question": "What disorder affected Woodrow Wilson’s speech after his return from the Paris Peace Conference?",
+    "a": "dysarthria",
+    "b": "dysphagia",
+    "c": "apraxia",
+    "d": "aphasia",
+    "e": "cephalalgia",
+    "correct_answer": "d"
+  },
+   {
+    "question": "Which country had NOT ratified the Treaty of Versailles by July 1919?",
+    "a": "Britain",
+    "b": "Italy",
+    "c": "France",
+    "d": "the United States",
+    "e": "Germany",
+    "correct_answer": "d"
+  },
+
+   {
+    "question": "What disorder affected Woodrow Wilson’s speech after his return from the Paris Peace Conference?",
+    "a": "dysarthria",
+    "b": "dysphagia",
+    "c": "apraxia",
+    "d": "aphasia",
+    "e": "cephalalgia",
+    "correct_answer": "d"
+  },
+   {
+    "question": "Which country had NOT ratified the Treaty of Versailles by July 1919?",
+    "a": "Britain",
+    "b": "Italy",
+    "c": "France",
+    "d": "the United States",
+    "e": "Germany",
+    "correct_answer": "d"
+  },
+
+   {
+    "question": "What disorder affected Woodrow Wilson’s speech after his return from the Paris Peace Conference?",
+    "a": "dysarthria",
+    "b": "dysphagia",
+    "c": "apraxia",
+    "d": "aphasia",
+    "e": "cephalalgia",
+    "correct_answer": "d"
+  },
+
+   {
+    "question": "Which country had NOT ratified the Treaty of Versailles by July 1919?",
+    "a": "Britain",
+    "b": "Italy",
+    "c": "France",
+    "d": "the United States",
+    "e": "Germany",
+    "correct_answer": "d"
+  }
+
+
+
+]
